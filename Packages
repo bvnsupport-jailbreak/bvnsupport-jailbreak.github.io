@@ -78,6 +78,39 @@ Sponsor: bvnsupport-jailbreak.hithub.io<http://bvnsupport-jailbreak.github.io>
 dev: hiu&BVN
 Icon: file:///Library/PreferenceBundles/HalFiPadPrefs.bundle/icon@2x.png
 
+Package: com.supportjailbreak.pulloverprovitho
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: BvnSupport <nhatbien97@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./debfiles/com.supportjailbreak.pulloverprovitho_2.1.1_iphoneos-arm.deb
+Size: 1562598
+MD5sum: a92b025f655444ac6898d5de12915678
+SHA1: 7ac15933e9fa3ef12b34e1d0ee39c541bf908bed
+SHA256: ba5f3d7ded6d43278735e997e001864cba6eeb07809e4ead1ea4297ed2d508a8
+SHA512: 705c28e6326900a3caff7166556f706aa4c84bbeefcac566249dd142f71dde1f6efb4f84c5c490b23f06d39b0ff02a4ef6ef381c5050be7a594cc3f6f9b185c6
+Description: A better way to multitask!
+Name: PullOver Pro Việt Hoá
+Author: c1d3r <c1d3rdev@gmail.com>
+
+Package: com.supportjailbreak.translationvitho
+Architecture: iphoneos-arm
+Version: 1.4.9
+Section: Tweaks
+Maintainer: BVN <nhatbien97@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debfiles/com.supportjailbreak.translationvitho_1.4.9_iphoneos-arm.deb
+Size: 177390
+MD5sum: 57b0ab6d6268e73fbe37597380e3a8e5
+SHA1: bac28276f6dfc7c27633bf0857d9db34cc5a3347
+SHA256: 556afb067a51bb7c76964702038ece72d18c9a0799df531d0853bffd120d106c
+SHA512: 0aef55115d09834cac58db3ded59dbdbf11e095015c0b777c990effa38847dac44664875d7d92353eba5e65dbb8ad85c195def7f5c51820e6615d924236670b6
+Description: Translatin Việt Hoá
+Name: Translation Việt Hoá
+Author: Sky - Pain <2398453359@qq.com>
+Icon: file:///Library/PreferenceBundles/TranslationPrefs.bundle/icon/icon@2x.png
+
 Package: net.supportjailbreak.midevice
 Architecture: iphoneos-arm
 Version: 2.0.0-3

@@ -334,6 +334,24 @@ Name: Translation Việt Hoá
 Author: Sky - Pain <2398453359@qq.com>
 Icon: file:///Library/PreferenceBundles/TranslationPrefs.bundle/icon/icon@2x.png
 
+Package: com.supportjailbreak.ytadblockVN
+Architecture: iphoneos-arm
+Version: 15.42.5
+Section: Tweaks
+Maintainer: BVNSUPPORT
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.supportjailbreak.ytadblockVN_15.42.5_iphoneos-arm.deb
+Size: 14432
+MD5sum: 5b81bbd7439bfb6c6d13dd2d2bfbaa7a
+SHA1: dc887308fe264b55c4457be025dd31e809f366e2
+SHA256: 97bbf93a05a04a935649c92ea3845273f503765927cd98e72147fb8d1ccbf470
+SHA512: 1989c334908d3590b22b73949073268cb201ef81e21a916ffa9a2ee017d855057434f0673b4ad839a13d1bc9be9ad81569068a48b83738ad14a44419d741f772
+Description: Một tinh chỉnh YouTube AdBlock tuyệt vời!
+Name: YTAdBlock VN
+Author: atebitsy
+Depiction: https://www.atebitsy.com/repo/package/ytadblock/index.html
+
 Package: net.supportjailbreak.midevice
 Architecture: iphoneos-arm
 Version: 2.0.0-3

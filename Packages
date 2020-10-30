@@ -1,3 +1,27 @@
+Package: com.supportjailbreak.halfipad
+Architecture: iphoneos-arm
+Version: 9.9.9.9
+Section: Tweaks
+Maintainer: Supportjb <supportjailbreak.yourepo.com>
+Installed-Size: 521
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Filename: ./debfiles/com.supportjailbreak.halfipad_9.9.9.9_iphoneos-arm.deb
+Size: 94646
+MD5sum: 288ec9bf03261cd11296f7a3a3dc4c9e
+SHA1: bc7bb6d575f673727c638a03cf317ce1e2c27e47
+SHA256: d09a15aec2df1b7cd85ba8e85ae065b0fdd773e92b73dc95c8cdcebb271b7498
+SHA512: e755c8c9526251cfe4fa38bc0ad67f5fe23d8afe758c23b179f2de93df5e9bd0686e585c2db2ad0a5ee3d76eb0ed55712a5d95255208690af92d3581cec1b8e1
+Homepage: bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=halfipadDp
+Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn.
+Tag: purpose::extension, compatible::ios13
+Author: Hius <h.h.haiduog@gmail.com>
+Name: HalFiPad Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=halfipadDp
+Sponsor: bvnsupport-jailbreak.hithub.io<http://bvnsupport-jailbreak.github.io>
+dev: hiu&BVN
+Icon: file:///Library/PreferenceBundles/HalFiPadPrefs.bundle/icon@2x.png
+
 Package: net.supportjailbreak.midevice
 Architecture: iphoneos-arm
 Version: 2.0.0-3

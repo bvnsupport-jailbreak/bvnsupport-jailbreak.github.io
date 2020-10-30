@@ -187,6 +187,22 @@ Sponsor: supportjailbreak.org <http://bvnsupport-jailbreak.github.io>
 dev: opa334
 Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
 
+Package: com.supportjailbreak.safariwallpapervitho
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Bvnsupport <hiya@litten.love>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.muirey03.libimagepicker
+Filename: ./debfiles/com.supportjailbreak.safariwallpapervitho_1.2_iphoneos-arm.deb
+Size: 27474
+MD5sum: d1926738ff08c793033aae52fda9b88e
+SHA1: f8286bbf0bc6906ee5f1a03c1aa125c1b4a9aae2
+SHA256: cd08b99dcc2c88f25a05c97e57d68719674f2b42a337223c7f40885daca04e7a
+SHA512: a1b6ba6393000a55d6454524b65005ada9d759f1d0828e5738ff01de18950f2ae285debb4b78687409eafb1e03008e6a10db87cadc30a7bc2b5cfd9e09182d82
+Description: Cá nhân hóa Safari bằng hình nền
+Name: SafariWallpaper Việt Hoá
+Author: Litten <nhatbien97@gmail.com>
+
 Package: com.supportjailbreak.translationvitho
 Architecture: iphoneos-arm
 Version: 1.4.9

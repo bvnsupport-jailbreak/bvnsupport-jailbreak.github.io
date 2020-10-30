@@ -164,6 +164,29 @@ Description: A better way to multitask!
 Name: PullOver Pro Việt Hoá
 Author: c1d3r <c1d3rdev@gmail.com>
 
+Package: com.supportjailbreak.safariplusVN
+Architecture: iphoneos-arm
+Version: 1.7.12
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5114
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.supportjailbreak.safariplusVN_1.7.12_iphoneos-arm.deb
+Size: 1876244
+MD5sum: e1edde279d489f1823c11db6ee36e353
+SHA1: 47ddcf34371177cedaeb237cc102f52c843d36d2
+SHA256: 7de24a10632b2336d76a9cef14c1262f19f2538597e018006723fbd02612e815
+SHA512: bf37e740f70d0b003759350b4f66a9191efd258a080ee104a4ba35ae6863fbb9639c800b5dd31fce2d5ad48bdebbfd679d211e2e623a215538a63e86e671d081
+Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=safariplusDp
+Description: Nhiều cải tiến khác nhau cho Safari!
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: opa334 <opa334@protonmail.com>
+Name: Safari Plus Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=safariplusDp
+Sponsor: supportjailbreak.org <http://bvnsupport-jailbreak.github.io>
+dev: opa334
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+
 Package: com.supportjailbreak.translationvitho
 Architecture: iphoneos-arm
 Version: 1.4.9

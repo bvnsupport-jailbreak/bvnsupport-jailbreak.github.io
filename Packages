@@ -244,6 +244,26 @@ Sponsor: bvnsupport-jailbreak.hithub.io<http://bvnsupport-jailbreak.github.io>
 dev: hiu&BVN
 Icon: file:///Library/PreferenceBundles/HalFiPadPrefs.bundle/icon@2x.png
 
+Package: com.supportjailbreak.littlexs
+Architecture: iphoneos-arm
+Version: 2.4.4
+Section: Tweaks
+Maintainer: Bvnsupport
+Installed-Size: 332
+Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Filename: ./debfiles/com.supportjailbreak.littlexs_2.4.4_iphoneos-arm.deb
+Size: 34390
+MD5sum: 61e2470c63683b4c1323b1411a4bc782
+SHA1: fb0883d9d3759490e0847bd9ceb8bea9901d0c72
+SHA256: bf5da57b969eb300314908faf333a4776b9648753b3383b859860a85d0a6da4d
+SHA512: 768d15eee9a5c7e5d7610279f13e708403b7a98bfaee5696716215f9e1a23cc3fc88868f9c20ba0dda748befb90186041b491aa3f64d5a2c0e76be83a0370ab5
+Description: LittleX revitalized for iOS 12.
+Name: LittleXS Việt Hoá
+Author: binksalex & Ryan Nair
+
 Package: com.supportjailbreak.powerselectorios11to14
 Architecture: iphoneos-arm
 Version: 1.3.0

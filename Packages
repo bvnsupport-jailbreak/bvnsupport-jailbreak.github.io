@@ -19,6 +19,24 @@ Author: Ivano Bilenchi <bienvannhat97@gmail.com>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions/?pkgId=com.Supportjb.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 
+Package: com.supportjailbreak.Gesturesi11VN
+Architecture: iphoneos-arm
+Version: 7.8.9
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.Gesturesi11VN_7.8.9_iphoneos-arm.deb
+Size: 33832
+MD5sum: 55accb527411832a82089f9331548637
+SHA1: 4c86d94584136c8adcb6feef8afef855e04f62f2
+SHA256: 2491221744db301546768aa89200b80a4ce240033893335336160fc3c9ba0fca
+SHA512: 45abaab2d39a44e6441c3513045082b5b4419b4ee9fdd795bfe50ecb619ead4c6feb605b8c639028f6cfbbf73ccdad1a38400ba96b889612f73742d4af46304a
+Description: iPhone 11 gestures and other options.
+Name: Gesturesi11 Việt Hoá
+Author: Hius
+Icon: file:///Library/PreferenceBundles/Gesturesi11Prefs.bundle/icon@2x.png
+Depiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.BienVanThuat.Gesturesi11VN
+SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.BienVanThuat.Gesturesi11VN
+
 Package: com.supportjailbreak.ShuffleVietnam
 Architecture: iphoneos-arm
 Version: 1.2.9

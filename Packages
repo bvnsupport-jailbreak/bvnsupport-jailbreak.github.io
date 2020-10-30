@@ -157,11 +157,11 @@ Maintainer: Bvnsupport
 Installed-Size: 3196
 Depends: mobilesubstrate
 Filename: ./debfiles/com.supportjailbreak.complications_3.4.5_iphoneos-arm.deb
-Size: 863876
-MD5sum: a54181b0ee2a8bcb5040768305a5eae2
-SHA1: a43230c39cc2d604e65c8502d188ade4ccdc80e8
-SHA256: 11ae71dc1f129c9ea20003c4562128cf5fc88e8d8f45bd5d15815adee09e33bf
-SHA512: 12a80348b04d3c2a965d5e8eababa348839620f584595bdd80305c55f1e821a03b392af2027b70f0c70f8593362ff885c15e9309af8c6867386c3b6da9d612f7
+Size: 863814
+MD5sum: 5adefe974d4c5f07daef0c76d13e2792
+SHA1: aee3198489211d4c7cb259cf89a11b0dc36b7b19
+SHA256: 4c69bee4d253037306d33291db5eedff649d5383b558d12f3645a54f6e8752a1
+SHA512: 63d17595d4fd32ce6de8da9ccb0a3ff61f18b7aa958750c348edb291604af911d9d877f37c52ed36136423b18e650dde567b1e0c43cdcf0d8ca46a499323ab34
 Description: Tiện ích watchOS trên màn hình khóa của bạn
 Name: Complications Việt Hoá
 Author: Ben Giannis

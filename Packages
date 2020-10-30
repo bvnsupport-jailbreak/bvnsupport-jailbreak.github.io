@@ -19,6 +19,41 @@ Author: Ivano Bilenchi <bienvannhat97@gmail.com>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions/?pkgId=com.Supportjb.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 
+Package: com.supportjailbreak.ShuffleVietnam
+Architecture: iphoneos-arm
+Version: 1.2.9
+Section: Tweaks
+Maintainer: Bvnsupport
+Depends: com.creaturecoding.libcspreferences
+Filename: ./debfiles/com.supportjailbreak.ShuffleVietnam_1.2.9_iphoneos-arm.deb
+Size: 390604
+MD5sum: 8503038d0e016449817cf793cb7cfc8a
+SHA1: 83620bdc0c1e2224b487126ebf3d4add503ae88c
+SHA256: 8661eacae1ec0d861826ba63d9359a07572c2d5d29c02dfa96604da74d24151a
+SHA512: 74908b76c12117fbfe6a1e816e3d811f9756337ac5c6d9f40f39809e7e6a1e5b9237a9fabe4a7ccb7ebd52f413a9aa11c8c628cfd7c1b1a45c09ae5698a6955d
+Description: Mix up your preferences
+Name: Shuffle Việt Hoá
+Author: CreatureSurvive
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.supportjailbreak.animplus
+Architecture: iphoneos-arm
+Version: 1.0-6
+Section: Tweaks
+Maintainer: eXqusic
+Installed-Size: 616
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
+Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Filename: ./debfiles/com.supportjailbreak.animplus_1.0-6_iphoneos-arm (1).deb
+Size: 105756
+MD5sum: 61126706b940482fade1333f36f0a980
+SHA1: 69bbd2a63b8889f6aef4633274772fd4e95371bf
+SHA256: fdab2a2218425305f3b52995c5ee2644dec0c72b8e9693523d1cd2a57fa36782
+SHA512: df40dceafdbd822827b99f0fbdc72de26660d80495c8c526f254b668c067d2bd094c83aa0cf994576530e1c9442864fff6dbd09fc01a68120651fa78cf32b24b
+Description: An awesome MobileSubstrate tweak!
+Name: AnimPlus Việt Hoá
+Author: eXqusic
+
 Package: com.supportjailbreak.halfipad
 Architecture: iphoneos-arm
 Version: 9.9.9.9

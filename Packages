@@ -1,0 +1,17 @@
+Package: net.supportjailbreak.midevice
+Architecture: iphoneos-arm
+Version: 2.0.0-3
+Section: Tweaks
+Maintainer: DODGraphics
+Installed-Size: 740
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Filename: ./debfiles/net.supportjailbreak.midevice_2.0.0-3_iphoneos-arm (1).deb
+Size: 224326
+MD5sum: b927d4d94c920a10cafb7e86ef1f4ac4
+SHA1: 8ec7d04d40bab86f24d675105fa80e153dd09ecd
+SHA256: 8ba1a370fb85f0a6c57542e9745842712f3e837e74c055d36f949499cd781bfb
+SHA512: 021bf18abaaf334dc6b50ffe83f3a0a4df7ca85bcc26c20b00765d0fb9fa17b7cfbadf114f14b685922203a181af50463702a1c48c95a08c06287fa15bfe7ce3
+Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
+Name: MiDevice Việt Hoá
+Author: DODGraphics
+

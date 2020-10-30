@@ -149,6 +149,23 @@ Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/com.suppor
 Depiction: https://bvnsupport-jailbreak.github.io/view/3827
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.supportjailbreak.complications
+Architecture: iphoneos-arm
+Version: 3.4.5
+Section: Tweaks
+Maintainer: Bvnsupport
+Installed-Size: 3196
+Depends: mobilesubstrate
+Filename: ./debfiles/com.supportjailbreak.complications_3.4.5_iphoneos-arm.deb
+Size: 863876
+MD5sum: a54181b0ee2a8bcb5040768305a5eae2
+SHA1: a43230c39cc2d604e65c8502d188ade4ccdc80e8
+SHA256: 11ae71dc1f129c9ea20003c4562128cf5fc88e8d8f45bd5d15815adee09e33bf
+SHA512: 12a80348b04d3c2a965d5e8eababa348839620f584595bdd80305c55f1e821a03b392af2027b70f0c70f8593362ff885c15e9309af8c6867386c3b6da9d612f7
+Description: Tiện ích watchOS trên màn hình khóa của bạn
+Name: Complications Việt Hoá
+Author: Ben Giannis
+
 Package: com.supportjailbreak.cracktool4ios1214
 Architecture: iphoneos-arm
 Version: 4.0

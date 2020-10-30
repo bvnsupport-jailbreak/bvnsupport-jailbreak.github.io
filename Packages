@@ -148,6 +148,25 @@ Sponsor: bvnsupport-jailbreak.hithub.io<http://bvnsupport-jailbreak.github.io>
 dev: hiu&BVN
 Icon: file:///Library/PreferenceBundles/HalFiPadPrefs.bundle/icon@2x.png
 
+Package: com.supportjailbreak.powerselectorios11to14
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Utilities
+Maintainer: BvnSupport <nhatbien97@gmail.com>
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.supportjb.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debfiles/com.supportjailbreak.powerselectorios11to14_1.3.0_iphoneos-arm.deb
+Size: 381736
+MD5sum: e900c29fe529ca90f77233a5898fde46
+SHA1: 1575bcf12a8a87fde1914e41908edfc28f0b76bb
+SHA256: 705a37ea84edabf66c0b98ed6da0d607bd8cfa3c3f22f6c9700d37230218a019
+SHA512: dd37be939a3cfffe0120d815ea571ac7b1e6c11ae0c3727fa911c1855b513aa66cc92f3eb77f1afa934c077603640f1756a06549a6b3deec65c581f538590c71
+Description: The power supply relation of a device is operated.
+Name: PowerSelector (iOS 11 to 14)
+Author: ichitaso <ps11@gmail.com>
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+
 Package: com.supportjailbreak.pulloverprovitho
 Architecture: iphoneos-arm
 Version: 2.1.1

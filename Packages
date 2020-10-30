@@ -129,23 +129,6 @@ Name: Translation Việt Hoá
 Author: Sky - Pain <2398453359@qq.com>
 Icon: file:///Library/PreferenceBundles/TranslationPrefs.bundle/icon/icon@2x.png
 
-Package: com.supportjailbreak.translationvitho
-Architecture: iphoneos-arm
-Version: 1.5.0
-Section: Tweaks
-Maintainer: BVN <nhatbien97@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
-Filename: ./debfiles/com.supportjailbreak.translationvitho_1.5.0_iphoneos-arm.deb
-Size: 179324
-MD5sum: dc719acc581c7d3f3f69e6c52e78f59a
-SHA1: 32bc608dbc98e7460134e1117841c1a7c1f40971
-SHA256: af74eb5cd2b781db0ded924dd54e7c159756c01a871e064306582200d7a36bd2
-SHA512: 9ada199f6c6441f48b536617642a4676f0192a559a6ab241fcf9f20b1be088cbb9f733ce88268ab675cfa1e8fdbcfe2b21a732bec79d0e85203dda05f53ea3a7
-Description: Translatin Việt Hoá
-Name: Translation Việt Hoá
-Author: Sky - Pain <2398453359@qq.com>
-Icon: file:///Library/PreferenceBundles/TranslationPrefs.bundle/icon/icon@2x.png
-
 Package: net.supportjailbreak.midevice
 Architecture: iphoneos-arm
 Version: 2.0.0-3

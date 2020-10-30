@@ -97,16 +97,16 @@ Maintainer: udevs
 Installed-Size: 556
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
 Filename: ./debfiles/com.supportjailbreak.battsafeVN_1.1.2.2_iphoneos-arm.deb
-Size: 121020
-MD5sum: 7fb0ad3343659fa301add31041bf840c
-SHA1: 93ca240a58f0622c6469174f6bebb9cd3529d0f2
-SHA256: e6adf19397118897c809378ca8f7ea45bfd35bb156eaa3b7a9164fba662dbb6b
-SHA512: 34df79f986959a54d316bcaa0ff2d3092e11fb030f6d8afe57cf0936628b46707b862c00e3467602411750675b6529ab1c42c3bfcf48522ff98e407f5d975820
+Size: 121012
+MD5sum: 28f9bb06174d9c102ba25df72cffd4e4
+SHA1: 802a914f1980d0f7365ad6304215333f390293d9
+SHA256: e0a6a0ade0a304a1b1dfc143cc966a21168c16fc6065c5e68ed652f8c94bab8a
+SHA512: e519ace4bae22d9723164748e38fabf77accf78498b3fbaeebc6c201340e6557e51f20c4056a043688eb6f74c6f2fca0985428db49dfedb4127971ac4436cb2a
 Description: Kiểm soát mức sạc pin
-Name: BattSafe
+Name: BattSafe Việt Hoá
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.battsafe/icon/icon.png
-Depiction: https://bvnsupport-jailbreak.github.io/repo/depictions/?p=com.support.battsafe
+Depiction: Kiểm soát mức sạc pin
 
 Package: com.supportjailbreak.fake2sim
 Architecture: iphoneos-arm

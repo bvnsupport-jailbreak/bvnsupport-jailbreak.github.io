@@ -165,6 +165,26 @@ Description: Crack Tweaks on one click
 Name: CrackTool4 (iOS 12/14)
 Author: julioverne <nhatbien97@gmail.com>
 
+Package: com.supportjailbreak.dockxVN
+Architecture: iphoneos-arm
+Version: 2.2.3
+Section: Tweaks
+Maintainer: Bvnsupport
+Installed-Size: 1368
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
+Conflicts: com.restiveconch.actionbar
+Filename: ./debfiles/com.supportjailbreak.dockxVN_2.2.3_iphoneos-arm.deb
+Size: 436308
+MD5sum: d8a3123abc210df752c657a6fcfdf429
+SHA1: 6dc2064c914c53100ba7cc403359195af406d9dc
+SHA256: c7d41a82cb25e01a902b81464cc5b1ca677c3bb09665ceb18d658fc8afc8faa3
+SHA512: b59b5afc3fda2b1172f881b3b774ee5a3316b5bfac1bb3b19c2fc7345a13249a3a1c60e31fb2fcb4c82cbdde33e72f6ea5c481c13fb3391f0ad49242ac2a5b36
+Description: Các phím tắt Pasteboard trên dock của bạn!
+Name: DockX Việt Hoá
+Author: udevs
+Icon: https://bvnsupport-jailbreak.github.io/repo/depictions/com.supportjailbreak.dockx/icon/icon.png
+Depiction: https://bvnsupport-jailbreak.github.io/repo/depictions/?p=com.supportjailbreak.dockx
+
 Package: com.supportjailbreak.fake2sim
 Architecture: iphoneos-arm
 Version: 1.0.0

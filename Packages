@@ -72,6 +72,58 @@ Description: An awesome MobileSubstrate tweak!
 Name: AnimPlus Việt Hoá
 Author: eXqusic
 
+Package: com.supportjailbreak.appstore
+Architecture: iphoneos-arm
+Version: 0.9.13-2
+Section: Tweaks
+Maintainer: Bvnsupport <nhatbien97@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debfiles/com.supportjailbreak.appstore_0.9.13-2_iphoneos-arm.deb
+Size: 680146
+MD5sum: 06bab96faa7445b7e8e7e695d5db9af9
+SHA1: a3251fb838349e14fb251f33048427e85ce0cb78
+SHA256: 3499899aa8db3fe67c720019286d84927288f12dd6d69fb157ce455ee3dbe6a5
+SHA512: 619565a8ca2d18febbab26ddb8e21314a5f2e5aedc25d9139676e9308749d969959898212739caaf5b6b5ba5b6632ee4bce8b56c64655a09c82158245c7f25b0
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
+Name: AppStore+++
+Author: CokePokes <nhatbien97@gmail.com>
+
+Package: com.supportjailbreak.battsafeVN
+Architecture: iphoneos-arm
+Version: 1.1.2.2
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 556
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
+Filename: ./debfiles/com.supportjailbreak.battsafeVN_1.1.2.2_iphoneos-arm.deb
+Size: 121020
+MD5sum: 7fb0ad3343659fa301add31041bf840c
+SHA1: 93ca240a58f0622c6469174f6bebb9cd3529d0f2
+SHA256: e6adf19397118897c809378ca8f7ea45bfd35bb156eaa3b7a9164fba662dbb6b
+SHA512: 34df79f986959a54d316bcaa0ff2d3092e11fb030f6d8afe57cf0936628b46707b862c00e3467602411750675b6529ab1c42c3bfcf48522ff98e407f5d975820
+Description: Kiểm soát mức sạc pin
+Name: BattSafe
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.battsafe/icon/icon.png
+Depiction: https://bvnsupport-jailbreak.github.io/repo/depictions/?p=com.support.battsafe
+
+Package: com.supportjailbreak.fake2sim
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: CydiaGeek <nhatbien97@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.supportjailbreak.fake2sim_1.0.0_iphoneos-arm.deb
+Size: 10266
+MD5sum: 4810966d037fd01c6973183272ac9527
+SHA1: 76ad7f7eb0265f2f0b8398757dafae9751a393b4
+SHA256: 1b401558589f116efa091909fa102932813bd8ce6876b7832cfa59649e74b342
+SHA512: 912af0e347878765e3221c2887ce3584e5b00cc728dad500d4531c0c3a183fb88f54d2637cbd8af61cabb9b613e10619fd1ab28936f74efc5fd23f4b65f4b796
+Description: Fake Dual SIM as Carriers!
+Name: Fake 2Sim
+Author: CydiaGeek <lucaluca86@aol.com>
+
 Package: com.supportjailbreak.halfipad
 Architecture: iphoneos-arm
 Version: 9.9.9.9

@@ -37,6 +37,26 @@ Icon: file:///Library/PreferenceBundles/Gesturesi11Prefs.bundle/icon@2x.png
 Depiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.BienVanThuat.Gesturesi11VN
 SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.BienVanThuat.Gesturesi11VN
 
+Package: com.supportjailbreak.LynxViethoa
+Architecture: iphoneos-arm
+Version: 1.5.4
+Section: Tweaks
+Maintainer: Bvnsupport
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./debfiles/com.supportjailbreak.LynxViethoa_1.5.4_iphoneos-arm.deb
+Size: 737324
+MD5sum: 1f39fddfdde7e9a3fb01955f386177e8
+SHA1: 740e1630bf563b7132f0cc25e8c848a9bb68d255
+SHA256: ff1523c9f37dbecbd7d3fb9fc2ffab06c9f4267ada1149699e1385df538f9a6f
+SHA512: 2c997290e53a57a0e96514c28597da11b94c7fd2d005753965ff2e9251f2a9d0aa4b9d0516c734ae8063d63c0282f597c89896132b7c5876b22ac8f359b609f2
+Homepage: https://www.facebook.com/SUPPORT.BVN.VN
+Description: Tùy biến các loại cho hệ thống
+Name: Lynx Việt Hoá
+Author: MTAC
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.supportjailbreak.ShuffleVietnam
 Architecture: iphoneos-arm
 Version: 1.2.9

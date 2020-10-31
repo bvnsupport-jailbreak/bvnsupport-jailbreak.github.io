@@ -515,6 +515,25 @@ Description: Gói tiếng Việt dành cho Cputool!
 Name: CPUTool (gói tiếng Việt)
 Author: Biện Văn Nhật
 
+Package: com.supportjilbreak.cydownvn
+Architecture: iphoneos-arm
+Version: 7.1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.supportjilbreak.cydownvn_7.1.1_iphoneos-arm.deb
+Size: 4358208
+MD5sum: da4ef1cd97867f09291d9dbb8b6c070a
+SHA1: 0524f46308aa7e7f3a99e8143b02270d02be7f74
+SHA256: 9b49ffd4d056d7806a56f124c946a50f83f34ef66846aa7db53cb03e7ffe822c
+SHA512: 489458ded8225ab0117ec4710e89088af6b540ae93cec7e9f81fab5f1df0a375a32324498db73c311b64e69eefae8ccb2b32a454f52d60d08532e6aade478a3d
+Homepage: http://twitter.com/ijulioverne
+Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục các nguồn và tinh chỉnh trực tuyến,chặn quảng cáo và nhiều chức năng khác!
+Name: CyDown VH
+Author: julioverne <julioverne@me.com>
+Depiction: http://com.supportjailbreak.github.io/description.html?id=com.supportjb.cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+
 Package: net.supportjailbreak.midevice
 Architecture: iphoneos-arm
 Version: 2.0.0-3

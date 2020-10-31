@@ -255,6 +255,24 @@ Description: Sự phát triển của một cái gì đó đẹp đẽ!Tinh ch�
 Name: Genesis 2 Việt Hoá
 Author: ItzNebbs
 
+Package: com.supportjailbreak.genesis2vietho
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Bvnsupport
+Installed-Size: 3712
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.16), com.spark.libsparkapplist, org.thebigboss.libcolorpicker, xyz.tylerd3v.libtylerd3v, me.conorthedev.libappearancecell
+Conflicts: xyz.tylerd3v.genesis, xyz.tylerd3v.genesis13
+Filename: ./debfiles/com.supportjailbreak.genesis2vietho_1.1.1_iphoneos-arm.deb
+Size: 2472256
+MD5sum: 6c7165f75ce3c8a17c1621a7c63855cb
+SHA1: d23677e86ec0296caa63feabcfb66e4a75837365
+SHA256: c49a295af3b2a320c4eb367c5342fbff69601991e42e32a51ad300a0b21d178e
+SHA512: 493d20ddf7d8e34e58e208c32c28c15d8c8494675c7de4299dcfec93af90635767249a3be43db8901446bc97f63a9c30e9b085e9d936e638c4737afce828e261
+Description: Sự phát triển của một cái gì đó đẹp đẽ!Tinh chỉnh hệ thống!
+Name: Genesis 2 Việt Hoá
+Author: ItzNebbs
+
 Package: com.supportjailbreak.halfipad
 Architecture: iphoneos-arm
 Version: 9.9.9.9

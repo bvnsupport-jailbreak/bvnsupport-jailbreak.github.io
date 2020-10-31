@@ -272,6 +272,24 @@ Description: Fake Dual SIM as Carriers!
 Name: Fake 2Sim
 Author: CydiaGeek <lucaluca86@aol.com>
 
+Package: com.supportjailbreak.filza64bit
+Architecture: iphoneos-arm
+Version: 3.8.0-24
+Section: Utilities
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 21680
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: ./debfiles/com.supportjailbreak.filza64bit_3.8.0-24_iphoneos-arm.deb
+Size: 8360944
+MD5sum: 3ec9dfa5ec01fdc64abf17d9ca3da9f0
+SHA1: e235b1dbe97aef24954ab0e473e59bdc3adfba9f
+SHA256: ed05bf8cba6009cb0d3c4595491d8e51fa04299c2655975f5c8b4702bab7a9c4
+SHA512: 6600bc0522ea5b23ab038bfe9e5e1757d4a405a3a4498e84dd7243bec434d9f19673770972a574793af0544495f14c5417d349675665fc65eb117042b9287b44
+Description: Mô tả:Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+. Phiên bản đặc biệt này chỉ hỗ trợ các thiết bị 64-bit
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+
 Package: com.supportjailbreak.flex3beta
 Architecture: iphoneos-arm
 Version: 1:3~Beta97

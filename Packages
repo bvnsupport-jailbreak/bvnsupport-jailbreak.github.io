@@ -539,6 +539,25 @@ Version: 7.1.1
 Section: Tweaks
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.supportjilbreak.cydownvn_7.1.1_iphoneos-arm (1).deb
+Size: 4358192
+MD5sum: 9027d45ed3a364802d0aa76204661569
+SHA1: f65ae717e9fc4b2d9c1ff2084dc3b598bb1a2ee6
+SHA256: 58737f1f66475d2d1d629539e449b3eb13503dc96e7058913efb58d3711e98ba
+SHA512: 76f3d6c7ba0c47cea2f4ad0402249f92bc4ba6849addf33bf1ddaceff8fe5630681127b0892ddc6cda1e73eea962f3f0dcc13429c43e05061951f0944463c650
+Homepage: http://twitter.com/ijulioverne
+Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục các nguồn và tinh chỉnh trực tuyến,chặn quảng cáo và nhiều chức năng khác!
+Name: CyDown VH
+Author: julioverne <julioverne@me.com>
+Depiction: Mô tả:Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục các nguồn và tinh chỉnh trực tuyến,chặn quảng cáo và nhiều chức năng khác!
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+
+Package: com.supportjilbreak.cydownvn
+Architecture: iphoneos-arm
+Version: 7.1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.supportjilbreak.cydownvn_7.1.1_iphoneos-arm.deb
 Size: 4358208
 MD5sum: da4ef1cd97867f09291d9dbb8b6c070a

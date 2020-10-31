@@ -360,11 +360,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 11104
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.foxfort.foxforttools (>= 1.1.5)
 Filename: ./debfiles/com.supportjailbreak.lumiviethoa_1.1.0_iphoneos-arm.deb
-Size: 1930
-MD5sum: fabca0f4de9c9ebfbeacd3768ee35759
-SHA1: 66c7ecb396aca7aa13de2494f64f5e8e6b8755aa
-SHA256: bdb7d7af211c16e51ffac7f558f1cec06c893dd6bc8721fc74f959aa4f0ac29a
-SHA512: 16ad265b382f03723f9e6def0ce9cb8e8a82f644bfa63954fe4a8261b5d3fbc90185dc069729423e27f3ffdc4685d082048dbec0478f05106fc194531a1a987b
+Size: 2048
+MD5sum: 0d4b4329094158f9975e3f8ae71be890
+SHA1: 4aa0e04d9a1d72c05f980beb3510cc89c95db832
+SHA256: 676b117f4add4946efd48e6326fbeae4f9fcd9297b4eb438e1a11332c66b0350
+SHA512: 45fee184b76abea76369ab41a677e1b6e6e0b2e86c3a03590b38dd45e4006cf227183d5efac09fa314f38cdfeda7ceaddfb67d025f36da78b46608bcea5fd141
 Description: Máy ảnh chế độ ban đêm để chụp ảnh thiếu sáng
 Name: Lumi (Gói Tiếng Việt)
 Author: Biện Văn Nhật

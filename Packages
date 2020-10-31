@@ -76,13 +76,14 @@ Package: com.supportjailbreak.Gesturesi11VN
 Architecture: iphoneos-arm
 Version: 8.8.8.8
 Section: Tweaks
+Maintainer: Biện Văn Nhật
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
 Filename: ./debfiles/com.supportjailbreak.Gesturesi11VN_8.8.8.8_iphoneos-arm.deb
-Size: 33896
-MD5sum: cfbdd18f10bcaccf8bc697f3e2099a83
-SHA1: 9afacc9e47d1f31b420bf4d22faba9f312b2c848
-SHA256: 2afd989f222fd7967a68097880083a75b80c642241487f92fbc7029e18220aa0
-SHA512: 11985b048d9ffd8444412caed48bb13796c10b6819fda92073f44d83e50146287301f99845f8565de5aeb1d476b8adff6737436e0e152cebb6ebf7117ba166e2
+Size: 33916
+MD5sum: b8cf1cb99ffc7f754fae1085a011acaf
+SHA1: faf89b20c57b7b0b048950c916d5444e96216fd0
+SHA256: ad27d20f784c2ee50b26268a16c0d755d6e913484b96d5dc669baf092651e1d8
+SHA512: 37b9b9de28d9c5d55a25c520f335ac137e484bf86dae5ee7b86681b2bac547b27d407edb70e14ba80da32199ffc54eda3be7406b54c94a4da3015d07f8e2c666
 Description: iPhone 11 cử chỉ và các tùy chọn khác,tính năng độc đáo,nhẹ nhàng.Hỗ trợ ios 13 tới 14.2
 Name: Gesturesi11 Việt Hoá
 Author: Hius

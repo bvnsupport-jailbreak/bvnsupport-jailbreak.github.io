@@ -334,6 +334,42 @@ Description: LittleX revitalized for iOS 12.
 Name: LittleXS Việt Hoá
 Author: binksalex & Ryan Nair
 
+Package: com.supportjailbreak.lumiviethoa
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 11104
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.foxfort.foxforttools (>= 1.1.5)
+Filename: ./debfiles/com.supportjailbreak.lumiviethoa_1.1.0_iphoneos-arm.deb
+Size: 1930
+MD5sum: fabca0f4de9c9ebfbeacd3768ee35759
+SHA1: 66c7ecb396aca7aa13de2494f64f5e8e6b8755aa
+SHA256: bdb7d7af211c16e51ffac7f558f1cec06c893dd6bc8721fc74f959aa4f0ac29a
+SHA512: 16ad265b382f03723f9e6def0ce9cb8e8a82f644bfa63954fe4a8261b5d3fbc90185dc069729423e27f3ffdc4685d082048dbec0478f05106fc194531a1a987b
+Description: Máy ảnh chế độ ban đêm để chụp ảnh thiếu sáng
+Name: Lumi (Gói Tiếng Việt)
+Author: Biện Văn Nhật
+Icon: file:///Library/PreferenceBundles/lumisettings.bundle/icon@3x.png
+
+Package: com.supportjailbreak.portraiXIViethoa
+Architecture: iphoneos-arm
+Version: 3.3.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 15632
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.1.1), com.foxfort.libfoxfortutils(>=1.0.20), org.swift.libswift (>= 5.0)
+Filename: ./debfiles/com.supportjailbreak.portraiXIViethoa_3.3.2_iphoneos-arm.deb
+Size: 1928
+MD5sum: 75bb607a10532f1fb3d52e506f351c9e
+SHA1: 3b58c804ebd8a40a6d10dc663b422c68b4abb4ef
+SHA256: 101d6ed4684c8f742c0397f81b488ca8ca3494e4bd7a807478875b2f3c70ba76
+SHA512: b7d8f2a97af74a6dfe0af47734ebcdeb175637b2a9f5a5776ebe2de37ac925044ea85096bf591f185a9380e9885727c0d4729eb4d86caad9a0ab242af2333430
+Description: Gói tiếng việt dành cho PortraiXI
+Name: PortraiXI (Gói Tiếng Việt)
+Author: Biện Văn Nhật
+Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
+
 Package: com.supportjailbreak.powerselectorios11to14
 Architecture: iphoneos-arm
 Version: 1.3.0

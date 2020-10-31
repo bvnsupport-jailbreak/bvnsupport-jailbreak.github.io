@@ -38,6 +38,24 @@ Author: Biện Văn Nhật
 
 Package: com.supportjailbreak.Gesturesi11VN
 Architecture: iphoneos-arm
+Version: 7.7.7.7
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.Gesturesi11VN_7.7.7.7_iphoneos-arm.deb
+Size: 33906
+MD5sum: 4dce32eacb3e6a6bcfc7f08be09b4797
+SHA1: 8983585f2f6c8a10a78d1fc9ef36fa5e09d56f3e
+SHA256: 3d6bea6dfd2de62f1e59e2aa1c5a9a721c859c08029a5a13f8b9fffec2ba118b
+SHA512: 2b3f3a364e31d1b34adce091621b15def3fab5f76bf0de30abc44d6a679fc73e0c50f09bf2d03a43ab6edbda4e7627a1f6089616602d9f100a4152d33ae567c0
+Description: iPhone 11 cử chỉ và các tùy chọn khác,tính năng độc đáo,nhẹ nhàng.Hỗ trợ ios 13 tới 14.2
+Name: Gesturesi11 Việt Hoá
+Author: Hius
+Icon: file:///Library/PreferenceBundles/Gesturesi11Prefs.bundle/icon@2x.png
+Depiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.BienVanThuat.Gesturesi11VN
+SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.BienVanThuat.Gesturesi11VN
+
+Package: com.supportjailbreak.Gesturesi11VN
+Architecture: iphoneos-arm
 Version: 7.8.9
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader

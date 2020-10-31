@@ -237,6 +237,24 @@ Description: Phát triển các chỉnh sửa của riêng bạn và chia sẻ c
 Name: Flex 3 Beta
 Author: John Coates
 
+Package: com.supportjailbreak.genesis2vietho
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Bvnsupport
+Installed-Size: 3712
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.16), com.spark.libsparkapplist, org.thebigboss.libcolorpicker, xyz.tylerd3v.libtylerd3v, me.conorthedev.libappearancecell
+Conflicts: xyz.tylerd3v.genesis, xyz.tylerd3v.genesis13
+Filename: ./debfiles/com.supportjailbreak.genesis2vietho_1.0.1_iphoneos-arm.deb
+Size: 2472130
+MD5sum: 15a158da334b432132e24af2ebcd0aaf
+SHA1: 7ede6e6cd635b37c261357010b681057d4a725eb
+SHA256: 169bd8c103ed062aede3944df7f1c37254c16d2ccdfe4488a588f8c9aa0364b9
+SHA512: 0a9a826258233f001c205640e70dda29ed2c7d28dcef3a4608b810e5c1094fc4d48911a08b8179ef3f923b1e546879363e3302d3ca4e1c64945d0a44adfc8093
+Description: Sự phát triển của một cái gì đó đẹp đẽ!Tinh chỉnh hệ thống!
+Name: Genesis 2 Việt Hoá
+Author: ItzNebbs
+
 Package: com.supportjailbreak.halfipad
 Architecture: iphoneos-arm
 Version: 9.9.9.9

@@ -27,11 +27,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 4596
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.support.copylogvietho_1.5.1_iphoneos-arm.deb
-Size: 1496
-MD5sum: 3a5afa4c2961dcb7ac2c716cfd7202e4
-SHA1: 373e465c2c3a1921870dc7a84af4a6b3f28263fb
-SHA256: f7fde2b7f657024cf25466a73e8eea5069edb45432a744bcff937eba2189fc54
-SHA512: 4080f131712e31e11f4d8cf4e49c6366a5481ded5b21469d4c0e98f09ad4bb2821c7a6305461336eef87ff73b5383fc8f17c0f6c807872ca5b0b5f7989fa91c0
+Size: 2140
+MD5sum: 084301a52975f2e415639b0da4456bf6
+SHA1: 090fc9bff390b90bf8fdf13cf7faada0e0e79595
+SHA256: 50e4a06280c582285269961aca8c6225a6d33d5d13d3db37ca646de3f385e61f
+SHA512: 745f790776769e326dd3ba6999ce5887689f0bb5e9b29966c9ff9b8e0d6e21d45c2c5c11ceff154559d85c23a1d0dfd20e37e4302a79257646937a2690079229
 Description: Gói tiếng việt dành cho Copylog!
 Name: CopyLog (Gói tiếng việt)
 Author: Biện Văn Nhật

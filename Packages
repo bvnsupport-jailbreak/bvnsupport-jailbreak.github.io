@@ -219,6 +219,24 @@ Author: udevs
 Icon: https://bvnsupport-jailbreak.github.io/repo/depictions/com.supportjailbreak.dockx/icon/icon.png
 Depiction: https://bvnsupport-jailbreak.github.io/repo/depictions/?p=com.supportjailbreak.dockx
 
+Package: com.supportjailbreak.facebookdarkmodeviathoa
+Architecture: iphoneos-arm
+Version: 3.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2544
+Depends: mobilesubstrate, firmware (>= 13.0), org.thebigboss.libcolorpicker, preferenceloader, com.foxfort.foxforttools (>= 1.1.2), com.foxfort.libfoxfortsplash
+Filename: ./debfiles/com.supportjailbreak.facebookdarkmodeviathoa_3.0.1_iphoneos-arm.deb
+Size: 1910
+MD5sum: 4e2c8744f4e8de04be2b9e35fddaaf65
+SHA1: b66c434b078153faf1e8bf1d05996cbbbfe24ec3
+SHA256: 554380eab77b1d0c2189a59c0262f5c1c308be39c195c8746ce3616b03bc68db
+SHA512: 5d169dbdf70ab169788fd5d03d35120fdca69eff35fabab729514c373e0bb878ed726fde06c46810ce4b7b4ad3b4e993a50c47fa46505e4c5b1d3e7e0406d27c
+Description: Gói tiếng việt dành cho FacebookDarkmode
+Name: FacebookDarkMode (Gói Tiếng Việt)
+Author: Biện Văn Nhật
+Icon: file:///Library/PreferenceBundles/facebookdarkmodesettings.bundle/icon@3x.png
+
 Package: com.supportjailbreak.fake2sim
 Architecture: iphoneos-arm
 Version: 1.0.0

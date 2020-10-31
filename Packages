@@ -498,6 +498,22 @@ Name: Translation Việt Hoá
 Author: Sky - Pain <2398453359@qq.com>
 Icon: file:///Library/PreferenceBundles/TranslationPrefs.bundle/icon/icon@2x.png
 
+Package: com.supportjb.CputoolVN
+Architecture: iphoneos-arm
+Version: 1.9
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, com.spark.libsparkapplist
+Filename: ./debfiles/com.supportjb.CputoolVN_1.9_iphoneos-arm.deb
+Size: 2212
+MD5sum: 102491be345fbffa6f753e2baf6a46e7
+SHA1: b677e3e889d1b048efc5a9868a5be1bfde02cbe9
+SHA256: 0439a21a4cf20bebc5cf320749c5154849a1d02bc20a5118acf53ebde51e34b5
+SHA512: ffbc9f409728612419a60f15700a53a18ec530b027e7a120095ffce9bd0fd9f7a53e87295be3ba0b18c8d6954de333424b1a170121347ede17ac642985ff833b
+Description: Gói tiếng Việt dành cho Cputool!
+Name: CPUTool (gói tiếng Việt)
+Author: Biện Văn Nhật
+
 Package: net.supportjailbreak.midevice
 Architecture: iphoneos-arm
 Version: 2.0.0-3

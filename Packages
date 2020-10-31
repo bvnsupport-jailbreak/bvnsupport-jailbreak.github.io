@@ -72,6 +72,24 @@ Icon: file:///Library/PreferenceBundles/Gesturesi11Prefs.bundle/icon@2x.png
 Depiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.BienVanThuat.Gesturesi11VN
 SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.BienVanThuat.Gesturesi11VN
 
+Package: com.supportjailbreak.Gesturesi11VN
+Architecture: iphoneos-arm
+Version: 8.8.8.8
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.Gesturesi11VN_8.8.8.8_iphoneos-arm.deb
+Size: 33896
+MD5sum: cfbdd18f10bcaccf8bc697f3e2099a83
+SHA1: 9afacc9e47d1f31b420bf4d22faba9f312b2c848
+SHA256: 2afd989f222fd7967a68097880083a75b80c642241487f92fbc7029e18220aa0
+SHA512: 11985b048d9ffd8444412caed48bb13796c10b6819fda92073f44d83e50146287301f99845f8565de5aeb1d476b8adff6737436e0e152cebb6ebf7117ba166e2
+Description: iPhone 11 cử chỉ và các tùy chọn khác,tính năng độc đáo,nhẹ nhàng.Hỗ trợ ios 13 tới 14.2
+Name: Gesturesi11 Việt Hoá
+Author: Hius
+Icon: file:///Library/PreferenceBundles/Gesturesi11Prefs.bundle/icon@2x.png
+Depiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.Gesturesi11VN
+SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.Gesturesi11VN
+
 Package: com.supportjailbreak.LynxViethoa
 Architecture: iphoneos-arm
 Version: 1.5.4

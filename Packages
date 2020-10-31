@@ -427,6 +427,24 @@ Description: Cá nhân hóa Safari bằng hình nền
 Name: SafariWallpaper Việt Hoá
 Author: Litten <nhatbien97@gmail.com>
 
+Package: com.supportjailbreak.titanvithoa
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Conflicts: com.spicat.youpip
+Filename: ./debfiles/com.supportjailbreak.titanvithoa_1.2.3_iphoneos-arm.deb
+Size: 160448
+MD5sum: 8572f5a213eb6e49f4d53d48b800d909
+SHA1: cb10ddd3f736b869721f9c6080210104d1b2005d
+SHA256: b5640f8df8634688781366aa29f49f47ea2d1d48e3ee3bb97d389e06dedab24a
+SHA512: 65b0be14d04551501b817699dd0ade1ff129ef48cdf845a994be6ccd1a06efcb2cc94c3cc0fae07fb6434c5b88ae71427eebf791489c161777affeda2196d7c3
+Description: Hình trong hình hỗ trợ cho tất cả các ứng dụng yêu thích của bạn,nếu các bạn tải về không hoạt động thì có thể vào cydia cài thêm Tweak Appstore+++ để hạ cấp youtube xuống bản 15.30.3
+Name: Titan Việt Hoá
+Author: tcbrooks <thesaltcracka@gmail.com>
+Icon: https://bvnsupport-jailbreak.github.io/cdn/icon/titan/icon@3x.png
+
 Package: com.supportjailbreak.translationvitho
 Architecture: iphoneos-arm
 Version: 1.4.9

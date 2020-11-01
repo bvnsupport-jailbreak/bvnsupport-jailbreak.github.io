@@ -552,20 +552,20 @@ Description: Gói tiếng Việt dành cho Cputool!
 Name: CPUTool (gói tiếng Việt)
 Author: Biện Văn Nhật
 
-Package: com.Supportjailbreak.shadowviethoa
+Package: com.Supportjailbreak.bybassmbbankviethoa
 Architecture: iphoneos-arm
 Version: 2.0.20
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./debfiles/com.supportjb.bybassmbbank_2.0.deb
-Size: 252122
-MD5sum: 770d4a14863f43073d90766f598fbf30
-SHA1: c53fa86785c5eb1680622b4d49f90503002e6fd2
-SHA256: 08e34a7682f35870f7b7765b62850ee8c16c65349cef9b460ba2b660aca15f71
-SHA512: a0c9903c5c3752929da12db8a6b4ab593a2e1b4321210b9cf3ecde263e3eadaf7e9379f4df46fc082038ddba1d298eb66f9fabf4ff604fea9c0b97109facccf0
-Description: Chặn phát hiện Jailbreak trong các ứng dụng của bạn.
-Name: Shadow Việt Hoá
+Filename: ./debfiles/com.supportjb.bybassmbbank_2.0 (1).deb
+Size: 252110
+MD5sum: 4055f1897b9095f606d038b6a3fae187
+SHA1: 6939332c72574ed551dbb8540754d19c0735ad5f
+SHA256: 727e8049cd0ce0bc97d6c15ab97bef6b98c507caca41bd767fafbd9a6d7757ba
+SHA512: 2fab34d49cf6e53b7dd0c7f229cdf53bedc311ba88f3353579968a438838d9dacf5b10eed873a2271819cc790b389c058b6b98683045ba8cb88b56132ca36a04
+Description: Chặn phát hiện jailbreak cho app NH MBBank và 1 số Game khác!
+Name: Bybass MBbank
 Author: jjolano <jjolano@me.com>
 Depiction: Chặn phát hiện Jailbreak tốt cho app Ngân hàng Mbbank và 1 số Game!
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png

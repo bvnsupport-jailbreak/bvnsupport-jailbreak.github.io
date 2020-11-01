@@ -501,6 +501,29 @@ Description: Cá nhân hóa Safari bằng hình nền
 Name: SafariWallpaper Việt Hoá
 Author: Litten <nhatbien97@gmail.com>
 
+Package: com.supportjailbreak.tiktoknoads
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 163
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.awemehack
+Filename: ./debfiles/com.supportjailbreak.tiktoknoads_1.3_iphoneos-arm.deb
+Size: 20700
+MD5sum: 189ad479968f17f59684354c2d36a54b
+SHA1: d95cb46204b8c8906fe14b41803147f55b54d129
+SHA256: ff0a4df10596037870655517d48f4dcaeaa492057f52c2c6a05a76487ba91c50
+SHA512: e9f7b39dc0fa9b52ac92e4760c1386115f7d9c2e5fbcce97e15debfb65d56f3e03f270c3609b5b09503442cf475e1498ab84aaf41aa0a89c4f45f23b9dcd0d37
+Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=douyinassistantDp
+Description: Loại bỏ quảng cáo khởi động, tự động phát tiếp theo, nhấp đúp vào lượt thích, xóa biểu ngữ đỏ trên giao diện của tôi mà không cần tải xuống watermark, không cần cài đặt, cài đặt có hiệu lực ngay lập tức
+Tag: purpose::extension, compatible::ios13
+Author: Agricu <1004571093@qq.com>
+Name: Tiktok Trung (NoLoGo)
+Depiction: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=douyinassistantDp
+Sponsor: Bvnsupport.org <http://bvnsupport-jailbreak.github.io>
+dev: agricu
+
 Package: com.supportjailbreak.titanvithoa
 Architecture: iphoneos-arm
 Version: 1.2.3

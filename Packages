@@ -611,16 +611,16 @@ Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 
 Package: com.yourepo.supportjailbreak.battsafevitho
 Architecture: iphoneos-arm
-Version: 1.2.3.4
+Version: 1.1.2.3
 Section: Tweaks
 Maintainer: Bvnsupport <nhatbien97@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
-Filename: ./debfiles/com.yourepo.supportjailbreak.battsafevitho_1.2.3.4_iphoneos-arm.deb
+Filename: ./debfiles/com.yourepo.supportjailbreak.battsafevitho_1.1.2.3_iphoneos-arm.deb
 Size: 121058
-MD5sum: 964c31fae74f54be209fe47ea4826ff6
-SHA1: 23c8fb12a8f2a7510a82b42b480a875dfa1a77c7
-SHA256: 2e070ed3d7fbae43082289adf62a0701d99bb048c76e397c983b38c116e2aaa7
-SHA512: 4d56098e2edcd2c35b1e87e423161ca0847a3175df70ecab915cb9eeecc153b4a705fc1b7821d9a7c76db38b1f7087735570be07562c15258e422cede383d38f
+MD5sum: 019a31b402c7f05741ad910b363dab7d
+SHA1: 8f8dd7024d4a2d1e7ddeabd1615582e54e2a508a
+SHA256: 9c70a17f04fe4694324e5712bea999519088725118f9df29b9a050ccc4cb3e57
+SHA512: 1e641117e593f2e9f237a94795240db1c129174e7321b4b8ad747089bd6ec86ba82509e7e6786d1561e8cf8bf7d07d8c184b8a617a2f40ea888e5e1010b9d05d
 Description: Controls battery charging level
 Name: BattSafe Việt Hoá
 Author: udevs <nhatbien97@gmail.com>

@@ -504,17 +504,17 @@ Author: Litten <nhatbien97@gmail.com>
 Package: com.supportjailbreak.awemepure
 Architecture: iphoneos-arm
 Version: 1.0-1
-Section: Netskao-Tweaks
+Section: Tweaks
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 1160
 Depends: mobilesubstrate, firmware (>= 9.0)
 Replaces: netskao.awemepurification
 Filename: ./debfiles/com.supportjailbreak.tiktoknoads_1.deb
-Size: 353018
-MD5sum: a36c145a67f6620d424a2f723ff10987
-SHA1: 49d075aeb8b8b8224c48901eb5a52d3057543b9b
-SHA256: 9132779fbb579c10bf9ce1125d52d741057a4e2382502da5767c460625ee415b
-SHA512: 4faf2a339594af9dc8c8ffe3a71dc476994b68acabee7526739501370d5e5300a33cdc98107ea5813d20a993d53114d8c1f5c81f8c0c3c14516304674f643cab
+Size: 353016
+MD5sum: c660dc7d259d66d644e3e02ca59970bc
+SHA1: 2d9d692dd8dfa7ab61f7936a484199f7de0831ef
+SHA256: af24ab3a77ad0740315fb165734cc9898e9f95941c68466f7c3f7b0e2c17021d
+SHA512: 89519b2f750d0b8dcd174a1edbab6f684ef0e9f19412b6d21574e4399d855bab653647cc651333fe6bdafd706ad921d902f1009349604c1405a6c34ac532a502
 Description:  Hỗ trợ Tik Tok, Tik Tok phiên bản tốc độ. Lưu video xóa watermark, lưu video không tải xuống được, xóa quảng cáo khởi động, xóa lời nhắc cảnh báo lưu lượng, xóa quảng cáo xen kẽ khi làm mới video,… Lưu ý: Nếu gặp video không lưu được, hãy nhấp đúp vào video đó để lưu! Trong giao diện cài đặt rung, bạn có thể bật và tắt chế độ rung. "Lắc điện thoại" để gọi lên menu tự động phát, mở hoặc đóng thanh trạng thái, mở nhấp đúp để lưu nhanh video mà không có hình mờ, mở chế độ tinh khiết bình thường, v.v.
 Name: Tiktok TQ No Ads
 Author: Netskao

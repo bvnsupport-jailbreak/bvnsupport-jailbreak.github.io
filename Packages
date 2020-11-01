@@ -230,11 +230,11 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 778
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Filename: ./debfiles/com.supportjailbreak.choicyVN_1.2.6_iphoneos-arm.deb
-Size: 165254
-MD5sum: 653f758562ed4a3a6029c496db0f00ad
-SHA1: 73e57556e147daccea394c6f264be369f14b07f4
-SHA256: c3368258546450a094fd818f3916c8175cb5f40b5f4b615e26cee650ce160156
-SHA512: 73cacbb92d0097fd28fde596c7c2df457f17e373ab903c1962444104f7d492642fd9dcd3b49fd2225714d578489d17bde0d6bbd921c34b6892acb23e510d36b8
+Size: 165248
+MD5sum: 32e4654dd161919b5a7e5ec49249c6f5
+SHA1: 85d47dc3c9044dda32b4e8d0e8b836c87364beb1
+SHA256: 02ef9d2ebf8d24689af5275fa8c05ef8fe29ea8681e7b643bd00830623d55742
+SHA512: a865762dec26bd74aaa0b2228e77d27028b986fb6a5e57fc63fcdf9e6fd779a450f224328808c627983f37f557d51481091f6ed8322b1dbc66c775f34484ea81
 Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=choicyDp
 Description: Cấu hình tinh chỉnh nâng cao,chặn phát hiện Jailbreak
 Tag: purpose::extension

@@ -373,11 +373,11 @@ Installed-Size: 521
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
 Filename: ./debfiles/com.supportjailbreak.halfipad_9.9.9.9_iphoneos-arm.deb
-Size: 94678
-MD5sum: cb0fb1dbcd2102b6f18a3717ffaa7805
-SHA1: 30d8f1e6c3db40932e33b5e128d7a5bcb1afd5f1
-SHA256: 225d5295e08bf21d8def45a3ba05b7cc2fb6d9ff0629cad0687ecdcbadb06091
-SHA512: 4bb751d172dea1e1eb70f965ae591950884ad0c04874aae1b18c338f40d58f32a88c9e157713ccf32f673180657fea7c919b49720f23070e61c0159dede54e10
+Size: 94680
+MD5sum: 3170b6daf262bc8ceb42875db2a8fec7
+SHA1: 31db192d2dbf6e95145c7d60399102f1e6165a92
+SHA256: 68a1a30d764b1f77fc8e2c44438b85cf3d50b0b17edb7bd1e75192ce4448b2c5
+SHA512: 519c7b7b3cb22a63ec6576de2856c2c1f8182d8e681377818bc02f9ec5a4734f268cf58977bb5d90f8859000ee0221e61874a318049aa6c7b91b0821e26eed93
 Homepage: bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=halfipadDp
 Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn.
 Tag: purpose::extension, compatible::ios13

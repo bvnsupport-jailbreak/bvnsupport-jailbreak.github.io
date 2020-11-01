@@ -201,25 +201,6 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.w
 Name: AppStore+++
 Author: CokePokes <nhatbien97@gmail.com>
 
-Package: com.supportjailbreak.battsafeVN
-Architecture: iphoneos-arm
-Version: 1.1.2.2
-Section: Tweaks
-Maintainer: udevs
-Installed-Size: 556
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
-Filename: ./debfiles/com.supportjailbreak.battsafeVN_1.1.2.2_iphoneos-arm.deb
-Size: 121012
-MD5sum: 28f9bb06174d9c102ba25df72cffd4e4
-SHA1: 802a914f1980d0f7365ad6304215333f390293d9
-SHA256: e0a6a0ade0a304a1b1dfc143cc966a21168c16fc6065c5e68ed652f8c94bab8a
-SHA512: e519ace4bae22d9723164748e38fabf77accf78498b3fbaeebc6c201340e6557e51f20c4056a043688eb6f74c6f2fca0985428db49dfedb4127971ac4436cb2a
-Description: Kiểm soát mức sạc pin
-Name: BattSafe Việt Hoá
-Author: udevs
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.battsafe/icon/icon.png
-Depiction: Kiểm soát mức sạc pin
-
 Package: com.supportjailbreak.boxy4VN
 Architecture: iphoneos-arm
 Version: 4.1.2
@@ -622,6 +603,23 @@ SHA1: 8f8dd7024d4a2d1e7ddeabd1615582e54e2a508a
 SHA256: 9c70a17f04fe4694324e5712bea999519088725118f9df29b9a050ccc4cb3e57
 SHA512: 1e641117e593f2e9f237a94795240db1c129174e7321b4b8ad747089bd6ec86ba82509e7e6786d1561e8cf8bf7d07d8c184b8a617a2f40ea888e5e1010b9d05d
 Description: Controls battery charging level
+Name: BattSafe Việt Hoá
+Author: udevs <nhatbien97@gmail.com>
+Icon: https://supportjailbreak.yourepo.com/repo/depictions/com.supportjb.battsafe/icon/icon.png
+
+Package: com.yourepo.supportjailbreak.battsafevitho
+Architecture: iphoneos-arm
+Version: 1.1.2.4
+Section: Tweaks
+Maintainer: Bvnsupport <nhatbien97@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
+Filename: ./debfiles/com.yourepo.supportjailbreak.battsafevitho_1.1.2.4_iphoneos-arm.deb
+Size: 121074
+MD5sum: 1b171cf6d293eda4012197a7c53ae430
+SHA1: 3afae0ded15ab3a04c4b5a6be5da95142a6d5a77
+SHA256: 223093548206e059655789723789ca8b24d4203d3438971dff283c4de63ffe8a
+SHA512: 2baba2aac5458e831e4179a59ae4afe614092d10d041691f5fc2259a06cc2e88b06fcc2ce5e8166a07ca61e4af566cbd1189473aacbffb5310fc1c96d582dbc9
+Description: Kiểm soát mức sạc pin của bạn!
 Name: BattSafe Việt Hoá
 Author: udevs <nhatbien97@gmail.com>
 Icon: https://supportjailbreak.yourepo.com/repo/depictions/com.supportjb.battsafe/icon/icon.png

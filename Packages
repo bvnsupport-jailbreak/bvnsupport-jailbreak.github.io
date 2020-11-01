@@ -255,24 +255,6 @@ Description: Crack Tweaks on one click
 Name: CrackTool4 (iOS 12/14)
 Author: julioverne <nhatbien97@gmail.com>
 
-Package: com.supportjailbreak.dleasy
-Architecture: iphoneos-arm
-Version: 2.2.2
-Section: Supports IOS13x
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.supportjailbreak.dleasy_2.2.deb
-Size: 1609016
-MD5sum: 6cd5980309225bfd08fd9e9f86c120a4
-SHA1: 11f0c94112f2ad8f8490299b37c3aa6ec045dd19
-SHA256: 5663e3a53a440df9fdce9b23da1d3051ede44bbd177ca7568e2902b4a495563c
-SHA512: 453d0d3b4ed988e887ffbf9d0497ee5518fe7e31fc96d7f0bc1dd8825d684cb16dfe6d5f54e5d85606ef865435c3d338a10208e0d62e01f5a5008e5e5c9930f6
-Description: Tải lên ảnh và video từ các ứng dụng truyền thông xã hội phổ biến nhất
-Name: DLEasy Việt Hoá
-Author: AhmedBafkir <prooxy0@gmail.com>
-Sponsor: Apple-ios <https://bvnsupport-jailbreak.github.io/>
-Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
-
 Package: com.supportjailbreak.dockxVN
 Architecture: iphoneos-arm
 Version: 2.2.3

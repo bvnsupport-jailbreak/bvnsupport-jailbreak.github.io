@@ -312,26 +312,6 @@ Description: Sự phát triển của một cái gì đó đẹp đẽ!Tinh ch�
 Name: Genesis 2 Việt Hoá
 Author: ItzNebbs
 
-Package: com.supportjailbreak.halfipadVH
-Architecture: iphoneos-arm
-Version: 6.7.8
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 559
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debfiles/com.supportjailbreak.halfipadVH_6.7.8_iphoneos-arm.deb
-Size: 114344
-MD5sum: ce56ba00e38cecb3a150dc7c16dec61a
-SHA1: bf30cf11606657637d01469798857553c7037715
-SHA256: 008e5a36a47d7a658585cbcb30f60e5af6a79b3a41430d60bf51da9ed44c43ec
-SHA512: ba6cf6e8014a58575190e53736bb22de4846d8fcafa49b26e2d96a8ccf744c93c16f87198c1993087c7faa38a9765dcf8dd4893a8ef57a1fcea5829619e3809c
-Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
-Tag: purpose::extension, compatible::ios13
-Author: Hius <h.h.haiduog@gmail.com>
-Name: HalFiPad Việt Hoá
-dev: hius
-Icon: file:///Library/PreferenceBundles/HalFiPadPrefs.bundle/icon@2x.png
-
 Package: com.supportjailbreak.littlexs
 Architecture: iphoneos-arm
 Version: 2.4.4

@@ -314,17 +314,17 @@ Author: ItzNebbs
 
 Package: com.supportjailbreak.halfipadVH
 Architecture: iphoneos-arm
-Version: 10.0.0
+Version: 10.0.0.0
 Section: Tweaks
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 559
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debfiles/com.supportjailbreak.halfipadVH_10.0.0_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.halfipadVH_10.0.0.0_iphoneos-arm.deb
 Size: 114346
-MD5sum: 0b756cabc6a743f1d9f48a8981eeaf1a
-SHA1: a9a8e8749efcffb23faa96ea61e8946021d512e9
-SHA256: dbe572222f065325e8676c1288591c3d61942115e56193a7a8da145afba524aa
-SHA512: ed5fddd7800544812e070176018af0429116d244412f863b9676c6306bd0148f086f1acc4c01d048ff70dd1bc83e368cbe87c2c41cf6bbf975530549c4b53e12
+MD5sum: de3c48c13819187946d5d032860bef1f
+SHA1: 3dc13e361532aeda0bf353bfc07eaa14e1a4ecab
+SHA256: 981c7c2093f39101f8f1db5c3e53a04e35da9d643e004a26e920db25dd86b2a1
+SHA512: 8a3bfcdb08f8553a3118a6470a837b4ebd007180b9c977a5c4f0874ea240d313671e4b2e93e927ff4ca956695a63a68e4aa3ae7005d0e64fc468aabee6c459bf
 Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
 Tag: purpose::extension, compatible::ios13
 Author: Hius <h.h.haiduog@gmail.com>

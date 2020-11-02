@@ -332,30 +332,6 @@ Name: HalFiPad Việt Hoá
 dev: hius
 Icon: file:///Library/PreferenceBundles/HalFiPadPrefs.bundle/icon@2x.png
 
-Package: com.supportjailbreak.halfipad
-Architecture: iphoneos-arm
-Version: 3.4.5
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 521
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
-Filename: ./debfiles/com.supportjailbreak.halfipad_3.4.5_iphoneos-arm.deb
-Size: 94680
-MD5sum: f5baedb4e6476e7ce09e6e3bd1684584
-SHA1: 80c5b6bba9d33a8c78694e39a277c94887a6c222
-SHA256: 42f2e763c40b528c8e99a3ed7cdec644474b35b849c21ad91635ec6324f82004
-SHA512: 6b2d3cfc26763d32b98fbd1b847875ae745c3620d30fa1876571b5a02b4c5b7cc4100eda0ec8cfeebd5fb9cb048c4d56be9448f7b84ef77a2e3f67f2e36302d3
-Homepage: bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=halfipadDp
-Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn.
-Tag: purpose::extension, compatible::ios13
-Author: Hius <h.h.haiduog@gmail.com>
-Name: HalFiPad Việt Hoá
-Depiction:  Mô tả:Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ ios 13=>14.5
-Sponsor: bvnsupport-jailbreak.hithub.io<http://bvnsupport-jailbreak.github.io>
-dev: hiu&BVN
-Icon: file:///Library/PreferenceBundles/HalFiPadPrefs.bundle/icon@2x.png
-
 Package: com.supportjailbreak.littlexs
 Architecture: iphoneos-arm
 Version: 2.4.4

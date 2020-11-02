@@ -320,11 +320,11 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 559
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debfiles/com.supportjailbreak.halfipadVH_6.7.8_iphoneos-arm.deb
-Size: 114344
-MD5sum: 8af3fedbf84f9896de2f4a4989cdafe1
-SHA1: 4282e466e338a86cd013cb7a7d0ccf119cfe6340
-SHA256: 204ea5a686e848ff46b5523f405c3b5e05569b9cbf3ccd94de74eabe4b9c8857
-SHA512: 025f3662b524cbb53581c14554227294c8cb5b57e53854c181f6588c17dc33c1440115dab414807697752d97259fb30d68727d881bf5ec7775f81c866af1edd5
+Size: 114330
+MD5sum: 67e35a1747f2919f37d960f7ccab5fe9
+SHA1: 2c539c066ea4be36c10086d962bfed86c1ffed52
+SHA256: 95ac5b7b6888433c2338e4209cbec2080bcbe69c786f9999c4c9bb1be4002b11
+SHA512: 4965bb6f903e537f8933aae7ac36b146355d8e237e10c55c96a2a76dacd4a6a9a450df25157ae780dd29d12214933e17da70f35109b6876cc3bd87953fdc99a8
 Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
 Tag: purpose::extension, compatible::ios13
 Author: Hius <h.h.haiduog@gmail.com>

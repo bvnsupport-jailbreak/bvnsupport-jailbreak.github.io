@@ -453,40 +453,17 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 163
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: netskao.awemehack
-Filename: ./debfiles/com.supportjailbreak.tiktoknoads_1.3_iphoneos-arm (1).deb
-Size: 20684
-MD5sum: 2899800f3e22668a58990fdad2dc8064
-SHA1: 8d7704d0a61c4322c348f6865e1d95f1224afe32
-SHA256: 2e652c17d5d59f4165ed7a9b6f6fa165ad1aed1924159d28606ca4c9f20ec294
-SHA512: 8242a35c5fd94dba0525e658a2815ea7828cfeab545d1d7e0fd71c4cdbf0753cb4942e808a36c768b98784a88176bd2d1815408a11aae334a3552433888be8fc
-Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/
-Description: Loại bỏ quảng cáo khởi động, tự động phát tiếp theo, nhấp đúp vào lượt thích, xóa biểu ngữ đỏ trên giao diện của tôi mà không cần tải xuống watermark, không cần cài đặt, cài đặt có hiệu lực ngay lập tức
-Tag: purpose::extension, compatible::ios13
-Author: Agricu <1004571093@qq.com>
-Name: Tiktok Trung (Video No LoGo)
-Depiction: Loại bỏ quảng cáo khởi động, tự động phát tiếp theo, nhấp đúp vào lượt thích, xóa biểu ngữ đỏ trên giao diện của tôi mà không cần tải xuống watermark, không cần cài đặt, cài đặt có hiệu lực ngay lập tức
-Sponsor: Bvnsupport.org <http://bvnsupport-jailbreak.github.io>
-dev: agricu
-
-Package: com.supportjailbreak.tiktoknoads
-Architecture: iphoneos-arm
-Version: 1.3
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 163
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: netskao.awemehack
 Filename: ./debfiles/com.supportjailbreak.tiktoknoads_1.3_iphoneos-arm.deb
-Size: 20738
-MD5sum: 7549da59d43aa137bd90eb58c19bb8bd
-SHA1: e0898fed35d9596853cbf87930ce3abdae50e28e
-SHA256: 743c0cb914b1778f0abb5921d9e1709412f7c4b559c445fd523f854f03201b0a
-SHA512: bacdd4af7b99459643c40ca264fc8ae886794f1889197d6e31537c7ddf2208551ea4a337ec5daa35efdf4ab4e42c753b7634b7ccb09c564d667f24c313ab4de9
+Size: 20728
+MD5sum: e74bc3cfde214397a8349f1ec6c6e663
+SHA1: 5947376ff0d02e2cd0f6117aaf3cc1155a0b4bbf
+SHA256: 8ac2a43f9b19477cb08538a60aee71e978b39d92fc74cf93c2504185a7fce347
+SHA512: c2d36234dc362112a0e56b3a379aeb38121c1311d5d15aab4b0508ef6dd007faddaa8ef89374f60a26637ffe01b43b9810cdc6c7b13a835c5ddbf59957fec0c4
 Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/
 Description: Loại bỏ quảng cáo khởi động, tự động phát tiếp theo, nhấp đúp vào lượt thích, xóa biểu ngữ đỏ trên giao diện của tôi mà không cần tải xuống watermark, không cần cài đặt, cài đặt có hiệu lực ngay lập tức
 Tag: purpose::extension, compatible::ios13
 Author: Agricu <1004571093@qq.com>
-Name: Tiktok Trung(Video No LoGo)
+Name: Tiktok No ads
 Depiction: Tải video Tiktok Trung Quốc không có LoGo,loại bỏ tất cả Quảng cáo,hỗ trợ ios 9 đến ios 14.2
 Sponsor: Bvnsupport.org <http://bvnsupport-jailbreak.github.io>
 dev: agricu

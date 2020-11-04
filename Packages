@@ -464,26 +464,6 @@ Description: Cá nhân hóa Safari bằng hình nền
 Name: SafariWallpaper Việt Hoá
 Author: Litten <nhatbien97@gmail.com>
 
-Package: com.supportjailbreak.swipeextenderxvietho
-Architecture: iphoneos-arm
-Version: 1.3.2
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 1708
-Depends: firmware (>= 12.0), mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debfiles/com.supportjailbreak.swipeextenderxvietho_1.3.2_iphoneos-arm.deb
-Size: 516452
-MD5sum: 1c964810182a364b452be3245ba3aa72
-SHA1: e2e70aeaab0fc480f1b2ce3acdb6cdcca9b2ef06
-SHA256: 445f1d1cfef9e0573eeea292b052ffa9352fdadfcf41e63f042dc03af6a63b1a
-SHA512: 64e5cd7bfeab2b80232151bd3dde677a5af8c92bccc414000ed324c33ede10721fb1be70c64d8bf17d4290f917c5502a0bb373691c5ccdeeb2d86eb9ee7d6463
-Description: Cải tiến bàn phím của bạn với bản làm lại đầy đủ này của tinh chỉnh SwipeExpander huyền thoại, được thiết kế để hoạt động trên iOS hiện đại!
-Tag: cydia::commercial, compatible_min::ios12.0
-Name: SwipeExtenderX Việt Hoá
-Author: qwertyuiop1379 <support@qwertyuiop1379.com>
-Icon: https://bvnsupport-jailbreak.github.io/cdn/icon/swipeextenderx/icon@3x.png
-Depiction: https://bvnsupport-jailbreak.github.io/buy/swipeextenderx
-
 Package: com.supportjailbreak.tiktoknoads
 Architecture: iphoneos-arm
 Version: 1.3

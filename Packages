@@ -1,3 +1,22 @@
+Package: com.Bienvannhat.VentanaVietnam
+Architecture: iphoneos-arm
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật <Nhatbien97@gmail.com>
+Depends: mobilesubstrate, jp.soh.ct
+Filename: ./debfiles/com.Bienvannhat.VentanaVietnam_1.6.2_iphoneos-arm.deb
+Size: 1600
+MD5sum: 41cc14ab886591a1d142f3b875686173
+SHA1: 19874d84c56c14d1d88c16b0801dd515fc4f5fa8
+SHA256: 855a2fe2e500148bff80494c42f023efaa00f647af6ad922c0e1fd221a17331c
+SHA512: dcfbc78cb446c9d87ebd86ab9789861918d0f67eda7f8174af743918f8c495beacfe62817a15554e45aef5cb6d1597377e00cf63c5ffa0003c6f4d12b31dc8b6
+Description: Gói tiếng việt dành cho Ventana
+Name: Ventana (Gói tiếng Việt)
+Author: Biện Văn Nhật
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.VentanaVietNam
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.VentanaVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.bvnsupport.icleanerproVN
 Architecture: iphoneos-arm
 Version: 7.9.0

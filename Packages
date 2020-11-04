@@ -371,6 +371,27 @@ Description: LittleX revitalized for iOS 12.
 Name: LittleXS Việt Hoá
 Author: binksalex & Ryan Nair
 
+Package: com.supportjailbreak.myinst
+Architecture: iphoneos-arm
+Version: 5.6.0.2
+Priority: important
+Section: Archiving
+Maintainer: Biện Văn Nhật
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate, net.angelxwind.appsyncunified
+Filename: ./debfiles/com.supportjailbreak.myinst_5.6.0.deb
+Size: 92062
+MD5sum: e38006d58db373f9c956e3d883d19ec4
+SHA1: c4c7b35f404fedce7894a49702a15b34cca0878a
+SHA256: f1df51636c28f020d622dd0482625929eeb8a1cb9e3b3c8e6423d9597e365014
+SHA512: b3dff734257280bb18c8b13a38c6b874593183c13b4dea2eaf5c1a74a3f799b36de70815c50c23acff94352e4caabafd4029878a40798b2291e040baf1f3e13d
+Homepage: https://bvnsupport-jailbreak.github.io/
+Description: Cài đặt iPA của bạn. Sử dụng lệnh myinst <đường dẫn đến .iPA>
+Name: myinst
+Author: shin-chan
+Depiction: https://bvnsupport-jailbreak.github.io/description.html?goto=com.supportjailbreak.myinst
+Sponsor: nguyenthanh1995 <https://nguyenthanh1995.github.io>
+
 Package: com.supportjailbreak.powerselectorios11to14
 Architecture: iphoneos-arm
 Version: 1.3.0

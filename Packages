@@ -371,27 +371,6 @@ Description: LittleX revitalized for iOS 12.
 Name: LittleXS Việt Hoá
 Author: binksalex & Ryan Nair
 
-Package: com.supportjailbreak.myinst
-Architecture: iphoneos-arm
-Version: 5.6.0.2
-Priority: important
-Section: Archiving
-Maintainer: Biện Văn Nhật
-Pre-Depends: firmware (>= 7.0)
-Depends: mobilesubstrate, net.angelxwind.appsyncunified
-Filename: ./debfiles/com.supportjailbreak.myinst_5.6.0.deb
-Size: 92062
-MD5sum: e38006d58db373f9c956e3d883d19ec4
-SHA1: c4c7b35f404fedce7894a49702a15b34cca0878a
-SHA256: f1df51636c28f020d622dd0482625929eeb8a1cb9e3b3c8e6423d9597e365014
-SHA512: b3dff734257280bb18c8b13a38c6b874593183c13b4dea2eaf5c1a74a3f799b36de70815c50c23acff94352e4caabafd4029878a40798b2291e040baf1f3e13d
-Homepage: https://bvnsupport-jailbreak.github.io/
-Description: Cài đặt iPA của bạn. Sử dụng lệnh myinst <đường dẫn đến .iPA>
-Name: myinst
-Author: shin-chan
-Depiction: https://bvnsupport-jailbreak.github.io/description.html?goto=com.supportjailbreak.myinst
-Sponsor: nguyenthanh1995 <https://nguyenthanh1995.github.io>
-
 Package: com.supportjailbreak.powerselectorios11to14
 Architecture: iphoneos-arm
 Version: 1.3.0
@@ -628,6 +607,27 @@ Description: Kiểm soát mức sạc pin của bạn!
 Name: BattSafe Việt Hoá
 Author: udevs <nhatbien97@gmail.com>
 Icon: https://supportjailbreak.yourepo.com/repo/depictions/com.supportjb.battsafe/icon/icon.png
+
+Package: git.shin.myinst
+Architecture: iphoneos-arm
+Version: 5.6.0.2
+Priority: important
+Section: Archiving
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate, net.angelxwind.appsyncunified
+Filename: ./debfiles/git.shin.myinst_5.6.0.deb
+Size: 92028
+MD5sum: 7d5ec2c87915a9d0820fc80e64e74470
+SHA1: a47704a51eeac66568828738187917e429f3b0b1
+SHA256: a07be2daf52b6b8db643c7947dd0de5ffea0623f483ce59470fcddad8420b661
+SHA512: 191d11a7bc22b36ad989c60cea6b27d105c1f07b6ad051f8db4b931e1f88f4ce3f5f483f052dd473ec691be9ed41b2162b54a8852fec272051486d4d65f41a2c
+Homepage: https://bvnsupport-jailbreak.github.io/
+Description: Install your iPA. Using command myinst <path to .iPA>
+Name: myinst
+Author: shin-chan
+Depiction: https://bvnsupport-jailbreak.github.io/description.html?goto=git.shin.myinst
+Sponsor: Bienvannhat <https://bvnsupport-jailbreak.github.io>
 
 Package: net.supportjailbreak.midevice
 Architecture: iphoneos-arm

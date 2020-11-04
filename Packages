@@ -91,25 +91,6 @@ Name: Shuffle Việt Hoá
 Author: CreatureSurvive
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
-Package: com.supportjailbreak.VentanaVietnam
-Architecture: iphoneos-arm
-Version: 1.6.2
-Section: Tweaks
-Maintainer: Biện Văn Nhật <Nhatbien97@gmail.com>
-Depends: mobilesubstrate, jp.soh.ct
-Filename: ./debfiles/com.supportjailbreak.VentanaVietnam_1.6.2_iphoneos-arm.deb
-Size: 1608
-MD5sum: d4116795e813ff53e88f61f7c65c6b31
-SHA1: 416347ec64c8ad1bbc4ae97a97bc0777b21136b7
-SHA256: 0c6aaafe82742c6c5d0d12a0b13e20ce46cb6dbeb1b30205c61e1135cc0edd87
-SHA512: 0d472a782913fa2ebe1e864dc3cad5aeb692cb93551110854bbdbbcb10603868edb018fc3616f6dba685f180f38b92d1d1dd98ca9ed5a50ed1fd74360b457873
-Description: Gói tiếng việt dành cho Ventana
-Name: Ventana (Gói tiếng Việt)
-Author: Biện Văn Nhật
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.VentanaVietNam
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.VentanaVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
 Package: com.supportjailbreak.animplus
 Architecture: iphoneos-arm
 Version: 1.0-6
@@ -540,6 +521,25 @@ Description: Translatin Việt Hoá
 Name: Translation Việt Hoá
 Author: Sky - Pain <2398453359@qq.com>
 Icon: file:///Library/PreferenceBundles/TranslationPrefs.bundle/icon/icon@2x.png
+
+Package: com.supportjailbreak.ventanavietho
+Architecture: iphoneos-arm
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật  <Nhatbien97@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000) | org.coolstar.libhooker, preferenceloader (>= 2.2.2), org.coolstar.ldid
+Filename: ./debfiles/com.supportjailbreak.ventanavietho_1.6.2_iphoneos-arm.deb
+Size: 1686
+MD5sum: 39330d5b4cd769f3a3564083361f9e62
+SHA1: 624e4d620e15bf90280efb1a52f909ecf2705259
+SHA256: 0ca7b11fc4504f2103cae5f7733d14c7dabee8291e59fd240d29b4b0f6e07c9a
+SHA512: b3861bce256e3ff5397f9871959d2c536a00ad0ae1c3825851641ae51453ddad3f66605ee1dd144b0e754492256adc3f563aa30ebc06e34a3a96e9e0e08eb6ab
+Description: Gói tiếng việt dành cho Ventana
+Name: Ventana (gói Tiếng Việt)
+Author: Biện Văn Nhật <nhatbien97@gmail.com>
+Depiction: https://bvnsupport-jailbreak.github.io/package/com.supportjailbreak.ventanaviethoa/
+dev: Biện Văn Nhật
+Icon: file:///Library/PreferenceBundles/MetroLockScreenSettings.bundle/icon-29@2x.png
 
 Package: com.supportjb.CputoolVN
 Architecture: iphoneos-arm

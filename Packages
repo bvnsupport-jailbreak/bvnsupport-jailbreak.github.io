@@ -561,6 +561,24 @@ Depiction: https://bvnsupport-jailbreak.github.io/package/com.supportjailbreak.v
 dev: Biện Văn Nhật
 Icon: file:///Library/PreferenceBundles/MetroLockScreenSettings.bundle/icon-29@2x.png
 
+Package: com.supportjailbreak.ytadblockVN
+Architecture: iphoneos-arm
+Version: 15.42.5
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <nhatbien97@gmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.supportjailbreak.ytadblockVN_15.42.5_iphoneos-arm.deb
+Size: 14474
+MD5sum: c10b08c6b15c9f24bd6c3d9745a90923
+SHA1: 6284936cd4dc65d44ec48cc386aebb8f7be496db
+SHA256: 0b9b0aa69efc2c28ed5c18942222c85f448e2564f00735a3516f0b168005124b
+SHA512: c21124b8340fbe23336736e4235e49856ee7fd6cb370e64272303aafafe130606b99686e0fb575a4a8f972fb976893fffc92934e147d6fb16f78d39193fa7a8b
+Description: Một tinh chỉnh YouTube AdBlock tuyệt vời!
+Name: YTAdBlock VN
+Author: atebitsy
+Depiction: https://bvnsupport-jailbreak.github.io/repo/package/ytadblock/index.html
+
 Package: com.supportjb.CputoolVN
 Architecture: iphoneos-arm
 Version: 1.9

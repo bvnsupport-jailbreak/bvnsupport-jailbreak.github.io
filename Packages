@@ -94,6 +94,22 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbre
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.supportjailbreak.NolockBlurVN
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Vân Nhật <nhatbien97@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.supportjailbreak.NolockBlurVN_1.0_iphoneos-arm.deb
+Size: 9666
+MD5sum: 251dfe9b806ee3d01e64b320cf1e8816
+SHA1: db4adfdb83d89b2ab25119a1febd7d81dbaf6dfd
+SHA256: 7f2982f40f782979b9093d1487cc972b547a540d6edf8ed75f208e3267b54b90
+SHA512: 7d3dd3bea3a6ceadb1d538ca76e4ece2f893f7bc12e74c28ed556d2ccd9a9e4d53203a39a5f58e7af74870f2a381cf6bad48db7ed1ad9ad714d9bc5d445af812
+Description: Làm trong suốt hình nền của bạn và mật khẩu màn hình khoá,hỗ trợ từ Ios 11 tới Ios 13.7
+Name: Trong Suốt Passcode
+Author: Tr1Fecta <tr1fecta@pm.me>
+
 Package: com.supportjailbreak.ShuffleVietnam
 Architecture: iphoneos-arm
 Version: 1.2.9

@@ -577,6 +577,26 @@ Depiction: https://bvnsupport-jailbreak.github.io/package/com.supportjailbreak.v
 dev: Biện Văn Nhật
 Icon: file:///Library/PreferenceBundles/MetroLockScreenSettings.bundle/icon-29@2x.png
 
+Package: com.supportjailbreak.videoBG
+Architecture: iphoneos-arm
+Version: 0.6
+Section: Addons (Tweaks)
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 596
+Depends: mobilesubstrate
+Conflicts:
+Filename: ./debfiles/com.supportjailbreak.videoBG_0.6_iphoneos-arm.deb
+Size: 273652
+MD5sum: d233357e52b4d8f01d43e576d8ea6f0d
+SHA1: c96306d077b3cf87fad5f3e470b812efa79c1d46
+SHA256: e33ddb2dbef82da30f998ac7f46b2fc7a5a2fd44586b322db1c36e59d7e54d72
+SHA512: 8c38c6940e28aec61f766278991578ca3c353159cdeeffa86b876bfa6dd9669aa25a3cef9d6acd844cf08397bfdc8e4d83631223442a43da7f725ebbdf2e063c
+Description: Thêm video quay màn hình của bạn vào khung Iphone
+Tag: cydia::paid
+Name: VideoBG VN
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport-jailbreak.githib.io/supersecret/depiction.php?iframe=depiction/videobg
+
 Package: com.supportjb.CputoolVN
 Architecture: iphoneos-arm
 Version: 1.9

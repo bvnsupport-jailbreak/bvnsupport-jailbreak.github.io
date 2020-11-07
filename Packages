@@ -145,6 +145,32 @@ Description: An awesome MobileSubstrate tweak!
 Name: AnimPlus Việt Hoá
 Author: eXqusic
 
+Package: com.supportjailbreak.applibrarycontrollerVN
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 392
+Provides: com.supportjailbreak.applibrarydisabler
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.supportjailbreak.applibrarydisabler
+Replaces: com.supportjailbreak.applibrarydisabler
+Filename: ./debfiles/com.supportjailbreak.applibrarycontrollerVN_1.2_iphoneos-arm.deb
+Size: 66168
+MD5sum: 01820b6f6c5a418426ac9b240974a2b9
+SHA1: a230d3421aac03598bf46dc7d2b2f88711d07065
+SHA256: 057e5f06207302ca7a1835462e9748508840ea4205fc3b872e25c9c76c1f3784
+SHA512: 4dded09439524eef19f85b00f2a8898546f112366af661cf5f0517bad711582402e7062c3592b62651ba261bc5c6aa8823896fb77bbaafe4a66a60d69948a8c7
+Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=applibrarycontrollerDp
+Description: Tinh chỉnh thư viện ứng dụng Ios 14
+Tag: purpose::extension
+Name: App Library Controller Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=applibrarycontrollerDp
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: Biện Văn Nhật <nhatbien97@gmail.com>
+dev: tomaszpoliszuk
+Icon: file:///Library/PreferenceBundles/AppLibraryControllerSettings.bundle/icons/AppLibraryController@3x.png
+
 Package: com.supportjailbreak.appstore
 Architecture: iphoneos-arm
 Version: 0.9.13-2

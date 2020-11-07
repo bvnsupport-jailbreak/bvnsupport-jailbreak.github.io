@@ -567,6 +567,43 @@ Description: Cá nhân hóa Safari bằng hình nền
 Name: SafariWallpaper Việt Hoá
 Author: Litten <nhatbien97@gmail.com>
 
+Package: com.supportjailbreak.snowboard.effects
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extension(Ios13/14)
+Maintainer: Biện Văn Nhật
+Installed-Size: 408
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debfiles/com.supportjailbreak.snowboard.effects_1.1.0~Beta4_iphoneos-arm.deb
+Size: 107188
+MD5sum: 3acf20e8592d823b1db445522c3719a7
+SHA1: 860d0aa6c7487fdb516fe1ef724127bb79a0100a
+SHA256: f598adeda0e700520657a1bcfdcde1edc46e79a1c34341de1793ac95a2eea8de
+SHA512: 7eb199542f79de2db642dabcbad51e645a942b6611b9bc67bc01a2b5f7f475ea20a39520cb9aa8de5117eaf0005686f510b1041c0d2134c5c93518e436d6a891
+Description: Icon Effects for SnowBoard
+Name: SnowBoard Icon Effects Extension
+Author: Spark
+
+Package: com.supportjailbreak.snowboardviethoa
+Architecture: iphoneos-arm
+Version: 1.4.0~Beta4
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 4788
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.supportjailbreak.snowboardviethoa_1.4.0~Beta4_iphoneos-arm.deb
+Size: 2135498
+MD5sum: ecc4bf56e9c80672b3d476ec1710b876
+SHA1: e8cf32bf97285b0aba950f53ca6128b1fd1ea5e8
+SHA256: a6f0115a7ff6960b6d5fb8bea2d4bc16bbe7be4da9f92a8dee4ddb4120847046
+SHA512: 0707882b9820ca3fa8c63df26caa23f501aea8d74de2a452e2f1e0ceea5f25ca54b6c05bf03ece6d22df849984df29e55a6b56d84294be95ac460669ca74851e
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Hoá
+Author: Spark & Dennis D. Bednarz
+
 Package: com.supportjailbreak.tiktoknoads
 Architecture: iphoneos-arm
 Version: 1.3

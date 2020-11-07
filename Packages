@@ -156,11 +156,11 @@ Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: com.supportjailbreak.applibrarydisabler
 Replaces: com.supportjailbreak.applibrarydisabler
 Filename: ./debfiles/com.supportjailbreak.applibrarycontrollerVN_1.2_iphoneos-arm.deb
-Size: 66162
-MD5sum: 1183c95652b473a5302222de16c1dd9e
-SHA1: 9f909087dc165694d1a690fc161febf7a87829c1
-SHA256: d145b46def29e9c8df8b81e2e89aad2e7748aa4b1ebb232629a61af6d3709005
-SHA512: 2a2817ecd2175022a432268661a17e0b319358a3889d95942f057c5ca7040b993f723dbbc692b64511d470ff63926155b34b25f94dd1371d6deca1b098be7d38
+Size: 66160
+MD5sum: 5178ae2e4dc2d77147abcb575a0870e6
+SHA1: f80e6f94f43d71e3af27b07af404de9adf517c33
+SHA256: 4924fd72e98d2c2c27fd78e5cf8fac1c3e7518be7d6d520f804e49483c539343
+SHA512: 55570a8da2d3f811a6404610083a037402bcd9449e19f82c0643d09676c3c8261f76e310b95c59a311aa215d6481f54cb4482fa1fbda9d0cfa4ae3093357d8c5
 Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=applibrarycontrollerDp
 Description: Tinh chỉnh thư viện ứng dụng Ios 14
 Tag: purpose::extension

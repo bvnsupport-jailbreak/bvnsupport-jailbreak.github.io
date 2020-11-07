@@ -413,6 +413,28 @@ Name: HalFiPad Việt Hoá
 dev: hius
 Icon: file:///Library/PreferenceBundles/HalFiPadPrefs.bundle/icon@2x.png
 
+Package: com.supportjailbreak.iconmoveViethoa
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 353
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debfiles/com.supportjailbreak.iconmoveViethoa_1.0.0_iphoneos-arm.deb
+Size: 61658
+MD5sum: ae1531080027430923a5859e1e33c483
+SHA1: 31217c0238ad549827104a6a9bcd00999f8524a5
+SHA256: 1c2231973429750f0c137baa86b4f08ed0332fe5d33347b42d2adf3afb9a517b
+SHA512: 86d651cff0f2bde7f675c60da1d5a55195f014b22bae6fa0440945212d528ee8d3bdc43c06a842a3fdcfd07f99d668e3b56f968c8b00c84cce49273930818e40
+Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=iconmoveDp
+Description: IconMove là một tinh chỉnh điều chỉnh vị trí biểu tượng trên màn hình chính ios 14
+Tag: purpose::extension
+Depiction: IconMove là một tinh chỉnh điều chỉnh vị trí biểu tượng trên màn hình chính Ios 14
+Author: Sky - Pain <2398453359@qq.com>
+Name: IconMove Việt Hoá
+dev: skypain
+Icon: file:///Library/PreferenceBundles/IconMovePrefs.bundle/icon/icon@3x.png
+
 Package: com.supportjailbreak.ios-winter
 Architecture: iphoneos-arm
 Version: 1.2

@@ -421,10 +421,10 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 4172
 Filename: ./debfiles/com.supportjailbreak.ios-winter_1.2_iphoneos-arm.deb
 Size: 4028462
-MD5sum: 92288987d6cc43f7f9d533777a5d9e40
-SHA1: f2bb0c0fb94449c432fb3cf9c1aa620360cfca50
-SHA256: 800f1ef669c9731652e3706eb15cf6b04c76d60f3f77d9057312c7f8fea87243
-SHA512: 159f57dfe1ef4ddf5cf64aba5b55dbb89f3912c38adc742104706b22600ba372081e6d5069efee060e71e2d51f1a1b8e885ed0e68252d2bd8b0739716d8f1d72
+MD5sum: 5d391388662466a0e99abf9eac03a61f
+SHA1: b70c2403618f4aa97212bb783477a7368b1f04c5
+SHA256: 246e5897fa50d42b42425390ab21d6de154080fc2b317df253813b5236734e12
+SHA512: a807d25374ef9edfbf302c8c24484f2bb309f9856b36acfeb64f04f6495b4fad99be0bbc4b40f79f36173904f640d3c4cfcf3e7175ba89085d25766e060b7883
 Description: Chủ đề 3D Ios Winter
 Name: iOS Winter
 Author: kid1carus <kid1carus@mail.com>

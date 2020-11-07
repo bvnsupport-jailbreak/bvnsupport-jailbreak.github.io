@@ -168,6 +168,24 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.w
 Name: AppStore+++
 Author: CokePokes <nhatbien97@gmail.com>
 
+Package: com.supportjailbreak.boxy4vn
+Architecture: iphoneos-arm
+Version: 4.1.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 3464
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Filename: ./debfiles/com.supportjailbreak.boxy4vn_4.1.2_iphoneos-arm.deb
+Size: 2828860
+MD5sum: f2129a4d1c6d00cda5a7cb0998fb214e
+SHA1: 6960ed807c6bd6b3cbfdae41fa776f2ee97cca88
+SHA256: 0a0e0f61b2ba1b876061064088543ed5b7a4f02183aa0cce690ac3d3c8f303cc
+SHA512: 106e44fb55b1eb25ce4ef1c02af42ed32492bdf5d5abcad214937ebe57c4f84022bc5efc6e1186f1234b13b7ede5472abb67c944e5a3220dd80764fdf9f0daf2
+Description: Hoàn toàn tùy chỉnh bố cục biểu tượng của bạn!  Bạn đã bao giờ gặp sự cố với dung lượng trong SpringBoard của mình hoặc bạn cảm thấy nhàm chán với bố cục mặc định của các biểu tượng?  Chà, Boxy có thể khắc phục cả hai vấn đề đó.  Bố cục biểu tượng của bạn hoàn toàn có thể tùy chỉnh với nhiều tùy chọn có thể định cấu hình trong ngăn cài đặt.  Bạn có thể điều chỉnh khoảng cách của mỗi biểu tượng so với mỗi cạnh của màn hình và khoảng cách giữa mỗi biểu tượng với nhau.  Những kết hợp này có thể cung cấp một số bố cục khá thú vị.  Nếu bạn không phải là loại quảng cáo hoặc không muốn bị làm phiền với việc thử nghiệm từng cài đặt, có sẵn các cài đặt trước cho bạn lựa chọn.  Bạn có thể căn chỉnh các biểu tượng của mình ở nửa trên của màn hình hoặc nửa dưới hoặc thậm chí ở các góc trên cùng của màn hình.  Bất cứ điều gì thực sự đều có thể xảy ra.Boxy cũng cho phép nhiều không gian hơn cho các tiện ích con của Bảng điều khiển X.  Bạn không còn phải thỏa hiệp với những ứng dụng nào bạn muốn trên trang chủ của SpringBoard, giờ đây bạn có thể có tất cả chúng trên màn hình cùng với các tiện ích yêu thích của mình!  Hãy sử dụng nó theo cách bạn thích, nếu bạn thấy cách sử dụng mà tôi không đề cập đến, vui lòng liên hệ với tôi và cho tôi biết, tôi rất thích nghe phản hồi về các chỉnh sửa của mình.  Boxy hoàn toàn tương thích với mọi thiết bị hiện nay!
+Name: Boxy 4 (iOS 13)Việt Hoá
+Author: William Vabrinskas <wvabrinskas@gmail.com>
+
 Package: com.supportjailbreak.choicyVN
 Architecture: iphoneos-arm
 Version: 1.2.6

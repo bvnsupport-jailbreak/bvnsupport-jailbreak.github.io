@@ -567,6 +567,26 @@ Description: Cá nhân hóa Safari bằng hình nền
 Name: SafariWallpaper Việt Hoá
 Author: Litten <nhatbien97@gmail.com>
 
+Package: com.supportjailbreak.snowboardVH
+Architecture: iphoneos-arm
+Version: 1.4.0~Beta4
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 4788
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.supportjailbreak.snowboardVH_1.4.0~Beta4_iphoneos-arm.deb
+Size: 2269220
+MD5sum: 2caa162ba80e59bf86d7817d70d8a35d
+SHA1: 97f4fb3c8512fb25fe2d1f3361c48503969618d2
+SHA256: f2540acc33366ca497ff209c941630a2ebc294d52243ead33a0505a50e6f36f5
+SHA512: be3163874e781a74b1923dfef9ce2adb2abf17ffb6fcbeddd865b8319b55bdef49c058719270275bc6f0a5ee26cf674f32216ff7d6189229c14ff1afea5c22f6
+Description: Công cụ chủ đề ván trượt tuyết
+Name: SnowBoard Việt Hoá
+Author: Spark & Dennis D. Bednarz
+
 Package: com.supportjailbreak.tiktoknoads
 Architecture: iphoneos-arm
 Version: 1.3

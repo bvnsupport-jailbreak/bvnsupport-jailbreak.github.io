@@ -148,27 +148,6 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.w
 Name: AppStore+++
 Author: CokePokes <nhatbien97@gmail.com>
 
-Package: com.supportjailbreak.boxy4VN
-Architecture: iphoneos-arm
-Version: 4.1.2
-Section: Tweaks
-Maintainer: Bvnsupport
-Installed-Size: 3464
-Depends: mobilesubstrate, preferenceloader
-Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
-Filename: ./debfiles/com.supportjailbreak.boxy4VN_4.1.2_iphoneos-arm.deb
-Size: 2828060
-MD5sum: d70b1ad5402b0578858874d0903af95d
-SHA1: 4fbe8aaecf8164b29b23e98faafe5e0e84576fa6
-SHA256: fa35dda4f9ef7cb6f691157e8c65fa33d32144ef87c1d9c312a3760addb6d8a0
-SHA512: aa1810eb092d5095211d5cc165ff994cfdb2ab062121d83e4316273d83bd97503c02061ca31ef624947339212e4d5f7868105d12fb4e60f49a72636c14f7c481
-Description: Sắp xếp các biểu tượng trên màn hình chính.
-Name: Boxy 4 (iOS 13)Việt Hoá
-Author: William Vabrinskas
-Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/com.supportjailbrek.boxy4
-Depiction: https://bvnsupport-jailbreak.github.io/view/3827
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-
 Package: com.supportjailbreak.choicyVN
 Architecture: iphoneos-arm
 Version: 1.2.6

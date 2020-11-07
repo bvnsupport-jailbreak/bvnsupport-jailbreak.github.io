@@ -420,12 +420,12 @@ Section: Themes
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 4172
 Filename: ./debfiles/com.supportjailbreak.ios-winter_1.2_iphoneos-arm.deb
-Size: 4028462
-MD5sum: 5d391388662466a0e99abf9eac03a61f
-SHA1: b70c2403618f4aa97212bb783477a7368b1f04c5
-SHA256: 246e5897fa50d42b42425390ab21d6de154080fc2b317df253813b5236734e12
-SHA512: a807d25374ef9edfbf302c8c24484f2bb309f9856b36acfeb64f04f6495b4fad99be0bbc4b40f79f36173904f640d3c4cfcf3e7175ba89085d25766e060b7883
-Description: Chủ đề 3D Ios Winter
+Size: 4028480
+MD5sum: f3678b9e0cd60b1ce1bab64585276275
+SHA1: 258e910e7f77652d1d96f15a2d8b0ac6a5b5768d
+SHA256: ffde87ad4faf83ad3158a80df0fed10c4c8ece6d5a66670b25cf3f2e7026bc8b
+SHA512: 8804d4c683de696629669b4bd418d709c27e37dd62aff8125709db981ae36020c8669c54c96445505c966a28d4d0e7366463eec64314fd8624b466e16872e9d0
+Description: Themes 3D Ios winter tải về và kích hoạt bằng Itheme hoặc Snowboars
 Name: iOS Winter
 Author: kid1carus <kid1carus@mail.com>
 Icon: file:///Library/Themes/iOS Winter/icon.png

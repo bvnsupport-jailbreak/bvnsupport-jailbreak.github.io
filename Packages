@@ -555,11 +555,11 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debfiles/com.supportjailbreak.snowboardVH_1.4.0~Beta4_iphoneos-arm.deb
-Size: 2269220
-MD5sum: 2caa162ba80e59bf86d7817d70d8a35d
-SHA1: 97f4fb3c8512fb25fe2d1f3361c48503969618d2
-SHA256: f2540acc33366ca497ff209c941630a2ebc294d52243ead33a0505a50e6f36f5
-SHA512: be3163874e781a74b1923dfef9ce2adb2abf17ffb6fcbeddd865b8319b55bdef49c058719270275bc6f0a5ee26cf674f32216ff7d6189229c14ff1afea5c22f6
+Size: 2269258
+MD5sum: a0f453d1b36aa2f1d053605c0092e9a5
+SHA1: 22653cce62581ce5eecd1b87fcfec960a6a03770
+SHA256: b1368f5c66fc35112d38f11543f91e1f10455f52022835cc99eafea5c1d755da
+SHA512: d2db44cbdd4d1999b6726b56d7f2250c66df2ff6f8e9338737db239593db6d8e89842c997ca10a44c9a4e59b988c44ac8138212e955dca6bb409c2d8aad1b576
 Description: Công cụ chủ đề ván trượt tuyết
 Name: SnowBoard Việt Hoá
 Author: Spark & Dennis D. Bednarz

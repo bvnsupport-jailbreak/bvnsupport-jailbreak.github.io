@@ -19,26 +19,6 @@ Author: Ivano Bilenchi <bienvannhat97@gmail.com>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions/?pkgId=com.Supportjb.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 
-Package: com.snowboard.snowboardViethoa
-Architecture: iphoneos-arm
-Version: 1.4.0~Beta4
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 4788
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.snowboard.snowboardViethoa_1.4.0~Beta4_iphoneos-arm.deb
-Size: 2305550
-MD5sum: 85d5d46912dbf8f0d071909dea72823f
-SHA1: 4b0b0f4df34ded6850e7ed2a906e23b03ce97884
-SHA256: 5c3b60c04d97592597c945c1bd5855e4b3bb1cb967567d5c569fa473410964be
-SHA512: 4d131880b35a11e25f50b676413739ab2d35e8050a8f90a3510df00647af0d5d7f2cdc1b43e20938b07e0d4ecaf03ae2374d8b4c6d7a4d3b5fbd671ca1b34c06
-Description: Công cụ chủ đề ván trượt tuyết
-Name: SnowBoard Việt Hoá
-Author: Spark & Dennis D. Bednarz
-
 Package: com.support.copylogvietho
 Architecture: iphoneos-arm
 Version: 1.5.1

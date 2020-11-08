@@ -7,10 +7,10 @@ Installed-Size: 559
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debfiles/com.Bvnsupport.jailbreak.halfipadVH_7.8.9_iphoneos-arm.deb
 Size: 114446
-MD5sum: fb03cff2ab77fa52ed60eb5b4492292e
-SHA1: 8e16a6ac2c596460cdc30c841092660d48b76843
-SHA256: af36e5ed608786af33a94594bce81996f01f6428d0a3c0239a8e0eae76f6621e
-SHA512: 1db2646b92cb5169c546dd3f6a8ca8e5dafa74c780de8bafb21dd5ccaf4f36905162ac0860e3058f65b83496164376e6dfb2a17118de79a66aa9a87d947c6da8
+MD5sum: e35ee7b7cff67c62e062867533be6681
+SHA1: 4fb9f36a2708e4eef78c863ac1003ad8111ff7f6
+SHA256: 8ef13a80b97d8438abf00340341401a0a08392260942a5930ad112c83927b895
+SHA512: e9ded674993af459ad2f94d6e35f42a3cc37713bff77839c588f5b938d9c9cb45ffd5f78561d128d362ee9415463b2a51186353b0a50c276ec415832ad88e560
 Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
 Tag: purpose::extension, compatible::ios13
 Author: Hius <h.h.haiduog@gmail.com>

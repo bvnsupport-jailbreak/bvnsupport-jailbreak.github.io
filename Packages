@@ -32,3 +32,21 @@ Name: Shuffle Việt Hoá
 Author: CreatureSurvive
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.supportjailbreak.copylogvietho
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 4596
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.supportjailbreak.copylogvietho_1.5.1_iphoneos-arm.deb
+Size: 2318
+MD5sum: acd518993d5863291e6e3b7910e6bab4
+SHA1: cd2ccc31bdd30c78bfdcd44290dc418d869625fc
+SHA256: 5cfbcc563b7473806bff6da25dacd7a4c70a5434a205a1f205a8fb39129441b6
+SHA512: 252b61840acc7b92dd4eaf1f12efa0136fda4a0f55f293fb6de44369c460c4294113d985448b7de7a5680994e6da5f9c21a36558a1f7ddc965d8ff533cf18de4
+Description: Gói tiếng việt dành cho Copylog!
+Name: CopyLog (Gói tiếng việt)
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+

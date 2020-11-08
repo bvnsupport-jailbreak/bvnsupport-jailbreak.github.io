@@ -1,3 +1,23 @@
+Package: com.Bvnsupport.jailbreak.halfipadVH
+Architecture: iphoneos-arm
+Version: 7.8.9
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 559
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.Bvnsupport.jailbreak.halfipadVH_7.8.9_iphoneos-arm.deb
+Size: 114446
+MD5sum: fb03cff2ab77fa52ed60eb5b4492292e
+SHA1: 8e16a6ac2c596460cdc30c841092660d48b76843
+SHA256: af36e5ed608786af33a94594bce81996f01f6428d0a3c0239a8e0eae76f6621e
+SHA512: 1db2646b92cb5169c546dd3f6a8ca8e5dafa74c780de8bafb21dd5ccaf4f36905162ac0860e3058f65b83496164376e6dfb2a17118de79a66aa9a87d947c6da8
+Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
+Tag: purpose::extension, compatible::ios13
+Author: Hius <h.h.haiduog@gmail.com>
+Name: HalFiPad Việt Hoá
+dev: hius
+Icon: Icon: file:///Applications/Cydia.app/Sections/Tweaks2.png
+
 Package: com.bvnsupport-jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -386,26 +406,6 @@ SHA512: 493d20ddf7d8e34e58e208c32c28c15d8c8494675c7de4299dcfec93af90635767249a3b
 Description: Sự phát triển của một cái gì đó đẹp đẽ!Tinh chỉnh hệ thống!
 Name: Genesis 2 Việt Hoá
 Author: ItzNebbs
-
-Package: com.supportjailbreak.halfipadVH
-Architecture: iphoneos-arm
-Version: 6.7.8
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 559
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debfiles/com.supportjailbreak.halfipadVH_6.7.8_iphoneos-arm.deb
-Size: 114318
-MD5sum: 918a82186067e2141ac737e6d8425a60
-SHA1: c20e7158537035d83807f8ac1b8cddef713185b4
-SHA256: fefa5a64784b829560c955d43751f42f0777fa21052772b63ea991fac550f0d2
-SHA512: 6bc58aa148daf076cb6c50c12b386bd3daccaeaab30802015c80afc00f3b4a61b170b62ebec6a457a777c61fe40adff7b03c7616a415833e325dace2da67e616
-Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
-Tag: purpose::extension, compatible::ios13
-Author: Hius <h.h.haiduog@gmail.com>
-Name: HalFiPad Việt Hoá
-dev: hius
-Icon: Icon: file:///Applications/Cydia.app/Sections/Tweaks2.png
 
 Package: com.supportjailbreak.iconmoveViethoa
 Architecture: iphoneos-arm

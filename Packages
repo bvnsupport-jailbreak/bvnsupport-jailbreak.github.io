@@ -5,11 +5,11 @@ Essential: yes
 Section: System
 Maintainer: Biện Văn Nhật
 Filename: ./debfiles/com.bvnsupport-jailbreak.github.io.icon_1.0.0_iphoneos-arm.deb
-Size: 43912
-MD5sum: 1cf437065991d9b1865869f643bf9675
-SHA1: 7ee717962e6ecfba548a02cbfd8847d32caac743
-SHA256: adee0ad3d33d0d928ea6e88a1fc3555b5b0455c642f539785f2daf4471ae085c
-SHA512: 24d126370db2286a029f6a03e5f04c1bd001ceb702190f6cc373a4984cbd110935a3303366f17050f726edb5b29ed5edac715000df97b9adbbe0ece26aaf9c21
+Size: 44116
+MD5sum: 84f6486dcf9d8c62cb49f74ae3949e26
+SHA1: e0e89cc49ec128b16eeb71964ffabba994cd1413
+SHA256: b325e2b50842e70221657509cdc5524851edd64f26b88544107f9190efe1ff5d
+SHA512: a9284d2cac8c5656f777135c8975aa5741fea2e1fec1a189f8dea0cbe857a0dc6e32d82011f71bd72471077807c257407d5cd35f70f5cacf90a2b894e10ed478
 Description: Biểu tượng Cydia cho kho lưu trữ BVN
 Name: IconRepo BVN
 Author: Biện Văn Nhật

@@ -54,6 +54,26 @@ Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.Gesturesi11VN
 
+Package: com.supportjailbreak.LynxViethoa
+Architecture: iphoneos-arm
+Version: 1.9.1
+Section: Tweaks
+Maintainer: Bvnsupport
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./debfiles/com.supportjailbreak.LynxViethoa_1.9.1_iphoneos-arm.deb
+Size: 1145620
+MD5sum: 6b73f360f974df029c18c6c0c0f34d7f
+SHA1: 7d855feb0e08b4be971b4a408c757b1937da6ead
+SHA256: 654b2ff76817ce6b707f460406267a07c1b2094764cd09f13b61c0eeb989a0fe
+SHA512: 65839145e5c869e0e3d3e20b845c7e75b259b18a23f0e05f1cbbe477c2196cea2a6e9df4fb1091f3d8d34163ff05dd7d47077181a9ec5b8de0cf6ace67b0fffa
+Homepage: https://www.facebook.com/SUPPORT.BVN.VN
+Description:  Một tinh chỉnh cấu hình mọi thứ cho thiết bị của bạn!
+Name: Lynx Việt Hoá
+Author: MTAC
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.supportjailbreak.NolockBlurVN
 Architecture: iphoneos-arm
 Version: 1.0
@@ -395,4 +415,21 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 Depiction: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=safariplusDp
 Sponsor: supportjailbreak.org <http://bvnsupport-jailbreak.github.io>
 dev: opa334
+
+Package: com.supportjailbreak.safariwallpapervitho
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.muirey03.libimagepicker
+Filename: ./debfiles/com.supportjailbreak.safariwallpapervitho_1.2_iphoneos-arm.deb
+Size: 27502
+MD5sum: 1ad2b2d1ea76ea5d9f0aebccb70f109c
+SHA1: c68b248c4309e9a3caf35dcd1ee0a1b73767f0c6
+SHA256: a3ae5c584bcd35dcdba4bdf06659c616a25439f331e66f51500bee75fbc08af7
+SHA512: 5384c0d398a6cbb9d6f3bf54b7aac40345b24f27fa0611e6c7abaa3c38990a6a785cdc7f7d56e9004b00537bd8418203664f57d2596e94edf86093f63bcb49c9
+Description: Thêm hình nền cho Safari!
+Name: SafariWallpaper Việt Hoá
+Author: Litten <nhatbien97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 

@@ -6,17 +6,17 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 559
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debfiles/com.Bvnsupport.jailbreak.halfipadVH_7.8.9_iphoneos-arm.deb
-Size: 114446
-MD5sum: e35ee7b7cff67c62e062867533be6681
-SHA1: 4fb9f36a2708e4eef78c863ac1003ad8111ff7f6
-SHA256: 8ef13a80b97d8438abf00340341401a0a08392260942a5930ad112c83927b895
-SHA512: e9ded674993af459ad2f94d6e35f42a3cc37713bff77839c588f5b938d9c9cb45ffd5f78561d128d362ee9415463b2a51186353b0a50c276ec415832ad88e560
+Size: 114452
+MD5sum: 815464107459920456c8ccd701071f00
+SHA1: c0c06d1737a2026c44ec70216e220ea323ac1285
+SHA256: 9e45cf512908394182b8513cecf0aec7e5e27d23c12b5e062498463cc6e787b7
+SHA512: 3aadfd75bfad04ec74e56f2f4e1345259778658be66da48798c3c974c996bc7d104cebee7ed96cb1bcdda5943ff3282ab4a6cab9b6beecc0ed6a032fdc099df8
 Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
 Tag: purpose::extension, compatible::ios13
 Author: Hius <h.h.haiduog@gmail.com>
 Name: HalFiPad Việt Hoá
 dev: hius
-Icon: Icon: file:///Applications/Cydia.app/Sections/Tweaks2.png
+Icon: Icon: file:///Applications/Cydia.app/Sections/Tinhchinh2.png
 
 Package: com.bvnsupport-jailbreak.github.io.icon
 Architecture: iphoneos-arm

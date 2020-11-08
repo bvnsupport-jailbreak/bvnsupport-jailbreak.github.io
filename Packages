@@ -53,6 +53,24 @@ Name: Shuffle Việt Hoá
 Author: CreatureSurvive
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.supportjailbreak.appstore
+Architecture: iphoneos-arm
+Version: 0.9.13-2
+Section: Tweaks
+Maintainer: Bvnsupport <nhatbien97@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debfiles/com.supportjailbreak.appstore_0.9.13-2_iphoneos-arm.deb
+Size: 680202
+MD5sum: fb6a1c93adc3e17081101a3ab43b43e0
+SHA1: 2907d5c00fbe0d020ca3899d2121d7d946c1576b
+SHA256: 5ffdcf0399b58284f3ada53c93ae77a6888d1669ba6359369426b423feac202d
+SHA512: 4297dfb61be734a99b34c0468cd2c00d53be315e25899e9823a491134e3203daa4ddf4440843ccb2529a8d103e16aa51722c08bb16cae945dd870425a6c23274
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
+Name: AppStore+++
+Author: CokePokes <nhatbien97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.supportjailbreak.copylogvietho
 Architecture: iphoneos-arm
 Version: 1.5.1

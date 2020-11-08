@@ -1,3 +1,20 @@
+Package: com.bvnsupport-jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 1.00
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.bvnsupport-jailbreak.github.io.icon_1.00_iphoneos-arm.deb
+Size: 43910
+MD5sum: 19cf3d9db9e14187c0a3b52712b8f64e
+SHA1: 7eb877f51bd8433e6dd183cfb3519c4b70afb342
+SHA256: f5a801fdc12e7a1ec7f2906835c5fc7b99ef694e05860bda920c07434ef59c77
+SHA512: 9e71de82c95aec62a07fa781c329a601807bd6253141023392c3360256e5e7608084b704983fc465803aabd78658a7817f50a95ea7f639045294acc14ba90d16
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: IconRepo BVN
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/System1.png
+
 Package: com.bvnsupport.icleanerproVN
 Architecture: iphoneos-arm
 Version: 7.9.0

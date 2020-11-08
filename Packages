@@ -18,6 +18,23 @@ Name: HalFiPad Việt Hoá
 dev: hius
 Icon: Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.bvnsupport-jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 2.0.0
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.bvnsupport-jailbreak.github.io.icon_2.0.0_iphoneos-arm.deb
+Size: 44112
+MD5sum: 8624c940612607fa45f97e1be07f18bf
+SHA1: bc77611438c1968f80f3869c2504f686ff2048bc
+SHA256: 1a673c58f130571be075ccc48df94d83bba8ce1a5313ea6cd6a6dfb429f87c3b
+SHA512: c8b9d467b09aa8978171e06a29c2318b1034db35c636187dc76b23d784aa26743c94aaa015957656c0eafc3479fc90e8540aaf59d137d813eb2903378a89fe51
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: IconRepo BVN
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+
 Package: com.bvnsupport.icleanerproVN
 Architecture: iphoneos-arm
 Version: 7.9.0

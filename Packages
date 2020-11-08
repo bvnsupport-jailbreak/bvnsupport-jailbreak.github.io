@@ -203,3 +203,22 @@ Name: Fake 2 Sim
 Author: CydiaGeek <lucaluca86@aol.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.supportjailbreak.filza64bit
+Architecture: iphoneos-arm
+Version: 3.8.0-24
+Section: Utilities
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 21680
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: ./debfiles/com.supportjailbreak.filza64bit_3.8.0-24_iphoneos-arm.deb
+Size: 8360974
+MD5sum: 21884a8d0f9807999b0be8a8dc2db77f
+SHA1: 3060065207b8ddcafa64e1ce003553550082bb83
+SHA256: 23c37390f328dc650fd7c585019bd0113960e8593414860d07035816334e48c4
+SHA512: 8592369100af902340afc5299e53509cab2533ee900c2aea023e87bc394f4a003ec71cedd44555fc5002f9d1de55f3110fc6096a66a53796d26cdb47b354e629
+Description: Mô tả:Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+. Phiên bản đặc biệt này chỉ hỗ trợ các thiết bị 64-bit
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
+

@@ -187,6 +187,26 @@ Sponsor: bienvannhat.org <http://nhatbie 97@gmail.com>
 dev: opa334
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.supportjailbreak.cloneappcmd
+Architecture: iphoneos-arm
+Version: 1.0~b3
+Section: Development
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: plutil, git.shin.myinst
+Filename: ./debfiles/com.supportjailbreak.cloneappcmd_1.0~b3_iphoneos-arm.deb
+Size: 2768
+MD5sum: 47c7db7ce7965891c0dcece994f20d79
+SHA1: 60e53e1f8ce216e1b2fc3979990a6ecca0c3dfdf
+SHA256: 81a049b01903257fbda21b408ec34be0b5981511dc0541d341b369ce1621e665
+SHA512: 546f8a0715557f222d2298cb452c68859ea5ff8a46e4c28a571f259360d502cabd0bc3a85b5d79d62e16e33be774e3c0ca521486edec2066f3ee0844cfe6f75a
+Homepage: https://bvnsupport-jailbreak.github.io/
+Description: Lệnh sử dụng ứng dụng nhân bản,cài thêm gói Plutil&Git để sử dụng. cloneapp <CFBundleDisplayName | CFBundleIdent | CFBundleName>
+Name: Clone App Command
+Author: shin-chan
+Sponsor: bienvannhat <https://bvnsupport-jailbreak.github.io/>
+Depiction: https://bvnsupport-jailbreak.github.io/description.html?goto=com.supportjailbreak.cloneappcmd
+Icon: file:///Applications/Cydia.app/Sections/phattrien1.png
+
 Package: com.supportjailbreak.complications
 Architecture: iphoneos-arm
 Version: 3.4.5

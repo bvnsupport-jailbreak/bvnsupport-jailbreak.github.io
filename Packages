@@ -108,6 +108,25 @@ Name: Shuffle Việt Hoá
 Author: CreatureSurvive
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.supportjailbreak.animplusviethoa
+Architecture: iphoneos-arm
+Version: 1.0-6
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 616
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
+Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Filename: ./debfiles/com.supportjailbreak.animplusviethoa_1.0-6_iphoneos-arm.deb
+Size: 105848
+MD5sum: cb283d490fb52bb71c1ecc0e1bcf0c23
+SHA1: 726a0c0df39542be4b110251c8f3d5f3fee2d07b
+SHA256: 6116eea675d84e49dedfaaae7dcc132b5a771c9874c9aac7ab6da41fdb06d260
+SHA512: 8d6d5ba2f971afe057432d9f1d680292cb1392737a6243539934099607c17129910f64a995445bb6a45a5556bd1f9ebd96218a7838451d765bce70e6f9eed21b
+Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
+Name: AnimPlus Việt Hoá
+Author: eXqusic
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.supportjailbreak.appstore
 Architecture: iphoneos-arm
 Version: 0.9.13-2
@@ -315,6 +334,26 @@ Description: Sự phát triển của một cái gì đó đẹp đẽ!Tinh ch�
 Name: Genesis 2 Việt Hoá
 Author: ItzNebbs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.supportjailbreak.halfipadVH
+Architecture: iphoneos-arm
+Version: 7.8.9
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 559
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.halfipadVH_7.8.9_iphoneos-arm.deb
+Size: 114462
+MD5sum: 208fc9cec33dd9a3065e443d10486938
+SHA1: 215e8c8b90747b327ca19517133b62c6998a59e6
+SHA256: 89fe2dd3a6d1defc82866921630ab19821b3a8e6cdcfa434dc624dfa7f5084be
+SHA512: 6ba4d8079596bf397b9e68799025ca72fa1c90472446128676d4424d00330d82b2c973bafc564fc9ce13804fafa282fb3ed7b2a865a930587483fde1779023de
+Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
+Tag: purpose::extension, compatible::ios13
+Author: Hius <h.h.haiduog@gmail.com>
+Name: HalFiPad Việt Hoá
+dev: hius
+Icon: Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.supportjailbreak.iconmoveViethoa
 Architecture: iphoneos-arm

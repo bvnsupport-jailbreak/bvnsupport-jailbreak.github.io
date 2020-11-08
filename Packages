@@ -91,26 +91,6 @@ Author: Hius
 Icon: file:///Library/PreferenceBundles/Gesturesi11Prefs.bundle/icon@2x.png
 SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.Gesturesi11VN
 
-Package: com.supportjailbreak.LynxViethoa
-Architecture: iphoneos-arm
-Version: 1.9.1
-Section: Tweaks
-Maintainer: Bvnsupport
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Filename: ./debfiles/com.supportjailbreak.LynxViethoa_1.9.1_iphoneos-arm.deb
-Size: 1145616
-MD5sum: 5abab6eed226ed53ba6067551253e586
-SHA1: f4b9e1958e4d25d76d6b2a2fccce06ad07436f28
-SHA256: 02114609f34065198cc4f011a394c545151aa7ee55f9508ca9bcc25b2eb4af08
-SHA512: 1dc08ebb88c31616744d928354a3d90ff82133d5b63fc5a1e90d7af6a35c27e8c0056a7f92aa98f930a264f8ffed9ef9fdbf8fd3b244c200a4ba17eef6120f4d
-Homepage: https://www.facebook.com/SUPPORT.BVN.VN
-Description:  Một tinh chỉnh cấu hình mọi thứ cho thiết bị của bạn!
-Name: Lynx Việt Hoá
-Author: MTAC
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
 Package: com.supportjailbreak.NolockBlurVN
 Architecture: iphoneos-arm
 Version: 1.0
@@ -134,15 +114,15 @@ Section: Tweaks
 Maintainer: Bvnsupport
 Depends: com.creaturecoding.libcspreferences
 Filename: ./debfiles/com.supportjailbreak.ShuffleVietnam_1.2.9_iphoneos-arm.deb
-Size: 390604
-MD5sum: 8503038d0e016449817cf793cb7cfc8a
-SHA1: 83620bdc0c1e2224b487126ebf3d4add503ae88c
-SHA256: 8661eacae1ec0d861826ba63d9359a07572c2d5d29c02dfa96604da74d24151a
-SHA512: 74908b76c12117fbfe6a1e816e3d811f9756337ac5c6d9f40f39809e7e6a1e5b9237a9fabe4a7ccb7ebd52f413a9aa11c8c628cfd7c1b1a45c09ae5698a6955d
+Size: 390610
+MD5sum: eff3c8634576078e9d7d725f6e9bb1bc
+SHA1: d0cb432f76e56c240ddfdaaeeb158828cddde3b7
+SHA256: 48cd29736a3e2724b5a9e0102cb12d9f08a85f6e8dcbe19665383bffb5593724
+SHA512: 465c7add1212c8f1d6073de01020d7fb0c29c4ffe5bccce6c8aa4598a96ddd16629a8acdcbf457225ef4280fe14b84568b76b6607611cccf8854b9d3ee2c6ead
 Description: Mix up your preferences
 Name: Shuffle Việt Hoá
 Author: CreatureSurvive
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.supportjailbreak.animplus
 Architecture: iphoneos-arm
@@ -467,6 +447,28 @@ SHA512: 768d15eee9a5c7e5d7610279f13e708403b7a98bfaee5696716215f9e1a23cc3fc88868f
 Description: LittleX revitalized for iOS 12.
 Name: LittleXS Việt Hoá
 Author: binksalex & Ryan Nair
+
+Package: com.supportjailbreak.lynxvh
+Architecture: iphoneos-arm
+Version: 1.9.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 2384
+Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Conflicts:
+Filename: ./debfiles/com.supportjailbreak.lynxvh_1.9.1_iphoneos-arm.deb
+Size: 1145650
+MD5sum: adb7706e224c15a10a655faf8b2ae0db
+SHA1: 9bc920d079d0d3b5baae47ea49218953d69b60fe
+SHA256: 9cf673c03526bc0d71444795a5f850e435d0688729af9671c77e77c0662f1c4c
+SHA512: 529c1201fd43beaaeb2683cf65a6b08e180f9bb054624df104d7ff792b1b8f7b0e761863ced0c30ab6324c236cb613b6af56fe5cfd5bb2329b3c03358bfe284b
+Description: Tùy chỉnh thiết bị tối ưu
+Tag: purpose::extension, cydia::commercial, compatible_min::ios12.0, compatible_max::ios13.7
+Name: Lynx Việt Hoá
+Author: MTAC <mtactheming@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Depiction: https://bvnsupport-jailbreak.github.io/package/com.supportjailbreak.lynx
+SileoDepiction: https://bvnsupport-jailbreak.github.io/package/com.supportjailbreak.lynx/native
 
 Package: com.supportjailbreak.powerselectorios11to14
 Architecture: iphoneos-arm

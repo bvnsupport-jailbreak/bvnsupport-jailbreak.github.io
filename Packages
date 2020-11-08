@@ -436,15 +436,15 @@ Section: Themes
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 4172
 Filename: ./debfiles/com.supportjailbreak.ios-winter_1.2_iphoneos-arm.deb
-Size: 4028480
-MD5sum: f3678b9e0cd60b1ce1bab64585276275
-SHA1: 258e910e7f77652d1d96f15a2d8b0ac6a5b5768d
-SHA256: ffde87ad4faf83ad3158a80df0fed10c4c8ece6d5a66670b25cf3f2e7026bc8b
-SHA512: 8804d4c683de696629669b4bd418d709c27e37dd62aff8125709db981ae36020c8669c54c96445505c966a28d4d0e7366463eec64314fd8624b466e16872e9d0
+Size: 4028488
+MD5sum: fe0d129e9f19ac5eef92b56df0d2db84
+SHA1: 9a7c840742f7e85f770e4c657f19ad22bb9426fb
+SHA256: f91bc80c321636e06da67a2ba9aa0a16c32f9efdf0c73fbb49df792c04531fcb
+SHA512: d17bf661ee3bdabca7cc6c223f649dd8588fa0cc07a7ca127b625d3e8963c62e0581f76c7385f8277d012dd16414054da63248c9a16bfd0600e06acf6476cc1f
 Description: Themes 3D Ios winter tải về và kích hoạt bằng Itheme hoặc Snowboars
 Name: iOS Winter
 Author: kid1carus <kid1carus@mail.com>
-Icon: file:///Library/Themes/iOS Winter/icon.png
+Icon: file:///Applications/Cydia.app/Sections/chude.png
 Depiction: Chủ đề 3D Ios Winter tải về và kích hoạt bằng Itheme hoặc Snowboard
 SileoDepiction: https://bvnsupport-jailbreak.gỉhub.io/sileo/depiction.php?file=ios-winter
 

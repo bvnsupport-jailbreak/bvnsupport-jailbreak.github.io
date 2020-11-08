@@ -16,23 +16,6 @@ Author: jjolano <jjolano@me.com>
 Depiction: Chặn phát hiện Jailbreak tốt cho app Ngân hàng Mbbank và 1 số Game!
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
-Package: com.bvnsupport-jailbreak.github.io.icon
-Architecture: iphoneos-arm
-Version: 2.0
-Essential: yes
-Section: System
-Maintainer: Biện Văn Nhật
-Filename: ./debfiles/com.bvnsupport-jailbreak.github.io.icon_2.0_iphoneos-arm.deb
-Size: 91532
-MD5sum: 514c3377566e1d71494fb5ccf620272d
-SHA1: 44d2b6defce0816c68b5567b29a48982798fa8f4
-SHA256: a3e68e3541c9ab34bd96d9ac0039219063e2b01013b4628801300d86c6203f93
-SHA512: 475b64f3bd2acc2b4ca31666564d13728bdf4ea3b006f4d3c1ceb58cf42633f619b60d64cdec49209d6cad2792ebc7fd791e99019e446b9d267f34dacb508574
-Description: Biểu tượng Cydia cho kho lưu trữ BVN
-Name: IconRepo BVN
-Author: Biện Văn Nhật
-Icon: file:///Applications/Cydia.app/Sections/hethong1.png
-
 Package: com.bvnsupportjailbreak.icleanerproVN
 Architecture: iphoneos-arm
 Version: 7.9.0
@@ -409,6 +392,23 @@ Author: Hius <h.h.haiduog@gmail.com>
 Name: HalFiPad Việt Hoá
 dev: hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
+Package: com.supportjailbreak.icon
+Architecture: iphoneos-arm
+Version: 1.0.0
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.supportjailbreak.icon_1.0.0_iphoneos-arm.deb
+Size: 91522
+MD5sum: 112dd6edd0fae17a793ed4d10589e8cb
+SHA1: 2bfdcfa2b1bc09cbe126de9f008ee23993eebef5
+SHA256: 3dbcaee566842a351b512f622d2a2c27fe4d04497582203de75afc3a1732d77f
+SHA512: 9def9a5428ab383c496fcb87cad1b42ac7423b881a35cbdd8def25ed7740e1ba90a07f86017dd74da05054174fbe2ba746b23babbfa113bb122a88020b9b4c33
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: Icon Repo BVN
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/hethong1.png
 
 Package: com.supportjailbreak.iconmoveViethoa
 Architecture: iphoneos-arm

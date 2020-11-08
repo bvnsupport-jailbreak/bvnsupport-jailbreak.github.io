@@ -591,3 +591,38 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: http://bvnsupport-jailbreak.githib.io/supersecret/depiction.php?iframe=depiction/videobg
 
+Package: com.supportjb.CputoolVN
+Architecture: iphoneos-arm
+Version: 1.9
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, com.spark.libsparkapplist
+Filename: ./debfiles/com.supportjb.CputoolVN_1.9_iphoneos-arm.deb
+Size: 2264
+MD5sum: 803777adc3f6c55fc756481109430c9e
+SHA1: 9711b558e385f6c3dca45afe367395f8ba392fb2
+SHA256: be7ab20811d79077ee038e68237506a62807e42b24028c5c0f3f02301d39d21d
+SHA512: ebf39f85fca5f0cdb4ba960285c2680fcc01925756f8f463453d01f3cbb48fbe0c07925bc8264a10b2b4fe83a5124f7629239f2d6cd739910c600e32a331c87d
+Description: Gói tiếng Việt dành cho Cputool!
+Name: CPUTool (gói tiếng Việt)
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.Supportjailbreak.shadowviethoa
+Architecture: iphoneos-arm
+Version: 2.0.20
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debfiles/com.supportjb.bybassmbbank_2.0.deb
+Size: 252122
+MD5sum: 770d4a14863f43073d90766f598fbf30
+SHA1: c53fa86785c5eb1680622b4d49f90503002e6fd2
+SHA256: 08e34a7682f35870f7b7765b62850ee8c16c65349cef9b460ba2b660aca15f71
+SHA512: a0c9903c5c3752929da12db8a6b4ab593a2e1b4321210b9cf3ecde263e3eadaf7e9379f4df46fc082038ddba1d298eb66f9fabf4ff604fea9c0b97109facccf0
+Description: Chặn phát hiện Jailbreak trong các ứng dụng của bạn.
+Name: Shadow Việt Hoá
+Author: jjolano <jjolano@me.com>
+Depiction: Chặn phát hiện Jailbreak tốt cho app Ngân hàng Mbbank và 1 số Game!
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+

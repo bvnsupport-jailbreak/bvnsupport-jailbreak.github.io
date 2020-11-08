@@ -166,3 +166,23 @@ Name: CrackTool4 (iOS 12/14)
 Author: julioverne <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienich.png
 
+Package: com.supportjailbreak.dockxVN
+Architecture: iphoneos-arm
+Version: 2.2.3
+Section: Tweaks
+Maintainer: Bvnsupport
+Installed-Size: 1368
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
+Conflicts: com.restiveconch.actionbar
+Filename: ./debfiles/com.supportjailbreak.dockxVN_2.2.3_iphoneos-arm.deb
+Size: 436328
+MD5sum: a8ca8fae691ccb532f605512e1c51007
+SHA1: dbc0e58b134efb7c11102eebdb4d85f5420504b9
+SHA256: c68679b4460d6c4efde0ef6fee4b6b00d3c23b1808e278e5f148d87d7362630a
+SHA512: d3aa5e113c5e5667e0795cb09af4ee4b6b3abbc9c54730733e8966a20f825f8ac67bd4f061f83566e138e5ee8214ebd780d1928ecb1ce6383e8830d7d828785a
+Description: Các phím tắt Pasteboard trên dock của bạn!
+Name: DockX Việt Hoá
+Author: udevs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Depiction: https://bvnsupport-jailbreak.github.io/repo/depictions/?p=com.supportjailbreak.dockx
+

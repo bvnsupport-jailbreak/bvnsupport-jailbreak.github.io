@@ -1,0 +1,17 @@
+Package: com.supportjailbreak.ShuffleVietnam
+Architecture: iphoneos-arm
+Version: 1.2.9
+Section: Tweaks
+Maintainer: Bvnsupport
+Depends: com.creaturecoding.libcspreferences
+Filename: ./debfiles/com.supportjailbreak.ShuffleVietnam_1.2.9_iphoneos-arm.deb
+Size: 390610
+MD5sum: eff3c8634576078e9d7d725f6e9bb1bc
+SHA1: d0cb432f76e56c240ddfdaaeeb158828cddde3b7
+SHA256: 48cd29736a3e2724b5a9e0102cb12d9f08a85f6e8dcbe19665383bffb5593724
+SHA512: 465c7add1212c8f1d6073de01020d7fb0c29c4ffe5bccce6c8aa4598a96ddd16629a8acdcbf457225ef4280fe14b84568b76b6607611cccf8854b9d3ee2c6ead
+Description: Mix up your preferences
+Name: Shuffle Việt Hoá
+Author: CreatureSurvive
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+

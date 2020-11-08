@@ -36,6 +36,23 @@ Author: Ivano Bilenchi <bienvannhat97@gmail.com>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions/?pkgId=com.Supportjb.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 
+Package: com.support.copylogvietho
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 4596
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.support.copylogvietho_1.5.1_iphoneos-arm.08-thg 11-2020-15-15-39.deb
+Size: 2142
+MD5sum: 76fce6455aa29045f38e1237b5a355bd
+SHA1: 0b3542a57537e066b3952b868cd50160cba3e57c
+SHA256: dab4d55c7039c42022390475525dce4b5d5d71f166f42afc536e5f69309b6b0f
+SHA512: 1beb8256a4ed05632e28881c3d536defdefbefb6dc64c25e4d6a7370763cdb3f84565db0f90775c38348f9adad494dd4736f5ef62706b5d6968e550c9811b5a4
+Description: Gói tiếng việt dành cho Copylog!
+Name: CopyLog (Gói tiếng việt)
+Author: Biện Văn Nhật
+
 Package: com.supportjailbreak.Gesturesi11VN
 Architecture: iphoneos-arm
 Version: 3.5.0
@@ -244,23 +261,6 @@ SHA512: 63d17595d4fd32ce6de8da9ccb0a3ff61f18b7aa958750c348edb291604af911d9d877f3
 Description: Tiện ích watchOS trên màn hình khóa của bạn
 Name: Complications Việt Hoá
 Author: Ben Giannis
-
-Package: com.supportjailbreak.copylogvietho
-Architecture: iphoneos-arm
-Version: 1.5.1
-Essential: yes
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Filename: ./debfiles/com.supportjailbreak.copylogvietho_1.5.1_iphoneos-arm.deb
-Size: 2146
-MD5sum: b9256b165c2c307d4f67bfc33d0f0df3
-SHA1: 9044889b8c1f67b02bea8eddfb0a16326b0e1144
-SHA256: 9cbfce25eaf9e1eab5406a0dc8405d6ebb236ab6420d51a9afa959e15c1509d0
-SHA512: 014a3ae3b3584d3af269fe19534560087c553d981781e708cc498ce819859eb52e59412fc05100ea60ea14bc9773ec65376f879d27d31d0fa116eaca5fce9e6f
-Description: Gói Tiếng Việt dành cho Copylog
-Name: Copylog(Gói Tiếng Việt)
-Author: Biện Văn Nhật
-Icon: file:///Applications/Cydia.app/Sections/Tweaks2.png
 
 Package: com.supportjailbreak.cracktool4ios1214
 Architecture: iphoneos-arm

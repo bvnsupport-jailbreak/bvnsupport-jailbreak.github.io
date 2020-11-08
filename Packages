@@ -90,6 +90,29 @@ Name: Boxy 4 (iOS 13)Việt Hoá
 Author: William Vabrinskas <wvabrinskas@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.supportjailbreak.choicyVN
+Architecture: iphoneos-arm
+Version: 1.2.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 778
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Filename: ./debfiles/com.supportjailbreak.choicyVN_1.2.6_iphoneos-arm.deb
+Size: 165252
+MD5sum: 338210d23d043bfe82449564c0daa668
+SHA1: 305ac44354c5155fb3387a71d0dbaa0fc03c82a8
+SHA256: d4675d4b2f2bb49fa331497d28afcf2e678043ffabe34425bb8750b5d564f9f4
+SHA512: 00f0f318234cdaea642c6277e77b79f33ad983adf54a4b64428fe834b208895c5e7fa373aba2a15bf127f204b9cfc13c49b4b4f94ddd03869d8c2bf83d439325
+Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=choicyDp
+Description: Cấu hình tinh chỉnh nâng cao,chặn phát hiện Jailbreak
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy Việt Hoá
+Depiction: Tinh chỉnh,chặn phát hiện Jailbreak cho ứng dụng của bạn.
+Sponsor: bienvannhat.org <http://nhatbie 97@gmail.com>
+dev: opa334
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.supportjailbreak.copylogvietho
 Architecture: iphoneos-arm
 Version: 1.5.1

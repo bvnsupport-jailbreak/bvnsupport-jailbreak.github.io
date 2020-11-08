@@ -36,6 +36,24 @@ Author: Ivano Bilenchi <bienvannhat97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienich.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions/?pkgId=com.Supportjb.icleanerpro
 
+Package: com.supportjailbreak.Gesturesi11VN
+Architecture: iphoneos-arm
+Version: 3.5.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.Gesturesi11VN_3.5.0_iphoneos-arm.deb
+Size: 33928
+MD5sum: 5ed4827b69d276d5d317c0a3daa9e3d5
+SHA1: 14c0a71373e9b648fb3fb1d052f269fb710d627b
+SHA256: d74308be049d894f54138dbcf7e3d61f4a82a7c1037391f613cf3a40e2dbb133
+SHA512: 561282cb86eb7861120b2552866cec2c1e22be53caecfefbba679e53dd21b8945969a206a1e502fc438295db7a9ec3bc806a3364b350bc1296b898f25e47eb88
+Description: iPhone 11 cử chỉ và các tùy chọn khác,tính năng độc đáo,nhẹ nhàng.Hỗ trợ ios 13 tới 14.2
+Name: Gesturesi11 Việt Hoá
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.Gesturesi11VN
+
 Package: com.supportjailbreak.ShuffleVietnam
 Architecture: iphoneos-arm
 Version: 1.2.9

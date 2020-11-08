@@ -373,3 +373,26 @@ Name: PullOver Pro Việt Hoá
 Author: c1d3r <c1d3rdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.supportjailbreak.safariplusVN
+Architecture: iphoneos-arm
+Version: 1.7.12
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5114
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.supportjailbreak.safariplusVN_1.7.12_iphoneos-arm.deb
+Size: 1876226
+MD5sum: 49e08c02370ade6829996ae77973d5dd
+SHA1: e26a03cc44272313f33f54403536cc0f27bd8b05
+SHA256: f13780f8ce2128ce535d852b5448879fa97d7ef3a4b0752fd973318de84af322
+SHA512: 0af84aa414dd3a7549a7b2b9d999443bc2a58386e6b1e88d71506ed112cb484ee7594942916b380afa98f38bc980a53c170938b2466e9305169a8d12ac233001
+Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=safariplusDp
+Description: Nhiều cải tiến khác nhau cho Safari!
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: opa334 <opa334@protonmail.com>
+Name: Safari Plus Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Depiction: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=safariplusDp
+Sponsor: supportjailbreak.org <http://bvnsupport-jailbreak.github.io>
+dev: opa334
+

@@ -186,3 +186,20 @@ Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 Depiction: https://bvnsupport-jailbreak.github.io/repo/depictions/?p=com.supportjailbreak.dockx
 
+Package: com.supportjailbreak.fake2sim
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: CydiaGeek <nhatbien97@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.supportjailbreak.fake2sim_1.0.0_iphoneos-arm.deb
+Size: 10352
+MD5sum: 7c33be831c5beb37232d45bb0baf055c
+SHA1: e4bb668113faf85be30eaa529db9ec6dd3bc223f
+SHA256: 7680083880fe50220854f7ecd26f84f7f09ece0d47c328986fdb9a62559dd96e
+SHA512: 207ee530f67e07b0c1a304ed1a48ec30e9dc60d3ab04b35c95e7daf1313744f9e108f6255c6c30eaedcb554e969b15fe97604d58fa5ab6be1d8e6e8237884cc5
+Description: SIM kép giả mạo như nhà cung cấp dịch vụ!
+Name: Fake 2 Sim
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+

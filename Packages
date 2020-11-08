@@ -36,6 +36,24 @@ Author: Ivano Bilenchi <bienvannhat97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienich1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions/?pkgId=com.Supportjb.icleanerpro
 
+Package: com.supportjailbreak.Gesturesi11VN
+Architecture: iphoneos-arm
+Version: 3.5.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.Gesturesi11VN_3.5.0_iphoneos-arm.deb
+Size: 33934
+MD5sum: 57c75ee039ecab928cc1c11207d4f335
+SHA1: 969fa67aa40d7e02218c1a34f9b52774bcaf2231
+SHA256: ca9f0a645c597c92be4f6bfac83285952e2196e7bd3bf0d00e29e833048d202e
+SHA512: 9c5e739d737dbf206a44ffb2fb957798e309c582defbe6754cea07303ee7adb0adefbe104ab881ff5e46fcd3f6f579ab5eba85909cb02b74eb950a1881c6db40
+Description: iPhone 11 cử chỉ và các tùy chọn khác,tính năng độc đáo,nhẹ nhàng.Hỗ trợ ios 13 tới 14.2
+Name: Gesturesi11 Việt Hoá
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.Gesturesi11VN
+
 Package: com.supportjailbreak.LynxViethoa
 Architecture: iphoneos-arm
 Version: 1.9.1
@@ -43,18 +61,18 @@ Section: Tweaks
 Maintainer: Bvnsupport
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
 Filename: ./debfiles/com.supportjailbreak.LynxViethoa_1.9.1_iphoneos-arm.deb
-Size: 1145620
-MD5sum: 6b73f360f974df029c18c6c0c0f34d7f
-SHA1: 7d855feb0e08b4be971b4a408c757b1937da6ead
-SHA256: 654b2ff76817ce6b707f460406267a07c1b2094764cd09f13b61c0eeb989a0fe
-SHA512: 65839145e5c869e0e3d3e20b845c7e75b259b18a23f0e05f1cbbe477c2196cea2a6e9df4fb1091f3d8d34163ff05dd7d47077181a9ec5b8de0cf6ace67b0fffa
+Size: 1145624
+MD5sum: e7f2755aefaa580947d8e8b1f26b120e
+SHA1: 4a12543f48b815e00dbce229b9ad7e09e8d241c6
+SHA256: e289d9556235e144970373ad624ffe6671b60c9627fd1b6d8e8d70e94fb9c859
+SHA512: e760c08365c01628d7967972308bfa29081b7cb9ba6877b65f74428d888073c8081284c35673d2fd11ed7aff25af38a89084ba92b6747d0e707d2656e94ffdc1
 Homepage: https://www.facebook.com/SUPPORT.BVN.VN
 Description:  Một tinh chỉnh cấu hình mọi thứ cho thiết bị của bạn!
 Name: Lynx Việt Hoá
 Author: MTAC
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.NolockBlurVN
 Architecture: iphoneos-arm
@@ -345,17 +363,17 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 559
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debfiles/com.supportjailbreak.halfipadVH_7.8.9_iphoneos-arm.deb
-Size: 114458
-MD5sum: c0777afea0f0384f7dd5120325694616
-SHA1: 342b65f5fb106aaa67adc2c3cc226a4167d78f6b
-SHA256: 9f7892f7a7af2ab6b23148c549444e74171aee8527be72e0bee8168f168c037e
-SHA512: ecb21df2a0b5f701c4ef97fd0c49fca8b140628556a305efd2438d1aabbf8222da14c2d812611c171b9d6f095cd34552ee8564df0c1a7bdf3cd5470c1937efe9
+Size: 114462
+MD5sum: 3252d376fe6958e9483159475360b908
+SHA1: c617c6fba936efd7f2bf4fceb511b6186c716916
+SHA256: 33cfa6b151e353cae48cb150ebef35a3fe2313c716dc53dc77fadd976e84554a
+SHA512: 2160005286e9510d1696fc69432baa0fecd0540348ce40201bf3d8af2e9015bd201ea41db7209644831474e9a5e2b9174026a04b152b17be66977a894e6734b0
 Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
 Tag: purpose::extension, compatible::ios13
 Author: Hius <h.h.haiduog@gmail.com>
 Name: HalFiPad Việt Hoá
 dev: hius
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.iconmoveViethoa
 Architecture: iphoneos-arm
@@ -365,18 +383,18 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 353
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debfiles/com.supportjailbreak.iconmoveViethoa_1.0.0_iphoneos-arm.deb
-Size: 61658
-MD5sum: be7548ac1f0f3dd63ba17198f88c1cbf
-SHA1: c3776b3611d68d02d0c6b713dada5ef9824e69e8
-SHA256: b16168f2b637efa0c11c2ca0361ba4d17877a9995cf5d172cf2a2e435ade929d
-SHA512: b73af028d19e7dd933a8d4b8e353c7bf8d1bf9c75955eaf4455ab1cf57eb193d8b99b9efcc16453b7ff533642c1da7d93e14a6c42554b12169c4e3f5559d44bb
+Size: 61660
+MD5sum: f9b6513ceda9e80b4b637914072052f7
+SHA1: 2ecfa0db5cf44567dc32afc5041e9604e72e4c08
+SHA256: 4bae3558b0a93d2bba287ae83cf1ec1162f3b74d66f2f878431104b891a0f097
+SHA512: c6a6d0dc205692fc83366f31091198efdcfc84386d15274bee27b97579b49d3c8f959ddadf674464dd8b43379cdaaed2352917db29a7323d0dce51167f494b53
 Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=iconmoveDp
 Description: IconMove là một tinh chỉnh điều chỉnh vị trí biểu tượng trên màn hình chính ios 14
 Tag: purpose::extension
 Depiction: IconMove là một tinh chỉnh điều chỉnh vị trí biểu tượng trên màn hình chính Ios 14
 Author: Sky - Pain <2398453359@qq.com>
 Name: IconMove Việt Hoá
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 dev: skypain
 
 Package: com.supportjailbreak.ios-winter
@@ -386,15 +404,15 @@ Section: Themes
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 4172
 Filename: ./debfiles/com.supportjailbreak.ios-winter_1.2_iphoneos-arm.deb
-Size: 4028488
-MD5sum: fe0d129e9f19ac5eef92b56df0d2db84
-SHA1: 9a7c840742f7e85f770e4c657f19ad22bb9426fb
-SHA256: f91bc80c321636e06da67a2ba9aa0a16c32f9efdf0c73fbb49df792c04531fcb
-SHA512: d17bf661ee3bdabca7cc6c223f649dd8588fa0cc07a7ca127b625d3e8963c62e0581f76c7385f8277d012dd16414054da63248c9a16bfd0600e06acf6476cc1f
+Size: 4028500
+MD5sum: beb5d2593cd065e201dc88cc5ae1f550
+SHA1: 147aacac3b4ee2636e6a5a83cf9530f230581f39
+SHA256: c157b7111ea5a30d6cc13851a7e7d932ec6b387867d43c3d03a01375123b29a0
+SHA512: efd7b7a8ac632b069f8be91a0c6a9ac8951061b2b35547a57e3bba3fc970c2bebb79cc6f44c4405dbfbc2683e693930f668f45be24553894aa31c5f98a29a34d
 Description: Themes 3D Ios winter tải về và kích hoạt bằng Itheme hoặc Snowboars
 Name: iOS Winter
 Author: kid1carus <kid1carus@mail.com>
-Icon: file:///Applications/Cydia.app/Sections/chude.png
+Icon: file:///Applications/Cydia.app/Sections/chude1.png
 Depiction: Chủ đề 3D Ios Winter tải về và kích hoạt bằng Itheme hoặc Snowboard
 SileoDepiction: https://bvnsupport-jailbreak.gỉhub.io/sileo/depiction.php?file=ios-winter
 
@@ -407,16 +425,16 @@ Installed-Size: 740
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
 Filename: ./debfiles/com.supportjailbreak.mideviceviethoa_2.0.0-3_iphoneos-arm.deb
 Size: 224460
-MD5sum: 6323f08d4a585f6a62646e177d536b9c
-SHA1: 0096d39137baecc4549f44805412ee10e6c43b13
-SHA256: e201d77cc51ebd6c642bbb313e8ce0b42574b65cabc49d036614d67a8392e574
-SHA512: 6c0495ae0b31861999ec40ca6b74944c513b052e9a3895cf51fccfa01d645464475e709a00f69d73ba933c7d878cebe061fd958789f234066bfa59140fdb3a3f
+MD5sum: e89e2a597aa83dde4032d4c9c249e08b
+SHA1: 23c674eb86f2d1788b0d80aeee70330d50396161
+SHA256: bef6fc3a6829faa996f5697039480c4088c4978be1306efcee79f3720849b269
+SHA512: 299fe51b19704e705b4d14426813cb2f3e1c35e379da357b6d9f09550aea83a7772ae9ad8e56b0963ff7ba1fd51bd949941abc7ba5fae6a4cff76f57f6f18564
 Description: Một tinh chỉnh tuyệt vời cho thiết bị của bạn.
 Name: MiDevice Việt Hoá
 Author: DODGraphics
 Sileodepiction: https://bvnsupport-jailbreak.github.io/sileo-depiction/midevice
 Depiction: https://bvnsupport-jailbreak.github.io/view/2325
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.powerselectorios11to14
 Architecture: iphoneos-arm

@@ -54,6 +54,23 @@ Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.Gesturesi11VN
 
+Package: com.supportjailbreak.NolockBlurVN
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Vân Nhật <nhatbien97@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.supportjailbreak.NolockBlurVN_1.0_iphoneos-arm.deb
+Size: 9712
+MD5sum: 3a29ad59f4c1a98986005f5960d66496
+SHA1: 91b0612e9660b85bc4b676fbbf3e1bb14f763613
+SHA256: 48f82c6897b69aabb3067a128e06c4b9b5fecb30d3dc8ebcc48f82486ce8cc40
+SHA512: 8362cd7e78bc9532b958e3562c3d0fc241812e8bdc4d7369b18824c519bd5d2877951298f70e342c25129ccfa8ab93f960eb86677f04688ef05c566aefd52266
+Description: Làm trong suốt hình nền của bạn và mật khẩu màn hình khoá,hỗ trợ từ Ios 11 tới Ios 13.7
+Name: Trong Suốt Passcode
+Author: Tr1Fecta <tr1fecta@pm.me>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.supportjailbreak.ShuffleVietnam
 Architecture: iphoneos-arm
 Version: 1.2.9
@@ -278,4 +295,45 @@ Description: Sự phát triển của một cái gì đó đẹp đẽ!Tinh ch�
 Name: Genesis 2 Việt Hoá
 Author: ItzNebbs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.supportjailbreak.iconmoveViethoa
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 353
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debfiles/com.supportjailbreak.iconmoveViethoa_1.0.0_iphoneos-arm.deb
+Size: 61658
+MD5sum: be7548ac1f0f3dd63ba17198f88c1cbf
+SHA1: c3776b3611d68d02d0c6b713dada5ef9824e69e8
+SHA256: b16168f2b637efa0c11c2ca0361ba4d17877a9995cf5d172cf2a2e435ade929d
+SHA512: b73af028d19e7dd933a8d4b8e353c7bf8d1bf9c75955eaf4455ab1cf57eb193d8b99b9efcc16453b7ff533642c1da7d93e14a6c42554b12169c4e3f5559d44bb
+Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=iconmoveDp
+Description: IconMove là một tinh chỉnh điều chỉnh vị trí biểu tượng trên màn hình chính ios 14
+Tag: purpose::extension
+Depiction: IconMove là một tinh chỉnh điều chỉnh vị trí biểu tượng trên màn hình chính Ios 14
+Author: Sky - Pain <2398453359@qq.com>
+Name: IconMove Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+dev: skypain
+
+Package: com.supportjailbreak.ios-winter
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Themes
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 4172
+Filename: ./debfiles/com.supportjailbreak.ios-winter_1.2_iphoneos-arm.deb
+Size: 4028488
+MD5sum: fe0d129e9f19ac5eef92b56df0d2db84
+SHA1: 9a7c840742f7e85f770e4c657f19ad22bb9426fb
+SHA256: f91bc80c321636e06da67a2ba9aa0a16c32f9efdf0c73fbb49df792c04531fcb
+SHA512: d17bf661ee3bdabca7cc6c223f649dd8588fa0cc07a7ca127b625d3e8963c62e0581f76c7385f8277d012dd16414054da63248c9a16bfd0600e06acf6476cc1f
+Description: Themes 3D Ios winter tải về và kích hoạt bằng Itheme hoặc Snowboars
+Name: iOS Winter
+Author: kid1carus <kid1carus@mail.com>
+Icon: file:///Applications/Cydia.app/Sections/chude.png
+Depiction: Chủ đề 3D Ios Winter tải về và kích hoạt bằng Itheme hoặc Snowboard
+SileoDepiction: https://bvnsupport-jailbreak.gỉhub.io/sileo/depiction.php?file=ios-winter
 

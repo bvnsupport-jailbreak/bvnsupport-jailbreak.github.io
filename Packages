@@ -396,6 +396,26 @@ Icon: file:///Applications/Cydia.app/Sections/chude.png
 Depiction: Chủ đề 3D Ios Winter tải về và kích hoạt bằng Itheme hoặc Snowboard
 SileoDepiction: https://bvnsupport-jailbreak.gỉhub.io/sileo/depiction.php?file=ios-winter
 
+Package: com.supportjailbreak.mideviceviethoa
+Architecture: iphoneos-arm
+Version: 2.0.0-3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 740
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Filename: ./debfiles/com.supportjailbreak.mideviceviethoa_2.0.0-3_iphoneos-arm.deb
+Size: 224460
+MD5sum: 6323f08d4a585f6a62646e177d536b9c
+SHA1: 0096d39137baecc4549f44805412ee10e6c43b13
+SHA256: e201d77cc51ebd6c642bbb313e8ce0b42574b65cabc49d036614d67a8392e574
+SHA512: 6c0495ae0b31861999ec40ca6b74944c513b052e9a3895cf51fccfa01d645464475e709a00f69d73ba933c7d878cebe061fd958789f234066bfa59140fdb3a3f
+Description: Một tinh chỉnh tuyệt vời cho thiết bị của bạn.
+Name: MiDevice Việt Hoá
+Author: DODGraphics
+Sileodepiction: https://bvnsupport-jailbreak.github.io/sileo-depiction/midevice
+Depiction: https://bvnsupport-jailbreak.github.io/view/2325
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.supportjailbreak.powerselectorios11to14
 Architecture: iphoneos-arm
 Version: 1.3.0
@@ -624,5 +644,40 @@ Description: Chặn phát hiện Jailbreak trong các ứng dụng của bạn.
 Name: Shadow Việt Hoá
 Author: jjolano <jjolano@me.com>
 Depiction: Chặn phát hiện Jailbreak tốt cho app Ngân hàng Mbbank và 1 số Game!
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.supportjilbreak.cydownvn
+Architecture: iphoneos-arm
+Version: 7.1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.supportjilbreak.cydownvn_7.1.1_iphoneos-arm.deb
+Size: 4358192
+MD5sum: 1e88259811eb10bc7597caed634f201f
+SHA1: 89685e916f39a54805b9fc2ec215ee11a383b4c7
+SHA256: b7d8af021abea03ba20ba92fb61ab3d5244231a070fe0c784e0703bdca4d6418
+SHA512: c518e469ad0d80416a54d8dcecfe24de4343e78401443a1c5d2d2da14ff7877e8b11a9c421fd46c8450829ff1823c712441d7eb54f98bbad6eb6960d891329e8
+Homepage: http://twitter.com/ijulioverne
+Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục các nguồn và tinh chỉnh trực tuyến,chặn quảng cáo và nhiều chức năng khác!
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.yourepo.supportjailbreak.battsafevitho
+Architecture: iphoneos-arm
+Version: 1.1.2.4
+Section: Tweaks
+Maintainer: Bvnsupport <nhatbien97@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
+Filename: ./debfiles/com.yourepo.supportjailbreak.battsafevitho_1.1.2.4_iphoneos-arm.deb
+Size: 121074
+MD5sum: aa33739a0d43643e25e309b8d3def3df
+SHA1: 996ec47c521d87d0cbb3f7f99c74ddbe5ecdc99a
+SHA256: b9ae874fed6588d21f31885db6aef963646fa3f3471cd41b92d4def7f4a349f7
+SHA512: 38c1ed675d7125c63c37a87809ca1ffc5b54ffa8be33fcde58f6f743b1f3fc377894fa14ef97bbf360068b77fcf081165a782d38a0d3401ad930dae7d0f3cfb0
+Description: Kiểm soát mức sạc pin của bạn!
+Name: BattSafe Việt Hoá
+Author: udevs <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 

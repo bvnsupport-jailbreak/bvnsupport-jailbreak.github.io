@@ -113,6 +113,24 @@ Sponsor: bienvannhat.org <http://nhatbie 97@gmail.com>
 dev: opa334
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.supportjailbreak.complications
+Architecture: iphoneos-arm
+Version: 3.4.5
+Section: Tweaks
+Maintainer: Bvnsupport
+Installed-Size: 3196
+Depends: mobilesubstrate
+Filename: ./debfiles/com.supportjailbreak.complications_3.4.5_iphoneos-arm.deb
+Size: 863976
+MD5sum: 1adf26f2b70f478a3ba6487c8574820b
+SHA1: 97edfc102a6ded360923663e8fd3e2bb7ebbdc6c
+SHA256: d7a5e100199e8b8fac31f4e56ac63080b469fe743892b3bc05190cf7300bcda9
+SHA512: 9b8588303e50569c959136a15cc9f172a32572f99c273d4ece06e56d02ab0e254f3f561cdbd88c046b27cf053644a71b5cb75695ea647e1da1b17ad0ffe9783a
+Description: Tiện ích watchOS trên màn hình khóa của bạn
+Name: Complications Việt Hoá
+Author: Ben Giannis
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.supportjailbreak.copylogvietho
 Architecture: iphoneos-arm
 Version: 1.5.1

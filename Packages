@@ -701,3 +701,48 @@ Name: BattSafe Việt Hoá
 Author: udevs <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: git.shin.myinst
+Architecture: iphoneos-arm
+Version: 5.6.0.2
+Priority: important
+Section: Archiving
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate, net.angelxwind.appsyncunified
+Filename: ./debfiles/git.shin.myinst_5.6.0.2_iphoneos-arm.deb
+Size: 92064
+MD5sum: 5140519d0e5cb881964105508f6355a0
+SHA1: 31949d90abb30756fadf2548b86f30325c0d6eba
+SHA256: 4082601748c62533b9be915d69ae17351520adc0cd26b28148d30bc7fbfa6e9e
+SHA512: da761c3b4440ac82fa2c44cc436f1ead1d1254d7b579e5dca18bb929912011ca70131195b447257c7aa12ea008140e5ae019b2e81741960af77b690f30d3db1e
+Homepage: https://bvnsupport-jailbreak.github.io/
+Description: Install your iPA. Using command myinst <path to .iPA>
+Name: myinst
+Author: shin-chan
+Depiction: https://bvnsupport-jailbreak.github.io/description.html?goto=git.shin.myinst
+Sponsor: Bienvannhat <https://bvnsupport-jailbreak.github.io>
+Icon: file:///Applications/Cydia.app/Sections/luutru1.png
+
+Package: plutil
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: Samuel Bingner
+Installed-Size: 256
+Depends: firmware (>=2.0)
+Conflicts: com.ericasadun.utilities, com.bingner.plutil
+Replaces: com.bingner.plutil
+Filename: ./debfiles/plutil_0.1.deb
+Size: 69220
+MD5sum: b555e1373d89313e7adb25c93bc44193
+SHA1: 4ecd37dc7038c82af40d9777a40372753028207f
+SHA256: 59208fbd8f0ab448fa87db048cd1ae2470e58445f1da49406d6365593283db1b
+SHA512: 3a421ef369082d1e3685a04dc702b1e76d8575388b1d5fded335cfbbb4c3107bd0f0f414b38e79fdbfcb0dfe1fb7cee1ff21c5773c41b88b5391503ec60a94e1
+Description: plutil as from erica sadun
+Tag: role::hacker
+SileoDepiction: https://bvnsupport-jailbreak.github.io/sileo/none.json
+Name: plutil
+Author: Samuel Bingner
+Icon: file:///Applications/Cydia.app/Sections/hethong1.png
+Depiction: https://bvnsupport-jailbreak.github.io/index.php?pid=439
+

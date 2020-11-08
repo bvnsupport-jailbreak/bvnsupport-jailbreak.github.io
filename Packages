@@ -163,6 +163,23 @@ Name: AppStore+++
 Author: CokePokes <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.battsafevithoa
+Architecture: iphoneos-arm
+Version: 1.1.2.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
+Filename: ./debfiles/com.supportjailbreak.battsafevithoa_1.1.2.4_iphoneos-arm.deb
+Size: 121084
+MD5sum: d337270a836c4951bb38f08fd031e2b3
+SHA1: 83dd366d1d0001499d86e83a88e72e16b5cb7f25
+SHA256: 54e35f2e4c3c203139f7fe4b6031ddf189aa5ac38d7c8e645419ec384ab4fc91
+SHA512: 9112647f7c47d16995739924d789f1eefe532db4356e2a4adb64733088aadbd5e109c44782ba1badf1cc4834e3aea22bb7a70710860d04740fa63f16d568849a
+Description: Kiểm soát mức sạc pin của bạn!
+Name: BattSafe Việt Hoá
+Author: udevs <nhatbien97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
 Package: com.supportjailbreak.boxy4vn
 Architecture: iphoneos-arm
 Version: 4.1.2
@@ -683,23 +700,6 @@ Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục c
 Name: CyDown
 Author: julioverne <julioverne@me.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-
-Package: com.yourepo.supportjailbreak.battsafevitho
-Architecture: iphoneos-arm
-Version: 1.1.2.4
-Section: Tweaks
-Maintainer: Bvnsupport <nhatbien97@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
-Filename: ./debfiles/com.yourepo.supportjailbreak.battsafevitho_1.1.2.4_iphoneos-arm.deb
-Size: 121074
-MD5sum: aa33739a0d43643e25e309b8d3def3df
-SHA1: 996ec47c521d87d0cbb3f7f99c74ddbe5ecdc99a
-SHA256: b9ae874fed6588d21f31885db6aef963646fa3f3471cd41b92d4def7f4a349f7
-SHA512: 38c1ed675d7125c63c37a87809ca1ffc5b54ffa8be33fcde58f6f743b1f3fc377894fa14ef97bbf360068b77fcf081165a782d38a0d3401ad930dae7d0f3cfb0
-Description: Kiểm soát mức sạc pin của bạn!
-Name: BattSafe Việt Hoá
-Author: udevs <nhatbien97@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: git.shin.myinst
 Architecture: iphoneos-arm

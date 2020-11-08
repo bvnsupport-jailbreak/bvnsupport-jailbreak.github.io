@@ -433,3 +433,65 @@ Name: SafariWallpaper Việt Hoá
 Author: Litten <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.supportjailbreak.snowboardVH
+Architecture: iphoneos-arm
+Version: 1.4.0~Beta4
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 4788
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.supportjailbreak.snowboardVH_1.4.0~Beta4_iphoneos-arm.deb
+Size: 2269304
+MD5sum: 2c29e56cd6a29b469e15d11dcb01e732
+SHA1: f875c8eef842a2d2c9b8322f2634d88a1bcec5eb
+SHA256: ddb5d062fc758a4a21d630946b0aaa0816391ec3b12167dcb70ec8058a73af65
+SHA512: 1b47f3fdac486edeb31c2840a2d1f8aead0bfb964edc6723a07f284d0c58729d77b8ecc6753f71619b15308de1b46a61d5ac078cd8bc0bf1e6e6fa5b8da8cd87
+Description: Dùng để kích Hoạt Themes hoặc các tiện tích khác.!
+Name: SnowBoard Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Author: Spark & Dennis D. Bednarz
+
+Package: com.supportjailbreak.tiktoknoads
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 163
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.awemehack
+Filename: ./debfiles/com.supportjailbreak.tiktoknoads_1.3_iphoneos-arm.deb
+Size: 20608
+MD5sum: 45c2fdbb152726f47597f8c0bd1ad584
+SHA1: f403dafa475a364d5bab3b98386684744b734556
+SHA256: 8af88f930df4e39da9431e318e03c25f1278ab654dd68e6b3a93975e5d5405ff
+SHA512: b396aec161ada0467e922bf9b8349e9e0c038076cb5cb2e769322a24c77e8215aeffdd830ead38ac67b940f31f7f1af6062c096e8ebb1698225efb6ab00cd067
+Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/
+Description: Chặn tất cả Quảng cáo,Tải video không có Logo,tự phắt tiếp Video.Hỗ trợ từ Ios 9 đến ios 14.2.!
+Tag: purpose::extension, compatible::ios13
+Author: Agricu <1004571093@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Name: Tiktok TQ No ads
+Sponsor: Bvnsupport.org <http://bvnsupport-jailbreak.github.io>
+dev: agricu
+
+Package: com.supportjailbreak.titanvithoa
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Conflicts: com.spicat.youpip
+Filename: ./debfiles/com.supportjailbreak.titanvithoa_1.2.3_iphoneos-arm.deb
+Size: 160442
+MD5sum: 1a122d5cbffb69a32798416cfee8217e
+SHA1: 070b108b4544cacb78d7c9a24bd61726642984a6
+SHA256: 5959ed862d1640507f07f69be778704ea56bc141419fb9f93d81a2e40f1f8364
+SHA512: aadaa5ccd5c2d6f45471118774d75c2cb380b6b46d2fdcb7323e51cd76c66a305944822aa3c09171c84e7339201fb1ec53fdc246ed110c026a2e9d31de2d2e05
+Description: Hình trong hình hỗ trợ cho tất cả các ứng dụng yêu thích của bạn,nếu các bạn tải về không hoạt động thì có thể vào cydia cài thêm Tweak Appstore+++ để hạ cấp youtube xuống bản 15.30.3
+Name: Titan Việt Hoá
+Author: tcbrooks <thesaltcracka@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+

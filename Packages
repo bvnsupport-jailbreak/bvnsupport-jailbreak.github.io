@@ -222,3 +222,22 @@ Name: Filza File Manager 64-bit
 Author: TIGI Software
 Icon: file:///Applications/Cydia.app/Sections/tienich.png
 
+Package: com.supportjailbreak.genesis2vietho
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Bvnsupport
+Installed-Size: 3712
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.16), com.spark.libsparkapplist, org.thebigboss.libcolorpicker, xyz.tylerd3v.libtylerd3v, me.conorthedev.libappearancecell
+Conflicts: xyz.tylerd3v.genesis, xyz.tylerd3v.genesis13
+Filename: ./debfiles/com.supportjailbreak.genesis2vietho_1.0.1_iphoneos-arm.deb
+Size: 2472180
+MD5sum: c8b886fa97c839c29f99c30344447a39
+SHA1: c975ae9fa704264a7694f108197355cb162c07b9
+SHA256: 17ae4e3d2e9ccf49bb022d209922534c1bdcdc69fb875690c4b52d0c95f0a914
+SHA512: 2e1f60d597df3b697b9de83ee72326dc8d9252ffbc6e28d1c0e0cf88485cc023605e0d36294a8c546212fe9ff476baddd45c62738fbb0e6b3c6d64b920d5a95b
+Description: Sự phát triển của một cái gì đó đẹp đẽ!Tinh chỉnh hệ thống!
+Name: Genesis 2 Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Author: ItzNebbs
+

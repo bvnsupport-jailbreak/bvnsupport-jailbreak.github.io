@@ -24,35 +24,17 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debfiles/com.bvnsupportjailbreak.icleanerproVN_7.9.0_iphoneos-arm.deb
-Size: 6741754
-MD5sum: 4f600b97d69a1be16cbedf4cceb4a4ce
-SHA1: 1fe5bd520c771f6c4324169036a00880a6bb8641
-SHA256: 0755d7ce96e71715093cdc93f0daaf0c403cdbf4f221a85870072257b54dbd1a
-SHA512: c69095d8a110eb17c4818d4a0f276c0a189f80a085d68e582145e7dc547f43ce12482a3baee55980f8ead8fd22ba6e585c0422fef46ff34d83bbd040a299cad4
+Size: 6741746
+MD5sum: 68203a68ee2f06de52dafab88d7f4647
+SHA1: 1782b8850d03194d2498b1ef40f1d328f999ff9c
+SHA256: 67d2da98050e4a2b92d9abbab57291ff4d9043a1c23cfd30511351deb66a041f
+SHA512: a073085cc9a9daf60550882fa5ae16dd4bc9cdf2a7132223e2cd5fdf57425bf64b74af50c641b80706608b2f601673cff05dbb2d6de8f0dbfa94c4aa8518a23f
 Homepage: http://Bvnsupport-jailbreak.github.io/icleaner
 Description: Trình tối ưu hóa & dọn dẹp hệ thống iOS
 Name: iCleaner Pro VN
 Author: Ivano Bilenchi <bienvannhat97@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tienich.png
+Icon: file:///Applications/Cydia.app/Sections/tienich1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions/?pkgId=com.Supportjb.icleanerpro
-
-Package: com.supportjailbreak.Gesturesi11VN
-Architecture: iphoneos-arm
-Version: 3.5.0
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debfiles/com.supportjailbreak.Gesturesi11VN_3.5.0_iphoneos-arm.deb
-Size: 33928
-MD5sum: 5ed4827b69d276d5d317c0a3daa9e3d5
-SHA1: 14c0a71373e9b648fb3fb1d052f269fb710d627b
-SHA256: d74308be049d894f54138dbcf7e3d61f4a82a7c1037391f613cf3a40e2dbb133
-SHA512: 561282cb86eb7861120b2552866cec2c1e22be53caecfefbba679e53dd21b8945969a206a1e502fc438295db7a9ec3bc806a3364b350bc1296b898f25e47eb88
-Description: iPhone 11 cử chỉ và các tùy chọn khác,tính năng độc đáo,nhẹ nhàng.Hỗ trợ ios 13 tới 14.2
-Name: Gesturesi11 Việt Hoá
-Author: Hius
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.Gesturesi11VN
 
 Package: com.supportjailbreak.LynxViethoa
 Architecture: iphoneos-arm
@@ -117,15 +99,15 @@ Installed-Size: 616
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
 Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
 Filename: ./debfiles/com.supportjailbreak.animplusviethoa_1.0-6_iphoneos-arm.deb
-Size: 105848
-MD5sum: cb283d490fb52bb71c1ecc0e1bcf0c23
-SHA1: 726a0c0df39542be4b110251c8f3d5f3fee2d07b
-SHA256: 6116eea675d84e49dedfaaae7dcc132b5a771c9874c9aac7ab6da41fdb06d260
-SHA512: 8d6d5ba2f971afe057432d9f1d680292cb1392737a6243539934099607c17129910f64a995445bb6a45a5556bd1f9ebd96218a7838451d765bce70e6f9eed21b
+Size: 105850
+MD5sum: 83137f74e6a602c3ccb5d0513ffd169e
+SHA1: e2cb4ca4d939f4e4316717b5f0684ced8d9c7572
+SHA256: 356c807519cf64cf91eebe262763a7dcc5807c770a33d4251a99e15b3953b938
+SHA512: ffec1f20a4b2518006652bc31e0a3fdfba28e569e0a1ec2ee6b444bdfeb2b252d8fd403b01feaf0ff529ff3fcc8b5b729220a61e22edd27dc2b80f31982dfa7d
 Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
 Name: AnimPlus Việt Hoá
 Author: eXqusic
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.appstore
 Architecture: iphoneos-arm
@@ -135,15 +117,15 @@ Maintainer: Bvnsupport <nhatbien97@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: com.unlimapps.uaupdatetools
 Filename: ./debfiles/com.supportjailbreak.appstore_0.9.13-2_iphoneos-arm.deb
-Size: 680202
-MD5sum: fb6a1c93adc3e17081101a3ab43b43e0
-SHA1: 2907d5c00fbe0d020ca3899d2121d7d946c1576b
-SHA256: 5ffdcf0399b58284f3ada53c93ae77a6888d1669ba6359369426b423feac202d
-SHA512: 4297dfb61be734a99b34c0468cd2c00d53be315e25899e9823a491134e3203daa4ddf4440843ccb2529a8d103e16aa51722c08bb16cae945dd870425a6c23274
+Size: 680200
+MD5sum: e6e2ce2db4ce740e81ccb803d3c27320
+SHA1: dcfb0f6bf8c718576966d2259fabb4982fb4e870
+SHA256: 1292d140faf8adb9a5c9cc58b72cff1fa31a49ae5f8dfbd451ed21c91dee1714
+SHA512: 3aace4145fc41a107d9793fda726c6ee86bdc7dff0fd955ba4135ee94ce093f6c82d971124a5deb3ee91abc153e241758f5ec8b738c309eef6faa5078ca04e42
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
 Name: AppStore+++
 Author: CokePokes <nhatbien97@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.boxy4vn
 Architecture: iphoneos-arm
@@ -154,15 +136,15 @@ Installed-Size: 3464
 Depends: mobilesubstrate, preferenceloader
 Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
 Filename: ./debfiles/com.supportjailbreak.boxy4vn_4.1.2_iphoneos-arm.deb
-Size: 2828906
-MD5sum: af6dd69dce3d902dd16e472e10529f31
-SHA1: 669aed9e8b23edd500dbdf6fed95d5f56cb5ab5f
-SHA256: e388abe7c34318da072853348e1fc5f1f74d8524e5a31fb3fe00a1487325c657
-SHA512: 73884c2b17ab0f2a400cc58680f744964b18c868de7d670bef2e7872e49ea95e150d51bb88725427275c9c259d735aa1599ddd05b155163efb2aa78209f3b064
+Size: 2828904
+MD5sum: 6b1f4d4ef1e8e1e790198e2aa7a73e61
+SHA1: 4aca8d10d2a5d55aecb551dba845ec15575c1782
+SHA256: 96f4d999fe404020a57715f8645eb5217fe462e624134bf69e1bdab2f8b10465
+SHA512: 175d2c028d299f339d09b13439af945b792acffd1da1015dafae40b4934f900a5b20ac0f86e40bd0e21b3fbf2df9f7d07ad0d6384e8fcf925ab5faefd6f29937
 Description: Hoàn toàn tùy chỉnh bố cục biểu tượng của bạn!  Bạn đã bao giờ gặp sự cố với dung lượng trong SpringBoard của mình hoặc bạn cảm thấy nhàm chán với bố cục mặc định của các biểu tượng?  Chà, Boxy có thể khắc phục cả hai vấn đề đó.  Bố cục biểu tượng của bạn hoàn toàn có thể tùy chỉnh với nhiều tùy chọn có thể định cấu hình trong ngăn cài đặt.  Bạn có thể điều chỉnh khoảng cách của mỗi biểu tượng so với mỗi cạnh của màn hình và khoảng cách giữa mỗi biểu tượng với nhau.  Những kết hợp này có thể cung cấp một số bố cục khá thú vị.  Nếu bạn không phải là loại quảng cáo hoặc không muốn bị làm phiền với việc thử nghiệm từng cài đặt, có sẵn các cài đặt trước cho bạn lựa chọn.  Bạn có thể căn chỉnh các biểu tượng của mình ở nửa trên của màn hình hoặc nửa dưới hoặc thậm chí ở các góc trên cùng của màn hình.  Bất cứ điều gì thực sự đều có thể xảy ra.Boxy cũng cho phép nhiều không gian hơn cho các tiện ích con của Bảng điều khiển X.  Bạn không còn phải thỏa hiệp với những ứng dụng nào bạn muốn trên trang chủ của SpringBoard, giờ đây bạn có thể có tất cả chúng trên màn hình cùng với các tiện ích yêu thích của mình!  Hãy sử dụng nó theo cách bạn thích, nếu bạn thấy cách sử dụng mà tôi không đề cập đến, vui lòng liên hệ với tôi và cho tôi biết, tôi rất thích nghe phản hồi về các chỉnh sửa của mình.  Boxy hoàn toàn tương thích với mọi thiết bị hiện nay!
 Name: Boxy 4 (iOS 13)Việt Hoá
 Author: William Vabrinskas <wvabrinskas@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.choicyVN
 Architecture: iphoneos-arm
@@ -172,11 +154,11 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 778
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Filename: ./debfiles/com.supportjailbreak.choicyVN_1.2.6_iphoneos-arm.deb
-Size: 165252
-MD5sum: 338210d23d043bfe82449564c0daa668
-SHA1: 305ac44354c5155fb3387a71d0dbaa0fc03c82a8
-SHA256: d4675d4b2f2bb49fa331497d28afcf2e678043ffabe34425bb8750b5d564f9f4
-SHA512: 00f0f318234cdaea642c6277e77b79f33ad983adf54a4b64428fe834b208895c5e7fa373aba2a15bf127f204b9cfc13c49b4b4f94ddd03869d8c2bf83d439325
+Size: 165250
+MD5sum: 7efda9e21240e4545feb14cccfdf8d2c
+SHA1: 42d43e47e133d4f9fc688694226298c0d2f3e542
+SHA256: 3ca6803356a6f2fb723cfb388c916be6d7a6079f99100bda37d2b92d6c6afced
+SHA512: 4d25d4d9b47770dce4b1953b7a1babdb53388255f7746d270a3e46b09902ca93f5ab5c29ee0357900f2c926c5ce9aa5909c20e8f1a761168ef0c15ff37b56aae
 Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=choicyDp
 Description: Cấu hình tinh chỉnh nâng cao,chặn phát hiện Jailbreak
 Tag: purpose::extension
@@ -185,7 +167,7 @@ Name: Choicy Việt Hoá
 Depiction: Tinh chỉnh,chặn phát hiện Jailbreak cho ứng dụng của bạn.
 Sponsor: bienvannhat.org <http://nhatbie 97@gmail.com>
 dev: opa334
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.cloneappcmd
 Architecture: iphoneos-arm
@@ -215,15 +197,15 @@ Maintainer: Bvnsupport
 Installed-Size: 3196
 Depends: mobilesubstrate
 Filename: ./debfiles/com.supportjailbreak.complications_3.4.5_iphoneos-arm.deb
-Size: 863976
-MD5sum: 1adf26f2b70f478a3ba6487c8574820b
-SHA1: 97edfc102a6ded360923663e8fd3e2bb7ebbdc6c
-SHA256: d7a5e100199e8b8fac31f4e56ac63080b469fe743892b3bc05190cf7300bcda9
-SHA512: 9b8588303e50569c959136a15cc9f172a32572f99c273d4ece06e56d02ab0e254f3f561cdbd88c046b27cf053644a71b5cb75695ea647e1da1b17ad0ffe9783a
+Size: 863984
+MD5sum: 343bbf7aef758d7f678473080299f312
+SHA1: a0387941edf7a05c8852b1b5efd41024c39fde95
+SHA256: cf8ca556533e3c9b0dd440239a8be2c7d3b9ad7cc01cc91e1ffc4e487af9a11c
+SHA512: 97a72db9a8b822d4453a96102b72f954afb229868b572e658ae2be8539be24a544b7f4994087c37f4b1bf36715696de60490d543bb67179916ac6f1c9d1b70e2
 Description: Tiện ích watchOS trên màn hình khóa của bạn
 Name: Complications Việt Hoá
 Author: Ben Giannis
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.copylogvietho
 Architecture: iphoneos-arm
@@ -233,15 +215,15 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 4596
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.supportjailbreak.copylogvietho_1.5.1_iphoneos-arm.deb
-Size: 2318
-MD5sum: acd518993d5863291e6e3b7910e6bab4
-SHA1: cd2ccc31bdd30c78bfdcd44290dc418d869625fc
-SHA256: 5cfbcc563b7473806bff6da25dacd7a4c70a5434a205a1f205a8fb39129441b6
-SHA512: 252b61840acc7b92dd4eaf1f12efa0136fda4a0f55f293fb6de44369c460c4294113d985448b7de7a5680994e6da5f9c21a36558a1f7ddc965d8ff533cf18de4
+Size: 2322
+MD5sum: ac699b1b432de205aaa47049bed9eb0e
+SHA1: 1b07766f24561abf86e612b2981aa80916f12b91
+SHA256: ea62d54e112a583cb75c66ceabb63b60abbdb87647941d675f2583bbb2e39c34
+SHA512: 02f52289dc95c80dfe1e198496ad59badee6d25d1652e3d008e52a95abbb642207a23795088f508991b7bd1fa3110fd91f43f4c755b672178607f3e6b1ea1e11
 Description: Gói tiếng việt dành cho Copylog!
 Name: CopyLog (Gói tiếng việt)
 Author: Biện Văn Nhật
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.cracktool4ios1214
 Architecture: iphoneos-arm
@@ -250,15 +232,15 @@ Section: Utilities
 Maintainer: BvnSupport <nhatbien97@gmail.com>
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Filename: ./debfiles/com.supportjailbreak.cracktool4ios1214_4.0_iphoneos-arm.deb
-Size: 729178
-MD5sum: 065694d6ef614736e1727053c7c50c3d
-SHA1: 8815375cd610b8650acff2184fa12ee90c53d780
-SHA256: 1a9303c280234233e0b39c2487c95b4b308dcf3157193d169a77b4a602dcfcff
-SHA512: b97875dbb3dede10525a44138f40c647b91fcdab80d5c1cb3eb76782c053ddb9965af721d2a67bf087e921e851835ca9c18f4c34e3e9a5f32a0e9b20ea0259eb
+Size: 729180
+MD5sum: bd883d929eab228f6da4ec1a599c5403
+SHA1: 2a91753a55627bdd6e474a3b025fd012cd9d1ae4
+SHA256: e688a07fe97f9297389f7e9a79206844c9cd3bb5decea806de46fb7449d6b5a6
+SHA512: 98ee20b3fed7b62816d9b713d684608419030a5dad27f2222b817e11f187c748461799b2a24390b4f7e108618bff27b8956b88ebf4451b10cf15c7127c5ae848
 Description: Crack Tweaks on one click
 Name: CrackTool4 (iOS 12/14)
 Author: julioverne <nhatbien97@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tienich.png
+Icon: file:///Applications/Cydia.app/Sections/tienich1.png
 
 Package: com.supportjailbreak.dockxVN
 Architecture: iphoneos-arm
@@ -269,15 +251,15 @@ Installed-Size: 1368
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
 Conflicts: com.restiveconch.actionbar
 Filename: ./debfiles/com.supportjailbreak.dockxVN_2.2.3_iphoneos-arm.deb
-Size: 436328
-MD5sum: a8ca8fae691ccb532f605512e1c51007
-SHA1: dbc0e58b134efb7c11102eebdb4d85f5420504b9
-SHA256: c68679b4460d6c4efde0ef6fee4b6b00d3c23b1808e278e5f148d87d7362630a
-SHA512: d3aa5e113c5e5667e0795cb09af4ee4b6b3abbc9c54730733e8966a20f825f8ac67bd4f061f83566e138e5ee8214ebd780d1928ecb1ce6383e8830d7d828785a
+Size: 436330
+MD5sum: 857fe787af191c752c3dfc71471c5910
+SHA1: f642f47829ec619b0c479fdce309aef4ac005901
+SHA256: c6802689b88e5ddae4307d41345bc65d2fdcb84eab2b5bc1926428605136a02b
+SHA512: 8caa6ba0401e1d9513619480d8a1df356d06b0304ce7b52d396f47fafbce0dd82dd337aaa4678f0b561e01bbb5124609e0e4c30e447f9a3f7b7769e965c069e8
 Description: Các phím tắt Pasteboard trên dock của bạn!
 Name: DockX Việt Hoá
 Author: udevs
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 Depiction: https://bvnsupport-jailbreak.github.io/repo/depictions/?p=com.supportjailbreak.dockx
 
 Package: com.supportjailbreak.fake2sim
@@ -288,14 +270,14 @@ Maintainer: CydiaGeek <nhatbien97@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.supportjailbreak.fake2sim_1.0.0_iphoneos-arm.deb
 Size: 10352
-MD5sum: 7c33be831c5beb37232d45bb0baf055c
-SHA1: e4bb668113faf85be30eaa529db9ec6dd3bc223f
-SHA256: 7680083880fe50220854f7ecd26f84f7f09ece0d47c328986fdb9a62559dd96e
-SHA512: 207ee530f67e07b0c1a304ed1a48ec30e9dc60d3ab04b35c95e7daf1313744f9e108f6255c6c30eaedcb554e969b15fe97604d58fa5ab6be1d8e6e8237884cc5
+MD5sum: 5cff0932fe71f128ed938dad67831cb5
+SHA1: 453b8580ea7b90dd867beac86d16513000a73501
+SHA256: 7605b6690eaf66a362aff43fb00842ae4f1d4bfa9bb6cb32da27eba6e836d41d
+SHA512: 3f215a9ebe667d65a6f7e3d41c8e01bd73a9252e0a0fa69329d76349b9750571152b1d4fd71c999ef90de3c6bca09dd46f8804519563a2814c111688819fd38d
 Description: SIM kép giả mạo như nhà cung cấp dịch vụ!
 Name: Fake 2 Sim
 Author: CydiaGeek <lucaluca86@aol.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.filza64bit
 Architecture: iphoneos-arm
@@ -306,15 +288,15 @@ Installed-Size: 21680
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza
 Filename: ./debfiles/com.supportjailbreak.filza64bit_3.8.0-24_iphoneos-arm.deb
-Size: 8360974
-MD5sum: 21884a8d0f9807999b0be8a8dc2db77f
-SHA1: 3060065207b8ddcafa64e1ce003553550082bb83
-SHA256: 23c37390f328dc650fd7c585019bd0113960e8593414860d07035816334e48c4
-SHA512: 8592369100af902340afc5299e53509cab2533ee900c2aea023e87bc394f4a003ec71cedd44555fc5002f9d1de55f3110fc6096a66a53796d26cdb47b354e629
+Size: 8360976
+MD5sum: fcf45f8ac13e83b9742f8b1648409dc7
+SHA1: ee92da0e5a857631fc19937b15e7de507aa81098
+SHA256: 61f96e14d0f9a9c6d69d87a93428f3a718632f2ba3b5a4abbf2869b4e646b1c8
+SHA512: 03b34e3c11561f7b52388a3c5f89acddf8fcf688e7483f443f728c0b6a33cdc53125946e223731a6c2e4568a43ba1a14f43401b3cd547261be487a14899a48f8
 Description: Mô tả:Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+. Phiên bản đặc biệt này chỉ hỗ trợ các thiết bị 64-bit
 Name: Filza File Manager 64-bit
 Author: TIGI Software
-Icon: file:///Applications/Cydia.app/Sections/tienich.png
+Icon: file:///Applications/Cydia.app/Sections/tienich1.png
 
 Package: com.supportjailbreak.flex3beta
 Architecture: iphoneos-arm
@@ -326,14 +308,14 @@ Recommended: com.rpetrich.rocketbootstrap
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: ./debfiles/com.supportjailbreak.flex3beta_1:3~Beta97_iphoneos-arm.deb
-Size: 14371352
-MD5sum: 48ad0ee8c8001dc1ca39417c3ff94165
-SHA1: a43e3d3d8d52403b1b0c5fc5daa8e03355c2c6f7
-SHA256: af91bb54d06b1519591835bde6f0451fe455c8c0cd18f468310515c119c315b0
-SHA512: e752aab708c067470a1290ab4e643583a4e33aa98b51dd2dd62c04223825d6116a4328968d8f23ef8bb572fe9193b571c90ed4afcc126e2be2014ed16f0e5137
+Size: 14371334
+MD5sum: e990bfda1b1eb1a635b7f2089155a74e
+SHA1: 7cea566d13b4fcfa85117ffcabef41c9a67a28c9
+SHA256: 236a562523281d65804a4c07290e8247bcb13cfdea23ce5a0f994e91a9a22984
+SHA512: af1da1dd05bc73f4d47f2f80df34b5cfd9798181b44fd38e9c71e248379c7427551386b2d899799e672a5211c632da11cc955004b2dd700761fff9e964c8c3df
 Description: Phát triển các chỉnh sửa của riêng bạn và chia sẻ chúng trên cộng đồng Flex
 Name: Flex 3 Beta
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 Author: John Coates
 
 Package: com.supportjailbreak.genesis2vietho
@@ -345,15 +327,15 @@ Installed-Size: 3712
 Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.16), com.spark.libsparkapplist, org.thebigboss.libcolorpicker, xyz.tylerd3v.libtylerd3v, me.conorthedev.libappearancecell
 Conflicts: xyz.tylerd3v.genesis, xyz.tylerd3v.genesis13
 Filename: ./debfiles/com.supportjailbreak.genesis2vietho_1.1.1_iphoneos-arm.deb
-Size: 2472300
-MD5sum: d057dae0d15696aac5192cc91a32e06b
-SHA1: 4b169a318273e9a4a9e0767283eddaf8c9bb9c23
-SHA256: 027749b5d398f87f07c386d28d6c6fc3eecc935609d65c91317be854ee1141dc
-SHA512: 4a29f81e6e03c9b4e9de6b34733d553250018cc4c31757e068018c711c19a9ebde7a0b2dc8831be29328e0dc0b8bcb83014e0bab8a1858a03882c92500a551ae
+Size: 2472298
+MD5sum: c5827f854a9a13fb1a0cdfb870b5e825
+SHA1: 38edfd882f8d5b8fe05b2feb0c6847b1237fd1da
+SHA256: 1c822e5074780493c8f95c3dc42c314cf0dc90fca98f6b1b216740a2e3c5c744
+SHA512: 51d5f75ea1f6a92c7a3ff175ffec62fefae1a9570257b5e827b5bb1e70cf2bcae7d5f06277ebf037b6a337f532a9910c7de148784197d088490b0724f0eb9797
 Description: Sự phát triển của một cái gì đó đẹp đẽ!Tinh chỉnh hệ thống!
 Name: Genesis 2 Việt Hoá
 Author: ItzNebbs
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.halfipadVH
 Architecture: iphoneos-arm

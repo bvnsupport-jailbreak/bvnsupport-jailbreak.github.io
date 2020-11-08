@@ -343,17 +343,17 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 559
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debfiles/com.supportjailbreak.halfipadVH_7.8.9_iphoneos-arm.deb
-Size: 114462
-MD5sum: 208fc9cec33dd9a3065e443d10486938
-SHA1: 215e8c8b90747b327ca19517133b62c6998a59e6
-SHA256: 89fe2dd3a6d1defc82866921630ab19821b3a8e6cdcfa434dc624dfa7f5084be
-SHA512: 6ba4d8079596bf397b9e68799025ca72fa1c90472446128676d4424d00330d82b2c973bafc564fc9ce13804fafa282fb3ed7b2a865a930587483fde1779023de
+Size: 114458
+MD5sum: c0777afea0f0384f7dd5120325694616
+SHA1: 342b65f5fb106aaa67adc2c3cc226a4167d78f6b
+SHA256: 9f7892f7a7af2ab6b23148c549444e74171aee8527be72e0bee8168f168c037e
+SHA512: ecb21df2a0b5f701c4ef97fd0c49fca8b140628556a305efd2438d1aabbf8222da14c2d812611c171b9d6f095cd34552ee8564df0c1a7bdf3cd5470c1937efe9
 Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
 Tag: purpose::extension, compatible::ios13
 Author: Hius <h.h.haiduog@gmail.com>
 Name: HalFiPad Việt Hoá
 dev: hius
-Icon: Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.supportjailbreak.iconmoveViethoa
 Architecture: iphoneos-arm
@@ -533,4 +533,61 @@ Description: Hình trong hình hỗ trợ cho tất cả các ứng dụng yêu 
 Name: Titan Việt Hoá
 Author: tcbrooks <thesaltcracka@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.supportjailbreak.translationvitho
+Architecture: iphoneos-arm
+Version: 1.4.9
+Section: Tweaks
+Maintainer: BVN <nhatbien97@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debfiles/com.supportjailbreak.translationvitho_1.4.9_iphoneos-arm.deb
+Size: 177392
+MD5sum: 44e3fae6e339cb38283e08a3f3e6531d
+SHA1: 3af481f3de1be2393e40976384d2d7fcdfa8b3ba
+SHA256: 28ec98ef1f3df50ea70e930c27b51d495e423c2a871a5e6cb73d4f5ecbfe17cc
+SHA512: 449cc48081ea7d0ff08d074252d2e2644579c0059302cc22c45d0ec79460b3b82aae7f79a2f3e72a65f015ddf1f55106d4100f37975b45d50a280063438bec2b
+Description: Translatin Việt Hoá
+Name: Translation Việt Hoá
+Author: Sky - Pain <2398453359@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.supportjailbreak.ventanavietho
+Architecture: iphoneos-arm
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật  <Nhatbien97@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000) | org.coolstar.libhooker, preferenceloader (>= 2.2.2), org.coolstar.ldid
+Filename: ./debfiles/com.supportjailbreak.ventanavietho_1.6.2_iphoneos-arm.deb
+Size: 1664
+MD5sum: 80e9d394bf5a373011b375e023278aa1
+SHA1: dec113ac108711091781d8f9374fe2daaef59d44
+SHA256: f659e6f1ba31dceeef5df14658b5a3677201ba245d10d23e3f239b24f8fb6ccb
+SHA512: 26df2fedb1d5c67cb9a89c49fd0a675f39338db763a34376c0510ec351ad07379f79b31fe5971e6c93921c99b324a1e014322905016387679dff4016941c8c6b
+Description: Gói tiếng việt dành cho Ventana
+Name: Ventana (gói Tiếng Việt)
+Author: Biện Văn Nhật <nhatbien97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Depiction: https://bvnsupport-jailbreak.github.io/package/com.supportjailbreak.ventanaviethoa/
+dev: Biện Văn Nhật
+
+Package: com.supportjailbreak.videoBG
+Architecture: iphoneos-arm
+Version: 0.6
+Section: Addons (Tweaks)
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 596
+Depends: mobilesubstrate
+Conflicts:
+Filename: ./debfiles/com.supportjailbreak.videoBG_0.6_iphoneos-arm.deb
+Size: 273704
+MD5sum: 535176ad7f7ae838b77724fd9bc87cce
+SHA1: f7d5038411d30d480800d4812e3b0889f091e3e0
+SHA256: 5f204d6f4b022fad070ce8a2f76055126982a0111b6bef8e5735d8be3464c9f0
+SHA512: ccc584c4b640abd315c29d50e5bd88f05fc0e47ff8e6365f1304aa55b08f2c2a2e22464fa84736b050ab36f4618d601d04cc8a35a459d4c3d6b2d7252fc2c0b7
+Description: Thêm video quay màn hình của bạn vào khung Iphone
+Tag: cydia::paid
+Name: VideoBG VN
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport-jailbreak.githib.io/supersecret/depiction.php?iframe=depiction/videobg
 

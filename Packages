@@ -1,3 +1,22 @@
+Package: com.Apple.support.Jailbreak.icon
+Architecture: iphoneos-arm
+Version: 1.0.0
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.Apple.support.Jailbreak.icon_1.0.0_iphoneos-arm.deb
+Size: 43954
+MD5sum: c57117d4905433449fd87d3bf9554aca
+SHA1: e87c10b7facebad1d8d94682a585e42ded5dd254
+SHA256: f4daefaf89725d40a8a055df0afbce1e56b9ff52ee053c0726a93f72e86491e5
+SHA512: 48322ded1eb63426ae85666a2112779117c0da815343c087449f04efb16ef1dcfb0937b23a2a899d7dc46879a7e548e1b9228d17f8bd36073a7fa721f1e3e771
+Description: Biểu tượng cho Nguồn bvnsupport-jailbreak
+Name: Repo Icon Bvnsupport-jailbreak
+Author: Biện Văn Nhật
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Apple.support.Jailbreak.icon
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Apple.support.Jailbreak.icon
+Icon: file:///Applications/Cydia.app/Sections/System1.png
+
 Package: com.bvnsupport.icleanerproVN
 Architecture: iphoneos-arm
 Version: 7.9.0

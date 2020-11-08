@@ -152,15 +152,16 @@ Maintainer: eXqusic
 Installed-Size: 616
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
 Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
-Filename: ./debfiles/com.supportjailbreak.animplus_1.0-6_iphoneos-arm (1).deb
-Size: 105756
-MD5sum: 61126706b940482fade1333f36f0a980
-SHA1: 69bbd2a63b8889f6aef4633274772fd4e95371bf
-SHA256: fdab2a2218425305f3b52995c5ee2644dec0c72b8e9693523d1cd2a57fa36782
-SHA512: df40dceafdbd822827b99f0fbdc72de26660d80495c8c526f254b668c067d2bd094c83aa0cf994576530e1c9442864fff6dbd09fc01a68120651fa78cf32b24b
-Description: An awesome MobileSubstrate tweak!
+Filename: ./debfiles/com.supportjailbreak.animplus_1.0-6_iphoneos-arm.deb
+Size: 105810
+MD5sum: b1479df3a0296e7947c7694ea8948e4b
+SHA1: 8c9021e0b9767de46fe5a525ff5ad8bfe1a5076a
+SHA256: eea532d3082d93bba8c92584db7ccdd2f787037f7ad3e4d0648e421662424c33
+SHA512: 1e179ce0a8aba14fd5d10fd5546015eaecc079095378b30771ad4961281035f2c3a98df2fa053a2534cea5045314e468145ba04d5ac2570611bdb118634dcc69
+Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
 Name: AnimPlus Việt Hoá
 Author: eXqusic
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.supportjailbreak.applibrarycontrollerVN
 Architecture: iphoneos-arm
@@ -173,20 +174,20 @@ Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: com.supportjailbreak.applibrarydisabler
 Replaces: com.supportjailbreak.applibrarydisabler
 Filename: ./debfiles/com.supportjailbreak.applibrarycontrollerVN_1.2_iphoneos-arm.deb
-Size: 66160
-MD5sum: 5178ae2e4dc2d77147abcb575a0870e6
-SHA1: f80e6f94f43d71e3af27b07af404de9adf517c33
-SHA256: 4924fd72e98d2c2c27fd78e5cf8fac1c3e7518be7d6d520f804e49483c539343
-SHA512: 55570a8da2d3f811a6404610083a037402bcd9449e19f82c0643d09676c3c8261f76e310b95c59a311aa215d6481f54cb4482fa1fbda9d0cfa4ae3093357d8c5
+Size: 66148
+MD5sum: 87605ee9a6b857b18dadf6e1dbb294db
+SHA1: d6f30d8369ff1ec5d48ce8aae402b552882d25b9
+SHA256: 80cd9186902e4d8177e4732bc86e0a74e924df9dfa888388a2e869730753ffdb
+SHA512: 5f9f8406673631febf33db004504e160468b8891fd67aff61ed50ccd4bb49ba8f2b5c835fef6c378df54509344574a1b29233abe4372a2fbc9306354b0662a4a
 Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=applibrarycontrollerDp
 Description: Tinh chỉnh thư viện ứng dụng Ios 14
 Tag: purpose::extension
 Name: App Library Controller VH
 Depiction: Tinh chỉnh thư viện Ứng dụng Ios 14
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Sponsor: Biện Văn Nhật <nhatbien97@gmail.com>
 dev: tomaszpoliszuk
-Icon: file:///Library/PreferenceBundles/AppLibraryControllerSettings.bundle/icons/AppLibraryController@3x.png
 
 Package: com.supportjailbreak.appstore
 Architecture: iphoneos-arm

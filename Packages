@@ -337,3 +337,39 @@ Icon: file:///Applications/Cydia.app/Sections/chude.png
 Depiction: Chủ đề 3D Ios Winter tải về và kích hoạt bằng Itheme hoặc Snowboard
 SileoDepiction: https://bvnsupport-jailbreak.gỉhub.io/sileo/depiction.php?file=ios-winter
 
+Package: com.supportjailbreak.powerselectorios11to14
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Utilities
+Maintainer: BvnSupport <nhatbien97@gmail.com>
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.supportjb.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debfiles/com.supportjailbreak.powerselectorios11to14_1.3.0_iphoneos-arm.deb
+Size: 381872
+MD5sum: 9675026df0c6f4215de9413be25dd4d9
+SHA1: e0a1a3a2dc0e1aab545c1c8b29d2ad58c8a3feb8
+SHA256: 9848dbffb9b2268b08d0df61d368fa79d9ea2302d2f1a4cad5cebc58b359f090
+SHA512: 12898701ac9f73aff6debb2909b2b5fe0fa2308d54b74502cff6aa81f97a676d15cd2d7087d2548b8c8c6bb946093d1c1867ef1c563691b06cecf26113743fc7
+Description: Control Center gần như là giao diện bạn sẽ sử dụng đến rất nhiều, việc thêm các tuỳ chọn dưới đây thông qua PowerSelector giúp bạn có thêm một số chức năng hữu ích.
+Name: PowerSelector (iOS 11 to 14)
+Author: ichitaso <ps11@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
+
+Package: com.supportjailbreak.pulloverprovitho
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: BvnSupport <nhatbien97@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./debfiles/com.supportjailbreak.pulloverprovitho_2.1.1_iphoneos-arm.deb
+Size: 1562714
+MD5sum: ce625779fae4f99dfb412b81e4044d75
+SHA1: 4a7ee73c1b37298bc5686d86801878b1d4af42d1
+SHA256: a9663a6aa95382bc34a2e9558eaa8efce3e851ca2f0f6f6a0b981058180d7524
+SHA512: 88522c94d7a47040192a7d58a0724819e2616d2644160824df27f602f2450cef6bd90f0c7cb77585360adedc6c7d68e30e51597d911d405820b264eb04b812d4
+Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!
+Name: PullOver Pro Việt Hoá
+Author: c1d3r <c1d3rdev@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+

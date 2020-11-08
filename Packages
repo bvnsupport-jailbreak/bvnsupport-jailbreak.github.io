@@ -390,6 +390,25 @@ Name: HalFiPad Việt Hoá
 dev: hius
 Icon: file:///Library/PreferenceBundles/HalFiPadPrefs.bundle/icon@2x.png
 
+Package: com.supportjailbreak.icon
+Architecture: iphoneos-arm
+Version: 1.0.0
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.supportjailbreak.icon_1.0.0_iphoneos-arm.deb
+Size: 43954
+MD5sum: 2fb9739b18ab0b2cc894821d5cabff28
+SHA1: 64137b8f509f8a91ba320ffcede84ac698c3a2c8
+SHA256: cfe0e7d1ca9350fae2fc4ff783f7b1551b0059858e6097ffb32cc6faf6ac74a5
+SHA512: 7d0b1cef948b993eccf6380690bb26285cb467b9d428ae5fe0101e98c396a67dfb4e8fb31b947fb67041ec0011cf7b3f3000c75232de64230db2081bebc84341
+Description: Biểu tượng cho Nguồn Cydia-Jailbreak
+Name: Repo Icon Bvnsupport-jailbreak
+Author: Biện Văn Nhật
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.icon
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.icon
+Icon: file:///Applications/Cydia.app/Sections/System1.png
+
 Package: com.supportjailbreak.iconmoveViethoa
 Architecture: iphoneos-arm
 Version: 1.0.0

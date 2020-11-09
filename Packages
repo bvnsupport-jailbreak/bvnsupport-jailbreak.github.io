@@ -556,6 +556,26 @@ Name: SafariWallpaper Việt Hoá
 Author: Litten <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.screenshotxVN
+Architecture: iphoneos-arm
+Version: 0.4
+Section: Addons (Apps)
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends:
+Conflicts:
+Filename: ./debfiles/com.supportjailbreak.screenshotxVN_0.4_iphoneos-arm.deb
+Size: 33693134
+MD5sum: 9433deebddab543d1f69e964edae0df2
+SHA1: b49470fa78d558512ee47347672b314b212b7a29
+SHA256: 2edb7f840f3f6479f610f67f64ddba2f33ee579d7119e901eff49c5424466910
+SHA512: 09ac36e75496d5f08a75730682314ef4176919cfd7186667ab4c4ae226d17a4ebc4d4bc1eb4971aad96d97ea6db82bb225cebf97ac1ed2d11fc43220ec8c8205
+Description: Đặt ảnh chụp màn hình trong điện thoại.
+Tag: cydia::paid
+Name: ScreenshotX VN
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: Đặt ảnh chụp màn hình trong điện thoại.
+
 Package: com.supportjailbreak.snowboardVH
 Architecture: iphoneos-arm
 Version: 1.4.0~Beta4

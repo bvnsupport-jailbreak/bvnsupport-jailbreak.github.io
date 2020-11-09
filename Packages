@@ -227,6 +227,24 @@ Name: Boxy 4 (iOS 13)Việt Hoá
 Author: William Vabrinskas <wvabrinskas@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.caskViethoa
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 672
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 12.0)
+Filename: ./debfiles/com.supportjailbreak.caskViethoa_1.2.0_iphoneos-arm.deb
+Size: 334878
+MD5sum: 9ed69bd4076e95b8a264d37f0d98d66e
+SHA1: 43810b2d298fa2f12597bb2c059a4d6bce8fe83b
+SHA256: cdd164f5ba0fee6451d3535e18640c8f180a6609075c6bdeb73a32b6e073b473
+SHA512: 7e6dda30beefd53b60c62238fef7c1615c33c6999a561f5b4cd437e99e5f77ac81de132655cc04d2a0fc686307bbeda0eb7b61797738cf2e09d914ab619a5911
+Description: Di chuyển bảng động
+Name: Cask 2 Việt Hoá
+Author: Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.choicyVN
 Architecture: iphoneos-arm
 Version: 1.2.6

@@ -323,6 +323,25 @@ Name: CrackTool4 (iOS 12/14)
 Author: julioverne <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienich1.png
 
+Package: com.supportjailbreak.amonglockvietho
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 24056
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debfiles/com.supportjailbreak.deb
+Size: 21423104
+MD5sum: 2cc5656db8ab94b87384682fbb9f2f11
+SHA1: 312662c25b77a49a80e4c22580fb4518762e111d
+SHA256: 4a0a26dc10b4ada613fc15dd480653298e732b3f2658b4f55ecf2c99a3a39fd3
+SHA512: d5646c844c7ef5b7db83e4ec35bc1530980267ef1f956a96ec68d87bb71bcb6cc82ec3215fab488297e1d9b7ccc7ee0656bbbd484cc2b7263fdd134028db0d7b
+Description: Khoá bảo mật màn hình khoá
+Name: AmongLock Việt Hoá
+Author: Litten <hiya@litten.love>
+Depiction:
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.dockxVN
 Architecture: iphoneos-arm
 Version: 2.2.3

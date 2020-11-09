@@ -812,21 +812,3 @@ Author: Samuel Bingner
 Icon: file:///Applications/Cydia.app/Sections/hethong1.png
 Depiction: https://bvnsupport-jailbreak.github.io/index.php?pid=439
 
-Package: ru.rj.youtubelite
-Architecture: iphoneos-arm
-Version: 0.9.2-beta
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.con>
-Installed-Size: 562
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/ru.rj.youtubelite_0.9.2-beta_iphoneos-arm.deb
-Size: 86768
-MD5sum: 9aab605b8bec4a6f42a439dc1e85cb82
-SHA1: 30b2ff592b62706909a2e010675b9c7306d92c1b
-SHA256: f47898ab2a3385649705829452f44e3ae5ae9087eafe416d7a728e226f7250a6
-SHA512: 73868308c07440cfbc1821b83c30f763fc666ab96aed48def9f2a06861f313b56295929f68c9d01508e53e1c7aded70291f97c62dd08def60fa24e5c8a243bd6
-Description: Chặn Quảng Cáo,phát lại nền youtube và 1 số tính năng khác
-Name: YouTubeLite Việt Hoá
-Author: Networke <re.errornetwork@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-

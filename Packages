@@ -533,24 +533,6 @@ Name: PullOver Pro Việt Hoá
 Author: c1d3r <c1d3rdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
-Package: com.supportjailbreak.runroot
-Architecture: iphoneos-arm
-Version: 0.0.2
-Section: System
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 132
-Filename: ./debfiles/com.supportjailbreak.runroot_0.0.2_iphoneos-arm.deb
-Size: 9464
-MD5sum: 4cd08e298355cdfc5cfa943d58d43781
-SHA1: 8eeec2a56d0dd42ed09a05a86464f699a9254fe7
-SHA256: 4a8a460bc20bc957cdb410df84d410932b7d9a4bca4799cb731817bc2a4a833f
-SHA512: a400ec71ab44c4009676cafb81bdfce8c8b84093433b57435c32acff0a2d0c9bc39530c014a16c36fec3d88616f93c61e001e2835673789c3ab2e2165422ade1
-Description: Chạy lệnh dưới quyền root
-Tag: role::hacker
-Name: runroot
-Icon: file:///Applications/Cydia.app/Sections/hethong1.png
-Author: udevs
-
 Package: com.supportjailbreak.safariplusVN
 Architecture: iphoneos-arm
 Version: 1.7.12

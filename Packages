@@ -331,11 +331,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 24056
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debfiles/com.supportjailbreak.deb
-Size: 21423104
-MD5sum: 2cc5656db8ab94b87384682fbb9f2f11
-SHA1: 312662c25b77a49a80e4c22580fb4518762e111d
-SHA256: 4a0a26dc10b4ada613fc15dd480653298e732b3f2658b4f55ecf2c99a3a39fd3
-SHA512: d5646c844c7ef5b7db83e4ec35bc1530980267ef1f956a96ec68d87bb71bcb6cc82ec3215fab488297e1d9b7ccc7ee0656bbbd484cc2b7263fdd134028db0d7b
+Size: 21423106
+MD5sum: e4bfc73210cc37d308b555d79c44ff9c
+SHA1: 05596361fe2652e7ff4f6bb9e52a242ca9ee0757
+SHA256: 8185d8244ca39684bd9568fd55bb56ded39358a61b46f9d7f6f1055899fa0912
+SHA512: b96e6cb8a2e6d87ea8f93621fc61bc41559fc1bcceb1813b74e362322f98d14a5cce825edca7630883f05434fca8b4fe8540919a1913e8fe9f1185517294711f
 Description: Khoá bảo mật màn hình khoá
 Name: AmongLock Việt Hoá
 Author: Litten <hiya@litten.love>

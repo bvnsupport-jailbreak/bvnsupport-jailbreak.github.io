@@ -42,6 +42,25 @@ Author: jjolano <jjolano@me.com>
 Depiction: Chặn phát hiện Jailbreak tốt cho app Ngân hàng Mbbank và 1 số Game!
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.bvnsupport.jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 6.0
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.bvnsupport.jailbreak.github.io.deb
+Size: 102996
+MD5sum: 5c62ab7a0334fce7f0ab14738e8fffd3
+SHA1: 8f73e3c576e47eac2a9412116a7082213a68a76f
+SHA256: afe525f20e04f66781dea9d28ab5b7704bb545195e3d58a8ce4aba1fbe0221d3
+SHA512: f2ac18fccdbd2e24dcf1e962a6b35be791b8c664d27d8ad28f7c15a64d8c7669e8f2f364dff8037da850ae9e8d36e8ed12ed676fb98a506ed8e0cd6705a5af19
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: BVN-Icon Repo
+Author: Biện Văn Nhật
+Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
+Depiction: https://bvnsupport-jailbreak.github.io/view/1301
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.bvnsupportjailbreak.icleanerproVN
 Architecture: iphoneos-arm
 Version: 7.9.0

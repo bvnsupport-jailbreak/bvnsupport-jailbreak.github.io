@@ -867,6 +867,28 @@ Author: Samuel Bingner
 Icon: file:///Applications/Cydia.app/Sections/hethong1.png
 Depiction: https://bvnsupport-jailbreak.github.io/index.php?pid=439
 
+Package: preferenceloader
+Architecture: iphoneos-arm
+Version: 2.2.5
+Section: System
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 526
+Depends: mobilesubstrate
+Conflicts: org.mr.autotouch, github.io.gfp.veloxreloaded, github.io.gfp.veza, github.io.gfp.indy, github.io.gfp.aperio, org.mr.dra1n, org.mr.fabric2, ru.rj.fabric2, org.mr.filza, ru.rj.veloxreloaded, org.mr.veloxreloaded, org.mr.veza, ru.rj.veza, org.mr.indy, ru.rj.indy, org.mr.safeshutdownn
+Filename: ./debfiles/preferenceloader_2.2.deb
+Size: 62090
+MD5sum: 16496328cdc85cad7e5251d547ff5177
+SHA1: 59529e81f5bb00133af48b7e000a8f8155171191
+SHA256: e653f164ca35a76eaf8571c03f853434a106382c24029a66dac59fcae6950ea8
+SHA512: f082c1ea8c0691eed721e99868e4303e3afbae916274ba5fafcb8eb08deedf52b191485d7b19d8f0314e5cfb4eae2b29324615355b452440620540ec6338075a
+Description: load preferences in style
+Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: PreferenceLoader
+Author: Sam Bingner <maintainer@sbdhi.com>
+Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/preferenceloader
+Depiction: https://bvnsupport-jailbreak.github.io/view/4291
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: ru.rj.afsocial
 Architecture: iphoneos-arm
 Version: 1.2

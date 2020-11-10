@@ -6,11 +6,11 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 6500
 Depends: mobilesubstrate, org.mr.azflibrary (>= 2.9)
 Filename: ./debfiles/com.Bvnsupportjailbreak.deb
-Size: 10348
-MD5sum: 99a5abf23982fe7371ab10c82a1a4bb8
-SHA1: de29eeed0f5182865b5f384aea59dfb9ecb85c38
-SHA256: 232e8991b4491f4b139af05667dd1d64f041658598c85017c34ccc0cfb027dd5
-SHA512: 320a2ad2c2eab3b3064adc067f07fed09ee3b918cf21b9e3a1a901a955a17c0e3a83cfb736998ed86aaa59bad763d7a178dee1d5b528a4b5fbf212e32907d040
+Size: 10372
+MD5sum: 67411cb2b2b072d74cb6364a537ca60b
+SHA1: e070ce87e351edd9aea931cbaa907c88c857a4f7
+SHA256: 5c23ae9c2e8425d3f7a1ce041a6c91a8511688a3e44d4272277a6b0eba3672a8
+SHA512: 3a9b55d7beb476eaffe94df7aa578830ad6923c84364a74f8109835933434c491c35c6dc7d92fe3cefa2f6a8f006f28ebcc5ed0ad7c4c75182f67b497550dca8
 Description: Gói Tiếng Việt dành cho AFSocial
 Name: AFSocial (Gói Tiếng Việt)
 Author: Azozz ALFiras

@@ -1,3 +1,23 @@
+Package: com.Bvnsupportjailbreak.afsocialViethoa
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 6500
+Depends: mobilesubstrate, org.mr.azflibrary (>= 2.9)
+Filename: ./debfiles/com.Bvnsupportjailbreak.deb
+Size: 2676672
+MD5sum: 2f8cd52191bf1acd9660214adc11a0ec
+SHA1: e082597844b97af5ebb0bcaec6d53ca2986de324
+SHA256: 5e25b5317a7dbf1120d28a7cc2dc84b0b7ca39f6ff21fd9cfcd53edd62ddef7c
+SHA512: b638232384436aa4fd3a50dee6542faa870f6ce276b2a326825088b2d27d5cb03481bf9b726a436f7cffcccf26a6e021545528301956ef8b8c5f0af965e443af
+Description: Thêm nhiều tính năng hơn vào ứng dụng Social Media.
+Name: AFSocial Việt Hoá
+Author: Azozz ALFiras
+Depiction: Rất nhiều tính năng để bạn lựa chọn.
+SileoDepiction: https://bvnsupport-jailbreak.github.io/sileo/1929
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2

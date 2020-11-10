@@ -3,14 +3,14 @@ Architecture: iphoneos-arm
 Version: 1.2
 Section: Tweaks
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 6500
+Installed-Size: 10
 Depends: mobilesubstrate, org.mr.azflibrary (>= 2.9)
 Filename: ./debfiles/com.Bvnsupportjailbreak.deb
-Size: 10364
-MD5sum: c9c752303827c49205e38e03bf51b1cb
-SHA1: e146caa70f10489096c9a9b1223111ec3cf2e154
-SHA256: d02794e167245541ec9df80b110c540970b5725094177fc1a825ae7396dddd1a
-SHA512: 5ca9795c3a75f4c91a2200905f956b3fe86d433b52238ae8fc8fe68fb3b5383ac26769905814ec4b1af285d18acde6874f89152438a80af396a1ec3e3300afa1
+Size: 10362
+MD5sum: 5dbb5053e5a655fbdb02dc0fd929cfb0
+SHA1: 9b0aac97642c79540b3f2898952312165cce4857
+SHA256: 96c3091cd836e88495ef4c9908bacff504dd4d2be816cd6d4935330cf6b3896b
+SHA512: c1c9169b9cb68a8cdcb99b3045dfc50502ae05aa88fbed57671157815bd33cff2ab64df795ec8e15c0dce2bc250bf08bc27aa13fb733809dc3bc5517bd3df393
 Description: Gói Tiếng Việt dành cho AFSocial
 Name: AFSocial (Gói Tiếng Việt)
 Author: Biện Văn Nhật

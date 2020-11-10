@@ -516,24 +516,6 @@ Icon: file:///Applications/Cydia.app/Sections/chude1.png
 Depiction: Chủ đề 3D Ios Winter tải về và kích hoạt bằng Itheme hoặc Snowboard
 SileoDepiction: https://bvnsupport-jailbreak.gỉhub.io/sileo/depiction.php?file=ios-winter
 
-Package: com.supportjailbreak.kplusplus
-Architecture: iphoneos-arm
-Version: 0.0.1-11
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debfiles/com.supportjailbreak.kplusplus_0.0.1-11_iphoneos-arm.deb
-Size: 6370
-MD5sum: e8405d7eb0e65a8247c39950cdbc2f74
-SHA1: 2fe0e3d281f005dce95e8676a5facd3cd1b597c7
-SHA256: 8478992e668db147b792a8fd025c20763530fe64cbfcbc59739ce37dd30b5228
-SHA512: 8535f48a0ff3196ada4a934a3b075f054fe95f19375ed80b7a79301712fd55d7995666d7b6f2e089591c5c9c9aadfee2c1981a0a7108e216be05ece8908cc1d9
-Description: Bỏ qua phát hiện bẻ khóa cho myK +,Khi cài app thành công vào đg dẫn /private/var/containers/Bundle/Application/Myk+/KPlus.app , chọn và mở file info và sữa vesion thành bản mới nhất rồi  lưu lại ,dùng Tweak Appstore++ hạ về K+ về bản thấp hơn để sử dungk.
-Name: Bybass K+
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: TIGI Software
-
 Package: com.supportjailbreak.mideviceviethoa
 Architecture: iphoneos-arm
 Version: 2.0.0-3

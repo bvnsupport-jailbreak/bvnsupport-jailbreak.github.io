@@ -6,13 +6,13 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 6500
 Depends: mobilesubstrate, org.mr.azflibrary (>= 2.9)
 Filename: ./debfiles/com.Bvnsupportjailbreak.deb
-Size: 2676672
-MD5sum: 2f8cd52191bf1acd9660214adc11a0ec
-SHA1: e082597844b97af5ebb0bcaec6d53ca2986de324
-SHA256: 5e25b5317a7dbf1120d28a7cc2dc84b0b7ca39f6ff21fd9cfcd53edd62ddef7c
-SHA512: b638232384436aa4fd3a50dee6542faa870f6ce276b2a326825088b2d27d5cb03481bf9b726a436f7cffcccf26a6e021545528301956ef8b8c5f0af965e443af
-Description: Thêm nhiều tính năng hơn vào ứng dụng Social Media.
-Name: AFSocial Việt Hoá
+Size: 10348
+MD5sum: 0d557d2cf6dec235c9c2a9ddd23c3e40
+SHA1: 7096ff77cc35ccb15066d42a1a985c506a72f14a
+SHA256: 617e68c9e5a7ac5e64208c6a72bceaec9124bc6f7a942498b8e414dab745c12a
+SHA512: eed3f066c491cad1381341c32bbce10943e3f46e0b182aedf43768460cd17329d5cbc159de56f58125054a950511896090ce54fbeed973fa51317b83f292c905
+Description: Gói Tiếng Việt dành cho AFSocial
+Name: AFSocial (Gói Tiếng Việt)
 Author: Azozz ALFiras
 Depiction: Rất nhiều tính năng để bạn lựa chọn.
 SileoDepiction: https://bvnsupport-jailbreak.github.io/sileo/1929

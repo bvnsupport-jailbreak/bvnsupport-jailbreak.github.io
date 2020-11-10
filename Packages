@@ -233,13 +233,13 @@ Architecture: iphoneos-arm
 Version: 1.1.2.4
 Section: Tweaks
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.bvnsupportjailbreak.runroot
 Filename: ./debfiles/com.supportjailbreak.battsafevithoa_1.1.2.4_iphoneos-arm.deb
 Size: 121084
-MD5sum: d337270a836c4951bb38f08fd031e2b3
-SHA1: 83dd366d1d0001499d86e83a88e72e16b5cb7f25
-SHA256: 54e35f2e4c3c203139f7fe4b6031ddf189aa5ac38d7c8e645419ec384ab4fc91
-SHA512: 9112647f7c47d16995739924d789f1eefe532db4356e2a4adb64733088aadbd5e109c44782ba1badf1cc4834e3aea22bb7a70710860d04740fa63f16d568849a
+MD5sum: 49af2695ca2e926657f57435328a8f53
+SHA1: 800025b9860682582738461af9a0d77c439be039
+SHA256: 23a61ffb15d196505ce119c35252134ee646da2a7592a296bef8ff5bc332668f
+SHA512: b8ca2359c34a3271f923293c51531bcdd562ab2c43cd74bdb453cdb57541da41768027c11ce0720279f782b0970e9a91afeb2450ab6c1e25afd0bc2cc79af84b
 Description: Kiểm soát mức sạc pin của bạn!
 Name: BattSafe Việt Hoá
 Author: udevs <nhatbien97@gmail.com>

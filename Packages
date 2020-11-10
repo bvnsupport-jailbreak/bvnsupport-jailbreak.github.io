@@ -100,6 +100,25 @@ Name: runroot
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Author: udevs
 
+Package: com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 460
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debfiles/com.creaturesurvive.libcscolorpicker_1.0.deb
+Size: 148402
+MD5sum: e51cd687b7c1d8de723b746e256c4cf3
+SHA1: 063dfc4ead0db5d03f5a7077dae9dc70ba70708d
+SHA256: 97982b2beca2fbe0de88783286fff42e0b10951317e300b24b0baf81e885d71c
+SHA512: de56e66820a68a8a1997f673cfa7c24bcfb81674c0ab5fd3314df863672b3e253789fe1d82089b5bd5e0b3f6b6d29346fed2862745c32d63bb05030032b9ef3e
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Name: libCSColorPicker
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.supportjailbreak.Gesturesi11VN
 Architecture: iphoneos-arm
 Version: 3.5.0

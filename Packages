@@ -82,6 +82,24 @@ Author: Ivano Bilenchi <bienvannhat97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienich1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions/?pkgId=com.Supportjb.icleanerpro
 
+Package: com.bvnsupportjailbreak.runroot
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 132
+Filename: ./debfiles/com.bvnsupportjailbreak.runroot_0.0.2_iphoneos-arm.deb
+Size: 9450
+MD5sum: 7e9f912c6103584855e4a11c6af71c25
+SHA1: 8abe9736b320a3f51bef65054c817d8c169971c9
+SHA256: 9829ca89584b803c0ad4949c6b9ddba4592b1ce3e987df19b5bad589eb0477f2
+SHA512: f37089fc361b152ff8fa06d33113dcd292a8dab1775d2284c7d483e1c4faa6b125b125a3c91fb5f14c4f0e7b70956347215f1793979aa72072ba7a7650938a90
+Description: Chạy lệnh dưới quyền root
+Tag: role::hacker
+Name: runroot
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: udevs
+
 Package: com.supportjailbreak.Gesturesi11VN
 Architecture: iphoneos-arm
 Version: 3.5.0
@@ -803,24 +821,6 @@ Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục c
 Name: CyDown
 Author: julioverne <julioverne@me.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-
-Package: com.udevs.runroot
-Architecture: iphoneos-arm
-Version: 0.0.2
-Section: System
-Maintainer: Biện Văn Nhật
-Installed-Size: 132
-Filename: ./debfiles/com.udevs.runroot_0.0.2_iphoneos-arm.deb
-Size: 9438
-MD5sum: 687880a55b2cbf7faaeb5af8406454c0
-SHA1: 759bc82e162df4d54bd6fdfdafbf9b991bcacde1
-SHA256: 438de87a5c9380d47f798192883b2b4aedd32a88643cb05452dfbaa73915f91a
-SHA512: f33713fc3c961e6a5fd98573882659def23f0d4c18743a84c00f18b09dec799d90ed132435da3dc151b17c8531b87f44b246e2130248a704fe76d3fe037d4b11
-Description: Chạy lệnh dưới quyền root
-Tag: role::hacker
-Name: runroot
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-Author: udevs
 
 Package: git.shin.myinst
 Architecture: iphoneos-arm

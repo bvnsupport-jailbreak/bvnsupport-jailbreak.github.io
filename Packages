@@ -254,11 +254,11 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 672
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 12.0)
 Filename: ./debfiles/com.supportjailbreak.caskViethoa_1.2.0_iphoneos-arm.deb
-Size: 334878
-MD5sum: 84f7663e8bd9936a6123435736460dfe
-SHA1: abe93c12560106e8fa9292069de5bc2bf00a8daf
-SHA256: df37c6969c303a7241e28dedb8426d8d1f38344e8e011e22ff3407c16568fa74
-SHA512: bb4e71bd80f1209817aecae2f5899270dea774aebb57b515d7b09b44a5c7b6f597b9fd397b5218e9fadde6ec7e9d16f01b2c9aa2bc8d077e2d013f6910816938
+Size: 272054
+MD5sum: c32fa80393e526621128e70e2c3931ff
+SHA1: 0021efb28c4f02db12fc3764c245864c7ae9dfb3
+SHA256: c610c1f90d3ab3de6c7f7ee5876356a5d3bfe9909bbd24220b7107b4db9ca82d
+SHA512: 821a9e6f8b068b21fb1b0a7a3ee4af5bf9c01fd59a0ed4d6f8a6a86e10c489e000fd336f10e4dfbdf78d3ec394f26fd4ec5e2af9346af675324d699a40dcb08e
 Description: Di chuyển bảng động
 Name: Cask 2 Việt Hoá
 Author: Ryan Nair

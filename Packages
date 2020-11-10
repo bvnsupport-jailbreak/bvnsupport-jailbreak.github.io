@@ -6,14 +6,14 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 6500
 Depends: mobilesubstrate, org.mr.azflibrary (>= 2.9)
 Filename: ./debfiles/com.Bvnsupportjailbreak.deb
-Size: 10372
-MD5sum: 67411cb2b2b072d74cb6364a537ca60b
-SHA1: e070ce87e351edd9aea931cbaa907c88c857a4f7
-SHA256: 5c23ae9c2e8425d3f7a1ce041a6c91a8511688a3e44d4272277a6b0eba3672a8
-SHA512: 3a9b55d7beb476eaffe94df7aa578830ad6923c84364a74f8109835933434c491c35c6dc7d92fe3cefa2f6a8f006f28ebcc5ed0ad7c4c75182f67b497550dca8
+Size: 10364
+MD5sum: c9c752303827c49205e38e03bf51b1cb
+SHA1: e146caa70f10489096c9a9b1223111ec3cf2e154
+SHA256: d02794e167245541ec9df80b110c540970b5725094177fc1a825ae7396dddd1a
+SHA512: 5ca9795c3a75f4c91a2200905f956b3fe86d433b52238ae8fc8fe68fb3b5383ac26769905814ec4b1af285d18acde6874f89152438a80af396a1ec3e3300afa1
 Description: Gói Tiếng Việt dành cho AFSocial
 Name: AFSocial (Gói Tiếng Việt)
-Author: Azozz ALFiras
+Author: Biện Văn Nhật
 Depiction: Rất nhiều tính năng để bạn lựa chọn.
 SileoDepiction: https://bvnsupport-jailbreak.github.io/sileo/1929
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

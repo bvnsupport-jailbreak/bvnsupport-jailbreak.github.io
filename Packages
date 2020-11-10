@@ -154,6 +154,25 @@ Name: Shuffle Việt Hoá
 Author: CreatureSurvive
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.amonglockvietho
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 24056
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debfiles/com.supportjailbreak.amonglockvietho_1.0.2_iphoneos-arm.deb
+Size: 20443546
+MD5sum: 7f46c8f5791418f9533c61393d1ea3bc
+SHA1: 712b2ffbd28a194c14cfc14142827e7c11ef78fe
+SHA256: ff2a653ee87f453a6556a0f8d1e1447442d90a0b90857403d46c2d6f479c85b7
+SHA512: 28fdb443f7da99df50c6729a85f450ffd952f9c29e07bab54dbc86a6f99513540a5f531e7566bbce4aa134a315918b71ae5ac989223073c38bccccdaf583a793
+Description: Khoá bảo mật màn hình khoá
+Name: AmongLock Việt Hoá
+Author: Litten <hiya@litten.love>
+Depiction:
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.animplusviethoa
 Architecture: iphoneos-arm
 Version: 1.0-6
@@ -340,25 +359,6 @@ Description: Crack Tweaks on one click
 Name: CrackTool4 (iOS 12/14)
 Author: julioverne <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienich1.png
-
-Package: com.supportjailbreak.amonglockvietho
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 24056
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debfiles/com.supportjailbreak.deb
-Size: 21423106
-MD5sum: e4bfc73210cc37d308b555d79c44ff9c
-SHA1: 05596361fe2652e7ff4f6bb9e52a242ca9ee0757
-SHA256: 8185d8244ca39684bd9568fd55bb56ded39358a61b46f9d7f6f1055899fa0912
-SHA512: b96e6cb8a2e6d87ea8f93621fc61bc41559fc1bcceb1813b74e362322f98d14a5cce825edca7630883f05434fca8b4fe8540919a1913e8fe9f1185517294711f
-Description: Khoá bảo mật màn hình khoá
-Name: AmongLock Việt Hoá
-Author: Litten <hiya@litten.love>
-Depiction:
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.dockxVN
 Architecture: iphoneos-arm

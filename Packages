@@ -162,11 +162,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 24056
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debfiles/com.supportjailbreak.amonglockvietho_1.0.2_iphoneos-arm.deb
-Size: 20349104
-MD5sum: 965d6db956cae0e3724dd93ae6d18d90
-SHA1: 9b26a7e8998e00113fbba1a7c6cbae1d20134e55
-SHA256: 888167735dbdefeda3319104cb4848d34758843c6a5c69b1439f060f289f8bdb
-SHA512: 8620b57274b938bc6285f975ad4575ec1172760a9352c9236ebc677eb13cc448d0da8e77701e4210ac587abe1e4eaf9ea0e17ad0af55ad956af8e468eef61c61
+Size: 20363924
+MD5sum: d88897b8094171cfa0bb9065bbd39f49
+SHA1: 324ecb1f22b81421791ae6e832dab129f995540c
+SHA256: 0fd740f96f2f8441bf216295a53e924b0d6c7e1c3af450e1cce425bb4ada7a0e
+SHA512: d73f1788893f9fbbe60082d8578a57758c44c67b0b0511fd556900647435340e4d723d46e68f126b6fad3d24c61dff6fc7d00bf34d345155353d144e6378c116
 Description: Khoá bảo mật màn hình khoá
 Name: AmongLock Việt Hoá
 Author: Litten <hiya@litten.love>

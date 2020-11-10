@@ -859,15 +859,15 @@ Depends: mobilesubstrate
 Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
 Replaces: sileot.afsocial
 Filename: ./debfiles/ru.rj.afsocial_1.deb
-Size: 3483656
-MD5sum: 55915a874df9bb6bf0c450d4fd20c721
-SHA1: 2b37a25a5e7e4d630aff0fc380371fec6d14ab1a
-SHA256: 85a7ba8f21068281f95cd369cae3967f17aa3c8b123e4d1a92330a8b11730089
-SHA512: 7fc37393507188299ded3e21aba30d7ebc6d02dcd17d390092383d4881d986d36c7575e0839bb2600aae83b7acf07d661933ae3b373f2a42e66cf294368857d4
+Size: 3483774
+MD5sum: 0321a77efa4399bc0b9342db62fe840e
+SHA1: 1f2e9c016adacc6b3574162fc6352c8089246d5a
+SHA256: 95d3dfaa6787a116a823b2978c17cca6a089b4847d10acde07d54ce9341b9d63
+SHA512: 26aa973356dd689f5fa8bf78711eb0b69b5fbdf3ff284dbdefa79f591ac56fd49187aed964dd41425576924d8e7ecd2b8c8c4ef98c2291f01573722418af09ff
 Description: Thêm nhiều tính năng cho các ứng dụng mạng xã hội.
 Name: AFSocial Việt Hoá
 Author: Azozz ALFiras
 Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/ru.rj.afsocial
-Depiction: https://bvnsupport-jailbreak.github.io/view/4697
+Depiction: Thêm nhiều tính năng cho các ứng dụng mạng xã hội.
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

@@ -397,6 +397,28 @@ Name: CrackTool4 (iOS 12/14)
 Author: julioverne <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienich1.png
 
+Package: com.supportjailbreak.appsyncunified
+Architecture: iphoneos-arm
+Version: 84.0
+Section: Plugin ứng dụng
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 496
+Provides: appsync
+Depends: firmware (>= 5.0), firmware (<= 14.2), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Filename: ./debfiles/com.supportjailbreak.deb
+Size: 44086
+MD5sum: 22f3cab12d505f67285a08b3ba5496c4
+SHA1: 767b3b68e27672f538dc97339172e23bf3431c84
+SHA256: 1eb687f1e87e01e8d61663dd39dd362494918c4eec8575d4941694a6afb0bc01
+SHA512: 1dd8f0edc1fc487a28492de94d0b0f7e361c7d3cee2095f39dba1b307553c150563228922f43aa05a67dae6c14706a0357d034390a73c83dd09f605e60930c65
+Description: Tắt chữ ký IOSApp, kiểm tra phần mềm cần thiết xem có hài hòa không
+Name: AppSync Unified (ios5/14)
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Sponsor: Biện Văn Nhật <https://bvnsupport-jailbreak.github.io/>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.dockxVN
 Architecture: iphoneos-arm
 Version: 2.2.3

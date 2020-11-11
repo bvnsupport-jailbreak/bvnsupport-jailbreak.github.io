@@ -582,6 +582,25 @@ Name: Genesis 2 Việt Hoá
 Author: ItzNebbs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.gesturesi11viethoa
+Architecture: iphoneos-arm
+Version: 3.5.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 364
+Depends: mobilesubstrate, preferenceloader
+Replaces: com.supportjailbreak.gesturesi11
+Filename: ./debfiles/com.supportjailbreak.gesturesi11viethoa_3.5.1_iphoneos-arm.deb
+Size: 51330
+MD5sum: 9b82783f92247bd2289a14a5549f9e43
+SHA1: 3878e13f4481c1804222a1244486b42f3b9cb026
+SHA256: ccdb706fd3a701a331f59f678738c7fe3487e6556c8d672b8b65cd26d560dfcb
+SHA512: e28a72f6b8c30c05e0f8fb6eb71ef583948646e3b3ebc1fa56b86708eada11de1dbddd42e5707b1e4a1cd2ba1177ee60d86ec88f4e9d2143fffdb1424466820a
+Description: Giả lập Iphone X trên các máy đời cũ hỗ trợ ios 13-14.2.
+Name: Gesturesi11 Việt hoá
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.halfipadVH
 Architecture: iphoneos-arm
 Version: 7.8.9

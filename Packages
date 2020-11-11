@@ -582,7 +582,7 @@ Name: Genesis 2 Việt Hoá
 Author: ItzNebbs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
-Package: com.supportjailbreak.gesturesi11viethoa
+Package: com.supportjailbreak.gesturesi11vn
 Architecture: iphoneos-arm
 Version: 3.5.1
 Section: Tweaks
@@ -590,12 +590,12 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 364
 Depends: mobilesubstrate, preferenceloader
 Replaces: com.supportjailbreak.gesturesi11
-Filename: ./debfiles/com.supportjailbreak.gesturesi11viethoa_3.5.1_iphoneos-arm.deb
-Size: 51330
-MD5sum: 9b82783f92247bd2289a14a5549f9e43
-SHA1: 3878e13f4481c1804222a1244486b42f3b9cb026
-SHA256: ccdb706fd3a701a331f59f678738c7fe3487e6556c8d672b8b65cd26d560dfcb
-SHA512: e28a72f6b8c30c05e0f8fb6eb71ef583948646e3b3ebc1fa56b86708eada11de1dbddd42e5707b1e4a1cd2ba1177ee60d86ec88f4e9d2143fffdb1424466820a
+Filename: ./debfiles/com.supportjailbreak.gesturesi11vn_3.5.1_iphoneos-arm.deb
+Size: 51338
+MD5sum: ae65eeffa38faf7492e06a50c1aab453
+SHA1: a9a1b3381fe1fa8f02775d8f156e7837aa004bdf
+SHA256: 349e12fe5892bd476e7e42d710667bd062fc60ef6bfb63a1c3cf5d494bf3afe9
+SHA512: aa6a0ee491071de2e531d34401c4529e367ceac94f5bf3c380d0cc343886c46ae5600e2662e4d1438780d4f8d84baeea54b5840ab5a9801299af0dfdeda422d7
 Description: Giả lập Iphone X trên các máy đời cũ hỗ trợ ios 13-14.2.
 Name: Gesturesi11 Việt hoá
 Author: Hius

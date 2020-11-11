@@ -277,26 +277,6 @@ Name: AppStore+++
 Author: CokePokes <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
-Package: com.supportjailbreak.appsyncnewvn
-Architecture: iphoneos-arm
-Version: 1.4
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 104
-Provides: appsync
-Depends: mobilesubstrate
-Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
-Filename: ./debfiles/com.supportjailbreak.appsyncnewvn_1.4_iphoneos-arm.deb
-Size: 9656
-MD5sum: 0e5bb6058e8de8770c9ab27102f7239c
-SHA1: 538e9e643ff725ac72df146722c59cdda629907a
-SHA256: 5977530dccfdf79ec93b319f7ed30acd6993f0ed48ed1c39291344217a51a6eb
-SHA512: c776d936737e637d873db4fe04c4ef29858d65875a10abeae63fb76f55e32396762d896513e475fbefc8965e736672697a044c01a5f1a284f8ad15073a86ace8
-Description: bỏ qua kiểm tra chữ ký của installd
-Name: AppSync New Việt Hoá
-Author: Linus Yang
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.supportjailbreak.b3rryviethoa
 Architecture: iphoneos-arm
 Version: 1.7

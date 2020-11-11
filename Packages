@@ -283,13 +283,13 @@ Version: 1.7
 Section: Tweaks
 Maintainer: Biện Văn nhật
 Installed-Size: 1644
-Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.supportjailbreak.libsparkapplist,com.supportjailbreak.libcscolorpicker
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.spark.libsparkapplist,com.creaturesurvive.libcscolorpicker
 Filename: ./debfiles/com.supportjailbreak.b3rryviethoa_1.7_iphoneos-arm.deb
-Size: 1267396
-MD5sum: 3b75e9fffd81d91b42ab86588ef57977
-SHA1: ffafda771d72c3ae4a63629f00840dea335e3de3
-SHA256: 3765ce5ecfac8119ffbf7ffd14ae6b0bef2e8283b30662640d58c41e9eb372ca
-SHA512: 6513f2f461452a990dd2ce1008bbf6ed829bd8c46f2383adf1da625aff63060514e7430716cdae2be1bf4a93481e6188041bbe250f164859b0cbd96d324f25e3
+Size: 1267520
+MD5sum: dd9233e64ad9341ebdc1572e7dbb956a
+SHA1: 05c278929cde0224aa03640b3ff9c6112ddb75e2
+SHA256: 45df97115d9d7fe422ffc91d00a0a8571710d88cc22cdf4d0d3dae02504acda1
+SHA512: 7843e124c14d41bb4dbfce0aa16c10cdd1f5122f525f299ba09cd485b5732d986a83d239be1ca4ab675f18b31a7e36c4e3760413b4cd462e3ac68b56cf71aba1
 Description: Một trình báo nhanh màn hình khóa lấy cảm hứng từ BerryC8. Một cách tuyệt vời để khởi chạy ứng dụng của bạn. Chỉ cần kéo chúng xuống để mở. Có nhiều tùy chọn tùy chỉnh trong cài đặt!
 Name: B3rry Việt Hoá
 Author: MegaDev
@@ -640,24 +640,6 @@ Description: This is a developer library for better preferences and useful utili
 Tag: role::developer
 Name: libhdev
 Author: Hao Nguyen <hao.ict56@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
-Package: com.supportjailbreak.libsparkapplist
-Architecture: iphoneos-arm
-Version: 1.0.9
-Section: System
-Maintainer: Spark
-Installed-Size: 468
-Filename: ./debfiles/com.supportjailbreak.libsparkapplist_1.0.9_iphoneos-arm.deb
-Size: 54758
-MD5sum: 299e1462683c84beeb7b2cfac29092d3
-SHA1: 3ce21cff1f01d95dcc9924025d128d94df737c0d
-SHA256: 5462b462a7c8c2ae0f711d50c4e643ae7d96d73bfee0eb3d1b11ac0147b729ee
-SHA512: 82126bf24a520a715c8cbdaa7ca757a4acb5b9d17d1a3c186645e4af4c504b618d238bd52b775df0f6cd3135706642c072deded781571f3e9e60e3ade2132b58
-Description: AppList alternative
-Tag: role::developer
-Name: libSparkAppList
-Author: Spark
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.supportjailbreak.mideviceviethoa

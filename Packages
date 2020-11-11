@@ -800,6 +800,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: Đặt ảnh chụp màn hình trong điện thoại.
 
+Package: com.supportjailbreak.snellviethoa
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 376
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.14), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.snellviethoa_1.1_iphoneos-arm.deb
+Size: 77778
+MD5sum: aab2edeab939a48ed6b157b69c7e2650
+SHA1: 373ece86c83335a4f0a140f66eeafeacdeaa7bd9
+SHA256: 5e395a7e7a2441bd96a6c81df0b7ed8069fec4acda5f068179ce46262157aaf4
+SHA512: f9faefbf64b8d836702f823da8039446146ed91f4ff434056505988e50649195ebbf9131cc76111372fc4e9f41ec23a3d6d742e4116f5e510a8bb8289ad9dfaf
+Description: Tùy chỉnh cảnh báo đến mức tối đa.Tương thích với iOS 12.0 trở lên.Nếu bạn gặp lỗi "Phụ thuộc: libcscolorpicker" khi cài đặt, hãy thêm https://creaturecoding.com/repo vào nguồn của bạn và thử lại Snell - tinh chỉnh tùy chỉnh cảnh báo cuối cùng!  Snell cho phép bạn thay đổi mọi thứ cần làm với các cảnh báo bật lên.  Nó đi kèm với 6 cài đặt trước được tích hợp sẵn (xem ảnh chụp màn hình) hoặc bạn có thể thay đổi từng phần tử riêng lẻ.  Snell cho phép bạn thay đổi tất cả các khía cạnh sau của cảnh báo: o Nền (sử dụng hình nền màn hình chính màn hình khóa) o Loại mờ o Màu văn bản cho tiêu đề tin nhắn hành động (mỗi hành động có thể được điều khiển riêng lẻ) o Màu phông nền cảnh báo độ trong suốt o Dấu phân cách và nhiều cái khác!  BÁO CÁO BUG: Nếu bạn tìm thấy lỗi, vui lòng cho tôi biết thông qua nút "liên hệ với bộ phận hỗ trợ" ở cuối trang này.
+Name: snell Việt Hoá
+Author: Samg_is_a_Ninja
+
 Package: com.supportjailbreak.snowboardVH
 Architecture: iphoneos-arm
 Version: 1.4.0~Beta4

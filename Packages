@@ -329,20 +329,20 @@ Architecture: iphoneos-arm
 Version: 1.0~b3
 Section: Development
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Depends: plutil, git.shin.myinst
+Depends: plutil, com.supportjailbreak.myinst
 Filename: ./debfiles/com.supportjailbreak.cloneappcmd_1.0~b3_iphoneos-arm.deb
-Size: 2768
-MD5sum: 47c7db7ce7965891c0dcece994f20d79
-SHA1: 60e53e1f8ce216e1b2fc3979990a6ecca0c3dfdf
-SHA256: 81a049b01903257fbda21b408ec34be0b5981511dc0541d341b369ce1621e665
-SHA512: 546f8a0715557f222d2298cb452c68859ea5ff8a46e4c28a571f259360d502cabd0bc3a85b5d79d62e16e33be774e3c0ca521486edec2066f3ee0844cfe6f75a
+Size: 2764
+MD5sum: e1f2d0f6457d72a7a447cd86e70aad54
+SHA1: 34631fe1573206fa8e83bdebd7b75176c4b5e610
+SHA256: 6854db542e000b14b6559c8bcc4c5d63f16b4a6b52a7e4f6c4b4f45fdaa1c224
+SHA512: 5d8aa9f9faf6749b1a72052d2cde768909dc32a55aac15e452acc47199d0da5de6febe371a0abacbba8a6dc29b94c406c5d1e331d3dfb96a436e00e9f29ca25a
 Homepage: https://bvnsupport-jailbreak.github.io/
 Description: Lệnh sử dụng ứng dụng nhân bản,cài thêm gói Plutil&Git để sử dụng. cloneapp <CFBundleDisplayName | CFBundleIdent | CFBundleName>
 Name: Clone App Command
 Author: shin-chan
 Sponsor: bienvannhat <https://bvnsupport-jailbreak.github.io/>
 Depiction: https://bvnsupport-jailbreak.github.io/description.html?goto=com.supportjailbreak.cloneappcmd
-Icon: file:///Applications/Cydia.app/Sections/phattrien1.png
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
 
 Package: com.supportjailbreak.complications
 Architecture: iphoneos-arm
@@ -572,6 +572,28 @@ Author: DODGraphics
 Sileodepiction: https://bvnsupport-jailbreak.github.io/sileo-depiction/midevice
 Depiction: https://bvnsupport-jailbreak.github.io/view/2325
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
+Package: com.supportjailbreak.myinst
+Architecture: iphoneos-arm
+Version: 5.6.0.2
+Priority: important
+Section: Archiving
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate, com.supportjailbreak.appsyncunified
+Filename: ./debfiles/com.supportjailbreak.myinst_5.6.0.2_iphoneos-arm.deb
+Size: 92060
+MD5sum: 4d2a81afdb7c1cb81eaab582e9664354
+SHA1: dc6a850e03d00f8b48c35173cd3d75b551e06f68
+SHA256: 00d6daaddecffa4971cb1eb50d7afc88757232861c7830d823c621ca3502514c
+SHA512: 65e7a11014175f6eba4dc057d3182af3107b64560a413f85e722a3ef035fbed3d8b5a1cec8512e29988400846980a3d6af107cdd3076678a5e101cbb35a34c9c
+Homepage: https://bvnsupport-jailbreak.github.io/
+Description: Install your iPA. Using command myinst <path to .iPA>
+Name: myinst
+Author: shin-chan
+Depiction: https://bvnsupport-jailbreak.github.io/description.html?goto=com.supportjailbreak.myinst
+Sponsor: Bienvannhat <https://bvnsupport-jailbreak.github.io>
+Icon: file:///Applications/Cydia.app/Sections/luutruu1.png
 
 Package: com.supportjailbreak.powerselectorios11to14
 Architecture: iphoneos-arm
@@ -840,28 +862,6 @@ Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục c
 Name: CyDown
 Author: julioverne <julioverne@me.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-
-Package: git.shin.myinst
-Architecture: iphoneos-arm
-Version: 5.6.0.2
-Priority: important
-Section: Archiving
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Pre-Depends: firmware (>= 7.0)
-Depends: mobilesubstrate, net.angelxwind.appsyncunified
-Filename: ./debfiles/git.shin.myinst_5.6.0.2_iphoneos-arm.deb
-Size: 92064
-MD5sum: 5140519d0e5cb881964105508f6355a0
-SHA1: 31949d90abb30756fadf2548b86f30325c0d6eba
-SHA256: 4082601748c62533b9be915d69ae17351520adc0cd26b28148d30bc7fbfa6e9e
-SHA512: da761c3b4440ac82fa2c44cc436f1ead1d1254d7b579e5dca18bb929912011ca70131195b447257c7aa12ea008140e5ae019b2e81741960af77b690f30d3db1e
-Homepage: https://bvnsupport-jailbreak.github.io/
-Description: Install your iPA. Using command myinst <path to .iPA>
-Name: myinst
-Author: shin-chan
-Depiction: https://bvnsupport-jailbreak.github.io/description.html?goto=git.shin.myinst
-Sponsor: Bienvannhat <https://bvnsupport-jailbreak.github.io>
-Icon: file:///Applications/Cydia.app/Sections/luutru1.png
 
 Package: plutil
 Architecture: iphoneos-arm

@@ -642,6 +642,24 @@ Name: libhdev
 Author: Hao Nguyen <hao.ict56@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.supportjailbreak.libsparkapplist
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: System
+Maintainer: Spark
+Installed-Size: 468
+Filename: ./debfiles/com.supportjailbreak.libsparkapplist_1.0.9_iphoneos-arm.deb
+Size: 54758
+MD5sum: 299e1462683c84beeb7b2cfac29092d3
+SHA1: 3ce21cff1f01d95dcc9924025d128d94df737c0d
+SHA256: 5462b462a7c8c2ae0f711d50c4e643ae7d96d73bfee0eb3d1b11ac0147b729ee
+SHA512: 82126bf24a520a715c8cbdaa7ca757a4acb5b9d17d1a3c186645e4af4c504b618d238bd52b775df0f6cd3135706642c072deded781571f3e9e60e3ade2132b58
+Description: AppList alternative
+Tag: role::developer
+Name: libSparkAppList
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.supportjailbreak.mideviceviethoa
 Architecture: iphoneos-arm
 Version: 2.0.0-3

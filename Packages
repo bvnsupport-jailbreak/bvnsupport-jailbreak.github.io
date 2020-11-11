@@ -277,6 +277,24 @@ Name: AppStore+++
 Author: CokePokes <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.b3rryviethoa
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: Biện Văn nhật
+Installed-Size: 1644
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.supportjailbreak.libsparkapplist,com.supportjailbreak.libcscolorpicker
+Filename: ./debfiles/com.supportjailbreak.b3rryviethoa_1.7_iphoneos-arm.deb
+Size: 1267396
+MD5sum: 3b75e9fffd81d91b42ab86588ef57977
+SHA1: ffafda771d72c3ae4a63629f00840dea335e3de3
+SHA256: 3765ce5ecfac8119ffbf7ffd14ae6b0bef2e8283b30662640d58c41e9eb372ca
+SHA512: 6513f2f461452a990dd2ce1008bbf6ed829bd8c46f2383adf1da625aff63060514e7430716cdae2be1bf4a93481e6188041bbe250f164859b0cbd96d324f25e3
+Description: Một trình báo nhanh màn hình khóa lấy cảm hứng từ BerryC8. Một cách tuyệt vời để khởi chạy ứng dụng của bạn. Chỉ cần kéo chúng xuống để mở. Có nhiều tùy chọn tùy chỉnh trong cài đặt!
+Name: B3rry Việt Hoá
+Author: MegaDev
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.battsafevithoa
 Architecture: iphoneos-arm
 Version: 1.1.2.4

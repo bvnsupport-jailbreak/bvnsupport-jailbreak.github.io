@@ -917,6 +917,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: http://bvnsupport-jailbreak.githib.io/supersecret/depiction.php?iframe=depiction/videobg
 
+Package: com.supportjailbreak.yobunprovietho
+Architecture: iphoneos-arm
+Version: 3.9.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.con>
+Installed-Size: 1100
+Depends: mobilesubstrate
+Filename: ./debfiles/com.supportjailbreak.yobunprovietho_3.9.5_iphoneos-arm.deb
+Size: 588842
+MD5sum: 00ec706acbb7bbad4bb45a8998142071
+SHA1: f90b47968b9a145951857906198215cfd072d3e5
+SHA256: 9ba9b7ac97b53968f4b59b22a1587561e2b6ea94ba91dde46fec83eb5a15c25e
+SHA512: bac1f5c77e0fccf67bd57edbbeeed0130dd55f739d9671c624ebaaf2f2920cb339164fc248ed3933c05b9f68ce9a26819cb1eec01fb622543f2d0d2b505bb058
+Description: Các tiện ích tốt nhất trong màn hình chính của bạn của bạn,hỗ trợ từ ios 12-14 ♥
+Name: Yobun Pro VH
+Author: Plat-Ykor <plat-ykor@libero.it>
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
 Package: com.supportjb.CputoolVN
 Architecture: iphoneos-arm
 Version: 1.9

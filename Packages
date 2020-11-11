@@ -149,26 +149,6 @@ Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
-Package: com.linusyang.appsyncnew
-Architecture: iphoneos-arm
-Version: 1.4
-Section: Tweaks
-Maintainer: Linus Yang
-Installed-Size: 104
-Provides: appsync
-Depends: mobilesubstrate
-Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
-Filename: ./debfiles/com.linusyang.appsyncnew_1.4_iphoneos-arm (1).deb
-Size: 9500
-MD5sum: ebbbea233933e5889d7961f235333396
-SHA1: d15164a18e98a70cf614543f66965205d916414a
-SHA256: 5ece4c41847d9bdbb1ba135c636b6f3d80e682ae6389f12ea1b922bb5d9c2e7a
-SHA512: 8a8bb8a617eb90d7c8af8bb0b9afdbe7fb4cdecfa5ab00632e29b3026c87219fdbe213e196b0dfe8bca1edef7ac9d99a927784d4f180f6e9946b3d225c17abd4
-Description: bỏ qua kiểm tra chữ ký của installd
-Name: AppSync New
-Author: Linus Yang
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.supportjailbreak.Gesturesi11VN
 Architecture: iphoneos-arm
 Version: 3.5.0
@@ -296,6 +276,26 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.w
 Name: AppStore+++
 Author: CokePokes <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
+Package: com.supportjailbreak.appsyncnewvn
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 104
+Provides: appsync
+Depends: mobilesubstrate
+Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
+Filename: ./debfiles/com.supportjailbreak.appsyncnewvn_1.4_iphoneos-arm.deb
+Size: 9560
+MD5sum: 3c9a211665385818ca6cf1bb22f06f4b
+SHA1: 94a33a9abc9f6a6e250362ed288f79d315169c84
+SHA256: b30c3b17d28af6c0d4d066052d22d557cdfffe4960941734096244742831ea5a
+SHA512: 752b3314b49ed52b279e15e56d2112db6c6cdfd77d2997337a05a9037d1f011a8b6b3e7c86ef4abc3844de2f602b8631ea82988abd0aa4a86e138c505dcfb580
+Description: bỏ qua kiểm tra chữ ký của installd
+Name: AppSync New
+Author: Linus Yang
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.b3rryviethoa
 Architecture: iphoneos-arm

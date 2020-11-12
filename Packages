@@ -681,6 +681,27 @@ Name: libhdev
 Author: Hao Nguyen <hao.ict56@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.supportjailbreak.littlexsvirthoa
+Architecture: iphoneos-arm
+Version: 2.4.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 332
+Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Filename: ./debfiles/com.supportjailbreak.littlexsvirthoa_2.4.4_iphoneos-arm.deb
+Size: 35262
+MD5sum: c3ec4d6ee25e6d7f0ea3d2b681570cc7
+SHA1: 1fcae51cac54fea358669a8fff5eb903a14950ac
+SHA256: e264e885b6dc46874aec9b7a0b2d07ee9f639ab23538bdbd9672bc3050eff4d0
+SHA512: 17109ccba2302e3d175084ed975a26b4e1ce407bfd1f375311a2c1130557714f6a2d2e0864f9ef17c72c95323d753274403879eaf19f520cddece5c712111e4f
+Description: Fake cử chỉ giống IphoneX và 1 số tính năng khác.
+Name: LittleXS Việt Hoá
+Author: binksalex & Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.mideviceviethoa
 Architecture: iphoneos-arm
 Version: 2.0.0-3

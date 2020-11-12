@@ -943,15 +943,18 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
 Filename: ./debfiles/com.supportjailbreak.translationvitho_1.4.9_iphoneos-arm.deb
-Size: 177404
-MD5sum: 3c658ad5a49695a35b98b0e64e1761e1
-SHA1: e53bf6711dea58c0211d9afc71cfc92edca90cb6
-SHA256: e614bef03f23d9164c3ef689793e6fa84164486cba6a080cacfc8e71b8bcab89
-SHA512: 8dae9d97c2e588c4bb092a8cde747a5310aac41dd8c088d220668769a9cd2935d7a885cb8e452da44ab845c68c974ff38245ec46dafdb5f3f5264196082c2a63
-Description: Translatin Việt Hoá
+Size: 177542
+MD5sum: 79294297df13eacd57b0d93f41734738
+SHA1: 392ee8728d16bea6292dbe7e22f16054652ffa77
+SHA256: b009bd3d7f865ae3151e98ad76cfaec204f4ef97d38f81d1bcc44a959385ebb9
+SHA512: 2bef5f394232dc7ed521e19536d8a97d9f65b316a824123bfc447a20524469e860cf13af4515f6129380bfc7a9fb5cd1661e93f649e6fa391bdc4a4ee1008ed7
+Description: Cong cụ dịch miễn phí
+ Công dụng:
+ - Dịch nhanh các tài liệu và văn bản
+ - Bạn chỉ cần bôi đen phần chữ rồi chọn Translation để dịch nó ra tiếng mà bạn cần.
 Name: Translation Việt Hoá
 Author: Sky - Pain <2398453359@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.ventanavietho
 Architecture: iphoneos-arm

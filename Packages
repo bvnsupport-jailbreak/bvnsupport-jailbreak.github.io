@@ -1014,6 +1014,26 @@ Name: Yobun Pro VH
 Author: Plat-Ykor <plat-ykor@libero.it>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.supportjailbreakbvn.appshacksviethoa
+Architecture: iphoneos-arm
+Version: 4.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 6220
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debfiles/com.supportjailbreakbvn.deb
+Size: 3077186
+MD5sum: fafc9d188cb61de5c9d78a71173c3546
+SHA1: 82703e3b68de513cd8f472513bf435b6895ef017
+SHA256: 90385544ee304521586b5ff4ade68c03bc5c6cc8bdd50cd1164646379b2df92a
+SHA512: 6c7ff40e0482cc478648de12116013e51adc7e1d9de3ada49329d27b4bb6a14de11ce291c71525cd5994450f7ff77167e3e6ea0efd6d555a9cdc1d7efbd3c984
+Description: Kích hoạt bản quyền cho các ứng dụng trả phí.
+  Công dụng:
+ - Kích hoạt các gói Vip cho các Ứng dụng chỉnh sửa ảnh hoặc Game.
+Name: Apps Hacks Việt Hoá
+Author: hmodei96
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjb.CputoolVN
 Architecture: iphoneos-arm
 Version: 1.9

@@ -692,12 +692,12 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Filename: ./debfiles/com.supportjailbreak.littlexsvirthoa_2.4.4_iphoneos-arm.deb
-Size: 35262
-MD5sum: c3ec4d6ee25e6d7f0ea3d2b681570cc7
-SHA1: 1fcae51cac54fea358669a8fff5eb903a14950ac
-SHA256: e264e885b6dc46874aec9b7a0b2d07ee9f639ab23538bdbd9672bc3050eff4d0
-SHA512: 17109ccba2302e3d175084ed975a26b4e1ce407bfd1f375311a2c1130557714f6a2d2e0864f9ef17c72c95323d753274403879eaf19f520cddece5c712111e4f
-Description: Fake cử chỉ giống IphoneX và 1 số tính năng khác.
+Size: 35272
+MD5sum: 382757a536cb04c0d72bde279751add0
+SHA1: 953839bd3fa705306fff3336cc7ae6d966aae8de
+SHA256: 9f9796f313ca818a0436e6688523916dfad516d40fa2bbb1afcaa2ed35c69f51
+SHA512: 6978bd622e278f75303e45bc3f46972e9175b334b1328a5a4c82713c34f7ec6108d6e660c308496fbf647ee1964f43e9d3b8b5938f720ad42717e89a16b450b4
+Description: Mô Tả: Fake cử chỉ giống IphoneX và 1 số tính năng khác.
 Name: LittleXS Việt Hoá
 Author: binksalex & Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

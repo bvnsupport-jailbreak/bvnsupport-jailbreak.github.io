@@ -65,20 +65,18 @@ Package: com.bvnsupport.tiktokgod
 Architecture: iphoneos-arm
 Version: 1.9.3
 Section: Tweaks
-Maintainer: Hao Nguyen
+Maintainer: Biện Văn Nhật
 Installed-Size: 412
 Depends: mobilesubstrate, preferenceloader, com.supportjailbreak.libhdev (>= 4.5.0), firmware (>= 10)
 Filename: ./debfiles/com.bvnsupport.tiktokgod_1.9.3_iphoneos-arm.deb
-Size: 74478
-MD5sum: 63b9ff279e280e393747226f6b4001f8
-SHA1: 4d5920675edbbcd99faf36310d95554179e65bfb
-SHA256: 58864f136e56bfd7c3d223a215cf038ab2fc9553fbfb488c7ce94c48157ff104
-SHA512: 08413d4716b6b5c2cf08568f19354a35045436cffcb31006df40224a2eccbccf55544295e167e5c6a1354f44711aad831befa46c2b6e0422f3e5ae77c5d17740
+Size: 74430
+MD5sum: 51e2559ffe01c3de0d75197d1abbb209
+SHA1: a95bcd344811b64dcaf72db2d8012facd434f525
+SHA256: ef273296b254d769f078db985effc53acf20115a1df21294b34667e2f3103d60
+SHA512: 30161551ef1241f56ed470da76136dad92cd09f97ed2d66359099846d60ff71ce03bffb3affbc97f408122742388b838e28b0b663b13e6716a84869ea94d780f
 Description: Tinh chỉnh tốt nhất cho ứng dụng TikTok.
  Tinh chỉnh tốt nhất cho ứng dụng TikTok.
- Change log: https://github.com/bvnsupport-jailbreak/tiktok-god/releases
- . 
- Features:
+ Công dụng:
  - Loại bỏ các quảng cáo
  - Cho phép tải xuống cho tất cả các video
  - Tải xuống không có hình mờ

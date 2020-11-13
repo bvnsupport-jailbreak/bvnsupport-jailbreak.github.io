@@ -820,17 +820,17 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.sakuraviethoa
 Architecture: iphoneos-arm
-Version: 1.0.0-1+debug
+Version: 1.0.0-2
 Section: Tweaks
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 596
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
-Filename: ./debfiles/com.supportjailbreak.sakuraviethoa_1.0.0-1+debug_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.sakuraviethoa_1.0.0-2_iphoneos-arm.deb
 Size: 261138
-MD5sum: d15c4f3dee45282a84ba2e133e38ed3d
-SHA1: dd71d13b3044685be42c6db7e0240570261afa65
-SHA256: 5b6efa2d9913ac87f2f01f4ec4fc294cfa5afda52dbc1e9dd273665a1919c89f
-SHA512: bd8742784c7e8e55994b2583482806b3f97676c2f01659668ffefe2accf4800a8fd989c425032a1e2065a13edb0073edf0acd15ffeaaa096eeda160c245e888b
+MD5sum: 79eee8fd2b1490fd80af6070948bfff9
+SHA1: cbe9c600b695d45bd2a9b80b8d19c1a8b71c93f8
+SHA256: 377edc69b0416a06c7fc4948d533ce94c15478b43ade80707623b44c8b6c7f1e
+SHA512: 089186a6c6f10d86de269b3fadcf068204c2d6f8f09cd7b824d40460dd58976f0fa7791ba7151eb7e56a4f94a8f8bbecd1599909391d36dd406988388c6b1b59
 Description: Tinh chỉnh đa nhiệm cho ios13 & 14.
    Khả năng tương thích:
  • ios13 ~ ios14.x

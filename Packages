@@ -89,6 +89,32 @@ Name: TikTok God
 Author: Hao Nguyen
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupportjailbreak.sakuraviethoa
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 596
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
+Filename: ./debfiles/com.bvnsupportjailbreak.deb
+Size: 261052
+MD5sum: 3e35ab1b2d25c445130d16ab2225f0b4
+SHA1: dfc750be5308ecdd427fbdba3d967426a71d96e1
+SHA256: 5423ab967ab2e49030a7794fc0a4ab5efcd6ff864c0aac6b0c0b200f39ed8e21
+SHA512: c0868252918a4fad73e5df24122b4ebb933f29ebf6de51618eb236d3c65e8ef0372d49cf58236317f0d6ebf541b91c6587c664d3aa4c2814732a97b9b6285784
+Description: Tinh chỉnh đa nhiệm cho ios13 & 14.
+   Khả năng tương thích:
+ • ios13 ~ ios14.x
+ • arm64 & arm64e
+  Tính Năng:
+ • Bạn có thể thực hiện đa nhiệm bằng cách chạm một lần.  
+ • Nhấn và giữ biểu tượng để mở ứng dụng như bình thường.  
+ • Nó hỗ trợ các ứng dụng ngang.  
+ • Nó hỗ trợ bàn phím
+Name: Sakura Việt Hoá
+Author: sugiuta <sugi.uta_1203@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupportjailbreak.icleanerproVN
 Architecture: iphoneos-arm
 Version: 7.9.0
@@ -817,33 +843,6 @@ Description: Thêm hình nền cho Safari!
 Name: SafariWallpaper Việt Hoá
 Author: Litten <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-
-Package: com.supportjailbreak.sakuraviethoa
-Architecture: iphoneos-arm
-Version: 1.0.0-2
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 596
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
-Filename: ./debfiles/com.supportjailbreak.sakuraviethoa_1.0.0-2_iphoneos-arm.deb
-Size: 261138
-MD5sum: 79eee8fd2b1490fd80af6070948bfff9
-SHA1: cbe9c600b695d45bd2a9b80b8d19c1a8b71c93f8
-SHA256: 377edc69b0416a06c7fc4948d533ce94c15478b43ade80707623b44c8b6c7f1e
-SHA512: 089186a6c6f10d86de269b3fadcf068204c2d6f8f09cd7b824d40460dd58976f0fa7791ba7151eb7e56a4f94a8f8bbecd1599909391d36dd406988388c6b1b59
-Description: Tinh chỉnh đa nhiệm cho ios13 & 14.
-   Khả năng tương thích:
- • ios13 ~ ios14.x
- • arm64 & arm64e
-  Tính Năng:
- • Bạn có thể thực hiện đa nhiệm bằng cách chạm một lần.  
- • Nhấn và giữ biểu tượng để mở ứng dụng như bình thường.  
- • Nó hỗ trợ các ứng dụng ngang.  
- • Nó hỗ trợ bàn phím
-Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.2
-Name: Sakura Việt Hoá
-Author: sugiuta <sugi.uta_1203@icloud.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.screenshotxVN
 Architecture: iphoneos-arm

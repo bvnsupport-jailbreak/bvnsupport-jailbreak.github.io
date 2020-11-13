@@ -818,6 +818,33 @@ Name: SafariWallpaper Việt Hoá
 Author: Litten <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.sakuraviethoa
+Architecture: iphoneos-arm
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 596
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
+Filename: ./debfiles/com.supportjailbreak.sakuraviethoa_1.0.0-1+debug_iphoneos-arm.deb
+Size: 261138
+MD5sum: d15c4f3dee45282a84ba2e133e38ed3d
+SHA1: dd71d13b3044685be42c6db7e0240570261afa65
+SHA256: 5b6efa2d9913ac87f2f01f4ec4fc294cfa5afda52dbc1e9dd273665a1919c89f
+SHA512: bd8742784c7e8e55994b2583482806b3f97676c2f01659668ffefe2accf4800a8fd989c425032a1e2065a13edb0073edf0acd15ffeaaa096eeda160c245e888b
+Description: Tinh chỉnh đa nhiệm cho ios13 & 14.
+   Khả năng tương thích:
+ • ios13 ~ ios14.x
+ • arm64 & arm64e
+  Tính Năng:
+ • Bạn có thể thực hiện đa nhiệm bằng cách chạm một lần.  
+ • Nhấn và giữ biểu tượng để mở ứng dụng như bình thường.  
+ • Nó hỗ trợ các ứng dụng ngang.  
+ • Nó hỗ trợ bàn phím
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.2
+Name: Sakura Việt Hoá
+Author: sugiuta <sugi.uta_1203@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.screenshotxVN
 Architecture: iphoneos-arm
 Version: 0.4

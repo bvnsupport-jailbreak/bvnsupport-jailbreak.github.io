@@ -1069,16 +1069,16 @@ Installed-Size: 109
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debfiles/com.supportjailbreakvn.antiprofilesrevoke_1.1-1_iphoneos-arm.deb
 Size: 8012
-MD5sum: f7d23bd0d7368cba590ffbb2ac0be7c4
-SHA1: 72979cd70573f8c9dfe22d83d1c46a248c71b369
-SHA256: 2cf1564a7fb74b0ec6678b1d31da6813f6ccec3771150174ff84a05519dc3e29
-SHA512: 56ca18e3de5f1ee4f7d39774bfb85c05d4f362c3641b7897012047d586054bfdb1f5292f139a7aedb0ef8b8b1368b1b10ad69a8c40061ffce1e2e461425c1f66
+MD5sum: 14c7d712682ea66b995f22f021ac27d4
+SHA1: 504912a8663b41b4098698e26ee4538fc2d6f4e5
+SHA256: d6617aff2bf3297cf22f41be141e4618d0129a21075b304866fde5bf132f0780
+SHA512: aa258e82f6b381877580aaf8d097be9c56e05b795170b40b9fc6fb8d1590b0843f18b0b39a22363624674d87f40a4d7473675c8af9cebc8421ebf59d4620f608
 Description: Bỏ qua phần xác minh trạng thái của chứng chỉ doanh nghiệp ở trạng thái bẻ khóa để ứng dụng bị mất chứng chỉ vẫn có thể mở bình thường, hỗ trợ iOS11-iOS14
      Tính Năng:
    Bỏ qua xác minh trạng thái của chứng chỉ doanh   nghiệp ở trạng thái bẻ khóa, do đó ứng dụng bị mất chứng chỉ vẫn có thể mở bình thường, hỗ trợ IOS11-¡OS14 Mã nguồn ở đây: trên Github Không có tùy chọn để cấu hình.
 Tag: purpose::extension
 Author: Netskao <admin@initnil.com>
-Icon: file:///Applications/Cydia.app/Sections/System1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: AntiProfilesRevoke
 dev: netskao
 

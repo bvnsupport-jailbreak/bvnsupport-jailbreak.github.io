@@ -1,11 +1,11 @@
-Origin: Bien Van Nhat
-Label: Bien Van Nhat
+Origin: Biện Văn Nhật
+Label: Thủ Thuật Jailbreak
 Suite: stable
 Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: Bien Van Nhat
+Description: Apple - Support
 MD5Sum:
  f271c6ab0263b5215bdb54ea08a2dc71 61828 Packages
  9d467c3259fe8efbd84d43d88dd7f527 18524 Packages.bz2

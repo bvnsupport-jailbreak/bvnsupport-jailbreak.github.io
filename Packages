@@ -50,16 +50,16 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 136
 Depends: mobilesubstrate, com.vnsupportjailbreak.chatbubblesliteviethoa
 Conflicts: com.rpgfarm.kakaoheadsplus, com.rpgfarm.chatbubblesmessenger
-Filename: ./debfiles/com.bnsupportjailbreak.deb
-Size: 18670
-MD5sum: bad3f1caaef1fce14430bddc9819104e
-SHA1: efce7424c19a47c5b84d2530b96201c7c72d944d
-SHA256: 298cf9b8f9949151b7b9718c88e5c72da139fa2480f7f9c66e4063c2858c5d98
-SHA512: b62913d78b853224ac5ceebcb9cf5e81af46197cc621636dfd45d6d8fa84d52ff85313aa4f25f31b1a5e8449f3c4ea6895a7a01551830e9f44e89fd091836fce
+Filename: ./debfiles/com.bnsupportjailbreak.chatbubblesmessenger_1.0.2_iphoneos-arm.deb
+Size: 18676
+MD5sum: d7a4d169e19a63b23031a7971a9a5da3
+SHA1: 679e1c5aa74d93c0c2d4ebcd8cbe64858187d1e8
+SHA256: d58bb326a4b6737ba772cc8ff82095252c6c51670d15b97ffdcd95c14eab91ba
+SHA512: 40028861dc772386024f008fdabf763ab46db49493cc87a7aa19bcfeb811720865b0385060e6d47c3bff6241e4596c287dd3f424ddc75892a6004c0a1326c5ba
 Description: ChatBubbles hỗ trợ Messenger.
 Name: ChatBubbles Messenger Extension
 Author: Baw Appie <pp121324@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/bosungg1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm

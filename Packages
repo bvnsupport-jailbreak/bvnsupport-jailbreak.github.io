@@ -42,6 +42,25 @@ Author: jjolano <jjolano@me.com>
 Depiction: Chặn phát hiện Jailbreak tốt cho app Ngân hàng Mbbank và 1 số Game!
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.bnsupportjailbreak.chatbubblesmessenger
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Addons
+Maintainer: Biện Văn Nhật
+Installed-Size: 136
+Depends: mobilesubstrate, com.vnsupportjailbreak.chatbubblesliteviethoa
+Conflicts: com.rpgfarm.kakaoheadsplus, com.rpgfarm.chatbubblesmessenger
+Filename: ./debfiles/com.bnsupportjailbreak.deb
+Size: 18670
+MD5sum: bad3f1caaef1fce14430bddc9819104e
+SHA1: efce7424c19a47c5b84d2530b96201c7c72d944d
+SHA256: 298cf9b8f9949151b7b9718c88e5c72da139fa2480f7f9c66e4063c2858c5d98
+SHA512: b62913d78b853224ac5ceebcb9cf5e81af46197cc621636dfd45d6d8fa84d52ff85313aa4f25f31b1a5e8449f3c4ea6895a7a01551830e9f44e89fd091836fce
+Description: ChatBubbles hỗ trợ Messenger.
+Name: ChatBubbles Messenger Extension
+Author: Baw Appie <pp121324@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/bosungg1.png
+
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.0
@@ -1134,6 +1153,25 @@ Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục c
 Name: CyDown
 Author: julioverne <julioverne@me.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
+Package: com.vnsupportjailbreak.chatbubblesliteviethoa
+Architecture: iphoneos-arm
+Version: 0.3-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 1036
+Depends: mobilesubstrate, firmware (>=12), com.bnsupportjailbreak.chatbubblesmessenger
+Conflicts: com.rpgfarm.kakaoheadsplus, com.rpgfarm.chatbubbleslite
+Filename: ./debfiles/com.vnsupportjailbreak.chatbubblesliteviethoa_0.3-1_iphoneos-arm.deb
+Size: 334734
+MD5sum: e193eaef2a0f02864ce35d5df0c62425
+SHA1: 0770b787ce37543dd5942dc6af6c5815b2eff558
+SHA256: e000c2416d308c95e60c0ebd1d715b6c41ab3f8609917e5a06ea7aa1a055c6cd
+SHA512: 42d6b2f9ed5524a308298abb826d5b3628f6f94a5a0bda8154263d5e7b5c36256d131e881d1f213faf403869fcd175bd11ab6e94aabe93ffca64ab32e29cfb8c
+Description: Hỗ trợ Chat bong bong của Android cho iOS
+Name: Chát bong bóng
+Author: Baw Appie <pp121324@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: plutil
 Architecture: iphoneos-arm

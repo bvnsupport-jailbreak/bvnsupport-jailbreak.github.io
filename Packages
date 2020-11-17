@@ -1117,6 +1117,32 @@ Name: Apps Hacks Việt Hoá
 Author: hmodei96
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.supportjailbreakv.iconspacer
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 928
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: gsc.ipad, com.ichitaso.fiveicondock13, me.nepeta.docky, me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.p2kdev.floatingdockplus13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock, com.minazuki.fiveicondock
+Replaces: com.ichitaso.iconsp13
+Filename: ./debfiles/com.supportjailbreakv.iconspacer_0.0.1_iphoneos-arm.deb
+Size: 471372
+MD5sum: 7627fe2b45ed8c024186e7d868538b4c
+SHA1: 7234ac9d316ce39e3c5da1a22a56ec29989533b4
+SHA256: 04bea093b6483766374726a6a6fa61b0f395fdfe07cfe81a1fd2335cd564893a
+SHA512: 4cf3e5b8bc6c0f6efc287aeea016efc9ae3aed317c769fab4898ced1df0927725a224e89e516614eabd6dd1f92ca7a25a3d4ac192e2efd4086a2fc7853a004e2
+Homepage: https://bvnsupport-jaibreak.github.io/
+Description: Di chuyển biểu tượng màn hình chính iPhone theo chiều dọc.
+  Tính Năng:
+ - Thêm Icon Dock của bạn và di chuyển biểu tượng màn hình chính theo chiều dọc.
+Tag: purpose::extension, compatible::ios13, compatible::ios14
+Author: ichitaso
+Name: IconSpacer (iOS 13 - 14)
+dev: ichitaso
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreakvn.antiprofilesrevoke
 Architecture: iphoneos-arm
 Version: 1.1-1

@@ -783,6 +783,26 @@ Name: LittleXS Việt Hoá
 Author: binksalex & Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.supportjailbreak.mideviceVietHoa
+Architecture: iphoneos-arm
+Version: 2.0.0-4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 740
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Filename: ./debfiles/com.supportjailbreak.mideviceVietHoa_2.0.0-4_iphoneos-arm.deb
+Size: 224482
+MD5sum: dbe4f8dd17c3278ca0baca6017564805
+SHA1: 1b756bd19416bd27d5d502c2827e0aab6d11ed1d
+SHA256: 254f3a84f4c2ca865b05ab87f89a7aecab92b4be95f5b980abaeb11285bb483b
+SHA512: aa9fb1cec7d761218bb0fd260aae6202d8dbb95f12db7c44c5e88f42a540a55e214c445538e2791c5793f058f9d75eac3c5228e1e4ac4393298ba5d55a185036
+Description: Một tinh chỉnh tuyệt vời cho thiết bị của bạn.
+Name: MiDevice Việt Hoá
+Author: DODGraphics
+Sileodepiction: https://bvnsupport-jailbreak.github.io/sileo-depiction/midevice
+Depiction: https://bvnsupport-jailbreak.github.io/view/2325
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.mideviceviethoa
 Architecture: iphoneos-arm
 Version: 2.0.0-3

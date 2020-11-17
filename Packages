@@ -682,6 +682,26 @@ Name: HalFiPad Việt Hoá
 dev: hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.halfipadvh
+Architecture: iphoneos-arm
+Version: 4.5.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 559
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.halfipadvh_4.5.6_iphoneos-arm.deb
+Size: 60974
+MD5sum: 1fb5e01dbac3a6a9c896b269004c32a7
+SHA1: c14057b7ceb0f71c6fa017b2a3a95e37cca76731
+SHA256: 93cf6c0175d1526396df26913e926999ce2a600fc943ce3a064c580e37cab9f1
+SHA512: 044333dd1f4a6576ab5427547da8899d5ae637d6bbabb172e28e3487c2dc17f66bd1ac396a161d6866d711b3b790825ecad1ee71bb985d86114dc6d3f2d80eb9
+Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
+Tag: purpose::extension, compatible::ios13
+Author: Hius <h.h.haiduog@gmail.com>
+Name: HalFiPad Việt Hoá
+dev: hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.iconmoveViethoa
 Architecture: iphoneos-arm
 Version: 1.0.0

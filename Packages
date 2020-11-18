@@ -1239,25 +1239,6 @@ Name: Chát bong bóng
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: org.mr.ios-9-14-system-unlocker
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 380
-Depends: mobilesubstrate
-Filename: ./debfiles/org.mr.ios-9-14-system-unlocker_1.0.2_iphoneos-arm.deb
-Size: 120472
-MD5sum: 194bc03ccfc9f08b075df74db5ece498
-SHA1: f93817452e2dcc1c892b9b0aeabe833deb88962e
-SHA256: 7210c8e947765e9fe2f3cbbf92018f7e2a6232ad464dfa37cb2305fd3c43d77d
-SHA512: 9d92a65b61de9f6dac8f4128ebacf9aceed2ed4aec62010c40c73723bf8a948e4bbc609e79c12b157bf34cf83e159c494a1b653b7a23f4930f21d245cc8e5611
-Description: Bật một số tính năng cho Iphone của Bạn
-Tag: cydia::commercial
-Name: iOS 9 - 14 System Unlocker
-Author: dora2ios <dora.ios.dev@gmail.com>
-Icon: https://twickd.com/cdn/screenshots/1b770d18e413a7eff937e07a7627ca32/default
-
 Package: plutil
 Architecture: iphoneos-arm
 Version: 0.1.0

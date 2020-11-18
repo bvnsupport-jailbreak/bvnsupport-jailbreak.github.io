@@ -230,27 +230,6 @@ Name: AppSync New
 Author: Linus Yang
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.support-jailbreak.ios-9-14-system-unlocker
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 380
-Depends: mobilesubstrate
-Filename: ./debfiles/com.support-jailbreak.deb
-Size: 120532
-MD5sum: 1fd16888c2c299132a04eacc50f17cf4
-SHA1: 3cc8ed8512b3a1581fcd00548987c94d662230a1
-SHA256: 60ff4b32fe3e9ec8758e1ad3cce02a63ed6cdbe0c967ebeb74442d92284774b3
-SHA512: 073997dfe00f6ccd56dce8f2599934282eee9f7e7c33be41758fc2e9bb49bc2efac231dace291288849d194f46951cedbe7d23efd87a05111e478afb2010e692
-Description: Bật một số tính năng cho Iphone của bạn!
-Tag: cydia::commercial
-Name: iOS 9 - 14 Hệ thống mở khóa
-Author: dora2ios <dora.ios.dev@gmail.com>
-Depiction: https://mainrepo.org/package/2233
-SileoDepiction: https://mainrepo.org/sileo/2233
-Icon: https://twickd.com/cdn/screenshots/1b770d18e413a7eff937e07a7627ca32/default
-
 Package: com.supportjailbreak.Gesturesi11VN
 Architecture: iphoneos-arm
 Version: 3.5.0
@@ -1259,6 +1238,25 @@ Description: Hỗ trợ Chat bong bong của Android cho iOS
 Name: Chát bong bóng
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: org.mr.ios-9-14-system-unlocker
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 380
+Depends: mobilesubstrate
+Filename: ./debfiles/org.mr.ios-9-14-system-unlocker_1.0.2_iphoneos-arm.deb
+Size: 120472
+MD5sum: 194bc03ccfc9f08b075df74db5ece498
+SHA1: f93817452e2dcc1c892b9b0aeabe833deb88962e
+SHA256: 7210c8e947765e9fe2f3cbbf92018f7e2a6232ad464dfa37cb2305fd3c43d77d
+SHA512: 9d92a65b61de9f6dac8f4128ebacf9aceed2ed4aec62010c40c73723bf8a948e4bbc609e79c12b157bf34cf83e159c494a1b653b7a23f4930f21d245cc8e5611
+Description: Bật một số tính năng cho Iphone của Bạn
+Tag: cydia::commercial
+Name: iOS 9 - 14 System Unlocker
+Author: dora2ios <dora.ios.dev@gmail.com>
+Icon: https://twickd.com/cdn/screenshots/1b770d18e413a7eff937e07a7627ca32/default
 
 Package: plutil
 Architecture: iphoneos-arm

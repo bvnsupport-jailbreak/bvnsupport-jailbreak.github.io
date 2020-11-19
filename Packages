@@ -84,6 +84,23 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn-supportjailbreal.hacklolmobi
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 788
+Depends: mobilesubstrate
+Filename: ./debfiles/com.bvn-supportjailbreal.hacklolmobi_1.1.0_iphoneos-arm.deb
+Size: 7924974
+MD5sum: 665b5c145de772b0c9c27a082284cdf4
+SHA1: 342479ae97a67e5b25b220694194900b736c5f8f
+SHA256: 09b44e4adfe051bca4e720700c92c37493c3290dee852f64f5584f397229fea8
+SHA512: 511c1617065f51d258788d1a92e9d68a1e91fe0c21558940ecf2b6a777ff67302a6677b3c57a9395f2a052593e5ba18c8510f6d705c8ff928e0cf04119c3387b
+Description: PUBG antiban
+Name: Hack LOL Mobi
+Author: {DN}PUBG
+
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.0

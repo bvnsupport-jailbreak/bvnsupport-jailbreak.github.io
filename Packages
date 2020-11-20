@@ -82,27 +82,6 @@ Name: CustomSounds 2 Việt Hoá
 Author: Nebbs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bvn-supportjailbreak.customsounds2
-Architecture: iphoneos-arm
-Version: 1.2.3
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 7532
-Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.15), com.support-jailbreak.libnebbs
-Replaces: xyz.tylerd3v.customsounds13
-Filename: ./debfiles/com.bvn-supportjailbreak.customsounds2_1.2.3_iphoneos-arm.deb
-Size: 3362924
-MD5sum: f1488e66a6a7014febf87ed27437b289
-SHA1: 3e6c047e53d6ade6a1b78b5a5c47a1e1645f7115
-SHA256: fdb46267afa16a96b5a1976d39e28235e8fcd87ae1376e523b73d2f874482d2b
-SHA512: 9d3c5407500da84de8a8ef60fd7bcc87e3f0167fb2d6790975cbb332c7a645e7c3356befc729063c69ff548732758bc6124dfe7179d17c22903a23d295e9d339
-Description: Âm thanh hệ thống tùy chỉnh cho iOS 13 và 14!
-   Tính Năng:
- - Tuỳ chỉnh Âm Thanh hệ thống cho IOS 13 và 14!
-Name: CustomSounds 2 Việt Hoá
-Author: Nebbs
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvn-supportjailbreak.hacklolmobi
 Architecture: iphoneos-arm
 Version: 1.2.3

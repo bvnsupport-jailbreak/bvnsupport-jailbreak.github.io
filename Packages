@@ -61,6 +61,27 @@ Name: ChatBubbles Messenger Extension
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn-supportjailbreak.CustomSounds2vn
+Architecture: iphoneos-arm
+Version: 4.5.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 7532
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.15), com.support-jailbreak.libnebbs
+Replaces: xyz.tylerd3v.customsounds13
+Filename: ./debfiles/com.bvn-supportjailbreak.CustomSounds2vn_4.5.6_iphoneos-arm.deb
+Size: 2724710
+MD5sum: 4c9b5267b7ad9b8e72f4d89b860b883f
+SHA1: c62ae8f524f092452476f2d0308f11ccd5a12446
+SHA256: 13188cc21c9ebca7311af18aadd8a86413fc8eec60ea934e734ccce875d68b5f
+SHA512: b8591ab30ba7f6e9cb8d6a99f91a96ceac0b9d7887145ec67aed43abfada7c4c13182b0e42586171989579f70bdf370ab279f24666e22a50c21fafddd0f9d96e
+Description: Âm thanh hệ thống tùy chỉnh cho iOS 13 và 14!
+   Tính Năng:
+ - Tuỳ chỉnh Âm Thanh hệ thống cho IOS 13 và 14!
+Name: CustomSounds 2 Việt Hoá
+Author: Nebbs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn-supportjailbreak.customsounds2
 Architecture: iphoneos-arm
 Version: 1.2.3

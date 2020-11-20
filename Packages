@@ -70,15 +70,15 @@ Installed-Size: 7532
 Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.15), xyz.itznebbs.libnebbs
 Replaces: xyz.tylerd3v.customsounds13
 Filename: ./debfiles/com.bvn-supportjailbreak.customsounds2_1.2.3_iphoneos-arm.deb
-Size: 3415402
-MD5sum: 1c25279eb87ea7d13c4370b942642d5f
-SHA1: a3f9341b443f5810ef17a8b4146c139233283015
-SHA256: bd1d3ff9faca27f768a60a85f22235d8d02ea3fa1bd73ab1c8cff9cfaf5c98c1
-SHA512: 5b60cbc81f25f4ef1ab2ebf7422a864083c640b6a2286c1864bc75acbebff62ba6e9e99a3f2be6034a7767bada813f4eef6fec9e593bf790c68d66ca016673f2
+Size: 3415412
+MD5sum: 62ecc487dc5c13f35504db600d63f9a6
+SHA1: 0dad50a5ec5945aaccc80732c32caa548ea614c6
+SHA256: 86dceaa7d347815820227849d665b5f65a53fe059c4b105d777ecf5c5f2a3dd9
+SHA512: 6ec9e6f3f4637398182955eadc611ff7c5e2770d8440b58ab2d3a45e767eb0e4d9827cbf6d061c11175ddd4233f2808d4d5a9a883d7e33aff7963c4e21a76559
 Description: Âm thanh hệ thống tùy chỉnh cho iOS 13 và 14!
    Tính Năng:
  - Tuỳ chỉnh Âm Thanh hệ thống cho IOS 13 và 14!
-Name: CustomSounds 2
+Name: CustomSounds 2 Việt Hoá
 Author: Nebbs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

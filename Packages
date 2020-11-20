@@ -71,10 +71,10 @@ Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (
 Replaces: xyz.tylerd3v.customsounds13
 Filename: ./debfiles/com.bvn-supportjailbreak.CustomSounds2vn_4.5.6_iphoneos-arm.deb
 Size: 2724710
-MD5sum: 4c9b5267b7ad9b8e72f4d89b860b883f
-SHA1: c62ae8f524f092452476f2d0308f11ccd5a12446
-SHA256: 13188cc21c9ebca7311af18aadd8a86413fc8eec60ea934e734ccce875d68b5f
-SHA512: b8591ab30ba7f6e9cb8d6a99f91a96ceac0b9d7887145ec67aed43abfada7c4c13182b0e42586171989579f70bdf370ab279f24666e22a50c21fafddd0f9d96e
+MD5sum: 5cff58296e2b49cb199f8c22790c7254
+SHA1: 01b71a58e924dbb452b104aa0252d55a9aeec5af
+SHA256: 9a3cfbf15a323fad8ed9f9be032b2e04a5600d194af0ab549cb2f39d3f13d2fe
+SHA512: 0e9a851ff8bbc95450291e30a52d10b83a20fd653b2cbf18e8583ae86cce22be588ae5b2e9a653c4152dde73b67ba5b8adf2f0c9b86312743e85bfbd9832efcf
 Description: Âm thanh hệ thống tùy chỉnh cho iOS 13 và 14!
    Tính Năng:
  - Tuỳ chỉnh Âm Thanh hệ thống cho IOS 13 và 14!

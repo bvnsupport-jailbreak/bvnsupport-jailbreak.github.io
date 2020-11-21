@@ -61,29 +61,6 @@ Name: ChatBubbles Messenger Extension
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bvn-support.skinnysettings
-Architecture: iphoneos-arm
-Version: 1.5.2
-Priority: optional
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 1122
-Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debfiles/com.bvn-support.skinnysettings_1.5.2_iphoneos-arm.deb
-Size: 254088
-MD5sum: 71bf9335fac05fb88cea201fc5a801fd
-SHA1: 99d0bd8a8efdb43e9ee8f2049c09ca159c7c9b76
-SHA256: 7c6a5ec38255aada122e705c6081a6f3f31733d0850d0faf12aef8cf9d9db902
-SHA512: 1af0d426e63822d894f0cba14f548c9e167f8e573c2f5f16989de187d5d028542f69fc288960990f41e965b2f206786c1397cd510cc0f7a9bf4ad10807badf0b
-Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=skinnysettingsDp
-Description: Làm cho cài đặt của bạn tối thiểu / kiểu dáng đẹp và hơn thế nữa!
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Name: SkinnySettings Việt Hoá
-Sponsor: Bvnsupport-jailbreak.github.io <nhatbien97@gmail.com>
-Author: CydiaGeek <lucaluca86@aol.com>
-dev: lucaluca86
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvn-supportjailbreak.CustomSounds2vn
 Architecture: iphoneos-arm
 Version: 4.5.6

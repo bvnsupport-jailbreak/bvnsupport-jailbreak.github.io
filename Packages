@@ -70,11 +70,11 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 1122
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./debfiles/com.bvn-support.skinnysettings_1.5.2_iphoneos-arm.deb
-Size: 254090
-MD5sum: 8ab1adc1419edcfd594d90a8c5737cf2
-SHA1: c9798e2c7b1c3c572d5def42ec91a5eacb6af0b5
-SHA256: 321077b5ba7eec4a563d0e9494601356779d5ebbd555b85517423e2ccd920f9f
-SHA512: 325a97e43bcaa609411581aed065a232679fae8fe27382755615d9b52a7968744d99eedc6193a4e4f831f5ff5c3c0ecc87fa843dcad71de4c8fecdf7e9cb3798
+Size: 254088
+MD5sum: 71bf9335fac05fb88cea201fc5a801fd
+SHA1: 99d0bd8a8efdb43e9ee8f2049c09ca159c7c9b76
+SHA256: 7c6a5ec38255aada122e705c6081a6f3f31733d0850d0faf12aef8cf9d9db902
+SHA512: 1af0d426e63822d894f0cba14f548c9e167f8e573c2f5f16989de187d5d028542f69fc288960990f41e965b2f206786c1397cd510cc0f7a9bf4ad10807badf0b
 Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=skinnysettingsDp
 Description: Làm cho cài đặt của bạn tối thiểu / kiểu dáng đẹp và hơn thế nữa!
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13

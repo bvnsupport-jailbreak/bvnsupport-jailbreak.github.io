@@ -354,11 +354,11 @@ Section: Tweaks
 Maintainer: Bvnsupport
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
 Filename: ./debfiles/com.supportjailbreak.Lynxviethoa_1.9.2_iphoneos-arm.deb
-Size: 1386710
-MD5sum: ce0cbe21a21c896805b78c6d64b478eb
-SHA1: 166e447289a500bd7b78be02ee4c2c275e47f287
-SHA256: 95ed407ae7153fd1e9078636118392892cd01dd71a2b7b1de3bc0da7ad476cd4
-SHA512: 7087a8ea8b81866f0beb0620d37fe092cb7005c2a5ef2acc6a6979adeeb3accc98650092aff75154d354d5534f919b4702cd503064190fc4b6f7172f380ea0c0
+Size: 1159418
+MD5sum: 8ca85522cb08b301fec4024f05b88c0b
+SHA1: 481effd1b457c364222fe069057d8542c9d3b9ed
+SHA256: 231cfd43e2c3ff519aeb8e06c5743d6d49f182a7e801e93ae7bfa40bf3cd98bf
+SHA512: 4f24b54a9013d9e69f1a80ad38d88a7898590b09c52e0481f617d4a022e28931927a3184058d20d92dfeeb4474ca786bd2ea2f34aa5fbf92e8c05031fda389fc
 Homepage: https://www.facebook.com/SUPPORT.BVN.VN
 Description:  Một tinh chỉnh cấu hình mọi thứ cho thiết bị của bạn!
 Name: Lynx Việt Hoá

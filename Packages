@@ -162,6 +162,25 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-jailbreak.xeninfo
+Architecture: iphoneos-arm
+Version: Beta
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1072
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: org.bigboss.datameter, cydia.kiiimo.org.datameter, com.repo.xarold.com.datameter, re.rejail.datameter, org.coolstar.ventana-modern, com.repo.xarold.com.ventana, cydia.kiiimo.org.ventana
+Filename: ./debfiles/com.bvnsupport-jailbreak.deb
+Size: 269660
+MD5sum: 41bca801cc2b2b270c000afc1b324e0b
+SHA1: eb154a32ac52e82db91caa7cc4730d3340245dda
+SHA256: a5fdd65a42612603037a265d06c802a6f93b6a81c144122508fd31498413d224
+SHA512: 4eacd622d8b15b323c97ff812a600bc48bf9d2f95a07361ce7cff3a4a624cc57e2d4c72f055be75839ff7f8d385b773429b87408222a364558ee308cb5edfd60
+Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML.
+Name: XenInfo Việt Hoá
+Author: JunesIphone & Matchstic
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.0

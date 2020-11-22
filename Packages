@@ -78,25 +78,6 @@ Name: ChatBubbles Messenger Extension
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bvn-support.xeninfo
-Architecture: iphoneos-arm
-Version: Beta
-Section: Addons (Tweaks)
-Maintainer: Biện Văn Nhật
-Installed-Size: 1072
-Depends: mobilesubstrate, firmware (>= 9.0)
-Conflicts: org.bigboss.datameter, cydia.kiiimo.org.datameter, com.repo.xarold.com.datameter, re.rejail.datameter, org.coolstar.ventana-modern, com.repo.xarold.com.ventana, cydia.kiiimo.org.ventana
-Filename: ./debfiles/com.bvn-support (1).deb
-Size: 269676
-MD5sum: c767556e5c6d6a197ac0379f2b7840cb
-SHA1: 0b05b901ddaf4f550a5c3d9d48e84c6e71a2663c
-SHA256: 85ae85b4e33c70cb63d10abb6bcefc4df7ff6488fa38fa2d6c51d202320e2f82
-SHA512: 7b4fbca610858d903ab982b1f30a4fffd5c4885bc2565482612b75cd2b5e67246ff27794bc170b2b856d285c51fb4befe71bb95f02a04b0a9bc15f4c9b01b1e1
-Description: Thông tin về âm nhạc, thời tiết và pin cho XenHTML
-Name: XenInfo Việt Hoá
-Author: JunesIphone & Matchstic <junesgraphics@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvn-supportjailbreak.CustomSounds2Vn
 Architecture: iphoneos-arm
 Version: 7.8.9

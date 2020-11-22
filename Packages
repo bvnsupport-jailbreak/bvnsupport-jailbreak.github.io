@@ -164,6 +164,25 @@ Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
 Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.bvnsupport.jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 6.1
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.bvnsupport.jailbreak.github.io.icon_6.1_iphoneos-arm.deb
+Size: 149874
+MD5sum: 033bfe048e7fdc1d50f3abe758a6eaa3
+SHA1: 0b756830dcd767cf810d7db33b18199c00e34831
+SHA256: cd85cf02ec5ae01f31b20b3b49ce9224d8c72e4f5789e99876f7d645e848d846
+SHA512: bb482d7678f17127f1b14bdc5a73d50afd6c2f921852f029788ffe8c0aecdb7fd06ddce95502cb8d45e9dd5be03b9036652e8ad0b76a464162c1f077c012b837
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: BVN-Icon Repo
+Author: Biện Văn Nhật
+Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
+Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.bvnsupport.tiktokgod
 Architecture: iphoneos-arm
 Version: 1.9.3

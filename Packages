@@ -1,3 +1,20 @@
+Package: com.Bvn-support.xenhtml
+Architecture: iphoneos-arm
+Version: Beta
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate
+Filename: ./debfiles/com.Bvn-support.xenhtml_Beta_iphoneos-arm.deb
+Size: 2917258
+MD5sum: 3a85ebdc7d0cb302fb87644419db2039
+SHA1: ce95191a204a4207803d13fa8e930b3b9a809880
+SHA256: 17a2521da0cdebca9079240e3bec1711db32091d2fef595442bd4586703c2763
+SHA512: 78df11efe44e98307d146af3a14d08926576448316bbc244d898d808ff775c7865102736d69e74a26e33bd0b88c90e181dba6508696474488f9528394e9ac58c
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá
+Name: Xen HTML Việt Hoá
+Author: Matt Clarke
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2
@@ -59,6 +76,27 @@ SHA512: 40028861dc772386024f008fdabf763ab46db49493cc87a7aa19bcfeb811720865b03850
 Description: ChatBubbles hỗ trợ Messenger.
 Name: ChatBubbles Messenger Extension
 Author: Baw Appie <pp121324@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn-support.xeninfo
+Architecture: iphoneos-arm
+Version: Beta
+Section: Addons (Tweaks)
+Maintainer: Biện Văn Nhật
+Installed-Size: 1072
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: org.bigboss.datameter, cydia.kiiimo.org.datameter, com.repo.xarold.com.datameter, re.rejail.datameter, org.coolstar.ventana-modern, com.repo.xarold.com.ventana, cydia.kiiimo.org.ventana
+Filename: ./debfiles/com.bvn-support.deb
+Size: 269718
+MD5sum: 3cda38c622b3ba678ef1130a9d3b17fb
+SHA1: f2995b5b197d8a2658da83790371fe2fc658ba54
+SHA256: 6717dc23fa883f73938757cf0c37113eb118338fc5d497de825b6a456a75fada
+SHA512: 66ce0676b81e59fae8976a8e8a0f42713bd900ac97b7033f71e4c0ee232185ce0ebe2060966441204508fed3d21e188686bf0d4b516b4a913a86650f463d48f9
+Description: Thông tin về âm nhạc, thời tiết và pin cho XenHTML
+Name: XenInfo Việt Hoá
+Author: JunesIphone & Matchstic <junesgraphics@gmail.com>
+Depiction: https://mainrepo.org/index.php?pid=318
+SileoDepiction: https://mainrepo.org/sileo.php?pid=318
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn-supportjailbreak.CustomSounds2Vn

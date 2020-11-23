@@ -6,11 +6,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 10112
 Depends: mobilesubstrate
 Filename: ./debfiles/bvnsupport.com.KPlus_2.0.5_iphoneos-arm.deb
-Size: 2464904
-MD5sum: daef21af0ce1b1abf2e1e3c97d6a6e96
-SHA1: 2513ca14a5659e3e5ae37cc434224ce0387c1c78
-SHA256: 0e587ac07c297cfeee87b81c552ebe29b8fea759144e2a39ed7dd2e82c86c649
-SHA512: 59d002e6931d4769afdc9b05923a3bfb8f245956e5213e5b732083ba85a0fec9637e9d12a35398daa3672b72c0a51f65575012e2d81cdabd7eb2f85178bcddd9
+Size: 2464898
+MD5sum: d6cdd2b3a47704988bd4cd7991d870ef
+SHA1: 8e9d8ac51686d6c589ea3079ae8499fad9e4c439
+SHA256: e5e5ee6b19178cbe7bcb90a83c7b70ffcbc27edadfd5bbaeef4550294970c18a
+SHA512: 05088c8f4a85de3efc34ad04ff230182f33d7feb3e70371a2b05ca86a4957d05d73be7b77202d125bdc3663d7d55f04f5bc6900e915378b2fbbb3d4ab6366234
 Homepage: https://iosgods.com
 Description: Chặn phát hiện Jailbreak App K+
 Name: Chặn phát hiện Jb app K+

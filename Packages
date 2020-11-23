@@ -1,3 +1,21 @@
+Package: bvnsupport.com.KPlus
+Architecture: iphoneos-arm
+Version: 2.0.5+iOSGods.com
+Section: Tweaks
+Maintainer: iOSGods.com
+Installed-Size: 10112
+Depends: mobilesubstrate
+Filename: ./debfiles/bvnsupport.com.KPlus_2.0.5+iOSGods.com_iphoneos-arm.deb
+Size: 2464906
+MD5sum: 0b3134e259bfe08d4240f6e237f3e78f
+SHA1: 621262f9a2745b279abd612fa1e67fd51f41bfff
+SHA256: 0155fabce99466f4c803767224256c836f1d1c890a97dfd16e76e26be88877a7
+SHA512: fcfbb8255fad644c4b09d23d0f828d4d755e905a9009ac052feaa474daa8f1f1c10baeffd02e5f5490c03a259eac08e78f0cc05344346201d411ee00abdb4377
+Homepage: https://iosgods.com
+Description: Chặn phát hiện Jailbreak App K+
+Name: Chặn phát hiện Jb app K+
+Author: Laxus
+
 Package: com.Bvn-support.xenhtml
 Architecture: iphoneos-arm
 Version: Beta

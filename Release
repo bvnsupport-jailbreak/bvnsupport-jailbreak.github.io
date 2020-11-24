@@ -1,0 +1,11 @@
+Origin: Biện Văn Nhật
+Label: Thủ Thuật Jailbreak
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Apple - Support
+MD5Sum:
+ 8705c86990701ea8d72c9899f854670a 75555 Packages
+ 1d59c595b7ce2957b7df6b4e79dac838 21849 Packages.bz2

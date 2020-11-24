@@ -162,6 +162,49 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-jailbreak.11cam14
+Architecture: iphoneos-arm
+Version: 0.0.11
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debfiles/com.bvnsupport-jailbreak.11cam14_0.0.11_iphoneos-arm.deb
+Size: 4932
+MD5sum: fc8f207a01da645d408c87b3d692d877
+SHA1: ba08850d0d441331fee37eea2336472600501960
+SHA256: c9610b04e071965a4eadbb1b328978171e7b5dadd5b89a09b9527d56f93439f4
+SHA512: 71f5702b9544dd7964f7cdbc1148d3ff9bcfaf6063939b7bc1e31a7b7f46fad088b463eb0314b76ae3e8d8668369944563704cd516035f139a4218659527dc4c
+Description: 
+   Tính Năng:
+ - 11Cam thêm Ứng dụng Camera của iPhone 11 vào iPhone của bạn
+ - Zom 10X
+ - Tương thích với iPhone SE-->iPhone X trên iOS 14
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Michael Melita
+Name: 11Cam14 VH
+
+Package: com.bvnsupport-jailbreak.11cam
+Architecture: iphoneos-arm
+Version: 0.0.9
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.con>
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.4), cy+model.iphone (= 11.2) | cy+model.iphone (= 11.4) | cy+model.iphone (= 11.6) | cy+model.iphone (= 11.8)
+Filename: ./debfiles/com.bvnsupport-jailbreak.11cam_0.0.9_iphoneos-arm.deb
+Size: 3906
+MD5sum: ff34cff788245851b79c8ad63150b3a6
+SHA1: 8913379fd7d0005b8d0ae4c43702ec11d2e68009
+SHA256: 595bd2d6b3c2a10856754d8de3d298c4a257b870d97f046ae2428d2fa3c6ccf4
+SHA512: 91e0ce3be99d47aa525eb1055e9ef4fb42650e0638e9c6ad21b2c87cac723775feae9e26c9de681120206a5b972805d454d073507dfbe5af6f087e3f57c3389f
+Description: 
+   Tính Năng:
+ -11Cam thêm Ứng dụng Camera của iPhone 11 vào iPhone của bạn 
+ -Hỗ trợ Ios 13.4-13.7
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Michael Melita
+Name: 11Cam13 VH
+
 Package: com.bvnsupport-jailbreak.xeninfo
 Architecture: iphoneos-arm
 Version: Beta

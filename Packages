@@ -184,27 +184,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Michael Melita
 Name: 11Cam14 VH
 
-Package: com.bvnsupport-jailbreak.11cam
-Architecture: iphoneos-arm
-Version: 0.0.9
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.con>
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 13.4), cy+model.iphone (= 11.2) | cy+model.iphone (= 11.4) | cy+model.iphone (= 11.6) | cy+model.iphone (= 11.8)
-Filename: ./debfiles/com.bvnsupport-jailbreak.11cam_0.0.9_iphoneos-arm.deb
-Size: 3906
-MD5sum: ff34cff788245851b79c8ad63150b3a6
-SHA1: 8913379fd7d0005b8d0ae4c43702ec11d2e68009
-SHA256: 595bd2d6b3c2a10856754d8de3d298c4a257b870d97f046ae2428d2fa3c6ccf4
-SHA512: 91e0ce3be99d47aa525eb1055e9ef4fb42650e0638e9c6ad21b2c87cac723775feae9e26c9de681120206a5b972805d454d073507dfbe5af6f087e3f57c3389f
-Description: 
-   Tính Năng:
- -11Cam thêm Ứng dụng Camera của iPhone 11 vào iPhone của bạn 
- -Hỗ trợ Ios 13.4-13.7
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Michael Melita
-Name: 11Cam13 VH
-
 Package: com.bvnsupport-jailbreak.xeninfo
 Architecture: iphoneos-arm
 Version: Beta

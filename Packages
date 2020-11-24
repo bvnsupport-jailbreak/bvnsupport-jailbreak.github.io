@@ -349,6 +349,25 @@ Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.foxfort.translomatic
+Architecture: iphoneos-arm
+Version: 2.3.0
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 2684
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.0), applist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic
+Filename: ./debfiles/com.foxfort.translomatic_2.3.0_iphoneos-arm.deb
+Size: 2483388
+MD5sum: 66672ba357f3e89c3e7e728ea40834fc
+SHA1: 9f2289da3bf9a65cbb32e41ac9f07fc50082e4a0
+SHA256: 53c2bf86555c76256ed004c18a415d30cf7049486eeb3f24f283269746fa1c77
+SHA512: 06b361ea2c3cf63d3bc0d6a080a965bfe7135b93a25d72dae8313078afa98982811c4148b7e3dcfc7e79dc6898aeccc44a2462ab45a9eafcdebd17f625a7eb86
+Description: Do Packic xoá Tw nên mình mạn phép Post nguyên Deb của nó cho Ae Cài nhé
+Name: Translomatic
+Author: FoxfortMobile
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.linusyang.appsyncnew
 Architecture: iphoneos-arm
 Version: 1.4

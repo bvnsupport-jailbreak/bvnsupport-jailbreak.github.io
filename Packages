@@ -139,27 +139,6 @@ Name: Hack LOL Mobi
 Author: Samsiu
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bvn-supportjailbreak.laetusVH
-Architecture: iphoneos-arm
-Version: 3.2.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 1568
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
-Filename: ./debfiles/com.bvn-supportjailbreak.laetusVH_3.2.1_iphoneos-arm.deb
-Size: 906952
-MD5sum: 64b811b8102e2b0c936c6e2673a93a8a
-SHA1: 286c7690d80b352bd6d6b8385e0691d237036a83
-SHA256: abff2b25442c8f020098d87c2871f5533c555146f72a5c87f9e7330f7e27f0ce
-SHA512: 6f032a3dab7d18b4fd37e513c4d0cd262d237415712bd31a357cc8a47b1b6a0d2f5ee7f8408c615c8578a23dee9ff732bac5948e2de5d99dd34895ad8f0b2b3f
-Description: 
-   Mô Tả
- - Thay đổi màu nền,màu chữ,chèn ảnh,làm đẹp cho Bàn Phím của bạn
- - Hỗ Trợ từ Ios 13 Đến Ios 14.2
-Name: Laetus Việt Hoá
-Author: Spark
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvn-supportjailbreak.little11viethoa
 Architecture: iphoneos-arm
 Version: 3.4.5

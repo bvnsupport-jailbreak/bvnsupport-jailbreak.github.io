@@ -203,6 +203,26 @@ Name: XenInfo Việt Hoá
 Author: JunesIphone & Matchstic
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-jailbrwak.Laetus
+Architecture: iphoneos-arm
+Version: 3.2.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
+Filename: ./debfiles/com.bvnsupport-jailbrwak.Laetus_3.2.1_iphoneos-arm.deb
+Size: 906920
+MD5sum: 41f1deeee52fa132f4f519c1fbc926e3
+SHA1: d2a373fc84ab07bf949e4f4a9fca3959b2c43fd4
+SHA256: 8cb0158bb9c622fb42d8faf0ebda90a129993fd6c290c1b0072d30818ddff2a7
+SHA512: 87eea168f26d66aef0d43cc5532923d1af9f5b772468f9479f4b1fd20c3edf35a5cf02dfc0ded1fe19287efd6423802b9ad9fe3273fdea60542bdedc740fddfe
+Description: 
+   Mô Tả
+ - Thay đổi màu Nền,màu Chữ,chèn ảnh,làm đẹp cho Bàn Phím của bạn!
+ - Hỗ trợ từ Ios 13-14.2
+Name: Laetus Việt Hoá
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.0

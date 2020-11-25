@@ -15,6 +15,25 @@ Name: Xen HTML Việt Hoá
 Author: Matt Clarke
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.Bvnsupport-jailbreak.libsparkcolourpicker
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 424
+Depends:
+Filename: ./debfiles/com.Bvnsupport-jailbreak.libsparkcolourpicker_1.0.2_iphoneos-arm.deb
+Size: 124990
+MD5sum: aa325ebf37d55e930c81787bdd3a266f
+SHA1: cf869ebc4edc4cc4d644e066ce470256666fbdbd
+SHA256: ed9d81b8c6ab295b711dd453df08ee7835ad715dc2c849047efd295c6959ae2e
+SHA512: 0763b2eac8f22e2ef923095e4fa95f0ef7178244e8fa2b81dedd0a3e09ed42825c51037a305d4e07b8dd539f27485b19e905d7ccf7ed938e6d350d4dfafa3f11
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Tag: role::developer
+Name: libsparkcolourpicker
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2
@@ -137,6 +156,27 @@ SHA512: 5d61de0e02f2e772e5cb30e285a46da571546d3daf0ec4cad8d8d63b750f1d24cb2ebc39
 Description: Hãy sử dụng nó nếu bạn muốn😁
 Name: Hack LOL Mobi
 Author: Samsiu
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn-supportjailbreak.laetusVH
+Architecture: iphoneos-arm
+Version: 3.2.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 1568
+Depends: mobilesubstrate, preferenceloader, com.Bvnsupport-jailbreak.libsparkcolourpicker (>= 1.0.1)
+Filename: ./debfiles/com.bvn-supportjailbreak.laetusVH_3.2.1_iphoneos-arm.deb
+Size: 906962
+MD5sum: a39ee1f51a96195296596f99bc58cdc1
+SHA1: 208719a82b08b4d17cb5b4e521ae558debcc47c2
+SHA256: 7d81d0a2ec65100df65cbe1bd7c473f1ec084b31e5003d725bc813bd8f5a7173
+SHA512: 4bdbed0a28589dc583f818709e25d13f9dacab685d9f8679398d1250abc767ec4bcfc6fcc74ff3d74c1174c3c70d4aba0560b5392637cff21b5c4b6907a1f9cd
+Description: 
+   Mô Tả
+ - Thay đổi màu nền,màu chữ,chèn ảnh,làm đẹp cho Bàn Phím của bạn
+ - Hỗ Trợ từ Ios 13 Đến Ios 14.2
+Name: Laetus Việt Hoá
+Author: Spark
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn-supportjailbreak.little11viethoa

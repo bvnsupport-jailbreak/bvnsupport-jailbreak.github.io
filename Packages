@@ -1,3 +1,23 @@
+Package: com.BVNSupport.LaetusVH
+Architecture: iphoneos-arm
+Version: 3.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
+Filename: ./debfiles/com.BVNSupport.LaetusVH_3.0.1_iphoneos-arm.deb
+Size: 906916
+MD5sum: 3281b035d0c8ebc28e3061a8ddfa5b72
+SHA1: 5a3fa3aafebc707d37295fff44006882ea346593
+SHA256: 74c709b63c4b4a449689aa64844e6212dd8c9955f53cee9235f38e21c66b78c6
+SHA512: ce6444e940728f48981429beb06213016952e1f38f28a802ea2ee441d72eae26bf58ea4dc276cf572e2609f6fe8cefdb7e462ad43c5bec91f100663adb9c70c9
+Description: 
+   Mô Tả
+ - Thay đổi màu Nền,màu Chữ,chèn ảnh,làm đẹp cho Bàn Phím của bạn!
+ - Hỗ trợ từ Ios 13-14.2
+Name: Laetus Việt Hoá
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Bvn-support.xenhtml
 Architecture: iphoneos-arm
 Version: Beta

@@ -1,15 +1,15 @@
 Package: com.BVNSupport.LaetusVH
 Architecture: iphoneos-arm
-Version: 3.0.1
+Version: 3.2.1
 Section: Tweaks
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
-Filename: ./debfiles/com.BVNSupport.LaetusVH_3.0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.BVNSupport.LaetusVH_3.2.1_iphoneos-arm.deb
 Size: 906916
-MD5sum: 3281b035d0c8ebc28e3061a8ddfa5b72
-SHA1: 5a3fa3aafebc707d37295fff44006882ea346593
-SHA256: 74c709b63c4b4a449689aa64844e6212dd8c9955f53cee9235f38e21c66b78c6
-SHA512: ce6444e940728f48981429beb06213016952e1f38f28a802ea2ee441d72eae26bf58ea4dc276cf572e2609f6fe8cefdb7e462ad43c5bec91f100663adb9c70c9
+MD5sum: 454c7f04e263257e4335f0529482ee9d
+SHA1: 04a3b529efb605dba476064fcf62d3185f402648
+SHA256: 5f1d2ef46d717905e0be67ff64bc2365da889b4fc9cba2de7ef7ca8666edc173
+SHA512: da935c78bd78f53220554e8fdf28e77b32925e12245271656c7c515e523878a2a95737f4c173f804c9d03bde4c6de0ab1fd4f2ebc3c8bf02ba7bd45ad12192fe
 Description: 
    Mô Tả
  - Thay đổi màu Nền,màu Chữ,chèn ảnh,làm đẹp cho Bàn Phím của bạn!

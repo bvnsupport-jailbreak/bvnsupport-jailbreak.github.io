@@ -594,6 +594,32 @@ Name: B3rry Việt Hoá
 Author: MegaDev
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.supportjailbreak.battsafepro
+Architecture: iphoneos-arm
+Version: 2.3.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 948
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.udevs.battsafe
+Filename: ./debfiles/com.supportjailbreak.battsafepro_2.3.4_iphoneos-arm.deb
+Size: 195548
+MD5sum: 9e50d2cb28fb1814c654a615b637d4f0
+SHA1: 8c3e084c8389728b5ddb3d1196ee5d42647ac7c1
+SHA256: 0165d604cb70726a45a5d7876ff2a956e29d15663716cbe7aa03e5b56e16dab2
+SHA512: 71437ac07fe3266684ff488ef0822409eb8a334cd57b4723ece9f81dca1273ff54b528e84cf087513f2414f45cd3914ca8e7c463c7e52486375196741de80571
+Description: Kiểm soát hành vi sạc pin
+   Tính năng:
+ - BattSafePro cho phép bạn cá nhân hóa hành vi sạc cho cả iPhone và iPad.  Được phát triển cho iOS 13+, có thể hoạt động trên các phiên bản iOS thấp hơn.
+ o Dừng sạc ở mô-đun trung tâm phần trăm pin được chỉ định để dễ dàng
+ o Ghi đè đã ngừng tính phí từ thông báo
+ o Mô-đun trung tâm điều khiển để dễ dàng bật / tắt
+ o Phần mở rộng của trình kích hoạt
+ o Công cụ chẩn đoán (Chỉ dành cho iOS 13-14.2)
+Name: BattSafePro Việt Hoá
+Author: udevs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.battsafevithoa
 Architecture: iphoneos-arm
 Version: 1.1.2.4

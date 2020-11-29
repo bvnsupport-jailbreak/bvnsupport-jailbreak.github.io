@@ -184,6 +184,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Michael Melita
 Name: 11Cam14 VH
 
+Package: com.bvnsupport-jailbreak.DepthsP
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Laetus Themes
+Maintainer: Polyphian
+Filename: ./debfiles/com.bvnsupport-jailbreak.DepthsP_1.2.3_iphoneos-arm.deb
+Size: 40080838
+MD5sum: dcd0fd6514d24b4f4b54c75b95dd3795
+SHA1: 342c473b6323c73573c401276a616cd0b0769f2a
+SHA256: e166a2aa58b6e4c084bc72d76f588e81cd53158dab795d74445515283b1c0c66
+SHA512: b94333b64930e34ac69eecc89767f0da79a19a88b1c59251c54a033dee076e4e64180e6bb28b4d5252e0fb999c8f3ad460966b51137cef88754232561e662c0a
+Description: 
+   Tính Năng:
+ - Chủ đề bàn phím Laetus cho các máy 6s đến 7G,mình đã chỉnh sửa nên anh em dùng các dòng máy nhỏ cứ cài thoải mái nhé
+Name: Depths P
+Author: Polyphian
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
 Package: com.bvnsupport-jailbreak.xeninfo
 Architecture: iphoneos-arm
 Version: Beta

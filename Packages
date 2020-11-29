@@ -446,6 +446,28 @@ Name: libnebbs
 Author: ItzNebbs
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.support-jailbreak.newterm2
+Architecture: iphoneos-arm
+Version: 2.5
+Section: Terminal Support
+Maintainer: Biện Văn Nhật <Nhatbien97@gmail.com>
+Installed-Size: 6792
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./debfiles/com.support-jailbreak.newterm2_2.5_iphoneos-arm.deb
+Size: 3201836
+MD5sum: 0f5c238cf69a6bb3585671559abe18b3
+SHA1: 6d9cf4c4ee4a6c52ce6ee9c915202d6c1458b502
+SHA256: 66b9c0420177675f2af9be064d7b3e14aca2f4fc7ebef2b32830d28b43bc58c9
+SHA512: 5c6c63517ab16351291ff8123ee3924acace3ca8a1dddb03d78b145b55f4c4a3ea5a15c65e5db4133c3ce23956ebb7a5c2fe9a8d4549a90c0c0c3b80b23d1369
+Description: A powerful terminal app for iOS
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: NewTerm (iOS 10 – 14)
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Support: https://hashbang.productions/support/
+
 Package: com.supportjailbreak.Gesturesi11VN
 Architecture: iphoneos-arm
 Version: 3.5.0

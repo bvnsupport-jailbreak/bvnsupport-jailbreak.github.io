@@ -579,6 +579,26 @@ Author: Litten <hiya@litten.love>
 Depiction:
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.supportjailbreak.animplusVIETHOA
+Architecture: iphoneos-arm
+Version: 1.0-7
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 616
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
+Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Filename: ./debfiles/com.supportjailbreak.animplusVIETHOA_1.0-7_iphoneos-arm.deb
+Size: 105892
+MD5sum: 8d6521547c09c44fb80b130059895a4b
+SHA1: 5e439c64420fecd8139131aa0ecd91bee18328a9
+SHA256: 734b70e0ab1808ea5170f1eadf823c190956746701f89ea67cc13a2e36c95472
+SHA512: cca5a2be871868437efcd57098a380c5ee426156b45c8af1acda9ed38e975e5e120915a089a680ec9a6500a2b0cea7328eb11cea5663b01e8a890db83b90ce19
+Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
+Name: AnimPlus Việt Hoá
+Author: eXqusic
+Support: https://www.facebook.com/SUPPORT.BVN.VN
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.animplusviethoa
 Architecture: iphoneos-arm
 Version: 1.0-6

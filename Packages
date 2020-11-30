@@ -315,11 +315,11 @@ Maintainer: BIện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 2616
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap
 Filename: ./debfiles/com.bvnsupport.tranzloVH_1.2.3_iphoneos-arm.deb
-Size: 832726
-MD5sum: e63346758ec3d717376eb62c5b599dfb
-SHA1: f39577d5b33ca51b4635a3444df54949cc689ac2
-SHA256: 1490ba6a0a1f65a3b1be738a9bd97711712cec2460a56f799deab20709de3dfb
-SHA512: 33b7e28d6fc7b19c8bb781303a4bdca8fe2e6601ef5e64ae55d5aadcd10c253bdb36d63d6fcaf5035be34a3ede9e318c1c9fd64fa60141e944a856196e52b622
+Size: 832622
+MD5sum: 6030af1109c41effcc4702a89ab01665
+SHA1: ab83a3ccdb4e08b54bde93e3b62d8eab20639a87
+SHA256: e2d22e404dc741241cf62354d630d72706a9c551520726c74269735d8f6d46bc
+SHA512: 0661cbdf12ca5456e23929dd1990dd636b5009724298298876b67694d18dd55e32c1aa4f951c08f0b219daf445f928b88e8b94d500a7d930cb16840b2d34b8cb
 Description:    Tính Năng:
   - Tranzlo là một bản dịch có thể giúp bạn trở thành một cuộc trò chuyện, dễ dàng khi trò chuyện với người nước ngoài!  Nó có thể cho phép bạn trò chuyện bằng bất kỳ ngôn ngữ nào mà bạn muốn một cách dễ dàng mà không cần phải qua lại giữa Dịch ứng dụng hoặc nhấn bổ sung nút.
     Tin nhắn đến: 

@@ -307,6 +307,36 @@ Name: TikTok God
 Author: Hao Nguyen
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport.tranzloVH
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: BIện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 2616
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.bvnsupport.tranzloVH_1.2.3_iphoneos-arm.deb
+Size: 832726
+MD5sum: e63346758ec3d717376eb62c5b599dfb
+SHA1: f39577d5b33ca51b4635a3444df54949cc689ac2
+SHA256: 1490ba6a0a1f65a3b1be738a9bd97711712cec2460a56f799deab20709de3dfb
+SHA512: 33b7e28d6fc7b19c8bb781303a4bdca8fe2e6601ef5e64ae55d5aadcd10c253bdb36d63d6fcaf5035be34a3ede9e318c1c9fd64fa60141e944a856196e52b622
+Description:    Tính Năng:
+  - Tranzlo là một bản dịch có thể giúp bạn trở thành một cuộc trò chuyện, dễ dàng khi trò chuyện với người nước ngoài!  Nó có thể cho phép bạn trò chuyện bằng bất kỳ ngôn ngữ nào mà bạn muốn một cách dễ dàng mà không cần phải qua lại giữa Dịch ứng dụng hoặc nhấn bổ sung nút.
+    Tin nhắn đến: 
+  - Khả năng dịch nhanh tin nhắn bằng cách nhấn vào nút dịch bên cạnh bong bóng trò chuyện.  
+  - Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn nâng ly hoặc dưới dạng Cảnh báo.  
+  - Khả năng nhanh chóng thay đổi cài đặt bằng cách nhấn và giữ nút Dịch.  Lựa chọn văn bản: 
+  - Chỉ cần chọn văn bản mong muốn trên toàn hệ thống và danh sách các nút Dịch sẽ xuất hiện để dịch sang các ngôn ngữ yêu thích của bạn.  
+  - Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn nâng ly hoặc dưới dạng Cảnh báo.  
+  - Khả năng thêm tối đa 10 nút dịch mỗi nút dịch sang các ngôn ngữ khác nhau.
+  - Chắc hẳn bạn nào cx đã trải Nghiệm Tweak Translomatic từ nguồn Packix ,Tweak này nó cũng có tính năng gần giống như vậy.
+  - Hỗ trợ từ ios 13 trở lên,mình sẽ Update Full Tiếng việt cho anh em vào bản sắp tới
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo Việt Hoá
+Support: https://www.facebook.com/SUPPORT.BVN.VN
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupportjailbreak.sakuraviethoa
 Architecture: iphoneos-arm
 Version: 1.0.0-1

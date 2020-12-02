@@ -337,36 +337,6 @@ Support: https://www.facebook.com/SUPPORT.BVN.VN
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bvnsupport.tranzloViethoa
-Architecture: iphoneos-arm
-Version: 4.5.6
-Section: Tweaks
-Maintainer: BIện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 2616
-Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap
-Filename: ./debfiles/com.bvnsupport.tranzloViethoa_4.5.6_iphoneos-arm.deb
-Size: 960384
-MD5sum: d3bfcb39c2c685f826649dc0e7ffc9d3
-SHA1: c436b790bb880a9129189c454d7134f433c3e63f
-SHA256: 5641ef0b1e2e92cb17dc63e25368e83a6fc877548e4e0592b57195535ad1e24a
-SHA512: 5fb1bb36187ba0d49272a3aaef07ad48ebc045a09c43b839ad97991b529d1ac41ad28b3148b2e9f39424d476dc7f2ff30b83b8ebe052d61d68cf1839dd7907b1
-Description:    Tính Năng:
-  - Tranzlo là một bản dịch có thể giúp bạn trở thành một cuộc trò chuyện, dễ dàng khi trò chuyện với người nước ngoài!  Nó có thể cho phép bạn trò chuyện bằng bất kỳ ngôn ngữ nào mà bạn muốn một cách dễ dàng mà không cần phải qua lại giữa Dịch ứng dụng hoặc nhấn bổ sung nút.
-    Tin nhắn đến: 
-  - Khả năng dịch nhanh tin nhắn bằng cách nhấn vào nút dịch bên cạnh bong bóng trò chuyện.  
-  - Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn nâng ly hoặc dưới dạng Cảnh báo.  
-  - Khả năng nhanh chóng thay đổi cài đặt bằng cách nhấn và giữ nút Dịch.  Lựa chọn văn bản: 
-  - Chỉ cần chọn văn bản mong muốn trên toàn hệ thống và danh sách các nút Dịch sẽ xuất hiện để dịch sang các ngôn ngữ yêu thích của bạn.  
-  - Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn nâng ly hoặc dưới dạng Cảnh báo.  
-  - Khả năng thêm tối đa 10 nút dịch mỗi nút dịch sang các ngôn ngữ khác nhau.
-  - Chắc hẳn bạn nào cx đã trải Nghiệm Tweak Translomatic từ nguồn Packix ,Tweak này nó cũng có tính năng gần giống như vậy.
-  - Hỗ trợ từ ios 13 trở lên,mình sẽ Update Full Tiếng việt cho anh em vào bản sắp tới
-Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
-Name: Tranzlo Việt Hoá
-Support: https://www.facebook.com/SUPPORT.BVN.VN
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvnsupportjailbreak.dcsyhi.fuji
 Architecture: iphoneos-arm
 Version: 1.0.1

@@ -337,6 +337,30 @@ Support: https://www.facebook.com/SUPPORT.BVN.VN
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupportjailbreak.dcsyhi.fuji
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 1660
+Depends: mobilesubstrate,ws.hbang.common,com.rpetrich.rocketbootstrap,firmware (>=13.0),org.thebigboss.libcolorpicker
+Filename: ./debfiles/com.bvnsupportjailbreak.dcsyhi.fuji_1.0.1_iphoneos-arm.deb
+Size: 549084
+MD5sum: 010461d059809f28b8d9fa5fc41aab0d
+SHA1: 4176d4ea2e1bbc7abe9ea7d95db274a56386ae8f
+SHA256: d1d903cf9e004eb70f26adfca50a98c9bb61f953b6faed30701314c189d60205
+SHA512: 97001eb7cf83554a41f32d6b2d6ac6d99316982c3c1b11b5c6c4c56d9dc014270498617f8cce42554862f2555ccfdaf3baabf909823af59d37042fa8fb0a0966
+Description: 
+   Tính năng:
+ - Tinh chỉnh đa nhiệm,
+ - Nhấn và giữ menu để thay đổi kích thước,
+ - Xem Chế độ xem bằng một lần chạm vào menu
+Tag: compatible_min::ios13.0, compatible_max::ios14.2
+Name: Fuji Việt Hoá
+Support: https://m.facebook.com/SUPPORT.BVN.VN
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupportjailbreak.sakuraviethoa
 Architecture: iphoneos-arm
 Version: 1.0.0-1

@@ -1051,15 +1051,17 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 559
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debfiles/com.supportjailbreak.halfipadVH_7.8.9_iphoneos-arm.deb
-Size: 114462
-MD5sum: 3252d376fe6958e9483159475360b908
-SHA1: c617c6fba936efd7f2bf4fceb511b6186c716916
-SHA256: 33cfa6b151e353cae48cb150ebef35a3fe2313c716dc53dc77fadd976e84554a
-SHA512: 2160005286e9510d1696fc69432baa0fecd0540348ce40201bf3d8af2e9015bd201ea41db7209644831474e9a5e2b9174026a04b152b17be66977a894e6734b0
+Size: 114498
+MD5sum: 0aaa4151c818d076d9afd7dab7015a80
+SHA1: 1f8901453a0c10fdb8ca8925c06cd832a80fade6
+SHA256: 3c3d0e69550a17b2daa1cbe1e456b0a19e3b929c210a72ca5d7fbd0df191159f
+SHA512: 33299ffb57164896b9e77a93d10611a28a9fd3fb9d103ec5bb954792c0abed787cf9ab0134550b2a2ca6f71d2e7833d18b5a53b47216705ea0aaf8c7b8580d5f
 Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn,hỗ trợ Ios >=12.0
 Tag: purpose::extension, compatible::ios13
 Author: Hius <h.h.haiduog@gmail.com>
 Name: HalFiPad Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.halfipadVH
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.halfipadVH
 dev: hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 

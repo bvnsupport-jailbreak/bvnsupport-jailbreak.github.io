@@ -1,16 +1,16 @@
 Package: com.bvnsupport-jailbreakk.netkillui11
 Architecture: iphoneos-arm
-Version: 4.5.6
+Version: 0.2.1
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, firmware (>= 11.0)
 Conflicts: eu.teggers.netKillUI
 Filename: ./debfiles/ com.bvnsupport-jailbreakk.deb
-Size: 813436
-MD5sum: 3b3b22edd6dd66e1973e5f2f22df873a
-SHA1: 6cfc639c7f866ef9bfa7c60b430bf06c8817173f
-SHA256: 9bf511f87fb285d9daa428bb3df07954510bf99a3e2f24d8266c73f27db6b60e
-SHA512: f533b946e5cc80ff6afef0cdbf657dd801ef96b983f5004e9a3027c1f4b5907783b642874ddf51f03570225249001f5abb4f11cedaa82711b4a6f78f5fcc4cfa
+Size: 813438
+MD5sum: d1c026584e96a2bae85636e28967e2be
+SHA1: afd63c285ee23edeef6857fa3f46462deb296401
+SHA256: ad293cb1588f4e8ef860edfc77a99a5ffa574c383cb509f924a1035ea3d8889f
+SHA512: 2d1cc6ed3a030766d7f56936062397452b270d07182bc5bfa50806bf4a39aef618aa04e46b7843b809c0be18f5a3716014e623e7f6e2187ba020bb8f07b6f6e6
 Description: Chặn truy cập Wi-Fi cho tất cả những người được kết nối với cùng một mạng.
 Depiction: http://cydia-jailbreak.github.io/depictions?p= com.bvnsupport-jailbreakk.netkillui11
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p= com.bvnsupport-jailbreakk.netkillui11

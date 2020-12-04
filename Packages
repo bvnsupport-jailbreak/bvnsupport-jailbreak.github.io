@@ -299,34 +299,6 @@ Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
 Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
-Package: com.bvnsupport.tiktokgod
-Architecture: iphoneos-arm
-Version: 1.9.3
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 412
-Depends: mobilesubstrate, preferenceloader, com.supportjailbreak.libhdev (>= 4.5.0), firmware (>= 10)
-Filename: ./debfiles/com.bvnsupport.tiktokgod_1.9.3_iphoneos-arm.deb
-Size: 74430
-MD5sum: 51e2559ffe01c3de0d75197d1abbb209
-SHA1: a95bcd344811b64dcaf72db2d8012facd434f525
-SHA256: ef273296b254d769f078db985effc53acf20115a1df21294b34667e2f3103d60
-SHA512: 30161551ef1241f56ed470da76136dad92cd09f97ed2d66359099846d60ff71ce03bffb3affbc97f408122742388b838e28b0b663b13e6716a84869ea94d780f
-Description: Tinh chỉnh tốt nhất cho ứng dụng TikTok.
- Tinh chỉnh tốt nhất cho ứng dụng TikTok.
- Công dụng:
- - Loại bỏ các quảng cáo
- - Cho phép tải xuống cho tất cả các video
- - Tải xuống không có hình mờ
- - Tự động cuộn đến video tiếp theo
- - Thay đổi khu vực (có thể không hoạt động đối với iPad và một số thiết bị)
- - Hiển thị thanh tiến trình (để tua nhanh hoặc tua lại video)
- - Có thể ẩn giao diện người dùng (xem video toàn màn hình)
- - Hỗ trợ iOS 10-14 và phiên bản TikTok mới nhất
-Name: TikTok God
-Author: Hao Nguyen
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvnsupport.tranzloVH
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -1146,25 +1118,6 @@ Author: kid1carus <kid1carus@mail.com>
 Icon: file:///Applications/Cydia.app/Sections/chude1.png
 Depiction: Chủ đề 3D Ios Winter tải về và kích hoạt bằng Itheme hoặc Snowboard
 SileoDepiction: https://bvnsupport-jailbreak.gỉhub.io/sileo/depiction.php?file=ios-winter
-
-Package: com.supportjailbreak.libhdev
-Architecture: iphoneos-arm
-Version: 4.5.0
-Section: System
-Maintainer: Hao Nguyen <hao.ict56@gmail.com>
-Installed-Size: 380
-Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
-Filename: ./debfiles/com.supportjailbreak.libhdev_4.5.0_iphoneos-arm.deb
-Size: 72252
-MD5sum: 78fed0008e7f17485793710ae2e372b0
-SHA1: c6e9cdd9cebe24178596c422f6c3dec44e298a74
-SHA256: eec5ca5753cb4cb979bea612eff60e8c5e543fb18c2cf714820773873b0cd683
-SHA512: 8005cd59f1ab986ca24c0f631f10f5343f31fec1ea953c884c6c1b35c493a0b5a979d47d04632cb6628b23f62d305a5b69f2d49fe66c9b1abac8e28af1dc537d
-Description: This is a developer library for better preferences and useful utilities.
-Tag: role::developer
-Name: libhdev
-Author: Hao Nguyen <hao.ict56@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.supportjailbreak.littlexsvirthoa
 Architecture: iphoneos-arm

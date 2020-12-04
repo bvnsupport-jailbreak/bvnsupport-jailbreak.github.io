@@ -545,6 +545,26 @@ Author: HASHBANG Productions <support@hbang.ws>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Support: https://www.facebook.com/SUPPORT.BVN.VN
 
+Package: com.support.sz
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật <jesse.born@gmx.ch>
+Installed-Size: 68
+Depends: firmware (>= 11.0.0)
+Filename: ./debfiles/com.support.sz_1.0.2_iphoneos-arm.deb
+Size: 3318
+MD5sum: a2d3068ff3cfc625f7757b8a6ca80a8d
+SHA1: 830e166b70f6f9e9597f329cf7fbb59d25c60a1f
+SHA256: 80991fdf1bd50c44f63ba42c38c951d36195811eefdf8ae01abac87a55879701
+SHA512: 6369d3563675f79180313cf3422175bfe039889357d3f504a56e3afb235d8de0ab3fb41be445c2a114b9590e246a39f2da3bb269076f19e29c0b40121185d8ee
+Description: đặt hệ số thu phóng tối đa thành 20x.
+Name: Zom 20x
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.support.sz
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.support.sz
+Author: jesseb0rn
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.Gesturesi11VN
 Architecture: iphoneos-arm
 Version: 3.5.0

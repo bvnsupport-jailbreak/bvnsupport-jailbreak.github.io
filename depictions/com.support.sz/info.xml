@@ -1,0 +1,24 @@
+<package>
+	<id> com.support.sz</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Mở khóa thu phóng 20x của máy ảnh trên tất cả các thiết bị</description>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>SuperZom.PNG</image
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại>
+	</changelog>
+	<links></links>
+</package>

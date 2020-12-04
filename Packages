@@ -573,15 +573,15 @@ Maintainer: Biện Văn Nhật <jesse.born@gmx.ch>
 Installed-Size: 68
 Depends: firmware (>= 11.0.0)
 Filename: ./debfiles/com.support.sz_1.0.2_iphoneos-arm.deb
-Size: 3318
-MD5sum: e78a93b295691212f9aa31f0981a3dae
-SHA1: 5a61915312ab7b4ca770a63ba9c8af6408fa863d
-SHA256: 0c0fa249e183730f07c6e59bc678f0705d1f02bd1b754801108845294b2cff04
-SHA512: 3f1b02b5e3971cd40fcfc55c45469947d80fe2f622c29712c6efd4d05785a1c2df5cf893e9ced73e967fcf0f03f2dec6914063c9441355f890d26ff225b57c1d
+Size: 3322
+MD5sum: 47e6ef5a45b39e232b6c9b7a55632353
+SHA1: 5df8d2994bdd2f70742945475513b462898e68af
+SHA256: 48a3e229c5df17ddafa5a72fa45b6488882d8c4bfba348278a677b3a48067932
+SHA512: 4c4c8d3308b7c73621fcf944d2063a29de75340a2ba9e9a2f75bae227ee8a248f9995412c3cf35e2366d886d5462b8d938a2668924aa76aa948f108853373db7
 Description: đặt hệ số thu phóng tối đa thành 20x.
 Name: Zom 20x
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.support.sz
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.support.sz
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.support.sz
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.support.sz
 Author: jesseb0rn
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

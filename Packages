@@ -1529,11 +1529,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 24060
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debfiles/com.supportjailbreak1.amonglockvietho_1.1.1_iphoneos-arm.deb
-Size: 20367736
-MD5sum: 347ea9486607cca556f68da7afa7f7aa
-SHA1: 72edcfd92016b599bca86dad7d333741f4a80641
-SHA256: 1c579947363e7b835beddec5720b69e9f5c70e215a543e299888564a8a9541a9
-SHA512: b5302d3b0ea5e8d5592e969be588bc63b797d998ea0807613f8a47e5212666435aa13199485e1bc7a526d67ebee889bb309008e2e514d441874ef8857b43f3f9
+Size: 22017966
+MD5sum: 05836f261aa9e03ed03fc63e400a32c4
+SHA1: 43ff942b281d19255cce7aede6b54c08647a4146
+SHA256: 976dca731d9dd0166705fdc2b013a58df4b437995499506db6f2a9ac21252b85
+SHA512: 6402a98881bf9befb7112beb0e43106f1d3b767948d4ada0f36db332ee355835c03e5f14152820da9ba4447713de5bcf53c65fc6c8a45246fcb2f4080ed8065d
 Description: You were not the owner of this device
 Name: AmongLock Việt Hoá
 Author: Litten <hiya@litten.love>

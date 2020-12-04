@@ -59,6 +59,26 @@ Author: jjolano <jjolano@me.com>
 Depiction: Chặn phát hiện Jailbreak tốt cho app Ngân hàng Mbbank và 1 số Game!
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.bienvannhat-support.animemybadges
+Architecture: iphoneos-arm
+Version: 1.0-2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debfiles/com.bienvannhat-support.animemybadges_1.0-2_iphoneos-arm.deb
+Size: 414378
+MD5sum: e966e5b1da39e09d0d2c87fc9f360dcb
+SHA1: 6349a499ac501ead48b1fce067232562f306c0ea
+SHA256: 2f0ab5544c94f9910cf9499f10090679201c023522009f55a8dc016439b3fa22
+SHA512: b185313a719b01b4fdfa7448c56d7f947cc00e75d5014ad411b957fd69d02ca99d391e5d36b9d6790f3fa9a90152839e9e3edceb5482a81a1dea0480f278e667
+Description: Tinh chỉnh để tạo hiệu ứng cho các huy hiệu ứng dụng của bạn!
+Name: animemybadges Việt Hoá
+Author: Antony .M
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.bienvannhat-support.animemybadges
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.bienvannhat-support.animemybadges
+
 Package: com.bnsupportjailbreak.chatbubblesmessenger
 Architecture: iphoneos-arm
 Version: 1.0.2

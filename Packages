@@ -677,25 +677,6 @@ Name: Shuffle Việt Hoá
 Author: CreatureSurvive
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
-Package: com.supportjailbreak.amonglockvietho
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 24056
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debfiles/com.supportjailbreak.amonglockvietho_1.0.2_iphoneos-arm.deb
-Size: 20363924
-MD5sum: d88897b8094171cfa0bb9065bbd39f49
-SHA1: 324ecb1f22b81421791ae6e832dab129f995540c
-SHA256: 0fd740f96f2f8441bf216295a53e924b0d6c7e1c3af450e1cce425bb4ada7a0e
-SHA512: d73f1788893f9fbbe60082d8578a57758c44c67b0b0511fd556900647435340e4d723d46e68f126b6fad3d24c61dff6fc7d00bf34d345155353d144e6378c116
-Description: Khoá bảo mật màn hình khoá
-Name: AmongLock Việt Hoá
-Author: Litten <hiya@litten.love>
-Depiction:
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.supportjailbreak.animplusVIETHOA
 Architecture: iphoneos-arm
 Version: 1.0-7
@@ -1547,16 +1528,16 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 24060
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debfiles/com.supportjailbreak1.deb
-Size: 20367738
-MD5sum: ae5b9751edd78378ec65d082192148e0
-SHA1: 2ab71b7d3558a263ef96cd8dfbd37cf26429a86a
-SHA256: 826072b1bafba74373fdf0f36675140d43c26500fe039f1611cf69c0ade78b54
-SHA512: c704f1487bd5d1242be78291f97880e31f594eca7a6be50721fd4ffd8a0e2c597fcd266f4720db8ba8f948ade7b1e3bd6c118ce798f897a6cbd192dd2363f803
+Filename: ./debfiles/com.supportjailbreak1.amonglockvietho_1.1.1_iphoneos-arm.deb
+Size: 20367736
+MD5sum: 347ea9486607cca556f68da7afa7f7aa
+SHA1: 72edcfd92016b599bca86dad7d333741f4a80641
+SHA256: 1c579947363e7b835beddec5720b69e9f5c70e215a543e299888564a8a9541a9
+SHA512: b5302d3b0ea5e8d5592e969be588bc63b797d998ea0807613f8a47e5212666435aa13199485e1bc7a526d67ebee889bb309008e2e514d441874ef8857b43f3f9
 Description: You were not the owner of this device
 Name: AmongLock Việt Hoá
 Author: Litten <hiya@litten.love>
-Depiction: http://bvnsupport-jailbreak/depictions?p=com.supportjailbreak.amonglockvietho
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.amonglockvietho
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.amonglockvietho
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

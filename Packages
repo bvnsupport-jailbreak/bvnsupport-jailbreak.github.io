@@ -67,17 +67,17 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 372
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debfiles/com.bienvannhat-support.animemybadges_1.0-2_iphoneos-arm.deb
-Size: 414378
-MD5sum: e966e5b1da39e09d0d2c87fc9f360dcb
-SHA1: 6349a499ac501ead48b1fce067232562f306c0ea
-SHA256: 2f0ab5544c94f9910cf9499f10090679201c023522009f55a8dc016439b3fa22
-SHA512: b185313a719b01b4fdfa7448c56d7f947cc00e75d5014ad411b957fd69d02ca99d391e5d36b9d6790f3fa9a90152839e9e3edceb5482a81a1dea0480f278e667
+Size: 414504
+MD5sum: 7f741d8f961e62a35cc21e3d49a08580
+SHA1: 69bfe395ec4fba3040b87605a90cb0a86011483d
+SHA256: f29b210815ea4b68151fb7f6cc157445d7e22cc07265bc4baa3708d58a9529de
+SHA512: 5e1e931ba07a0a0cd0955ab846135969fcc1bd9800a36bc08c69b806b978347edce9821fa578da0bafa5d72169679691a4a9d72a33829a1db07ed8b4044420e0
 Description: Tinh chỉnh để tạo hiệu ứng cho các huy hiệu ứng dụng của bạn!
 Name: animemybadges Việt Hoá
 Author: Antony .M
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.bienvannhat-support.animemybadges
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.bienvannhat-support.animemybadges
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bienvannhat-support.animemybadges
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bienvannhat-support.animemybadges
 
 Package: com.bnsupportjailbreak.chatbubblesmessenger
 Architecture: iphoneos-arm
@@ -1538,6 +1538,26 @@ SHA512: dddd247dac18544d05c7c5c4f7be7f1b996d99f12d114ca450af34d41f37dde1dea4dbf3
 Description: Các tiện ích tốt nhất trong màn hình chính của bạn của bạn,hỗ trợ từ ios 12-14 ♥
 Name: Yobun Pro VH
 Author: Plat-Ykor <plat-ykor@libero.it>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.supportjailbreak1.amonglockvietho
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 24060
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debfiles/com.supportjailbreak1.deb
+Size: 20367738
+MD5sum: ae5b9751edd78378ec65d082192148e0
+SHA1: 2ab71b7d3558a263ef96cd8dfbd37cf26429a86a
+SHA256: 826072b1bafba74373fdf0f36675140d43c26500fe039f1611cf69c0ade78b54
+SHA512: c704f1487bd5d1242be78291f97880e31f594eca7a6be50721fd4ffd8a0e2c597fcd266f4720db8ba8f948ade7b1e3bd6c118ce798f897a6cbd192dd2363f803
+Description: You were not the owner of this device
+Name: AmongLock Việt Hoá
+Author: Litten <hiya@litten.love>
+Depiction: http://bvnsupport-jailbreak/depictions?p=com.supportjailbreak.amonglockvietho
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.amonglockvietho
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreakbvn.appshacksviethoa

@@ -1,0 +1,41 @@
+<package>
+	<id>com.supportjailbreak.amonglockvietho</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Video nền - Sử dụng làm hình nền</description>
+		<description>- Ẩn nút cuộc gọi khẩn cấp Ẩn Backspace Cancel</description>
+		<description>- Ẩn Backspace Nút Hủy - Ẩn hoạt ảnh FacelD</description>
+		<description>Gõ nhẹ để bỏ qua phóng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>AmongLock1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>AmongLock2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>AmongLock3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>AmongLock4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Bản mới nhất ,được việt Hoá và chỉnh sửa video các bạn có thể xe ảnh ở phía trên</change>
+	</changelog>
+	<links></links>
+</package>

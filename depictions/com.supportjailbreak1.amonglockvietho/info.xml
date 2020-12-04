@@ -1,6 +1,6 @@
 <package>
-	<id>com.supportjailbreak.amonglockvietho</id>
-	<name>Biện Văn Nhật</name>
+	<id>com.supportjailbreak1.amonglockvietho</id>
+	<name>Biện Văn Nhật</name>
 	<version>1.1.1</version>
 	<compatibility>
 		<firmware>
@@ -11,10 +11,10 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Video nền - Sử dụng làm hình nền</description>
-		<description>- Ẩn nút cuộc gọi khẩn cấp Ẩn Backspace Cancel</description>
-		<description>- Ẩn Backspace Nút Hủy - Ẩn hoạt ảnh FacelD</description>
-		<description>Gõ nhẹ để bỏ qua phóng</description>
+		<description>Mở khoá thiết bị theo kiểu trò chơi Among Us</description>
+		<description>Đã chỉnh sửa Video</description>
+		<description>Đã việt hoá cho anh em dễ xài</description>
+		<description>Các bạn có thể xem hình ảnh phía dưới</description>
 	</descriptionlist>
 <screenshots>
         <screenshot>
@@ -35,7 +35,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Bản mới nhất ,được việt Hoá và chỉnh sửa video các bạn có thể xe ảnh ở phía trên</change>
+		<change>Đã Update Phiên bản mới nhất</change>
 	</changelog>
 	<links></links>
 </package>

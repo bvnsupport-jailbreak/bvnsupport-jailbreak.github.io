@@ -1482,16 +1482,16 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 24060
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debfiles/com.supportjailbreak1.amonglockvietho_1.1.1_iphoneos-arm.deb
-Size: 22017966
-MD5sum: 05836f261aa9e03ed03fc63e400a32c4
-SHA1: 43ff942b281d19255cce7aede6b54c08647a4146
-SHA256: 976dca731d9dd0166705fdc2b013a58df4b437995499506db6f2a9ac21252b85
-SHA512: 6402a98881bf9befb7112beb0e43106f1d3b767948d4ada0f36db332ee355835c03e5f14152820da9ba4447713de5bcf53c65fc6c8a45246fcb2f4080ed8065d
-Description: You were not the owner of this device
+Size: 22017998
+MD5sum: 2a12df44a69cba6f4f5aa4fef7862735
+SHA1: 475f4177b188c301e44f991dd67e2544d68ffbac
+SHA256: d58549ba573a00e352e371ed72e11adb13131786bc022a8fef92a616dc90572b
+SHA512: 35721ffe6009038850d9d2be9cf4f0f0f38f7a7bffdbd44ce8a921447f230c0f405b5d942034a4d116afbb88f6643faccbf95b0cf6c0c664cb0b7244070fd075
+Description:  Bảo mật thiết bị của bạn theo kiểu trò chơi Among Us
 Name: AmongLock Việt Hoá
 Author: Litten <hiya@litten.love>
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.amonglockvietho
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.amonglockvietho
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak1.amonglockvietho
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak1.amonglockvietho
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreakbvn.appshacksviethoa

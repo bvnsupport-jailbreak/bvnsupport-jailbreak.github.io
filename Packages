@@ -554,10 +554,10 @@ Installed-Size: 68
 Depends: firmware (>= 11.0.0)
 Filename: ./debfiles/com.support.sz_1.0.2_iphoneos-arm.deb
 Size: 3318
-MD5sum: a2d3068ff3cfc625f7757b8a6ca80a8d
-SHA1: 830e166b70f6f9e9597f329cf7fbb59d25c60a1f
-SHA256: 80991fdf1bd50c44f63ba42c38c951d36195811eefdf8ae01abac87a55879701
-SHA512: 6369d3563675f79180313cf3422175bfe039889357d3f504a56e3afb235d8de0ab3fb41be445c2a114b9590e246a39f2da3bb269076f19e29c0b40121185d8ee
+MD5sum: e78a93b295691212f9aa31f0981a3dae
+SHA1: 5a61915312ab7b4ca770a63ba9c8af6408fa863d
+SHA256: 0c0fa249e183730f07c6e59bc678f0705d1f02bd1b754801108845294b2cff04
+SHA512: 3f1b02b5e3971cd40fcfc55c45469947d80fe2f622c29712c6efd4d05785a1c2df5cf893e9ced73e967fcf0f03f2dec6914063c9441355f890d26ff225b57c1d
 Description: đặt hệ số thu phóng tối đa thành 20x.
 Name: Zom 20x
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.support.sz

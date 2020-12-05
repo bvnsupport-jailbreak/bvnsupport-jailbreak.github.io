@@ -1,3 +1,28 @@
+Package: com.Bienvannhat-jb.kernbypassVN
+Architecture: iphoneos-arm
+Version: 0.0.5
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 920
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: jp.akusio.kernbypass, com.apple.memecity
+Replaces: jp.akusio.kernbypass-unofficial
+Filename: ./debfiles/com.Bienvannhat-jb.kernbypassVN_0.0.5_iphoneos-arm.deb
+Size: 291292
+MD5sum: 747edb05343346c43888aa16dff7e2e6
+SHA1: 0438d02c247d5d6b584a565958ccf205d01ee4f6
+SHA256: 555b533e0efe9e1f1ea535a4fffdfb94e4a97bcf4dec49dc16e5b683bff173a4
+SHA512: c12301b45f1783e6555da87f98c1aa5af815b33875265d5501c2de4c9a81e5c7bcc13e3390f1fd61e8eda461ef8ef21b2bae4fe1aaa43bc1ff30c1899492fe87
+Description: kernel level jailbreak detection bypass.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: akusio
+Name: KernBypass VN
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bienvannhat-jb.kernbypassVN
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bienvannhat-jb.kernbypassVN
+dev: akusio, Misty, Bvn, XsF1re
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.Bvn-support.xenhtml
 Architecture: iphoneos-arm
 Version: Beta

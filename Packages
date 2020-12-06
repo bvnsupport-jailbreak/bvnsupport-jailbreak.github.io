@@ -291,6 +291,29 @@ Name: Laetus Việt Hoá
 Author: Spark
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-td.appellancy11
+Architecture: iphoneos-arm
+Version: 1.1-20b
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
+Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
+Filename: ./debfiles/com.bvnsupport-td.appellancy11_1.1-20b_iphoneos-arm.deb
+Size: 3709890
+MD5sum: 17116f98eb2c4ed6824e67d46fe45fb0
+SHA1: 41e218b7cf07f284af046a0178baa8bc4fa8cadf
+SHA256: cb06986cc21fa23b4129c76eb85da8e1e43edde07d5efa7cb93edb8bb860eca7
+SHA512: 71064f7ad6cf183fd8e725b4ca1d9aafa0b5933fafae31f654585968bbdd8571e96068a6a31155b5026fa4c71bed91f54dda614a1ecbd8fdfb3788e681cbfd43
+Description: Control your phone with your face!
+Name: Appellancy Việt Hoá
+Author: Elijah Frederickson, julioverne
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnsupport-td.appellancy11
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnsupport-td.appellancy11
+dev: elijahfrederickson
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.0

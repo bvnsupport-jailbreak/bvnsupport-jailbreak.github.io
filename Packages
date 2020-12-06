@@ -23,23 +23,6 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bienvann
 dev: akusio, Misty, Bvn, XsF1re
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
-Package: com.Bvn-support.xenhtml
-Architecture: iphoneos-arm
-Version: Beta
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: mobilesubstrate
-Filename: ./debfiles/com.Bvn-support.xenhtml_Beta_iphoneos-arm.deb
-Size: 2917258
-MD5sum: 3a85ebdc7d0cb302fb87644419db2039
-SHA1: ce95191a204a4207803d13fa8e930b3b9a809880
-SHA256: 17a2521da0cdebca9079240e3bec1711db32091d2fef595442bd4586703c2763
-SHA512: 78df11efe44e98307d146af3a14d08926576448316bbc244d898d808ff775c7865102736d69e74a26e33bd0b88c90e181dba6508696474488f9528394e9ac58c
-Description: Hiển thị Widget lên màn hình chính và màn hình khoá
-Name: Xen HTML Việt Hoá
-Author: Matt Clarke
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2

@@ -23,6 +23,28 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bienvann
 dev: akusio, Misty, Bvn, XsF1re
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.Bvnsupport-Yt.cercube
+Architecture: iphoneos-arm
+Version: 5.2.10
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 17080
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debfiles/com.Bvnsupport-Yt.cercube_5.2.10_iphoneos-arm.deb
+Size: 5927580
+MD5sum: ad96f14e9ffcafc4cbfd12a6a0610363
+SHA1: 54452307def5decf3b1eeba4b82de70ed83f3f31
+SHA256: e49a5ee99bfb0a60e5be5d9ed6b2bdb8b4ecd85403e57715c2ac018b1039eea9
+SHA512: 396fae17700bf1003d2efaf8f938c3754ed9b6ad795f1765da31e170fe8aa6516defbf9e69c397b21c4ce991b74194dbeeb375240605ab907f5df47b9c5df05e
+Description: Download YouTube videos and more!
+Name: Cercube Cho  YouTube
+Author: Majd Alfhaily
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bvnsupport-Yt.cercube
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bvnsupport-Yt.cercube
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2

@@ -1,0 +1,49 @@
+<package>
+	<id>com.Bvnsupport-Yt.cercube</id>
+	<name>Biện Văn Nhật</name>
+	<version>5.2.10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9</miniOS>
+                         <maxiOS>14.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Cercube không chỉ cung cấp cho bạn các tính năng còn thiếu trên YouTube mà còn cung cấp cho bạn toàn quyền kiểm soát ứng dụng.</description>
+		<description>Bạn cần đăng nhập và xác minh tài khoản Cercube để sử dụng tính năng trên>
+		<description>- Lưu video độ phân giải lên đến 4K.  
+- Chỉ lưu video dưới dạng âm thanh.</description>
+		<description>- Đặt chất lượng tải xuống mặc định.  
+- Quản lý và chia sẻ tải xuống bất kỳ ứng dụng nào. 
+ - Nhập tải xuống Âm nhạc hoặc Video - Phát video YouTube bằng PiP. 
+ - Đặt chất lượng trình phát mặc định trên WiFi.  
+- Đặt chất lượng trình phát mặc định trên 3G / 4G.  
+- Chặn tất cả các quảng cáo.  
+- Cho phép phát lại nền.  
+- Chơi chất lượng cao trên Dữ liệu di động.</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Cercube1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>Cercube2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>Cercube3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>Cercube4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã Update bản mới nhất</change>
+	</changelog>
+	<links></links>
+</package>

@@ -234,6 +234,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-Sw.swipeformore
+Architecture: iphoneos-arm
+Version: 1.1.10
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 172
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.bvnsupport-Sw.swipeformore_1.1.10_iphoneos-arm.deb
+Size: 34524
+MD5sum: 02437d36764db432ca455f136d5fecf4
+SHA1: 868cedd83218e7eb1da37236ae188f007b22a832
+SHA256: 930e84c4ed4ab423f87ccbe5af1aa1799221a2d3c0b3574f3ce22755fcad7f18
+SHA512: 2ad0f63bb9469692d78c7b3d37434187a7a380c57228a70c1493e9ae84bc0a7371b4d965000622e198e549ac50fad99e50e0ef0f6f0f7e32f0ac5032f5ebe8fb
+Description: Manage Cydia packages via swipe
+Name: SwipeForMore Việt Hoá
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnsupport-Sw.swipeformore
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnsupport-Sw.swipeformore
+
 Package: com.bvnsupport-jailbreak.11cam14
 Architecture: iphoneos-arm
 Version: 0.0.11

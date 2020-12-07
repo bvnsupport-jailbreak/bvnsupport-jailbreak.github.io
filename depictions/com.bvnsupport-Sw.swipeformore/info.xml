@@ -1,0 +1,41 @@
+<package>
+	<id>com.bvnsupport-Sw.swipeformore</id>
+	<name>Biện Văn Nhật</name>
+	<version> 1.1.10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Nếu bạn cảm thấy những phương pháp quản lý các tweak Jailbreak trong Cydia có một chút rườm rà, mất thời gian, thì thật may mắn, dựa vào thay đổi gần đây của Cydia, tweak SwipeForMore đã được thiết kế đặc biệt dành cho nó nhằm cải thiện việc quản lý các tweak một cách đơn giản nhất</description>
+		<description>Tweak SwipeForMore cho phép bạn, chỉ cần vuốt nhẹ sang bên trái của tinh chỉnh, sẽ hiện ra các tùy chọn: cài đặt hay gỡ bỏ cài đặt. Nó có thể giúp bạn tiết kiệm thời gian, bởi vì bạn không phải vào trong phần setting tweak để quản lý</description>
+		<description>SwipeForMore là một tweak tuyệt vời mà chắc chắn sẽ trở thành tất yếu đối với nhiều người. Đơn giản chỉ cần vuốt nhẹ trên một tweak để install, remove, queue, hoặc uninstall, vậy là nhanh hơn nhiều so với cách quản lý cũ</description>
+		<description>Khi bạn tap vào cài đặt hoặc loại bỏ, bạn sẽ được dẫn trực tiếp đến phần xác nhận để xác nhận hành động. Tương tự như vậy, nếu bạn chạm vào nút Queue, tweak sẽ được tự động thêm vào “list queue”</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>SwipeForMore1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>SwipeForMore2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>SwipeForMore3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>SwipeForMore4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã Update bản mới nhất</change>
+	</changelog>
+	<links></links>
+</package>

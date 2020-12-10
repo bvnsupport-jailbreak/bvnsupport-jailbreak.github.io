@@ -333,6 +333,25 @@ Name: Laetus Việt Hoá
 Author: Spark
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-ytbkill.youtubekiller
+Architecture: iphoneos-arm
+Version: 3.2.4-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.bvnsupport-yt.cercube | me.alfhaily.cercube, com.spark.libsparkcolourpicker, com.bingner.plutil
+Filename: ./debfiles/com.bvnsupport-ytbkill.deb
+Size: 278150
+MD5sum: adbce58b51eabe2f4c17484879307483
+SHA1: b8e25e792abe2b490b6d69a5ec5a4b1a731fbad6
+SHA256: 3e3fb71ffe23d841a2c44fa02060ca46ce47491069631ad3bf458ff315443cba
+SHA512: 2b26cd206bf8d3ee6e387dabcd48f089579ad7f0594f8aeaf0c310495324be943d0ab371b4e6034b6aeeebc11c35be72e5bc38eb423916051473a76c6daf12ef
+Description: Ứng dụng Youtube không có quảng cáo và phát lại nền và phong cách giao diện người dùng iPad!
+Name: YouTubeKiller Việt Hoá
+Author: iKG_HD <ikg_hd@bk.ru>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.0

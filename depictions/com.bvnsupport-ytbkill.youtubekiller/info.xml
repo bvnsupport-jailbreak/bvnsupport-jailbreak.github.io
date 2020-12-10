@@ -1,0 +1,41 @@
+<package>
+	<id>com.bvnsupport-ytbkill.youtubekiller</id>
+	<name>Biện Văn Nhật</name>
+	<version>3.2.4-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Bổ sung các tính năng hữu ích cho Youtube!  Các tính năng như sau</description>
+		<description>Tải về video Tải về video dưới định dạng âm thanh Nhập video sang hình ảnh</description>
+		<description>Nhập âm thanh vào ứng dụng âm nhạc Chặn tất cả quảng cáo · Phát nhạc trong nền Đặt chất lượng video mặc định lên  đến 4K</description>
+		<description>Phát video HD qua 3G / 4G · Phát trực tuyến video 4K - OLED chế độ trải nghiệm tốt hơn chế độ tối ưu · Màu sắc cho tất cả các cấu trúc Cấu hình bố cục thành tab</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>YouTubeKiller1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>YouTubeKiller2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>YouTubeKiller3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>YouTubeKiller4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã Update bản mới nhất</change>
+	</changelog>
+	<links></links>
+</package>

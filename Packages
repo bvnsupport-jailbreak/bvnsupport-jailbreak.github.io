@@ -340,11 +340,11 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.bvnsupport-yt.cercube | me.alfhaily.cercube, com.spark.libsparkcolourpicker, com.bingner.plutil
 Filename: ./debfiles/com.bvnsupport-ytbkill.deb
-Size: 278158
-MD5sum: 80adc30db69182bf2dd13a08a16b1fb4
-SHA1: b5fbfc649ab3f1d0c9c5cc00dcf4820bda2679dd
-SHA256: fd7a2ded302285cd131eadef832148cbe1e28adf3a1de084661d2bf23c113a49
-SHA512: 17e1039a6a3a69ff7354138dfad0139589d66270c5ab2b4535a9a7e3266e62777fd6296952549c12bad748016575407e3f618f9b1a7df9feb773c7bf8c9d335c
+Size: 278152
+MD5sum: dcf8930b35d56b6b922ecbb56a00bdbf
+SHA1: 0974d45370abee814b4c80180fe459b811c7e5bd
+SHA256: f7347d4ea4f6bb753e88dd1c2120fd18288cd34ec7b2af9efc2d7f3d96ee4b8d
+SHA512: 87133e1ca7bbeb543836bdbabc24d4667bf380d96ef3295f07edba8c9dd275d55d9152e728ca5951c5447574d71de9be548cd2a15682f9bb53f26d334a605308
 Description: Ứng dụng Youtube không có quảng cáo và phát lại nền và phong cách giao diện người dùng iPad!
 Name: YouTubeKiller Việt Hoá
 Author: iKG_HD <ikg_hd@bk.ru>

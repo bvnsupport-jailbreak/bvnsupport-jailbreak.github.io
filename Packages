@@ -254,6 +254,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnsupport-Sw.swipeformore
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnsupport-Sw.swipeformore
 
+Package: com.bvnsupport-allow.phatnhacchenquaymanhinh
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debfiles/com.bvnsupport-allow.phatnhacchenquaymanhinh_1.0.0_iphoneos-arm.deb
+Size: 4490
+MD5sum: e91aad42b9981c6050bc72ac444fb4db
+SHA1: 4daed25703fb1c9ab1137fa620ef8de0ae39bf9e
+SHA256: ac20bb6507e24ae760498543ddf65ac7211a4276311f5d2ed1374d72217e523b
+SHA512: 7ab7d38ea5ff3087496da9835f01dde0c2c378fa8c9bddba589b9c06e892a7d055f1df26301b2e22eabcd7598e5f19c00b69fd921a685bba00825637f85aaf13
+Description: Cho phép bạn phát Nhạc trong khi ghi màn hình hoặc ghi âm giọng nói.  Vui lòng không sử dụng nó cho các mục đích bất hợp pháp
+Name: Phát nhạc trong khi quay màn hình
+Author: Jun Elvin
+
 Package: com.bvnsupport-jailbreak.11cam14
 Architecture: iphoneos-arm
 Version: 0.0.11

@@ -563,6 +563,24 @@ Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.foxfort.facebookdarkmode
+Architecture: iphoneos-arm
+Version: 2.6.4
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 3540
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, com.foxfort.foxforttools (>= 1.1.1), com.foxfort.libfoxfortsplash
+Filename: ./debfiles/com.foxfort.facebookdarkmode_2.6.4_iphoneos-arm.11-thg 12-2020-14-33-42.deb
+Size: 3235728
+MD5sum: 37d0dd4601119d19bcfa507d00e668d9
+SHA1: 63b7c40baee308e7aae08e2f82b9ffddbe028119
+SHA256: ba0da47042e88a6f81d5d361404970941b996738f6537c58ab9cedd6159b89ee
+SHA512: b8a2b44d59c644564fe7bad1701fd32082fd30a95eda94140630daeab5a25c9145ef465820c754b65108880aa7af47addf921dedc02b28dde248c53c5b9f8542
+Description: Chế độ tối cho Facebook,bạn nào Ios 12 đã mua nó có thể tải về xài nhé.Bản này là bản cũ hỗ trợ cho ios 12,nó không miễn phí.
+Name: FacebookDarkMode (ios 12)
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/facebookdarkmodesettings.bundle/icon@3x.png
+
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
 Version: 1.1-20b

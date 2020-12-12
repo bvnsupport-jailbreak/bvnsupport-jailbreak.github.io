@@ -115,14 +115,14 @@ Version: 1.0
 Section: Addons
 Maintainer: Biện Văn Nhật
 Installed-Size: 136
-Depends: mobilesubstrate, net.kenhtao.chatbubbleslite
+Depends: mobilesubstrate, com.support-jess.chatbubblesliteVIETHOA
 Conflicts: com.rpgfarm.kakaoheadsplus
-Filename: ./debfiles/com.bnsupport-mes.deb
-Size: 18334
-MD5sum: 62473011329370d21123fc622d3ad200
-SHA1: 498dc2f848fe572dc7060dfa1bb23b4ba6a46db2
-SHA256: defa9b20bd7c8437e9bfee400d7767062e70ee8df8197053c38fe6783699f706
-SHA512: cec8353e7986d9b5e86406b0b924cd98f8e71c0adf394309ebd32f63c6aa5c909deb8e0dca94e0ee88b175bc987ff8fa33c6936a3acb4f371eeff2c2d59cfd6f
+Filename: ./debfiles/com.bnsupport-mes.chatbubblessms_1.0_iphoneos-arm.deb
+Size: 18342
+MD5sum: 39bf6d8e3d8bef93f252ee290a463264
+SHA1: 8a95798662da89184d0cb3fd1b8b82ea45e3077e
+SHA256: cb0c9162fb7e0f15c08e001302de23d3928a379e1c0fa2c862815c488a068259
+SHA512: b89a743850a840683d09f3d1645f93d0128fac15e76819d33f344497cd82219c2c6965e1034e4744eeac80c7151655ef3ccd29890a564e16cb1fbda7c94594c5
 Description: Hỗ trợ SMS/iMessage cho ChatBubbles Lite.
 Name: ChatBubbles SMS/iMessage Extension
 Author: Baw Appie <pp121324@gmail.com>
@@ -713,12 +713,12 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 1036
 Depends: mobilesubstrate, firmware (>=12), com.bnsupport-mes.chatbubblessms, com.supportjailbreak.chatbubblesmessenger
 Conflicts: com.rpgfarm.kakaoheadsplus, com.rpgfarm.chatbubbleslite
-Filename: ./debfiles/com.support-jess.deb
-Size: 334750
-MD5sum: 40b8728bb4c2acef42f4fd80ac42fc8c
-SHA1: e8447dcda705624ab2ba03cd3c505ff6400d0446
-SHA256: df534f7101dd04b2c9208db82ea8459340262d6e39243f29b4a53d4fe9152021
-SHA512: 865a008cefb1d0a6d137f699c4b843e895be653c23ce7a0ad5380a8af31dbec09a5de932ac2492cc7d26a884b56bf69d7e1e4c736a07eb1f852e09071445578d
+Filename: ./debfiles/com.support-jess.chatbubblesliteVIETHOA_0.3-2_iphoneos-arm.deb
+Size: 334746
+MD5sum: ebe320297a95318c7dfcbf93244a5751
+SHA1: 73bb85334044e30c15c6303f0cf150c322a5bec3
+SHA256: 7d388dd6d56813feaac81f5eb195fda0407fe9655f963e7d82c7d334bf16e4ca
+SHA512: a68b3536c819d4462d64330d5170a04a66a4e01b6ddcca15e075b954672e70c5fbcd4839e77e5f3c8cf6c6b0a038682ee3a387637a75ae7fcf16e2ae1bfc84f5
 Description: Hỗ trợ chát bong bóng của Anđroi cho Ios.
 Name: Chát bong bóng
 Author: Baw Appie <pp121324@gmail.com>

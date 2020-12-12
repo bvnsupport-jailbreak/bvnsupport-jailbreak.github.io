@@ -118,15 +118,15 @@ Installed-Size: 136
 Depends: mobilesubstrate, com.support-jess.chatbubblesliteVIETHOA
 Conflicts: com.rpgfarm.kakaoheadsplus
 Filename: ./debfiles/com.bnsupport-mes.chatbubblessms_1.0_iphoneos-arm.deb
-Size: 18342
-MD5sum: 39bf6d8e3d8bef93f252ee290a463264
-SHA1: 8a95798662da89184d0cb3fd1b8b82ea45e3077e
-SHA256: cb0c9162fb7e0f15c08e001302de23d3928a379e1c0fa2c862815c488a068259
-SHA512: b89a743850a840683d09f3d1645f93d0128fac15e76819d33f344497cd82219c2c6965e1034e4744eeac80c7151655ef3ccd29890a564e16cb1fbda7c94594c5
+Size: 18346
+MD5sum: 8c9693d200526074ef510dc5edc70c08
+SHA1: 710b6275eccfeddd91d1184216e2318dcc5bbe6f
+SHA256: f3fc29f690b6fea36fe9b6bed4609a913bba1e2f4ec5b03d1446c4f9dab30d29
+SHA512: 61b0f5bf1a02395297b4c407ac6735694f670bc05bd16352f0a991755050b5cb81d56d071937312e5bcd0a25fc91d957588833ed79288af77dc9c11734162743
 Description: Hỗ trợ SMS/iMessage cho ChatBubbles Lite.
 Name: ChatBubbles SMS/iMessage Extension
 Author: Baw Appie <pp121324@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/bosungg1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bnsupportjailbreak.chatbubblesmessenger
 Architecture: iphoneos-arm

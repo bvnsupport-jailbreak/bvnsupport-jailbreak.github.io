@@ -271,6 +271,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-60fps.fgotw60fps
+Architecture: iphoneos-arm
+Version: 1.2.3
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 537
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debfiles/com.bvnsupport-60fps.fgotw60fps_1.2.3_iphoneos-arm.deb
+Size: 109956
+MD5sum: 8755bb6dcfecd7dfbb1fa39e75123184
+SHA1: fbb7213c8e4752126189806a36f4261af67ea1f8
+SHA256: 5a2362e42c0aab157a1703ed3a7fa73d24668a12880e3f1a6fab97351146a2f5
+SHA512: b13edc9651803c8bb9db89bd58894b8c5818569da6272ce9fff48e72c71793bed917151b7104703eaff0466c913e378a15d428d98fed3c11e93e3a90d4ce9fb2
+Description: Buộc trò chơi thống nhất hiển thị ở tốc độ khung hình tùy chỉnh (60/30).
+Tag: purpose::extension
+Name: Unity60FPS
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Brend0n <brendonjkding@126.com>
+dev: brend0n
+
 Package: com.bvnsupport-Sw.swipeformore
 Architecture: iphoneos-arm
 Version: 1.1.10
@@ -603,24 +624,6 @@ Tag: purpose::extension, compatible_min::iosiOS7
 Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
-Package: com.foxfort.facebookdarkmode
-Architecture: iphoneos-arm
-Version: 2.6.4
-Section: Tweaks
-Maintainer: FoxfortMobile
-Installed-Size: 3540
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, com.foxfort.foxforttools (>= 1.1.1), com.foxfort.libfoxfortsplash
-Filename: ./debfiles/com.foxfort.facebookdarkmode_2.6.4_iphoneos-arm.11-thg 12-2020-14-33-42.deb
-Size: 3235728
-MD5sum: 37d0dd4601119d19bcfa507d00e668d9
-SHA1: 63b7c40baee308e7aae08e2f82b9ffddbe028119
-SHA256: ba0da47042e88a6f81d5d361404970941b996738f6537c58ab9cedd6159b89ee
-SHA512: b8a2b44d59c644564fe7bad1701fd32082fd30a95eda94140630daeab5a25c9145ef465820c754b65108880aa7af47addf921dedc02b28dde248c53c5b9f8542
-Description: Chế độ tối cho Facebook,bạn nào Ios 12 đã mua nó có thể tải về xài nhé.Bản này là bản cũ hỗ trợ cho ios 12,nó không miễn phí.
-Name: FacebookDarkMode (ios 12)
-Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/facebookdarkmodesettings.bundle/icon@3x.png
 
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm

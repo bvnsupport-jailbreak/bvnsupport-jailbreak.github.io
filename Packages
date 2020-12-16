@@ -1333,6 +1333,26 @@ Name: LittleXS Việt Hoá
 Author: binksalex & Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.supportjailbreak.LynxVIETHOA
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2028
+Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader (>= 2.2.3), ws.hbang.common
+Conflicts: com.supportjailbreak.Lynxviethoa
+Filename: ./debfiles/com.supportjailbreak.lynxviethoa_1.9.deb
+Size: 1034694
+MD5sum: 96f76c344b1e64fd08dba6481f870ec9
+SHA1: abef83cd2459c534f7b5107e0ad106f7a3601589
+SHA256: 9e23c414c43fd34a318026eb72c3881fd3fcd6793e8e6859ef903163ad9a0314
+SHA512: 1acc29d4f5caaec19ca46b50ded76e487ef1d7a531f1eb4eafe7bc2b518f0fde0ab20980566f67cd2f9659f77633acfbe8082d33035a67bbd4ea4b67c8b3ab06
+Description: Cấu hình thiết bị theo cách bạn muốn!Anh em ios 13 vui lòng không nâng cấp bản này.Bản này chỉ hỗ trợ Ios 14
+Tag: purpose::extension, compatible_min::ios14.0, compatible_max::ios14.2
+Name: Lynx Việt Hoá
+Author: MTAC <mtactheming@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.mideviceVietHoa
 Architecture: iphoneos-arm
 Version: 2.0.0-4

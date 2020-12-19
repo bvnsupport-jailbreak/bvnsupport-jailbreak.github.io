@@ -12,7 +12,7 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>Tiện ích tuyệt vời cho Màn hình chính & Màn hình khóa của bạn</description>
-		<description>Ngày & Giờ</description>
+		<description>Ngày&Giờ</description>
 		<description>Màu sắc có thể thay đổi, Màu văn bản có thể thay đổi</description>
 		<description>Tuỳ chỉnh định vị</description>
 	</descriptionlist>
@@ -35,7 +35,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Đã Update bản mới nhất</change>
+		<change>Đã Update bản mới nhất</change>
 	</changelog>
 	<links></links>
 </package>

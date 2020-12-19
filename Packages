@@ -412,6 +412,24 @@ Sponsor: bvnsupport-jailbreak.github.io <bienvannhat97@gmail.com>
 dev: netskao
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-sig.signe
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 3672
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0), ws.hbang.alderis
+Filename: ./debfiles/com.bvnsupport-sig.signe_1.0_iphoneos-arm.deb
+Size: 493826
+MD5sum: 33c231eb321e6fd484a4c1d566a665fe
+SHA1: ba1da5d09f6d1eb1e7bd762e985718fe305e1b77
+SHA256: 597530cb3671e0c75dc5556ee5493c81dbbdeb1cfc25e204c32267d8cc49a186
+SHA512: 5be95d9b7aaa76741696f7c3a7538ae3f44535bf5f038ae8962c4ebd2dae94bcfc6cb6f3fe69a25251591e9cd62a314ff3bd6959cd74cb9f4e9255f11fc393d7
+Description: Vào một ứng dụng nào đó bằng cử chỉ ở mọi nơi trong iOS
+Name: Signe
+Author: Tr1Fecta & kritanta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-ytbkill.youtubekiller
 Architecture: iphoneos-arm
 Version: 3.2.4-1

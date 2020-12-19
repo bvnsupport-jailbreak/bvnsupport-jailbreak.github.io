@@ -391,6 +391,42 @@ Name: Laetus Việt Hoá
 Author: Spark
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-klean.kleanhsls
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.spark.libsparkcolourpicker, com.bvnsupport-linpdd.libpddokdo
+Filename: ./debfiles/com.bvnsupport-klean.kleanhsls_1.0_iphoneos-arm.deb
+Size: 402718
+MD5sum: 73a02830809b6415a670153e45a5ac6e
+SHA1: 34bfc886498005f5f3c52d0bb31b5b36e957be5f
+SHA256: abf4b6f0e77f274f11ad01fa3d2d9032ea5c02b118eaecea3fc1820b68510498
+SHA512: a753dbb7e58bc6318918f19a565a84bcd0808f719f867c3e8cda11954c4019c3234fe5f610ac1fe10f6a662b542823c5c0c9ce6b893853f23b7948d1bb956135
+Description: Widget tuyệt vời cho Màn hình chính và Màn hình khóa
+Name: Klean Việt Hoá
+Author: alimaulana
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-klean.kleanhsls
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-klean.kleanhsls
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-linpdd.libpddokdo
+Architecture: iphoneos-arm
+Version: 1.3
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 164
+Filename: ./debfiles/com.bvnsupport-linpdd.libpddokdo_1.3_iphoneos-arm.deb
+Size: 10794
+MD5sum: fe99f3ae8be277f8dd0e31665b50462f
+SHA1: ea5653b3eec9d381127118b296e2f47d250f2799
+SHA256: 2a573ffe2c11ac1a35c4c09ddbc8fe4fb11919a0e5a74c3c3929d888eaa58c99
+SHA512: 818d703ded328c7ffa62970d3a7ca49dd630be269bec1357aa144909fb55a646fd7032e66c2f96daee2b60edf63b05ae59d77c12c207b51802e54f0a4e042893
+Description: An awesome library to get current weather which provides by iOS Weater.app easily.
+Tag: role::developer
+Name: libPDDokdo
+Author: Soongyu Kwon
+
 Package: com.bvnsupport-model.fakemodel
 Architecture: iphoneos-arm
 Version: 1.1-3

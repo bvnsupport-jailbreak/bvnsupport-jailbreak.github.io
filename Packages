@@ -393,16 +393,16 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvnsupport-klean.kleanhsls
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.spark.libsparkcolourpicker, com.bvnsupport-linpdd.libpddokdo
-Filename: ./debfiles/com.bvnsupport-klean.kleanhsls_1.0_iphoneos-arm.deb
-Size: 402718
-MD5sum: 73a02830809b6415a670153e45a5ac6e
-SHA1: 34bfc886498005f5f3c52d0bb31b5b36e957be5f
-SHA256: abf4b6f0e77f274f11ad01fa3d2d9032ea5c02b118eaecea3fc1820b68510498
-SHA512: a753dbb7e58bc6318918f19a565a84bcd0808f719f867c3e8cda11954c4019c3234fe5f610ac1fe10f6a662b542823c5c0c9ce6b893853f23b7948d1bb956135
+Filename: ./debfiles/com.bvnsupport-klean.kleanhsls_1.1_iphoneos-arm.deb
+Size: 402722
+MD5sum: a9bfd8ddedf4687796018fc71291bcc0
+SHA1: 8acc45dc361aa43dae53942202883fc70af9e3a3
+SHA256: e87318344c573bb36c272a5d8c008b2d44fd61fa6459bb52c3fa30f3beb70803
+SHA512: 3a34acc2e192b5ef4ce297f0b4f45901397fde0505bccb529e582fdfdafa18076b8b5475c273cf5ba4081b9fd6b89753b7f5b1b261c86dbf83e416d5f69ac420
 Description: Widget tuyệt vời cho Màn hình chính và Màn hình khóa
 Name: Klean Việt Hoá
 Author: alimaulana

@@ -312,6 +312,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnsupport-Sw.swipeformore
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnsupport-Sw.swipeformore
 
+Package: com.bvnsupport-fakeios.fakeios14
+Architecture: iphoneos-arm
+Version: 14.0
+Section: System
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Depends: mobilesubstrate, firmware (>=5.0)
+Filename: ./debfiles/com.bvnsupport-fakeios.fakeios14_14.0_iphoneos-arm.deb
+Size: 1788
+MD5sum: 8ecb5eccba7b7b765205b6f1723505f3
+SHA1: 6dda3a5c19be77c953f3650cbdb14143e93cb11a
+SHA256: b872555424268aedcee1661a7a28700e7ac55e8f9160741c78408ba58398cd4a
+SHA512: a57d8bfafbdbcf7143a218321e37441fda396c44705a3c91e9efbc2f76bf966c538f51c539298e0dbd71cf567f4552e7faf7c86eb021a56a15d8d3c3ffba9006
+Description: Fake Ios 14 để ghép sim cho các máy không hỗ trợ như Iphone:5,5s,6
+Name: Fake iOS Ghép Sim
+Author: Nguyen Huu Cong
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.bvnsupport-jailbreak.11cam14
 Architecture: iphoneos-arm
 Version: 0.0.11

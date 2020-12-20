@@ -726,14 +726,14 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 104
 Provides: appsync
-Depends: mobilesubstrate
-Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified,com.supportjailbreakvn.antiprofilesrevoke
+Depends: mobilesubstrate,com.supportjailbreakvn.antiprofilesrevoke
+Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
 Filename: ./debfiles/com.linusyang.appsyncnew_1.4_iphoneos-arm.deb
-Size: 9598
-MD5sum: 7df719e6af3b925ebb3e0bd829396f15
-SHA1: 8d1412f1198c1a2888f4621cca01830d7e4a19ca
-SHA256: 5a543514b8784c7568ea88ebafc525451ee15062f25a1262c2d58d8e91f4ddcb
-SHA512: 2b6dff30e9108220094ec5a864ea710828ae5715ab5c2f08ce00c82d9a94510d0050c479f7f36f8a1d0e5f4122c53ec30c39c29b7536980693251ba57ed18b1a
+Size: 9594
+MD5sum: dc05a644ca55ec83358d5b29b78732e9
+SHA1: 095569e0a4edc81b1da2d938ef173c868f2c5372
+SHA256: 83e59a570424fa01b12ebba3263ded30efd42182afbd6f934dea70031edc57a3
+SHA512: 211ca8c162220b71eb34cc6401037598371288d9c32c7f6cdc485bb7e98faa891dc95a56cf948b07b43ba818e26526867b0890288cb789d4079c09ae460ab10a
 Description: bỏ qua kiểm tra chữ ký của íntalld,cài File IPA,hỗ trợ từ ios 7=>14
 Name: AppSync New
 Author: Linus Yang

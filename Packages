@@ -271,6 +271,28 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-60fps.fgotw60FPS
+Architecture: iphoneos-arm
+Version: 4.5.6
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 365
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debfiles/com.bvnsupport-60fps.fgotw60FPS_4.5.6_iphoneos-arm.deb
+Size: 99774
+MD5sum: a1cd03bbb87294da8f6bac238c10ce73
+SHA1: 76834bec5c61e3e185854d3febaf30b30e7c8aae
+SHA256: 9524d621266fa9e7850e101477dcae836cc3b8125780cb9c3f4ba8ce8a1d1c79
+SHA512: 349af96fbac15db3c8f60ef8f0e9c0aa870d4edda83585a7fd9d1673430a8bc80498b9240d71296713cba5cae7f7b02b2de8d861fbe1a14245217cd6962398ae
+Description: Buộc trò chơi Unity hiển thị ở tốc độ khung hình tùy chỉnh (60/30).
+Tag: purpose::extension
+Name: Unity60FPS Việt Hoá
+Sponsor: bvnsupport-jailbreak.github.io <bienvannhat97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Brend0n <brendonjkding@126.com>
+dev: brend0n
+
 Package: com.bvnsupport-60fps.fgotw60fps
 Architecture: iphoneos-arm
 Version: 1.2.3

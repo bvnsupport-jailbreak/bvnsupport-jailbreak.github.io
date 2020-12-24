@@ -271,6 +271,28 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnjailbreak.xenhtmlvh
+Architecture: iphoneos-arm
+Version: 2.0-beta5
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.bvnjailbreak.xenhtmlvh_2.0-beta5_iphoneos-arm.deb
+Size: 6456934
+MD5sum: 1238d4e75adbaa1918b7c4487fc0b098
+SHA1: 8ea6b1e4a7bba8b92810961c7f699cd924b72851
+SHA256: edb092ad6e5577b3f6a7e11d0eb12bcc56af22dc920d7f48f2bef6cd591052fb
+SHA512: d5faab4c0c73d9936676ef062673be380ce44d91680fe7eda7b69eb0b7a1a8c9143230ed75a1add0c322c6b3ec4db76645e27f33adcf77b736b34a5ac8d3c014
+Description: Unified HTML rendering; lockscreen and homescreen
+Name: Xen HTML Việt Hoá
+Author: Matt Clarke <matt@incendo.ws>
+dev: Biện Văn Nhật <matt@incendo.ws>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-60fps.fgotw60FPS
 Architecture: iphoneos-arm
 Version: 4.5.6

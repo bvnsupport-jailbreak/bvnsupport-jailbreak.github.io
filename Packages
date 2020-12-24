@@ -739,7 +739,7 @@ Name: AppSync New
 Author: Linus Yang
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package:  com.matchstic.xenhtml
+Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Version: 2.0-beta5
 Priority: optional
@@ -748,12 +748,12 @@ Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 Filename: ./debfiles/com.matchstic.xenhtml_2.0-beta5_iphoneos-arm.deb
-Size: 6456938
-MD5sum: 7a8123e7b7709ec38db19a9a07dd478e
-SHA1: 3b08989c31ce79f9a7e613e4bdd3b817152ebf18
-SHA256: 6aca1e921db877fc1e77fbb6e119517b6413f0695042437069a8761c9d35ba75
-SHA512: 0036112d06ca2a2cad8cef10d0082842bf0d2f886db253d9c682021c2b0338297bbc4fc7e4220e92a66b5974a3553a266606c4201352e5266c012766c834f399
-Description: Unified HTML rendering; lockscreen and homescreen
+Size: 6456966
+MD5sum: d7f8918c566e9ab4a4f4e8a1ced8a4fb
+SHA1: c2549ae5c3626e251038b07cfb6c273c7882fff9
+SHA256: d7b43aa61ea03219eb241ff4a31ddd5ca0a4b28768d40d2670077bdaf4308164
+SHA512: cb4aeb9e8a85e9ab5e650caa4a294ee7b75564b984acebf44326fd2aef61854b4470804f28fd7a8a9c55b1f2dcfac4104f9d7c79c89736cb179179a4a8ea44dd
+Description: Kết xuất HTML thống nhất; màn hình khóa và màn hình chính
 Name: Xen HTML Việt Hoá
 Author: Matt Clarke <matt@incendo.ws>
 dev: Biện Văn Nhật <matt@incendo.ws>

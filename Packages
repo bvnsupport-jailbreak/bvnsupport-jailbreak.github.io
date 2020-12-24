@@ -249,28 +249,6 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bvnjailbreak.xenhtmlvh
-Architecture: iphoneos-arm
-Version: 2.0-beta5
-Priority: optional
-Section: Tweaks
-Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
-Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
-Filename: ./debfiles/com.bvnjailbreak.xenhtmlvh_2.0-beta5_iphoneos-arm.deb
-Size: 6456934
-MD5sum: 1238d4e75adbaa1918b7c4487fc0b098
-SHA1: 8ea6b1e4a7bba8b92810961c7f699cd924b72851
-SHA256: edb092ad6e5577b3f6a7e11d0eb12bcc56af22dc920d7f48f2bef6cd591052fb
-SHA512: d5faab4c0c73d9936676ef062673be380ce44d91680fe7eda7b69eb0b7a1a8c9143230ed75a1add0c322c6b3ec4db76645e27f33adcf77b736b34a5ac8d3c014
-Description: Unified HTML rendering; lockscreen and homescreen
-Name: Xen HTML Việt Hoá
-Author: Matt Clarke <matt@incendo.ws>
-dev: Biện Văn Nhật <matt@incendo.ws>
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvnsupport-60fps.fgotw60FPS
 Architecture: iphoneos-arm
 Version: 4.5.6
@@ -759,6 +737,28 @@ SHA512: 211ca8c162220b71eb34cc6401037598371288d9c32c7f6cdc485bb7e98faa891dc95a56
 Description: bỏ qua kiểm tra chữ ký của íntalld,cài File IPA,hỗ trợ từ ios 7=>14
 Name: AppSync New
 Author: Linus Yang
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package:  com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0-beta5
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.matchstic.xenhtml_2.0-beta5_iphoneos-arm.deb
+Size: 6456938
+MD5sum: 7a8123e7b7709ec38db19a9a07dd478e
+SHA1: 3b08989c31ce79f9a7e613e4bdd3b817152ebf18
+SHA256: 6aca1e921db877fc1e77fbb6e119517b6413f0695042437069a8761c9d35ba75
+SHA512: 0036112d06ca2a2cad8cef10d0082842bf0d2f886db253d9c682021c2b0338297bbc4fc7e4220e92a66b5974a3553a266606c4201352e5266c012766c834f399
+Description: Unified HTML rendering; lockscreen and homescreen
+Name: Xen HTML Việt Hoá
+Author: Matt Clarke <matt@incendo.ws>
+dev: Biện Văn Nhật <matt@incendo.ws>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.support-jailbreak.libnebbs

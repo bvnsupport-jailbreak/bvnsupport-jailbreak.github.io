@@ -394,11 +394,11 @@ Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions,
 Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
 Filename: ./debfiles/com.bvnsupport-giamcuocgoi.deb
-Size: 4820986
-MD5sum: aa7427ff1292caf0b15981679d569b4b
-SHA1: e7dc773ded9caa42fa959588e9a80b0660b22b50
-SHA256: 46951efcae230490adb481428ad88ad093e93f645fd49f072f00b0fc8e69c134
-SHA512: 7d962512554f5416c15234a5939b5522b2ed82fc97086be1db32ffaaa887f51844bb64b11a0f2d5688a3725ce248e7d94900563a60e201e14bdd68793748a857
+Size: 4876660
+MD5sum: fa9b54b5fadf96eb6a54513b625ca0cd
+SHA1: 2775b06b5dbbf71682bc0551811d2d7ebc858e11
+SHA256: 79766f144545be8ae899dc7173ebdd5ae31e37caccf2c9676b4f83a1d9411def
+SHA512: 63de9758d168c7c3e0430254b81b75ff7ad33374da9d9e98cdaaf94a8f4af2d827b9aaf8286f9b4a75408676cd413ff825547657a04c83c413d692e2d07f4a9f
 Description: Ghi âm cuộc điện thoại của bạn!
 Name: Ghi Âm Cuộc Gọi (12/14)
 Author: Elias Limneos
@@ -511,14 +511,14 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 212
 Depends: mobilesubstrate
 Conflicts: ru.rejail.limneosos
-Filename: ./debfiles/com.bvnsupport-limneos.deb
+Filename: ./debfiles/com.bvnsupport-limneos.limneos_1.2.3_iphoneos-arm.deb
 Size: 16438
-MD5sum: 214f8cca8689b6f09d51ca42ec920b07
-SHA1: a0f5849301b093ed5befb1fa2aa0632b3daa7378
-SHA256: b677931efdadd5a360c0cccd988e4f46f041b5d61db9b2e0f760a298695af673
-SHA512: b524d859b3ece0aa5f2707bfd068e2fd2cdceaeaa4ebacad711e722125849528cc2a7445ae7b62b7af4165eaec3902d736977b919ab58f792e6477a99e2ae3fc
+MD5sum: 06a2015b9fed8dd6fc5afbd5f59f2a17
+SHA1: c3d20d8341efd83da5b78d780479742b6d0f5401
+SHA256: 4bfd674a1cdaee46589bdaf92fcd67dc06a5d30a18471c78e776f39e9f2fbd30
+SHA512: bb5a3b5a2f5b47e66b3dde5bc1f83874a27a63c2186a4e73fe1142a0fc7ac38e2efdb3ec2d2c89749f4c4a5cd112ac4b613d2f301e5e43e856f9f28b7df09d2a
 Description: Kích hoạt bản quyền miễn phí cho tinh chỉnh của Limneos!
-Name: Limneos!
+Name: Limneos
 Author: Julioverne
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

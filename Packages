@@ -384,6 +384,26 @@ Name: Fake iOS Ghép Sim
 Author: NHC
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.bvnsupport-giamcuocgoi.Giamcuocgoi
+Architecture: iphoneos-arm
+Version: 5.6.7
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 21820
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), com.bvnsupport-limneos.limneos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debfiles/com.bvnsupport-giamcuocgoi.deb
+Size: 4820986
+MD5sum: aa7427ff1292caf0b15981679d569b4b
+SHA1: e7dc773ded9caa42fa959588e9a80b0660b22b50
+SHA256: 46951efcae230490adb481428ad88ad093e93f645fd49f072f00b0fc8e69c134
+SHA512: 7d962512554f5416c15234a5939b5522b2ed82fc97086be1db32ffaaa887f51844bb64b11a0f2d5688a3725ce248e7d94900563a60e201e14bdd68793748a857
+Description: Ghi âm cuộc điện thoại của bạn!
+Name: Ghi Âm Cuộc Gọi (12/14)
+Author: Elias Limneos
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-jailbreak.11cam14
 Architecture: iphoneos-arm
 Version: 0.0.11
@@ -480,6 +500,26 @@ Name: Klean Việt Hoá
 Author: alimaulana
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-klean.kleanhsls
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-klean.kleanhsls
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-limneos.limneos
+Architecture: iphoneos-arm
+Version: 1.2.3
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 212
+Depends: mobilesubstrate
+Conflicts: ru.rejail.limneosos
+Filename: ./debfiles/com.bvnsupport-limneos.deb
+Size: 16438
+MD5sum: 214f8cca8689b6f09d51ca42ec920b07
+SHA1: a0f5849301b093ed5befb1fa2aa0632b3daa7378
+SHA256: b677931efdadd5a360c0cccd988e4f46f041b5d61db9b2e0f760a298695af673
+SHA512: b524d859b3ece0aa5f2707bfd068e2fd2cdceaeaa4ebacad711e722125849528cc2a7445ae7b62b7af4165eaec3902d736977b919ab58f792e6477a99e2ae3fc
+Description: Kích hoạt bản quyền miễn phí cho tinh chỉnh của Limneos!
+Name: Limneos!
+Author: Julioverne
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvnsupport-linpdd.libpddokdo

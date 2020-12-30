@@ -395,10 +395,10 @@ Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandre
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
 Filename: ./debfiles/com.bvnsupport-giamcuocgoi.Giamcuocgoi_5.6.7_iphoneos-arm.deb
 Size: 4876658
-MD5sum: d85b48ddc93ac6f29d35662092ce4e93
-SHA1: edbc4de3e343d67c03ceaae694204398118b9c8a
-SHA256: ad7c7ebdbfacb57976164a6b3999136ea46f63a87e4ed09cb54831feead26305
-SHA512: e76f58405ae58db78e14d1f54d5783a39a318d4ea2a471ed75f314c08bc4a462c65e79a9bf06c947b7451f8c60f6483732be38634b07392347a1959300a03c6e
+MD5sum: 8366a1debfd2a7db4f1be0a10d4b30f0
+SHA1: e6dd16e60eae9e41727bcbef118976bfaff3a93c
+SHA256: c77bf2912e328a7ced86695c22abab7fbb43a45b76aaeb94eba4c21baa0ad668
+SHA512: ea82fbb8073ecd172884b2a163cf64810b891015db182d08a70fabcd285758fd24d40edb567fe12f1191fceb0900ac0b89286f5ad670d25a61611f52457edcc9
 Description: Ghi âm cuộc gọi điện thoại của bạn.
 Name: Ghi Âm Cuộc Gọi (IOS 12/14)
 Author: Elias Limneos

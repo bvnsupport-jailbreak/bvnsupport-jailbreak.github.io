@@ -209,12 +209,12 @@ Version: 448
 Section: Themes
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Filename: ./debfiles/com.bvNsupport-CgpGold.CGP_448_iphoneos-arm.deb
-Size: 93952368
-MD5sum: 3661840c6dd9be4853f3c3e61b602e09
-SHA1: 9991df70fe2d25383fae3dfc935c629c3bbd9af0
-SHA256: 7202973ef86464831092f6e219eec491405f57906d38fc5a9b085119e3a126a5
-SHA512: d64f47b4d46f5e22ae4db88c8974d060df0bd9fb8e15399e45bd5b81ea7a43114ce2ae2cc7557aa6a23fd017633d2d583047c809f34cbc82c905aa2f0694b68b
-Description: Chủ đề Carbon Gold
+Size: 93952444
+MD5sum: ff812ae3cc867a32e774e1a4fa4a7ffc
+SHA1: 9ae3c43b4394e5e0fe25b5a6084026e91275318a
+SHA256: d1f8913046340b1448dd816afad8b013bf07bd527ab91889774d9890f8404e8d
+SHA512: 65839bf25ffc50e07d0725687a32393c44f79f9650665342804953ee89841f5400b813a0846e8ae107f9bcb895518057b394943e18575fe0fe139b14f47108a8
+Description: Chủ đề Carbon Gold,tải về và kích hoạt qua Ithem hoặc Snowboard,Hỗ trợ Ios 12 tới ios 14.5
 Name: Carbon Gold
 Author: Trương Tam Phong
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

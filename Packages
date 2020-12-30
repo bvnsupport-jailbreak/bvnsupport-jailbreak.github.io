@@ -394,13 +394,13 @@ Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions,
 Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
 Filename: ./debfiles/com.bvnsupport-giamcuocgoi.Giamcuocgoi_5.6.7_iphoneos-arm.deb
-Size: 4876658
-MD5sum: 8366a1debfd2a7db4f1be0a10d4b30f0
-SHA1: e6dd16e60eae9e41727bcbef118976bfaff3a93c
-SHA256: c77bf2912e328a7ced86695c22abab7fbb43a45b76aaeb94eba4c21baa0ad668
-SHA512: ea82fbb8073ecd172884b2a163cf64810b891015db182d08a70fabcd285758fd24d40edb567fe12f1191fceb0900ac0b89286f5ad670d25a61611f52457edcc9
+Size: 4876656
+MD5sum: d62ab0d49651932c4f3ee11050f30d60
+SHA1: 3d6c0268c461e6f279aeed15db28f76929f7c719
+SHA256: d709a3b04638d447a7f00c135099a17b1ee287457326ecf12a714bffee05edc3
+SHA512: 40685268d932ae32cca0425654bbb4b3594cc83bbc9144a6b8c777b850b99ae10f68f9d2f510ccfb0c520673bda16e9efc4e6546efd2fda8cced6cfcc959c6d8
 Description: Ghi âm cuộc gọi điện thoại của bạn.
-Name: Ghi Âm Cuộc Gọi (IOS 12/14)
+Name: Ghi Âm Cuộc Gọi (12/14)
 Author: Elias Limneos
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

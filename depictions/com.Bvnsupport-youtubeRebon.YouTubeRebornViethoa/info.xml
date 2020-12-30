@@ -1,0 +1,41 @@
+<package>
+	<id>com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0.6.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện Ích tuỳ chỉnh những thành phần trong ứng dụng Youtube Như tuỳ chọn Video,cho phép Phát lại nền và chặn quảng cáo.</description>
+		<description>Tuỳ chọn thanh Tab</description>
+		<description>Tuỳ chọn lớp phủ</description>
+		<description>Tuỳ chọn màu sắc</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>YouTubeReborn1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>YouTubeReborn2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>YouTubeReborn3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>YouTubeReborn4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã Update bản mới nhất</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,37 @@
+<package>
+	<id>com.Bvnsupport-lsbvn.LSBVN</id>
+	<name>Biện Văn Nhật</name>
+	<version>3.4.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Widget cho màn hình khoá và màn hình chính của bạn</description>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>lsbvn1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>lsbvn2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>lsbvn3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>lsbvn4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã Update bản mới nhất</change>
+	</changelog>
+	<links></links>
+</package>

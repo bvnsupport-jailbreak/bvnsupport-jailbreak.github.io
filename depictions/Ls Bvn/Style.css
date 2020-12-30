@@ -1,0 +1,63 @@
+
+  body{
+    color:white;
+    font-size: 28px;
+    padding:0;
+    margin:0;
+    text-shadow: 2px 2px rgba(0,0,0,0);
+  }
+  .container{
+    width: 100%;
+    height: 120px;
+  }
+  .container div{
+    margin-top: 50px;
+    position: absolute;
+    font-family: 'GMed';
+  }
+  #time{
+    top:121px;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'GBold';
+    font-size: 15px;
+  }
+  #date{
+    top:80px;
+    width: 100%;
+    font-size: 35px;
+    font-family: 'NB';
+    text-align: center;
+  }
+  #battery{
+    top:50px;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'GBold';
+    font-size: 10px;
+    opacity: 1.0;
+    letter-spacing: 1px;
+  }
+
+@font-face{
+    font-family:GrBold;
+    src:url(fonts/GrBold.otf);
+}
+@font-face{
+    font-family:GrMed;
+    src:url(fonts/GrMed.otf);
+}
+@font-face{
+    font-family:GBold;
+    src:url(fonts/GBold.otf);
+}
+@font-face{
+    font-family:GMed;
+    src:url(fonts/GMed.otf);
+}
+@font-face{
+    font-family:NB;
+    src:url(fonts/NB.ttf);
+}

@@ -63,6 +63,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bvnsupport-Yt
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bvnsupport-Yt.cercube
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.Bvnsupport-lsbvn.LSBVN
+Architecture: iphoneos-arm
+Version: 3.4.5
+Section: Widget
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate
+Filename: ./debfiles/com.Bvnsupport-lsbvn.LSBVN_3.4.5_iphoneos-arm.deb
+Size: 1440692
+MD5sum: 2ef89ae571db502d3b34be843eb084d4
+SHA1: 5e6bf5e1d351dcdf36a45e3a217de0ea0f4e91a9
+SHA256: 68636c7e00b7731e1cb80d13eb04a4c988f1fb21c11aa1a1de6b0be6b03e34b9
+SHA512: 95eb3a4257cff837041b68a8c13f98ba07189174cc6aa3c45e60c8b4c01f05b320a7835146aca0800297d74a531455c994691e98c48f12f4a476c7b9a6dcc091
+Description: Widget for Xen HTML
+Name: LS BVN
+Author: Biện Văn Nhật
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-lsbvn.LSBVN
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-lsbvn.LSBVN
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
 Architecture: iphoneos-arm
 Version: 1.0.6.2

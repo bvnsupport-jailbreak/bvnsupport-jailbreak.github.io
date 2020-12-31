@@ -578,6 +578,23 @@ Name: Signe
 Author: Tr1Fecta & kritanta
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-trichIPA.TrichIPA
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: System
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 11.0)
+Filename: ./debfiles/com.bvnsupport-trichIPA.deb
+Size: 9962136
+MD5sum: 4791906860729737204567b658ba080a
+SHA1: 5a0dbcdab1a9a16ffb96783435279105e625872a
+SHA256: ceebd68bbf810961069b7597e6f72af6e51625867f6cfe133b71902a7d675063
+SHA512: 2e22fac4c7117cffd16adc2e4e5f19fa371877562885fe013433e53ac604fa93ec41b4d2dc64fd584d0f644197bcd79636b5f36f448685a96691d45a98ef53b4
+Description: Trích File IPA một ứng dụng bất kỳ mà bạn muốn.Mình đã test trên ios 11&14 đều hoạt động rất ok nhé Các Bạn.
+Name: Trích FILE IPA
+Author: c0pyn1nja
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.bvnsupport-ytbkill.youtubekiller
 Architecture: iphoneos-arm
 Version: 3.2.4-1

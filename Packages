@@ -63,6 +63,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bvnsupport-Yt
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bvnsupport-Yt.cercube
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.Bvnsupport-chucmungnammoi.Chucmungnammoi
+Architecture: iphoneos-arm
+Version: 110
+Section: Themes
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.Bvnsupport-chucmungnammoi.Chucmungnammoi_110_iphoneos-arm.deb
+Size: 25581710
+MD5sum: e6d24d6a263bb4bf6ab797a2ef5d7d6c
+SHA1: 1b4cdc338d3709ec95a16930f202af392f30e75a
+SHA256: 531ce2b5836428a4bc1cf5be48a867a42844fe8bdca43f0a19d42b8e0b7c0d7b
+SHA512: aa02688702ba546a929e5d77ed1bd350b218b013f54efb96efad8428acc9b540650562e414992e8a289823d19419a9899f37ce6df4d36c9df6e2fa950e0be1cf
+Description: Chủ đề Tết dành cho bạn.
+Name: Happy New Year
+Author: Mỹ Krog
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-chucmungnammoi.Chucmungnammoi
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-chucmungnammoi.Chucmungnammoi
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Bvnsupport-lsbvn.LSBVN
 Architecture: iphoneos-arm
 Version: 3.4.5

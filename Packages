@@ -598,6 +598,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-nou
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-nougat.nougatvh
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-phantrampin.Phantrampin
+Architecture: iphoneos-arm
+Version: 1.2.3
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 11
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Filename: ./debfiles/com.bvnsupport-phantrampin.deb
+Size: 57614
+MD5sum: 20bbfa5eb14e16ac0df47b38cad60cf2
+SHA1: 8ac380476f7d1d5beb5e3b5fe80123c6265eae58
+SHA256: cc1c5e278311d036b05716b77396557268efddac7d9196731527f4d6a97c7ce6
+SHA512: 6b222b5703c81b0f684f3fbebd1e7266ddf497989731acf2abf3fe3edbb0bec5075c03317b5c827b021a6052d27a00fcf0a1ce2678fc7e5ddb91fc60726fe2c3
+Description: Hiển thị thêm phần trăm pin trong biểu tượng pin trên iPhone X và Giả lập Ip X
+Name: Hiển Thị % Pin
+Author: dpkg
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-sig.signe
 Architecture: iphoneos-arm
 Version: 1.0

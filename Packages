@@ -578,6 +578,26 @@ Sponsor: bvnsupport-jailbreak.github.io <bienvannhat97@gmail.com>
 dev: netskao
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-nougat.nougatvh
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 9999
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.a3tweaks.flipswitch (>= 1.0.16), com.shade.libpalette
+Filename: ./debfiles/com.bvnsupport-nougat.deb
+Size: 1483730
+MD5sum: e2445bb436917abcb222d4f7daf16122
+SHA1: e54b02899f847c26248c06a413f50cc00a82e16b
+SHA256: 6e289ce5cd09c599782a8f8706acd5220e4c59dfa36c079697e43e9ebd78fe66
+SHA512: bb67bda935123d47985f64f26c92801bd7f6ebc7bd296b15ea60b9de76e0e52c3644cb212e8ad30633746a79439f710a9c81d2cd66e88b7041d4c4200435fffa
+Description: Trải nghiệm Android ngay trên thiết bị iOS của bạn!
+Name: Nougat Việt Hoá
+Author: Shade Zepheri
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-nougat.nougatvh
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-nougat.nougatvh
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-sig.signe
 Architecture: iphoneos-arm
 Version: 1.0

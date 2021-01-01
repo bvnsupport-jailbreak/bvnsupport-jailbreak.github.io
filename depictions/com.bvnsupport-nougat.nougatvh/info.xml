@@ -1,0 +1,41 @@
+<package>
+	<id>com.bvnsupport-nougat.nougatvh</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Trải nghiệm Androi ngay trên thiết bị Ios của bạn</description>
+		<description>Nougat mang bảng thông báo và điều khiển từ Android Nougat và Oreo</description>
+		<description>Nougat được xây dựng từ đầu để tích hợp hoàn toàn vào iOS và hoạt động theo cách bạn mong đợi một tính năng mặc định</description>
+		<description>Để kích hoạt Nougat, chỉ cần vuốt xuống từ giữa trên cùng của thiết bị, như thể bạn đang gọi Trung tâm thông báo. Vuốt xuống từ góc trên cùng bên trái sẽ gọi Trung tâm thông báo hệ thống trong trường hợp bạn vẫn cần truy cập vào nó. Bạn sẽ được nhắc trong lần khởi chạy đầu tiên để truy cập hướng dẫn sử dụng để làm quen với các cử chỉ</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>nougat1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>nougat2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>nougat3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>nougat4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã Update bản mới nhất</change>
+	</changelog>
+	<links></links>
+</package>

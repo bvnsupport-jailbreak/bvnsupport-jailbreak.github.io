@@ -538,6 +538,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-kle
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-klean.kleanhsls
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-leg.Legizmo
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 2148
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debfiles/com.bvnsupport-leg.Legizmo_1.2.3_iphoneos-arm.deb
+Size: 984292
+MD5sum: cd6836d4d7688922ab6256288f199448
+SHA1: a73a7a60892bb70c45350508174976bbc2287e38
+SHA256: f2690a7f3d0fcbf2b00e52f67b806df12b0cf4ba45ff888712d1cb8e45d1c76a
+SHA512: 566d022a73caa22ea60ab225561594ef120950c065894f93f719eba2e89381807347f8767d38120718d09f30f6b70326ee7b6d98082108bcf3e54ad8f6eba5f1
+Description: Cho phép bạn ghép đôi iOS cũ để kết nối với APPLE WHATCH😘
+Name: Legizmo Việt Hoá
+Author: lunotech11
+Support: https://www.facebook.com/SUPPORT.BVN.VN
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-limneos.limneos
 Architecture: iphoneos-arm
 Version: 1.2.3

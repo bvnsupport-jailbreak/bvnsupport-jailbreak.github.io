@@ -348,6 +348,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Brend0n <brendonjkding@126.com>
 dev: brend0n
 
+Package: com.bvnsupport-Red.RedWhite
+Architecture: iphoneos-arm
+Version: 108
+Section: Themes
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.bvnsupport-Red.RedWhite_108_iphoneos-arm.deb
+Size: 5773160
+MD5sum: 35af35c079d76c36addea4e0fc1789bb
+SHA1: 4d09532554fe7502bf1205a903ed8110bce7640a
+SHA256: 5c4685ded0154961858ce2e7bead88b36cfe28df398834cac158c3236c13f22e
+SHA512: 67df4d2728e34d64997f63e623e767e7c38e49acb8b5c67cf1778ee12083937d794bcb9302e89e1c486d531a31ad57c2c3ecdc89cbdce9b1667ba9241bf38b4f
+Description: Chủ đề Red White dành cho bạn
+Name: Red White
+Author: Khoảng Lặng
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-Red.RedWhite
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-Red.RedWhite
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-Sw.swipeformore
 Architecture: iphoneos-arm
 Version: 1.1.10

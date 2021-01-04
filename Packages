@@ -789,27 +789,6 @@ Name: Sakura Việt Hoá
 Author: sugiuta <sugi.uta_1203@icloud.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bvnsupportjailbreak.icleanerproVN
-Architecture: iphoneos-arm
-Version: 7.9.0
-Section: Utilities
-Maintainer: Ivano Bilenchi <bienvannhat97@gmail.com>
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debfiles/com.bvnsupportjailbreak.icleanerproVN_7.9.0_iphoneos-arm.deb
-Size: 6741746
-MD5sum: 68203a68ee2f06de52dafab88d7f4647
-SHA1: 1782b8850d03194d2498b1ef40f1d328f999ff9c
-SHA256: 67d2da98050e4a2b92d9abbab57291ff4d9043a1c23cfd30511351deb66a041f
-SHA512: a073085cc9a9daf60550882fa5ae16dd4bc9cdf2a7132223e2cd5fdf57425bf64b74af50c641b80706608b2f601673cff05dbb2d6de8f0dbfa94c4aa8518a23f
-Homepage: http://Bvnsupport-jailbreak.github.io/icleaner
-Description: Trình tối ưu hóa & dọn dẹp hệ thống iOS
-Name: iCleaner Pro VN
-Author: Ivano Bilenchi <bienvannhat97@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tienich1.png
-Depiction: http://bvnsupport-jailbreak.github.io/depictions/?pkgId=com.Supportjb.icleanerpro
-
 Package: com.bvnsupportjailbreak.icleanerproVietNam
 Architecture: iphoneos-arm
 Version: 7.9.1

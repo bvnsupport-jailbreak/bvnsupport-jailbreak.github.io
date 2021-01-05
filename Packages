@@ -594,6 +594,29 @@ Tag: role::developer
 Name: libPDDokdo
 Author: Soongyu Kwon
 
+Package: com.bvnsupport-little.little12
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 1024
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Filename: ./debfiles/com.bvnsupport-little.little12_1.2.3_iphoneos-arm.deb
+Size: 455048
+MD5sum: 6f8363001a8a2805059386a9f8185c7a
+SHA1: 6db13f2ec6ef2b333864090d27f9b36b450e7f35
+SHA256: 7e269139796fafd2458747a763298db5d7a171be5ca1ffddb51b3f82dc1280a0
+SHA512: 0eb93974912da6886647a95e196c4cf603227b9f1d457f70089f07eb5b706afd6b70f7007d722b99913517265a44c28dc7da3ed3ff6f64cca910748a2aa588af
+Description: Cử chỉ iPhone 12 và hơn thế nữa cho iOS 14
+Name: Little12 Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-little.little12
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-little.little12
+Author: Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-model.fakemodel
 Architecture: iphoneos-arm
 Version: 1.1-3

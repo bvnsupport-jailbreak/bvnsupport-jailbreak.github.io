@@ -1,0 +1,41 @@
+<package>
+	<id>com.bvnsupport-little.little12 </id>
+	<name>Biện Văn Nhật</name>
+	<version>1.2.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Fake cử chỉ của Iphone X cho các máy đời cũ</description>
+		<description>Thêm 1 số tính năng mới</description>
+		<description>Nhẹ nhành và mượt mà</description>
+		<description>Các bạn có thể xem hình ảnh phía dưới</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>little12vh1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>little12vh2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>little12vh3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>little12vh4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

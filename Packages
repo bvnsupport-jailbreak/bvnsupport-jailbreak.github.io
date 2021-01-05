@@ -1066,6 +1066,26 @@ Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.Gesturesi11VN
 
+Package: com.supportjailbreak.LynxVIETHOA
+Architecture: iphoneos-arm
+Version: 1.9.5
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <BIENVANNHAT97@gmail.com>
+Installed-Size: 2476
+Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Conflicts:
+Filename: ./debfiles/com.supportjailbreak.LynxVIETHOA_1.9.5_iphoneos-arm.deb
+Size: 1234866
+MD5sum: 50e06f456f327b1947c41d230c5d14b2
+SHA1: 6f3fbabd96b8b13e8b5b73a845ef98112ab7bcec
+SHA256: ee799e362dafce101948956e6ee5b92972be41066d19178772c26a8fd887bfdd
+SHA512: d08e8c941197431ebf4b14462cb28f38fc89d999e69f81befaf979c588531ba965e7c6989dd7520d865ebc31ebe677ea4014c84b8eecb43ed1b077fd2ff01a69
+Description: Tùy chỉnh tối ưu Thiết bị của bạn:Hỗ trợ từ Ios 12 đến ios 13.9
+Tag: purpose::extension,  compatible_min::ios12.0, compatible_max::ios13.7
+Name: Lynx VIỆT HOÁ
+Author: MTAC <mtactheming@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.LynxVIETN
 Architecture: iphoneos-arm
 Version: 2.0

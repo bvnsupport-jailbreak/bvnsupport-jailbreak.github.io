@@ -605,11 +605,11 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
 Filename: ./debfiles/com.bvnsupport-little.little12_1.2.3_iphoneos-arm.deb
-Size: 455048
-MD5sum: 6f8363001a8a2805059386a9f8185c7a
-SHA1: 6db13f2ec6ef2b333864090d27f9b36b450e7f35
-SHA256: 7e269139796fafd2458747a763298db5d7a171be5ca1ffddb51b3f82dc1280a0
-SHA512: 0eb93974912da6886647a95e196c4cf603227b9f1d457f70089f07eb5b706afd6b70f7007d722b99913517265a44c28dc7da3ed3ff6f64cca910748a2aa588af
+Size: 455052
+MD5sum: 2d343e212b3a63d61b2a583e8cc2f961
+SHA1: 7d89a43ab7175b437f36bb26374a73e85ef2ebdc
+SHA256: 0a049828f121bf04174a0e2c1c76fef7779e6569a8c8986c6b6397f78b07b738
+SHA512: 1bb260883d1d81136311b418f997bd873dd50d0ed3d18b66f83b3392cb742e86002c8098926c5421a50de09f4a243c7803b6eb95aea8d7972947f69e864cd7a9
 Description: Cử chỉ iPhone 12 và hơn thế nữa cho iOS 14
 Name: Little12 Việt Hoá
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-little.little12

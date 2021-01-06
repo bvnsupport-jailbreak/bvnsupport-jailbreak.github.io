@@ -600,14 +600,16 @@ Version: 1.2.3
 Section: Tweaks
 Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
 Installed-Size: 1024
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
-Filename: ./debfiles/com.bvnsupport-little.little12_1.2.3_iphoneos-arm.05-thg 1-2021-21-46-09.deb
-Size: 455006
-MD5sum: dd1a44cbcd6f6490bd70152f714df40e
-SHA1: 5188eac3dbbda18bad96bd26a81916bf2ad26d21
-SHA256: 7844b8ebfc267b777653282074eb35bd7d2f68e228a6b6df0b77d6419c5ba96b
-SHA512: e323ff245933c7e969a04faace6f4750930f8f18a537b0d6d221114926a82da26329dd9cca5fb4f4accac309498e9809e9fed7b5edf98d7018b3c14c34915370
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Filename: ./debfiles/com.bvnsupport-little.little12_1.2.3_iphoneos-arm.deb
+Size: 455048
+MD5sum: 8a5a4699309a67222d7f5ec7ac3f21df
+SHA1: b009100f5413bf9ae87324f584342c87bfd62a5b
+SHA256: 8881e5a47a8174ac590b9c312ede46bab71227c4a612bc07d89a06c89e3bad9a
+SHA512: cecf19e2e7c823ad976186db72dfa2436465f9c229900961e9a41569d1ee951e1c2ef90577e92f72765a042bf695c4dcf86a64f2a7af3804c7cb5a31d151d7b0
 Description: Cử chỉ iPhone 12 và hơn thế nữa cho iOS 14
 Name: Little12 Việt Hoá
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-little.little12

@@ -1,3 +1,23 @@
+Package: com.BIENVANNHAT.liblottie
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: System
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1516
+Depends: firmware (>=11.0)
+Filename: ./debfiles/com.BIENVANNHAT.liblottie_1.0.2_iphoneos-arm.deb
+Size: 447604
+MD5sum: f48a5bd696cbefa4ccc3737f4f7d0e6d
+SHA1: 89cb26ab7848d912f30052593a44b325e07579e2
+SHA256: 67985c292c8a1b43968227d27fd9b5452f023290ae39f062b602e64b7f9ab3f6
+SHA512: 8966f02fb4349a4cf3f0d192313ae3cfa7ec5d5aaac03e5ba501daebc644c0306de09b621809a9bdc18951e2839c812f5be889d02234570e034db3edee4acd6f
+Description: Lottie animations library.
+Tag: role::developer, compatible_min::ios11, compatible_max::ios14
+Name: libLottie
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.liblottie
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BVNsupport-ytbhd.ytuhd
 Architecture: iphoneos-arm
 Version: 0.0.3.6
@@ -40,6 +60,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bienvannhat-j
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bienvannhat-jb.kernbypassVN
 dev: akusio, Misty, Bvn, XsF1re
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.Bienvannhat.lottiestatusbar
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 2512
+Depends: firmware (>=12.0), mobilesubstrate, com.BIENVANNHAT.liblottie, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debfiles/com.Bienvannhat.lottiestatusbar_1.0.1_iphoneos-arm.deb
+Size: 430286
+MD5sum: dd4b745121e2597744dcbda7c8af7923
+SHA1: 5ac70cd2da7f2f04cb7bd632fca91d6227061bec
+SHA256: 836c28dcc1e2cca989796c1a415ea7911310953fce3fa4d954e83afdb50a3fe8
+SHA512: dcc83b03d18eb3b38cced3aaf26620c42f9950a86e78b32b15ae199636c95e720434919e0ef91782a06b2444ee74b2b63efb2c9436ae97831676e1009dff9a56
+Description: Công cụ Lottie Animations cho Thanh trạng thái của bạn.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Name: LottieStatusBar VH
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.lottiestatusbar
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.lottiestatusbar
 
 Package: com.Bvnsupport-Yt.cercube
 Architecture: iphoneos-arm

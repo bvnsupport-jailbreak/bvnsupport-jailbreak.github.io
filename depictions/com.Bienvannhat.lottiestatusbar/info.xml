@@ -1,0 +1,29 @@
+<package>
+	<id>com.Bienvannhat.lottiestatusbar</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Lottie StatusBar là một công cụ hoạt ảnh có thể cho phép bạn chạy Lotties (Hoạt ảnh) cho Thanh trạng thái của bạn.  </description>
+		<description>Bạn có thể coi nó như một công cụ chủ đề (ví dụ: SnowBoard hoặc Anemone) nhưng thay vì tải Chủ đề, bạn sẽ tải xuống Lotties (Hoạt hình) </description>
+		<description>Rất dễ áp ​​dụng Lottie, chỉ cần tải xuống và cài đặt Lottie từ trình quản lý gói của bạn (ví dụ: Cydia)  sau đó áp dụng Lottie từ phần Lottie bên trong cài đặt tinh chỉnh. </description>
+		<description>Hỗ trợ từ ios 12 đến Ios 14.5</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>LottieStatusBar.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

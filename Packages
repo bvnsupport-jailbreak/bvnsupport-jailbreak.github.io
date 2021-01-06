@@ -1,3 +1,24 @@
+Package: com.BIENVANNHAT.frontpage
+Architecture: iphoneos-arm
+Version: 1.6.4
+Section: Addons (Tweaks)
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 2700
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debfiles/com.BIENVANNHAT.frontpage_1.6.4_iphoneos-arm.deb
+Size: 982156
+MD5sum: 19acb7ff7478089ee5a51e245e578ace
+SHA1: 63214f5ee39556806da1c0054d0591b161f4bd3c
+SHA256: b4fb7bd51ab8a585cd86838062d38f76c30cb93dcb7dd62febf2a3083f41dee2
+SHA512: ea39ded33ff252e61c34fb775c6b3ff688ef13912a9f53fc51276b8cacf695f0e5c326f0bcc016a3df502180d2a2b3301e77eb461bc9922c2bc8c565fe627fe5
+Description: Powerful html for the springboard.
+Name: FrontPage Việt Hoá
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.liblottie
 Architecture: iphoneos-arm
 Version: 1.0.2

@@ -1,0 +1,28 @@
+<package>
+	<id>com.BIENVANNHAT.frontpage</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.6.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>FrontPage tải các chủ đề bàn đạp tùy chỉnh thay đổi hoàn toàn giao diện thiết bị của bạn. Hãy nghĩ về nó giống như DreamBoard.</description>
+		<description>Bạn có thể thêm thành phố của mình vào hai thành phố ứng dụng thời tiết đầu tiên để đảm bảo thời tiết hoạt động Tắt lconoclasm (nếu được cài đặt) đề ần các biểu tượng. Trên bất kỳ chương trình cơ sở nào bên dưới iOS 11, bạn PHẢI bật Giảm chuyển động trong Cài đặt / Chung/ Khả năng truy cập FrontPage khôn ngoan khác sẽ biến mất khi một ứng dụng được mở. Các chủ đề có thể được tải xuống từ phần FrontPage trên repo của tôi. Đơn giản là chủ đề cơ sở có trong FrontPage để thay đổi các biểu tượng dock, chạm và giữ biểu tượng bạn muốn thay đổi, sau đó chọn từ ngăn kéo. Bạn có thể sử dụng hai ngón tay vuốt xuống để truy cập menu FrontPage. Chọn SpringBoard trong menu chủ đề để quay lại bố cục có sẵn. Không tắt từ cài đặt.</description>
+		<description>Để áp dụng, hãy vào cài đặt và xem hướng dẫn được liệt kê. Cài đặt dễ dàng: Bật FrontPage Chọn hàng đầu Ẩn Dock Ẩn các biểu tượng Ấn dấu chấm trên trang Phản hồi Khi ở trên bàn đạp, hãy vuốt xuống từ giữa bằng 2 ngón tay Cần phải biết: Thiết lập thời tiết bằng cách bật dịch vụ vị trí và đặt thời tiết thành luôn</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>FrontPage.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,28 @@
+<package>
+	<id>lottielockscreen</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Lottielockscreen là một tinh chỉnh bổ sung hoạt ảnh Lottie tuyệt vời cho Màn hình khóa của bạn.</description>
+		<description>Nó có thể tạo hiệu ứng cho Đồng hồ, nút Flash và nút Máy ảnh.</description>
+		<description>Định cấu hình các tùy chọn từ Cài đặt.  Tương thích với ¡OS12, ¡OS13 & ¡OS14 CÓ, MIỄN PHÍ!</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>lottielockscreen.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>• Bản Sửa đồng hồ không hiển thị cho một số thiết bị.</change>
+	</changelog>
+	<links></links>
+</package>

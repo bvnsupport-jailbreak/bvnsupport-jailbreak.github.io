@@ -420,6 +420,29 @@ Name: Fake iOS Ghép Sim
 Author: NHC
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.bvnsupport-fakex.little12
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 1024
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Filename: ./debfiles/com.bvnsupport-fakex.little12_1.2.3_iphoneos-arm.deb
+Size: 455058
+MD5sum: e846950ca91d2bcf8471cfb379698a8f
+SHA1: 86a8887cb02c9617a537fc3f801a7e502db34509
+SHA256: 72aae146fc956808225c6217c856718a08aa91de3324fb026dab97769d6eaa35
+SHA512: e0339a9eb54649b4cc98669f9a59cd28e503d01a0fbeeda466f6436e4a4b0eefcc4bd6d941f1504ab143f254dd0e9ca84004412d5f3a16dadf10fe0d73d1f809
+Description: Cử chỉ iPhone 12 và hơn thế nữa cho iOS 14
+Name: Little12 Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-fakex.little12
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-fakex.little12
+Author: Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-giamcuocgoi.Giamcuocgoi
 Architecture: iphoneos-arm
 Version: 5.6.7
@@ -593,29 +616,6 @@ Description: An awesome library to get current weather which provides by iOS Wea
 Tag: role::developer
 Name: libPDDokdo
 Author: Soongyu Kwon
-
-Package: com.bvnsupport-little.little12
-Architecture: iphoneos-arm
-Version: 1.2.3
-Section: Tweaks
-Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
-Installed-Size: 1024
-Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
-Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
-Filename: ./debfiles/com.bvnsupport-little.little12_1.2.3_iphoneos-arm.deb
-Size: 455048
-MD5sum: 8a5a4699309a67222d7f5ec7ac3f21df
-SHA1: b009100f5413bf9ae87324f584342c87bfd62a5b
-SHA256: 8881e5a47a8174ac590b9c312ede46bab71227c4a612bc07d89a06c89e3bad9a
-SHA512: cecf19e2e7c823ad976186db72dfa2436465f9c229900961e9a41569d1ee951e1c2ef90577e92f72765a042bf695c4dcf86a64f2a7af3804c7cb5a31d151d7b0
-Description: Cử chỉ iPhone 12 và hơn thế nữa cho iOS 14
-Name: Little12 Việt Hoá
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-little.little12
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-little.little12
-Author: Ryan Nair
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvnsupport-model.fakemodel
 Architecture: iphoneos-arm

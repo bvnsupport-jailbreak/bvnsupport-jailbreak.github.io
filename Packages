@@ -48,17 +48,17 @@ Installed-Size: 600
 Depends: firmware (>=12.0), mobilesubstrate, com.BIENVANNHAT.liblottie
 Filename: ./debfiles/com.BIENVANNHAT.lottielockscreen_1.0.3_iphoneos-arm.deb
 Size: 109588
-MD5sum: ce7a049783fafa9cc80c5e644130f39e
-SHA1: 08950989292c227d264c1de7ae63d2ced2725457
-SHA256: 816b99d542d6d8c4ce898e2d28696b1acf62984881e59e61b0f94a4fb9f49f97
-SHA512: 51a78d4c4c27bcae283e222ad78f0aaff87207724358e8b2af03243d57dad3034842ed34f5e643db6151a6b474bfaa04f4202a083328e8b6c0936e36ba1713a1
+MD5sum: 22ba0f66171059f74c01f8fbc5161fed
+SHA1: 08e827fbd43969cc5843b9737c7f21a0db293858
+SHA256: e43e3ae48b91644dc3da4c91be76e669151fbda82e13073537d5eb72ed65fe1a
+SHA512: af3be43877b6bda8c3d9593ea727687b58bdaf8fc26f33d31a429e0be4383c1957bf5dbce07a1fd6c9fb506214ee68cc36bc3fb2ffd7c844162138f484f739d9
 Description: Ảnh động cho Màn hình khóa của bạn.
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
 Name: LottieLockscreen
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 
 Package: com.BIENVANNHAT.win10fp
 Architecture: iphoneos-arm

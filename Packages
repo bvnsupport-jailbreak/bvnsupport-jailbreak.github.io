@@ -60,6 +60,24 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNH
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.win10fp
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Addons (FrontPage)
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Depends: mobilesubstrate, com.BIENVANNHAT.frontpage
+Conflicts:
+Filename: ./debfiles/com.BIENVANNHAT.win10fp_0.2_iphoneos-arm.deb
+Size: 438586
+MD5sum: e2d57a290c0b4586378e33409b916f20
+SHA1: 164d4c1575c6fa514e1231b7e8851bae0f1bfb02
+SHA256: 260add52f85279525424cedb5d28bbd18dc076327db67f22577386e05b5b8f95
+SHA512: d8fec390faf5d4a5a1e8b19503d62c553674e167c330188ed9c1ac4bc393f4faddd8cf077e9dbb6347f73d30b9a83e37b1f3bc0c44052d6bca6dc4a49177f9cd
+Description: Chủ đề cho FrontPage
+Name: Windows 10
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: JunesiPhone <junesgraphics@gmail.com>
+
 Package: com.BVNsupport-ytbhd.ytuhd
 Architecture: iphoneos-arm
 Version: 0.0.3.6

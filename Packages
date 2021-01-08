@@ -2391,13 +2391,13 @@ Maintainer: Biện Văn Nhật <wilson@styres.me>
 Installed-Size: 58328
 Depends: dpkg, uikittools, firmware (>= 9.0)
 Filename: ./debfiles/xyz.willy.zebra_1.1.15_iphoneos-arm.deb
-Size: 27470230
-MD5sum: 9c127cb3facea59588ed3bc2ec804eed
-SHA1: 222cf8a75244c321f3e5c7624043ebddef523e53
-SHA256: b8887db431a16bf71a4716c7687c05330d0eea4959b92d868ca99825cbe0a06d
-SHA512: 99ee65ed22acaa2ca523bd8286cb2279a7b48412f3b2b757d2a9a83cb61ca9972aee99f753fa13cab825759c68588489f8f9061778dba0cbeb0258b1f30162c6
+Size: 27470232
+MD5sum: 75ed3a7e0e3d0df64fd9507db5a44f21
+SHA1: 52e73f3a21df8b491406e4da3e1679f47f5358d8
+SHA256: 21670f357df0075d0b55690357cc16d2d11c81a540c3299040a9ca5bb590b881
+SHA512: 1cf97596aec8a71d124a63ec6b203f9d4e3ce258e15db5196b8951cab99d4f4831ebeb91029c1c6310de0b6bf786e07dc2d8ac4f9518fb50f6a12933b768b103
 Description: Trình quản lý gói hữu ích cho bạn.Có thể dùng chung nó với Cydia và Sileo.Hỗ trợ từ ios 9-14.5
 Tag: compatible::9.0-14.2
-Name: Zebra vh
+Name: Zebra VH
 Author: Wilson Styres <wilson@styres.me>
 

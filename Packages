@@ -96,6 +96,25 @@ Name: Windows 10
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JunesiPhone <junesgraphics@gmail.com>
 
+Package: com.BIENVANNHAT.zebra
+Architecture: iphoneos-arm
+Version: 1.1.15
+Section: Packaging
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 58328
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debfiles/com.BIENVANNHAT.zebra_1.1.15_iphoneos-arm.deb
+Size: 27470290
+MD5sum: e119de6c3abc1832cce262269ec19cff
+SHA1: ea4df68ca6fb2e2a10d13290ee0d3e0a63bb323d
+SHA256: e0c71b3f26436fc91a36a86ce96a5cb1c8b09f0a0a3805e0a21d1c38ec3d0edf
+SHA512: 2d0280696ae45989269a829e02a07df9a1188d76ac770e522a4ce51056dd42cb0b710415bbbf63a8cebed9da86d19bb4fba75da41d8cd83c9d582f5dd195d85f
+Description: Trình quản lý gói hữu ích cho bạn có thể dùng chung với cydia và Sileo.Hỗ trợ từ Ios 9 tới Ios 14.5
+Tag: compatible::9.0-14.2
+Name: Zebra VH
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://bvnsupport-jailbreak.github.io/
+
 Package: com.BVNsupport-ytbhd.ytuhd
 Architecture: iphoneos-arm
 Version: 0.0.3.6

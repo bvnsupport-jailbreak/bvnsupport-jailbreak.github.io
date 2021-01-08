@@ -1,3 +1,21 @@
+Package: com.BIENVANNHAT.carplayenable
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 176
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.carplayenable_0.0.2_iphoneos-arm.deb
+Size: 41034
+MD5sum: 2a47c5cab1cefd55c3f13495f6df0bdf
+SHA1: 099cf1ffcfa038812725dd05e6b02659ea1204e2
+SHA256: fdde3572b1357286fddb56628c0c025b0f9e4a5a39e36aa4ceb6875ca1b1e586
+SHA512: 36f2ce9de6601f9cc87223c7816f0ba98b1b3768bfa150cb1101f7c167a4478cf4913cf605fa0454f2b97f50319d45b2ede2ba0e78cbfd63d4d13772d9e740b3
+Description: Sử dụng bất kỳ ứng dụng nào với CảPlay.Sau khi cài đặt, không có ứng dụng hoặc cài đặt nào xuất hiện trên màn hình chính của bạn. Sau khi kết nối CarPlay của ô tô với iPhone, hầu hết các ứng dụng được cài đặt trên iPhone sẽ hiển thị trên CarPlay.
+Name: carplay(14)
+Author: Cortex
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.frontpage
 Architecture: iphoneos-arm
 Version: 1.6.4

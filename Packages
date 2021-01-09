@@ -24,11 +24,11 @@ Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com
 Installed-Size: 664
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.BIENVANNHAT.libgcuniversal
 Filename: ./debfiles/com.BIENVANNHAT.deb
-Size: 307444
-MD5sum: 297f1e924ec04a7f6017ce9415d3b94f
-SHA1: ff01d3c1898938b58028d69ac1dbd2aae4e6f3ff
-SHA256: 5a831f7967463337d3a9b6dc1255bb3aec8f2b1ef6a92fdad1d73cff547d51a7
-SHA512: 52c1ae5d5b214a8729cb70df18799d762243ba01e57e08184ce2157442f051104911c85e8d54320d4feebd20bf3eb26a6f45d9d3e8eaabcffca899f4afd56e7c
+Size: 307486
+MD5sum: d98b06d20d10c3c01dcb5c1990a103eb
+SHA1: 746833c4beb5944a532c84275a75ed4803ba4ea4
+SHA256: 666357674ae358ce14d881f70a01d56f1ac27187c46a2a36cbaced64e4f73a5f
+SHA512: 49df9a55558983af80682fd145b40698fa8fb3ad315e7b3bcd853a04013d7c335cc0f495aa2ffdb88cdaceb847c9b3a6f56f66d412949b7fa8663afcd00ea99b
 Description: Chọn video làm hình nền trên iPhone.
 Name: Chọn Video làm hình nền
 Author: Litten

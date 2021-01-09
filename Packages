@@ -16,6 +16,26 @@ Name: carplay(14)
 Author: Cortex
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.eneko
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.BIENVANNHAT.libgcuniversal
+Filename: ./debfiles/com.BIENVANNHAT.deb
+Size: 307444
+MD5sum: 297f1e924ec04a7f6017ce9415d3b94f
+SHA1: ff01d3c1898938b58028d69ac1dbd2aae4e6f3ff
+SHA256: 5a831f7967463337d3a9b6dc1255bb3aec8f2b1ef6a92fdad1d73cff547d51a7
+SHA512: 52c1ae5d5b214a8729cb70df18799d762243ba01e57e08184ce2157442f051104911c85e8d54320d4feebd20bf3eb26a6f45d9d3e8eaabcffca899f4afd56e7c
+Description: Chọn video làm hình nền trên iPhone.
+Name: Chọn Video làm hình nền
+Author: Litten
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.eneko
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.eneko
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.frontpage
 Architecture: iphoneos-arm
 Version: 1.6.4
@@ -36,6 +56,26 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.libgcuniversal
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: System
+Maintainer: Biện văn nhật
+Installed-Size: 260
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: ./debfiles/com.BIENVANNHAT.libgcuniversal_1.0.0_iphoneos-arm.deb
+Size: 61974
+MD5sum: 818692c2d9da10302eb82c44eeda17a9
+SHA1: 2f358ea20a99032dce131b948f5faaa637924e51
+SHA256: 39a294316a7ae273d7804c8b87aca64ea3cfda823a15db32deaf9044779a4665
+SHA512: 9c3572c8302ddb18670a01d2c175dca5360f43052259b1c6cd207a90a4c8c05510f7c264f6ade061c3a93f9653907f609c086c3a6e2b55a42fd6d76d11a67040
+Description: Một thư viện tuyệt vời của một số loại !!
+Tag: role::developer
+Name: LibGcUniversal
+Author: MrGcGamer
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.liblottie
 Architecture: iphoneos-arm

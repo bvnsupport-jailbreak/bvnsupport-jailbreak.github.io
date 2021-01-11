@@ -45,10 +45,10 @@ Installed-Size: 13544
 Depends: mobilesubstrate, firmware(>=12.2) | org.swift.libswift (>=5.0),ws.hbang.common,preferenceloader,com.cokepokes.libnotifications (>= 0.2-2), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Filename: ./debfiles/com.BIENVANNHAT.dra1n_2.3.4_iphoneos-arm.deb
 Size: 7152040
-MD5sum: 8316914bda615a2ed0032612e0e157fc
-SHA1: f3132e4161d7f3f96da643bb2817224330761fd7
-SHA256: 3deda39d47c7249e22643dc0e18f765af9ec2990ef49048823de36dcf503eedf
-SHA512: f57def1958027c5c69ca22275ff967083f03923f54320d4101bcb65567dfae08048cc091e04557e237e0c9b875e61a79c3fe16c53a395304dd6f0b74783df4ff
+MD5sum: c755a91f196c47fcea343ee2af3d9e67
+SHA1: ac484f16af437fb36de47a117cc2176938b1a90c
+SHA256: afbf4617d8f27e010610ed7b61b550ada39a6a7a863b8ae19d083db3ede939d2
+SHA512: 8b9e4994bbdbf4d62c3d0f6ca2d20534f3da0a59d6398db8d59c858f4a28b9872b16d637f62a575431557dea5c113e2797a4d93694afce45cf57bb43652549da
 Description: Tìm xem gói nào đang làm hao pin của bạn!
 Name: Dra1n Việt Hoá
 Author: MegaDev & Charlie While

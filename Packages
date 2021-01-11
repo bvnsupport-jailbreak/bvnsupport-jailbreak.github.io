@@ -138,6 +138,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 
+Package: com.BIENVANNHAT.techcombank
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.techcombank_0.0.6_iphoneos-arm.deb
+Size: 3478
+MD5sum: 55309c21288350a253e830b8954ababf
+SHA1: b02e95a61859e520eb492c2f40dacc52abba0135
+SHA256: 2e4be022334a811836767ea1bf02ead60a037ec2cd48b9a5a7d9393abfed8df2
+SHA512: ea824e44384eaf5844773f957380a01349e53b0b09bdc4ee15af3d2380bc442818fa72efd42b99eca3cba83b5703aae911ee6041d4f47affcd1dc08de46e15da
+Description: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK tốt nhất hiện tại,hỗ trợ phiên bản mới nhất.
+Name: HideJb TechcomBank
+Author: Kan
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.win10fp
 Architecture: iphoneos-arm
 Version: 0.2

@@ -1,3 +1,21 @@
+Package: com.BIENVANNHAT.allowplaybackwhilerecordingscreensound
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.allowplaybackwhilerecordingscreensound_1.0.0_iphoneos-arm.deb
+Size: 4462
+MD5sum: 3cc74b8b378fc8f18cb38ec631f75bf9
+SHA1: c56b42aacafd60d6b7ff2cf4a18a1e966d636b81
+SHA256: 146a2d2575f527605a710415da4788235a5d188ca52fd3a7c54c8a036dc7267f
+SHA512: a90e030d636dcf5c559ad6992ec46a753ed0de05986b32a49402af0ae34fdabbfe2acdade1cc91abd758323cf85080ca003143e9c772475f959b54d131db98fc
+Description: Cho phép bạn phát Nhạc trong khi ghi màn hình hoặc ghi âm giọng nói.  Vui lòng không sử dụng nó cho các mục đích bất hợp pháp
+Name: Allow Playback While Recording Screen/Sound
+Author: Jun Elvin
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.carplayenable
 Architecture: iphoneos-arm
 Version: 0.0.2

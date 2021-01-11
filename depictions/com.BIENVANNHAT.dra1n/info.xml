@@ -1,0 +1,29 @@
+<package>
+	<id>com.BIENVANNHAT.dra1n</id>
+	<name>Biện Văn Nhật</name>
+	<version>2.3.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tìm hiểu khi nào pin của bạn cạn kiệt và cung cấp cho bạn các đề xuất về cách chỉnh sửa.</description>
+		<description>Tương thích với iOS 11 đến 14 Draln là một tinh chỉnh cảnh báo bạn khi Thiết bị của bạn đang tiêu hao pin và cung cấp cho bạn đề xuất về tinh chỉnh đó có thể là gì.</description>
+		<description>Draln thực hiện điều này thông qua các phép đo thiết bị riêng lẻ cũng như dữ liệu tổng hợp từ những người dùng khác được gửi đến máy chủ của chúng tôi. </description>
+		<description>Draln sẽ thông báo cho bạn nếu một tinh chỉnh mới được cài đặt gây hao pin đáng kể.  Draln sẽ hoạt động trong nền thiết bị của bạn và sẽ cung cấp cho bạn thông báo khi lượng xả của bạn tăng lên đáng kể sau khi cài đặt (các) tinh chỉnh mới.  Thông báo: Bạn sẽ được thông báo nếu một tinh chỉnh mà bạn đã cài đặt gây ra nhiều draln hơn trên thiết bị của bạn.</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Dra1n.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>• Sửa lỗi trong đó bảng thủ phạm trống • Thay đổi màu sắc hiệu quả hơn • Thêm tùy chọn Fahrenheit và MM / DD • Hiển thị ram trống trên trang chủ • Biểu đồ sẽ không nhảy xung quanh khi bạn mở chế độ xem • Không còn yêu cầu libMRYIPC, chỉ  RocketBootstrap</change>
+	</changelog>
+	<links></links>
+</package>

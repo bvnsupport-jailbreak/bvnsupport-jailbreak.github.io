@@ -1524,13 +1524,13 @@ Maintainer: Biện Văn Nhật
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: com.unlimapps.uaupdatetools
 Filename: ./debfiles/com.supportjailbreak.appstore_0.9.14-1_iphoneos-arm.deb
-Size: 958950
-MD5sum: 5000573c2590b26036f0ea099aacd1c9
-SHA1: e09d4189e288ce57ff9d760d30e3085f9e3c6e48
-SHA256: 3872d21e4519d9871f2a1fd7bd657f56563d4cfcd7e4b484ca21a9436ce68a22
-SHA512: 0be9f2f07dce37d3b7c570ad20482b70251da8da7d01fc6aaf0945e8f1664511042cbb1d1f2a566ccd8ca7e168134e9fcb68c90858e17996d4a6653249d37e4c
+Size: 958962
+MD5sum: d21d7df907ec33301d3c1899cf797d89
+SHA1: 652b24ca32aa9e48a7047ec14d673f600dac474f
+SHA256: f2263912f472b9b5e72935b1aa03c0a82df1443480c4925cb9f7bc56b5e25306
+SHA512: ee6c82e913f1f5cd71fbdcf897f01ce8e09663396d270cd66c0a3b3619b26890efd9aa85d3e448776a32ad3f93c5cc0edb175b467f94cb5b7eb6bbda685812f4
 Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore.
-Name: AppStore++
+Name: AppStore+++
 Author: CokePokes
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

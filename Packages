@@ -34,6 +34,26 @@ Name: carplay(14)
 Author: Cortex
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.coolcc
+Architecture: iphoneos-arm
+Version: 1:4.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 328
+Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
+Filename: ./debfiles/com.BIENVANNHAT.coolcc_1:4.0_iphoneos-arm.deb
+Size: 52368
+MD5sum: 218521915e9baa04252db28f61630353
+SHA1: 9d3ccb5bc8416ba00c0514f4d77546e37246f165
+SHA256: 0203d4efc34db56fa369c60cb55f92a41c93772b1181eb1ca919e7d82c4f2fb6
+SHA512: dae9eef2bb1e10c615489dd54915420e5ef9d89cd69d67b7267665b7ec9d3da99dd1fc629b808c7a002d1a2c544d072ab034efab064e750b3d3011f1f85b31b0
+Description: Làm cho ControlCenter trở nên đẹp đẽ
+Name: CoolCC Việt Hoá
+Author: 4nni3 <4nni3.14@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.coolcc
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.coolcc
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.eneko
 Architecture: iphoneos-arm
 Version: 1.2

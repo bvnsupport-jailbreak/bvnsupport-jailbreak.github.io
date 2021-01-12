@@ -1,0 +1,29 @@
+<package>
+	<id>com.BIENVANNHAT.coolcc</id>
+	<name>Biện Văn Nhật</name>
+	<version>1:4.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tương thích với iOS 14 !!</description>
+		<description>Tinh chỉnh này giúp ControlCenter của bạn trở nên thú vị!</description>
+		<description>Thêm đường viền & Xóa nền của Mô-đun ControlCenter. </description>
+		<description>Định cấu hình các tùy chọn từ Cài đặt.</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>coolcc.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

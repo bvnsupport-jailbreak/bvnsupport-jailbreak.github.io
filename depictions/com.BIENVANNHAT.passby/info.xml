@@ -1,0 +1,41 @@
+<package>
+	<id>com.BIENVANNHAT.passby</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tương thích với iOS 9 đến 14 Tinh chỉnh mã nguồn mở này cung cấp cho bạn nhiều tùy chọn tùy chỉnh mật mã!</description>
+		<description>Tùy chọn bỏ qua mật mã: Sử dụng tác vụ Trình kích hoạt • Khi được kết nối với các mạng Wi-Fi hoặc thiết bị Bluetooth cụ thể • Trong một khoảng thời gian nhất định kể từ lần khóa cuối cùng • Trong khi sử dụng tai nghe, bạn cũng có thể chọn nếu bạn muốn tự động loại bỏ màn hình khóa hoặc chỉ làm như vậy khi  không có thông báo cũng như điều khiển phương tiện. </description>
+		<description>Ngoài ra còn có một tiện ích bổ sung Flip Switch để chuyển đổi đường vòng.  Có thể cho ai đó mượn điện thoại mà không phải lo lắng về việc cho ai đó biết mật mã của bạn!  Soạn một chuỗi bằng cách sử dụng các tùy chọn "mật mã kỳ diệu" sau: • Thời gian: phút và giờ • Ngày: ngày và tháng Pin: còn lại và đã sử dụng • Các chữ số tùy chỉnh · Bất kỳ trong số này, bị đảo ngược.</description>
+		<description>• Thời gian: phút và giờ • Ngày: ngày và tháng • Pin: còn lại và đã sử dụng • Chữ số tùy chỉnh • Bất kỳ trong số này, đảo ngược Hoặc thậm chí sử dụng hai chữ số để đặt thời gian chờ sau đó thiết bị sẽ tự động khóa lại!  Các tùy chọn bổ sung: • Hiển thị lần cuối cùng thiết bị được mở khóa • Tắt tự động mở khóa và mật mã ma thuật, cũng như tùy chọn Touch ID / Face ID, trong một khoảng thời gian cụ thể • Tắt tính năng này khi tắt Touch ID / Face ID bằng cách gọi chế độ SOS •  Lưu mật mã để không yêu cầu mỗi lần trả lại (mật mã sẽ luôn được lưu trữ mã hóa vì lý do bảo mật)</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>passby1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>passby2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>passby3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>passby4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã Update bản mới nhất</change>
+	</changelog>
+	<links></links>
+</package>

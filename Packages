@@ -176,6 +176,29 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 
+Package: com.BIENVANNHAT.passby
+Architecture: iphoneos-arm
+Version: 1.9
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 695
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.passby_1.9_iphoneos-arm.deb
+Size: 118648
+MD5sum: 3d7dba00a44951f6440c8c9c32350f07
+SHA1: 49cee6b9e4dac74a992a08546d35439d67dc7dbf
+SHA256: 7b2b9da0d359ee41b6b9f39529d50f08734078d9438c4a647b916a3ec73144b6
+SHA512: 9c289d62b773508c2a79a20a74e1948b3064b721a54baed66d068164f920402f84ba09812a5930ad576e4a2c86fcf770e4139010222f69a918a8d9f7adc1c14c
+Description: Bỏ qua mật mã theo nhiều cách
+Tag: purpose::extension
+Author: Giorgio Iavicoli <giorgio.iavicoli@icloud.com>
+Name: PassBy Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.passby
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.passby
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: giorgioiavicoli
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6

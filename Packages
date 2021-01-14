@@ -667,6 +667,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnsupport-Sw.swipeformore
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnsupport-Sw.swipeformore
 
+Package: com.bvnsupport-Tet.Chudetet
+Architecture: iphoneos-arm
+Version: 130
+Section: Themes
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.bvnsupport-Tet.Chudetet_130_iphoneos-arm.deb
+Size: 32061362
+MD5sum: 45c3b066cf6769f0a6cdb063ba873387
+SHA1: 78cf661099204ffc9659d7bd61ac30b0b6d92802
+SHA256: 568485c51860ef4d7818efbabed798b783fda25abc1a7257a625f5c116572a75
+SHA512: 46faa358352c8a2821acfd22ab0541746e42f1aecc133986efc09bd16a946dc43cf6b4c1622375c64bbb741b44a868a39a703b5bf9a9b3852ac584e7ad975670
+Description: Chủ đề Tết  dành cho bạn
+Name: Chủ đề TẾT
+Author: Bùi Nam
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-Tet.Chudetet
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-Tet.Chudetet
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-fakeios.fakeIOS14
 Architecture: iphoneos-arm
 Version: 14.4

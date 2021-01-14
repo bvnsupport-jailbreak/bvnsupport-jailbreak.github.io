@@ -1,0 +1,41 @@
+<package>
+	<id>com.bvnsupport-Tet.Chudetet</id>
+	<name>Biện Văn Nhật</name>
+	<version>130</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Chủ đề Tết</description>
+		<description>Được Mod bởi bác Bùi Nam</description>
+		<description>Tải về và kích hoạt qua,Snowboard,Ithemes,Anemones</description>
+		<description>Các bạn có thể xem hình ảnh phía dưới</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>tet1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>tet2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>tet3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>tet4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>

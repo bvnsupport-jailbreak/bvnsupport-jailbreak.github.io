@@ -673,13 +673,13 @@ Version: 130
 Section: Themes
 Maintainer: Biện Văn Nhật
 Filename: ./debfiles/com.bvnsupport-Tet.Chudetet_130_iphoneos-arm.deb
-Size: 32061362
-MD5sum: 45c3b066cf6769f0a6cdb063ba873387
-SHA1: 78cf661099204ffc9659d7bd61ac30b0b6d92802
-SHA256: 568485c51860ef4d7818efbabed798b783fda25abc1a7257a625f5c116572a75
-SHA512: 46faa358352c8a2821acfd22ab0541746e42f1aecc133986efc09bd16a946dc43cf6b4c1622375c64bbb741b44a868a39a703b5bf9a9b3852ac584e7ad975670
+Size: 32061364
+MD5sum: 5b27ff8137b477f9b286cfe582a1a8f2
+SHA1: c31df85edcdad7c1e49b3e8e1285fc7dc9b7e0c7
+SHA256: 674f4bb2743afe7dd8006ede85bc95ba99f067397b1bb2dd5edcb06ef8edc479
+SHA512: 382ababc32e6cbd167eeffcbfbe2b5d010932c1d3619bcdbe7b2a47d8fc792a5109f1485d1b7bebc931d384b7b50426079928b03e8cc7f1f71bf02b60f980af3
 Description: Chủ đề Tết  dành cho bạn
-Name: Chủ đề TẾT
+Name: TẾT 2021
 Author: Bùi Nam
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-Tet.Chudetet
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-Tet.Chudetet

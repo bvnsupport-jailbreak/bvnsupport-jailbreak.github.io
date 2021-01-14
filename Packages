@@ -784,6 +784,24 @@ Name: Depths P
 Author: Polyphian
 Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 
+Package: com.bvnsupport-jailbreak.DepthsPplus
+Architecture: iphoneos-arm
+Version: 3.4.5
+Section: Laetus Themes
+Maintainer: Polyphian
+Filename: ./debfiles/com.bvnsupport-jailbreak.DepthsPplus_3.4.5_iphoneos-arm.deb
+Size: 40080496
+MD5sum: 785d9b09d6b449dd1edb63e6ff9a4f1c
+SHA1: cbe12ff455d4db64ca11b2982011ee6c40aec741
+SHA256: bdb96a4daac9632c7e334607a034b5fc8d9346ffc28a093a743f577472a431e1
+SHA512: 36d5c476f0ed7eaf1bdf5227b25a3e3c96f1eb9f0d303f486e970eacbd177ba9881d7c3b344b294feb80f3a03453374b633c27206a02fc36e61e61804e13717b
+Description: 
+   Tính Năng:
+ - Chủ đề bàn phím Laetus cho các dòng máy Plus,mình đã chỉnh sửa nên anh em dùng các dòng máy Plus cứ cài thoải mái nhé
+Name: Depths P Plus
+Author: Polyphian
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
 Package: com.bvnsupport-jailbreak.xeninfo
 Architecture: iphoneos-arm
 Version: Beta

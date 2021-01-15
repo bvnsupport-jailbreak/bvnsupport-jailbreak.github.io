@@ -94,6 +94,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.dr
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.dra1n
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.edge
+Architecture: iphoneos-arm
+Version: 2.6.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1100
+Depends: mobilesubstrate, firmware (>=11.0), org.thebigboss.libcolorpicker, com.opa334.ccsupport,com.support-jailbreak.libnebbs (>=1.5), ws.hbang.common
+Conflicts: com.junesiphone.lockpluspro
+Filename: ./debfiles/com.BIENVANNHAT.edge_2.6.1_iphoneos-arm.deb
+Size: 241316
+MD5sum: 66c57fb8da8d937badce3c745358bca5
+SHA1: 4c91ed96b453baa7a79a8d13b323bbecfd975583
+SHA256: 638dba14a8d95f11f9b155029da1a9c26020131580f154a3de17229cd341da46
+SHA512: 0d8093a4d41402ff55ad19fffac2a4a9716f89a1bf0e85a25f28f656f138c9115d1a5ec9306b573bb2da2674270e361afc7be691709d7a6b99e7cde8b0f35823
+Description: Hiển thị đường viền xung quanh màn hình.
+Name: Edge Việt Hoá
+Author: Various
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.edge
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.edge
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.frontpage
 Architecture: iphoneos-arm
 Version: 1.6.4

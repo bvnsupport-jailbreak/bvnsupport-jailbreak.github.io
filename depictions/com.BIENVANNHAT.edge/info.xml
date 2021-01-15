@@ -1,0 +1,29 @@
+<package>
+	<id>com.BIENVANNHAT.edge</id>
+	<name>Biện Văn Nhật</name>
+	<version>2.6.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Mang lại màu sắc cho thiết bị của bạn . Edge là một tinh chỉnh mang lại màu sắc cho thiết bị của bạn bằng cách tạo cho nó một đường viền đẹp mắt </description>
+		<description>Bạn có thể chọn giữa việc có một gradient ( tùy chỉnh hoặc ngẫu nhiên ) hoặc một màu đồng nhất làm đường viền .</description>
+		<description>Tương thích với iOS 11-14!</description>
+		<description>Hỗ trợ tất cả các thiết bị ,Tính tương thích của chất kích hoạt - Màu sắc có thể tùy chỉnh -Gradients có thể tùy chỉnh</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>edge.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

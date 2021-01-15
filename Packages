@@ -1343,6 +1343,23 @@ Name: libnebbs
 Author: ItzNebbs
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.support-jailbreak.libnebbs
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Development
+Maintainer: Biện Văn Nhật
+Installed-Size: 300
+Filename: ./debfiles/com.support-jailbreak.libnebbs_1.5_iphoneos-arm.deb
+Size: 54470
+MD5sum: 8ca871385f3dc497289bdaaa3ea0292e
+SHA1: fedf52fb4c09a736e0bcf7cb70a65b78c937a19b
+SHA256: a56adc014723c209d28b5dff9e41efb622952a94b9b28d6c242be18983caad7c
+SHA512: 46a141573d03114eec2b11192256683d579b8f8108323abd2bc47d6769d8ead519b6dc808daecc5a62927af0826b09d0e286c0d8f19d7ed0fe15cf4c4ee169e8
+Description: Thư viện những thứ thường được sử dụng trong các chỉnh sửa của tôi.
+Name: libnebbs
+Author: ItzNebbs
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.support-jailbreak.mywallVH
 Architecture: iphoneos-arm
 Version: 1.2.3

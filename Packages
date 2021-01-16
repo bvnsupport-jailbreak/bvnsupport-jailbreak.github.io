@@ -16,6 +16,25 @@ Name: Allow Playback While Recording Screen/Sound
 Author: Jun Elvin
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.arenaofvalor
+Architecture: iphoneos-arm
+Version: 16
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 9856
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.arenaofvalor_16_iphoneos-arm.deb
+Size: 2419248
+MD5sum: 58db24e64f91e1038646e8f748cdd7b1
+SHA1: 7106277cf080ab000fb9b7ce9fe8d88e1f43e82c
+SHA256: 27afd063dadf3edb8f4af3d90f1182ba11a096a0d14364aad8809993cc38b29e
+SHA512: 4f49bda95747a70a3cf94116c80df964de2876cabf67e64f96f00f8ab0ead9212b859ec49f72812b162636cdd829380e98e704f27fc1bbb48444391e0bcfcac8
+Homepage: https://iosgods.com
+Description: Hack Map Liên Quân Mùa 16 cho anh em xài.Đăng nhập Tài khoản Ios God hoặc Tài khoản Facebook để sử dụng.
+Name: Hack Map Liên Quân
+Author: Laxus
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.carplayenable
 Architecture: iphoneos-arm
 Version: 0.0.2

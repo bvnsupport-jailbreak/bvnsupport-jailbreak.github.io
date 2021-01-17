@@ -184,15 +184,15 @@ Installed-Size: 172
 Depends: firmware (>= 12.0)
 Filename: ./debfiles/com.BIENVANNHAT.libkitten_1.2.1_iphoneos-arm.deb
 Size: 17042
-MD5sum: f6b990049f043614aa38472ce719a102
-SHA1: 1100c7cbf4f1c33993b75bcc5b3fd89ff1b46744
-SHA256: 5c4cb587f92343b586f8f9980279997b73ce74b70241c71edb52ae0c2f30d416
-SHA512: 4292445b54b9457aace8eb5c26a2184879f827a31a14e1e05b85d5949d099506180e3438c698bcda6eac11032a794cccd4ab6d8523ec1492a6ffa68f9e621dcf
+MD5sum: 6ea2d02f6b7dfaa24a80d53b85149013
+SHA1: ede86ae63352a95f230139e0e64e1ae1d8ac67d6
+SHA256: 86616d0f1f66d258139f72ae0e6934dc3c40eadb7a809985fcfc474db708ec73
+SHA512: 16d9476d0da1a273d7c62317df8a858f0435912edbe2812c3926361ac38f4b0c7271db8ea43ab417adc189ea8a4cb2e9d7933ed0e3003ed5b2d55f87c03d35b7
 Description: Thư viện để lấy ba màu khác nhau từ một hình ảnh và phát hiện xem một màu sáng hay tối
 Tag: role::developer
 Name: libKitten 🥰
 Author: Litten
-Icon: file:///Applications/Cydia.app/Sections/hẹthongg1.png
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.liblottie
 Architecture: iphoneos-arm

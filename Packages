@@ -440,6 +440,29 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-you
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
+Architecture: iphoneos-arm
+Version: 1.0.8.2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <BIENVANNHAT97@GMAIL.com>
+Installed-Size: 672
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip
+Replaces: net.sarahh12099.youtubereborn
+Filename: ./debfiles/com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa_1.0.8.2_iphoneos-arm.deb
+Size: 175666
+MD5sum: 78356b6b30d8e0383315f9c30da64bcb
+SHA1: 1dfa121d7c14e1c8a38d4a27f16cf64150718cdd
+SHA256: 603867a4195bbed13fcad4247a5471c91d27d75b35423ae1a5fc2d795da45c89
+SHA512: 0e093e4ab0883cbe1cd12f39165b7c6d0894a6c39d50bc593ac88b8e32708d2531986bf75ce374bf95628ca7cd6491c97ba140133a897a4c1e4b5983d6bab56f
+Description: Chặn Quảng cáo cho Youtube
+Tag: compatible_min::ios12.0, compatible_max::ios14.2
+Name: YouTube Reborn Việt Hoá
+Author: SarahH12099 <sarahh12099@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2

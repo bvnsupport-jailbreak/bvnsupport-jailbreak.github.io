@@ -258,6 +258,26 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: giorgioiavicoli
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.reprovision
+Architecture: iphoneos-arm
+Version: 0.5.3
+Priority: optional
+Section: Utilities
+Maintainer: BIỆN VĂN NHẬT
+Provides: com.matchstic.Extender-Installer
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Filename: ./debfiles/com.BIENVANNHAT.reprovision_0.5.3_iphoneos-arm.deb
+Size: 14343028
+MD5sum: 14d4c4b2386107a4b0d0515f464bbf24
+SHA1: da3beaa09f856f8944cb48e90b0efba29c27078f
+SHA256: efaf244e1ff3baa06debf1ae27f2b88c4d1e4fc6e75463da1c1147fdf52b3fbc
+SHA512: f3b59fcde666950a9d60dc1e0bfb801f485c14c443c219d16e40034c3e71952b73b81fb00ddf2602af1b800e353d4003c5cae74403ee213eba9fa2c6cf628eb4
+Description: Tự động gia hạn chứng chỉ của các ứng dụng!ReProvision có nhiệm vụ tự động gia hạn chứng chỉ trên các thiết bị đã Jailbreak . Không chỉ có thể gia hạn các ứng dụng dùng để Jailbreak thì nó còn có thể gia hạn các ứng dụng mà bạn đã đăng ký vào thiết bị bằng Cydia Impactor . Ngoài ra , ReProvision cho phép bạn gia hạn cả những ứng dụng đã hết hạn và không thể sử dụng . Điều này không thể làm được trên Ext3nder , nó là một điểm nổi bật của tinh chỉnh này . Giao diện của ReProvision rất hiện tại và thuận tiện để bạn có thể cài đặt dễ dàng
+Name: ReProvision VH
+Author: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6

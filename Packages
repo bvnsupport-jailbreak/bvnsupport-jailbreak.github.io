@@ -35,6 +35,27 @@ Name: Hack Map Liên Quân
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.batteryflow-reborn
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 400
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.16), com.support-jailbreak.libnebbs (>=1.5.2)
+Filename: ./debfiles/com.BIENVANNHAT.batteryflow-reborn_1.3_iphoneos-arm.deb
+Size: 80548
+MD5sum: 6cf0b7a590fd80d3744fa053b44fa1ef
+SHA1: 7d176e4e0f2f98c4bf5b48262b7f925d8396c6b4
+SHA256: 4f18478f17bdfe0012d678d041a145365ade1d85afed5b8393520143aeb64265
+SHA512: cacb82d1d7df7ba712c805c13eebbbe8d7ae200516a80524f91a606d7a4fdee125a5043fa373e860e07f99be35f731a3829c0dd12ceb97932b08eec462d25ae8
+Homepage: https://bvnsupport-jailbreak.github.io
+Description: Tùy chỉnh cảnh báo 'Nguồn điện thấp' của bạn!
+Name: BatteryFlow Reborn Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: ItzNebbs
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.batteryflow-reborn
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.batteryflow-reborn
+
 Package: com.BIENVANNHAT.carplayenable
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -1464,6 +1485,23 @@ Description: Thư viện những thứ thường được sử dụng trong các
 Name: libnebbs
 Author: ItzNebbs
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.support-jailbreak.libnebbs
+Architecture: iphoneos-arm
+Version: 1.5.2
+Section: Development
+Maintainer: ItzNebbs
+Installed-Size: 284
+Filename: ./debfiles/com.support-jailbreak.libnebbs_1.5.2_iphoneos-arm.deb
+Size: 53598
+MD5sum: cb44d8c85083a2f78973579dec8f373b
+SHA1: f2224e52bedd01cd07f41e1527aaef903f60da99
+SHA256: 165d04f89424f5fc17473edca99936b8cda910425d845d7d85c8dbbe1b2c9ecd
+SHA512: 7550416e38b277889799da4cb0e3065a08d1bc5547b18570b0c655e0ba45448afafc2ccf0d18ec866a37c86aa7faf401f170322d4fc893de52cb45eaea038127
+Description: Tập hợp các lớp được sử dụng trong các chỉnh sửa của tôi.
+Name: libnebbs
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: ItzNebbs
 
 Package: com.support-jailbreak.libnebbs
 Architecture: iphoneos-arm

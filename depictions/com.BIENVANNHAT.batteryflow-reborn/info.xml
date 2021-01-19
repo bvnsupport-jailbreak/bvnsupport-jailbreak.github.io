@@ -1,0 +1,29 @@
+<package>
+	<id>com.BIENVANNHAT.batteryflow-reborn</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Khả năng tương thích BatteryFlow Reborn hoàn toàn tương thích với iOS 13 và 14!</description>
+		<description>BatteryFlow Reborn là một tinh chỉnh cho phép bạn tùy chỉnh hoàn toàn các cảnh báo điện năng thấp!  Đây là một phiên bản của BatteryFlow đã được viết lại rất nhiều để hoạt động trên các thiết bị mới nhất!</description>
+		<description>Hỗ trợ Nếu bạn cần bất kỳ hỗ trợ nào liên quan đến các chỉnh sửa của tôi, vui lòng liên hệ với tôi trên Facebook, thông qua việc gửi tin nhắn cho tôi.  Tôi thường sẽ trả lời trong vòng 48 giờ. </description>
+		<description>Nếu bạn có bất kỳ đề xuất nào về các tính năng mới, chỉnh sửa mới hoặc thay đổi tính năng liên quan đến một trong các chỉnh sửa của tôi, vui lòng chia sẻ chúng với tôi trên Facebook, bằng tin nhắn hoặc tweet về tôi.  Tôi luôn cởi mở 100% với các đề xuất, vì |  không phải lúc nào cũng có thể nghĩ ra mọi thứ mà mọi người muốn.  Tất cả các phản hồi đều được đánh giá cao.</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>flow.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

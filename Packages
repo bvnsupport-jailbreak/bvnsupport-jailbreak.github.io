@@ -39,17 +39,17 @@ Package: com.BIENVANNHAT.arenaofvalor
 Architecture: iphoneos-arm
 Version: 17
 Section: Tweaks
-Maintainer: BIỆN văn Nhâkt
+Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 9856
 Depends: mobilesubstrate
 Filename: ./debfiles/com.BIENVANNHAT.arenaofvalor_17_iphoneos-arm.deb
-Size: 2419310
-MD5sum: a7b684c0c112c6c2659d76da21c55e89
-SHA1: d277e5eabe2539a4c21b2fbca7841c555869418e
-SHA256: 03ed9bd2b1cf4289d7b65c22b8aad5d327934d2121aaf6deb8f99da41660666f
-SHA512: 67883671a5091a5c0297f09f4ee734ab5fb5087afd8772c053d51a87a2c70f4efcf3a3778934612f4448280040ed795fb2352ef381e20753971a02d773c0a17d
+Size: 2419314
+MD5sum: c5d583e91960f927770570b3f712e5b8
+SHA1: 278a5b280b2b61112ad35eba32b493b1dd244a2f
+SHA256: 13d132b4fdb09f775cc369dd753c3808e34e2296f7c630cf517744d40583ba0d
+SHA512: bbea7d97a0e43a4028f167472dc6608e64d2cbf9237af9f7d2cfac2770fede6c46d846714d57823ba0975b6da45f32ca01432c47e32f2aae16b27f3f7e3eaf32
 Homepage: https://bvnsupport-jailbreak.github.io
-Description: Hack Map Liên Quân Mobi mùa 17 cho anh em xài.Sử dụng Tài khoản Ios God Hoặc FACEBOOK đee sử dụng.Xài thoải mái đi nhé không Band đâu😂
+Description: Hack Map Liên Quân Mobi mùa 17 cho anh em xài.Sử dụng Tài khoản Ios God Hoặc FACEBOOK ĐỂ sử dụng.Xài thoải mái đi nhé không Band đâu😂
 Name: Hack Map Liên Quân
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

@@ -174,6 +174,37 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.ed
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.edge
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.facebooknoads
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.noads (>= 4.5.0), firmware (>= 10)
+Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.4.0_iphoneos-arm.deb
+Size: 270386
+MD5sum: 6bcd9c2caa16172616c3f6bc827aab38
+SHA1: 9adefa2a1d3b8d68f7aa2749d4aef51c4d689fc9
+SHA256: 612f9e8a0467eba493a89726d6a84ee56549186080d61293139422fa315c8403
+SHA512: 537a568bec7c60a3639b1691e49c4a9809b3acdc0e275c5f89f6ae8a764c87e60840e3f487dd5fc94a46cc954a6ed5083d73e9a47d32fafdbefa83678ded08d0
+Description: Tinh chỉnh mã nguồn mở & miễn phí cho Facebook
+ Tinh chỉnh mã nguồn mở & miễn phí cho Facebook
+ Nhật ký thay đổi: https://github.com/haoict/facebook-no-ads/releases
+ .
+ Đặc trưng:
+ - Loại bỏ các quảng cáo
+ - Có thể Tải xuống Video (nhấn và giữ để tải xuống)
+ - Có thể tải xuống câu chuyện
+ - Ảnh hồ sơ chỉ có thể tôi
+ - Tắt Story Seen (Xem câu chuyện của bạn bè mà không cho họ biết)
+ - Ẩn nhà soạn nhạc trên News Feed
+ - Ẩn các câu chuyện trên News Feed
+ - Hỗ trợ iOS 10 (không thử nghiệm) - 11 (thử nghiệm) - 12 (thử nghiệm) - 13 (thử nghiệm)
+ - Hỗ trợ phiên bản Facebook mới nhất (Nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 310)
+Name: Facebook No Ads
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
 Package: com.BIENVANNHAT.frontpage
 Architecture: iphoneos-arm
 Version: 1.6.4
@@ -274,6 +305,25 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
+
+Package: com.BIENVANNHAT.noads
+Architecture: iphoneos-arm
+Version: 4.5.0
+Section: System
+Maintainer: BIỆN VĂN NHẬT <BIENVANNHAT97@GMAIL.com>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Filename: ./debfiles/com.BIENVANNHAT.noads_4.5.0_iphoneos-arm.deb
+Size: 72356
+MD5sum: bb67022f633bc2b447945bfaa774c340
+SHA1: 69a12d6042afede8e18eb8014f9986e41b176e7b
+SHA256: 3421fb143cff49209798cf4a1c481e80a5edf31984ec1652e00b23ffb650801a
+SHA512: 7ffda71d8ed2897c2f2be031b579d18e7865d553e2fcb55ad60f332e6c5b96c991fd1e5594188e7bf2ed255950a80fc5114311c536ae988b3b402939ab426aee
+Description: Đây là thư viện dành cho nhà phát triển để có các tùy chọn tốt hơn và các tiện ích hữu ích.
+Tag: role::developer
+Name: No Ads
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/hẹtongg1.png
 
 Package: com.BIENVANNHAT.passby
 Architecture: iphoneos-arm

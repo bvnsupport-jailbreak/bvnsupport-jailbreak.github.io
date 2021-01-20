@@ -182,16 +182,12 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 584
 Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.noads (>= 4.5.0), firmware (>= 10)
 Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.4.0_iphoneos-arm.deb
-Size: 270386
-MD5sum: 6bcd9c2caa16172616c3f6bc827aab38
-SHA1: 9adefa2a1d3b8d68f7aa2749d4aef51c4d689fc9
-SHA256: 612f9e8a0467eba493a89726d6a84ee56549186080d61293139422fa315c8403
-SHA512: 537a568bec7c60a3639b1691e49c4a9809b3acdc0e275c5f89f6ae8a764c87e60840e3f487dd5fc94a46cc954a6ed5083d73e9a47d32fafdbefa83678ded08d0
+Size: 270316
+MD5sum: 6418fa044c12137664ed94cbd76c2905
+SHA1: 8caae44828a636a5e9a0fe2c2da7cdb1adb0f34d
+SHA256: 560eb300794a92998ae7dfd0f88dc030bbca88d2c9049cf9c1628324deaaeb05
+SHA512: abc5e2fdeb0163671f8fc141ccba742cdb1afda19e834220c5650f2c36d560400da49557a359b99e6ed13858c1ccde84de25ed405c6376621b90f53ad714b231
 Description: Tinh chỉnh mã nguồn mở & miễn phí cho Facebook
- Tinh chỉnh mã nguồn mở & miễn phí cho Facebook
- Nhật ký thay đổi: https://github.com/haoict/facebook-no-ads/releases
- .
- Đặc trưng:
  - Loại bỏ các quảng cáo
  - Có thể Tải xuống Video (nhấn và giữ để tải xuống)
  - Có thể tải xuống câu chuyện

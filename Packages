@@ -306,6 +306,37 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 
+Package: com.BIENVANNHAT.messengernoads
+Architecture: iphoneos-arm
+Version: 3.8.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 972
+Depends: mobilesubstrate, com.BIENVANNHAT.noads (>= 4.5.0), firmware (>= 10)
+Filename: ./debfiles/com.BIENVANNHAT.messengernoads_3.8.0_iphoneos-arm.deb
+Size: 582836
+MD5sum: 9255c56244f7f6f4952cde2b98b6cc2d
+SHA1: 8bc91c7e72a31038dbbf0886c5fc3aaa722798ff
+SHA256: aac617fdb223c5d875ba32ade53f137e52053da46280a129f528dd4fc492debf
+SHA512: 7f75f5a8ee4ed97296e701b5c3f72372372a6cfdd8ff0fe89374e7536c6a3e8b3ad8611c4552485f0a054f69eebf750928fbe82eb3a8c3331c75ff37e755aaa6
+Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
+ Tinh chỉnh tốt nhất cho ứng dụng Messenger.
+ * Chạm vào ảnh hồ sơ của bạn ở góc trên cùng bên trái của màn hình để truy cập cài đặt
+ Đặc trưng:
+ - Ẩn quảng cáo trên ứng dụng Messenger
+ - Tắt biên nhận đã đọc
+ - Tắt chỉ báo đánh máy
+ - Vô hiệu hóa Story Seen Receipt
+ - Có thể lưu câu chuyện của bạn bè
+ - Ẩn Thanh tìm kiếm, hàng Câu chuyện, tab Mọi người
+ - Ẩn Liên hệ được Đề xuất trong Tìm kiếm
+ - Kéo dài thời lượng tải lên video câu chuyện (từ mặc định là 20 giây thành 10 phút)
+ - Hỗ trợ iOS 10 (không thử nghiệm) - 11 (thử nghiệm) - 12 (thử nghiệm) - 13 (thử nghiệm)
+ - Hỗ trợ phiên bản Messenger mới nhất (Nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 295)
+Name: Messenger No Ads
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
 Package: com.BIENVANNHAT.noads
 Architecture: iphoneos-arm
 Version: 4.5.0
@@ -405,6 +436,33 @@ Description: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK tốt
 Name: HideJb TechcomBank
 Author: Kan
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.tiktokgod
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.noads (>= 4.5.0), firmware (>= 10)
+Filename: ./debfiles/com.BIENVANNHAT.tiktokgod_1.9.3_iphoneos-arm.deb
+Size: 74432
+MD5sum: c5873fb2be473709f4e4451b97a83bd0
+SHA1: 923865e6e52d7a86386d3d6718d9c0e22bf226e3
+SHA256: 38a639e6eb453b13d812f823d4c7c5e567bfb0d961c2daedc6e0e95ba3ada81e
+SHA512: dccf2ea07d0c8f6efff0c688ca00adfcb7ad9668b4ca467a13924474c5bd85dbb98363f4eba40224c263feb9de1e77ab5519f6fd23855afe5a6331acbe25c2cf
+Description: Tinh chỉnh tốt nhất cho ứng dụng TikTok.
+ Tinh chỉnh tốt nhất cho ứng dụng TikTok.
+ Đặc trưng:
+ - Loại bỏ các quảng cáo
+ - Cho phép tải xuống cho tất cả các video
+ - Tải xuống không có hình mờ
+ - Tự động cuộn đến video tiếp theo
+ - Thay đổi khu vực (có thể không hoạt động đối với iPad và một số thiết bị)
+ - Hiển thị thanh tiến trình (để tua nhanh hoặc tua lại video)
+ - Có thể ẩn giao diện người dùng (xem video toàn màn hình)
+ - Hỗ trợ iOS 10-14 và phiên bản TikTok mới nhất
+Name: TikTok God
+Author: Hao Nguyen
 
 Package: com.BIENVANNHAT.win10fp
 Architecture: iphoneos-arm

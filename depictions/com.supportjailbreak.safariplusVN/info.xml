@@ -1,0 +1,29 @@
+<package>
+	<id>com.supportjailbreak.safariplusVN</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.7.14-4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Hỗ trợ iOS 8 đến 14 Safari là trình duyệt di động tuyệt vời nhưng nó thiếu một số tính năng.  Đó là nơi Safari Plus phát huy tác dụng.  Safari Plus có rất nhiều thứ, từ những cải tiến nhỏ về khả năng sử dụng đến các tính năng mới mở rộng.</description>
+		<description>Ngoài ra, nó cũng bổ sung một số tùy chọn để tùy chỉnh Safari theo ý thích của bạn Mỗi tính năng có thể được bật hoặc tắt theo yêu cầu bên trong cài đặt.  Danh sách tính năng đầy đủ có thể được tìm thấy bên dưới.  Quyền riêng tư: • Buộc đóng HTTPS (+ các trang web ngoại lệ có thể định cấu hình) • Các tab bị khóa - Thêm khóa - chuyển sang mọi tab bên trong trình chuyển đổi tab, khi được bật, sẽ ngăn tab cụ thể bị đóng cho đến khi công tắc tắt trở lại • Bảo vệ sinh trắc học - Yêu cầu  Xác minh TouchID / FacelD để chuyển đổi chế độ duyệt web, khóa tab, mở khóa tab hoặc truy cập các tab bị khóa</description>
+		<description>Cả hai tùy chọn mở liên kết - Có tùy chọn "Mở trong nền" và tùy chọn "Mở trong tab mới" cùng với nhau • Mở trong tùy chọn chế độ đối diện - Thêm tùy chọn để mở một URL được nhấn dài trong trình duyệt khác tương ứng  chế độ • Công tắc chế độ màn hình - Một công tắc bên trong trình chuyển đổi tab có thể được sử dụng để bật / tắt chế độ màn hình trên toàn cầu • Trình quản lý tab - Một cách dễ dàng để xuất hàng loạt, hàng loạt - đóng và hàng loạt - thêm tab • Tắt giới hạn tab - Tắt  giới hạn tab mặc định (thay đổi giữa các thiết bị) • Liên kết luôn mở trong tab mới (+ Tùy chọn để luôn mở trong nền) • Tắt hoàn toàn tính năng duyệt web riêng tư • Chèn đề xuất khi nhấn và giữ - Chèn đề xuất tìm kiếm vào thanh URL bằng cách nhấn và giữ nó • Đề xuất  Nút Chèn - Chèn đề xuất tìm kiếm vào thanh bằng cách nhấn vào một nút ở bên phải của nó (trên iOS 12.1.4 trở xuống).  Hiển thị số lượng tab - Hiển thị số lượng tab trên nút mở trình chuyển đổi tab</description>
+		<description>Thay đổi Chế độ duyệt trên Khởi động ứng dụng, Tiếp tục ứng dụng, Mở liên kết ngoài • Tự động đóng tab trên Minimazion hoặc Đóng Safari • Tự động xóa dữ liệu trình duyệt khi thu nhỏ hoặc đóng cử chỉ Safari: • Thanh URL Vuốt sang trái, phải, cử chỉ xuống  • Cử chỉ Vuốt sang Trái, Phải, Lên / Xuống của Thanh công cụ • Nhiều thao tác có sẵn để kích hoạt Tùy chỉnh: Cài đặt Màu cho Thanh công cụ Trên cùng, Thanh công cụ Dưới cùng và Trình chuyển đổi Tab cho cả chế độ duyệt bình thường và riêng tư • Thay đổi thứ tự nút của Thanh công cụ Trên cùng và Dưới cùng • Tùy chỉnh  Trang web bắt đầu - Thay đổi chế độ xem mục ưa thích mặc định khi mở tab mới thành URL được chỉ định • Công cụ khởi động tùy chỉnh - Thay đổi công cụ tìm kiếm của Safari thành bất kỳ URL nào • Tác nhân người dùng tùy chỉnh - Thay đổi tác nhân người dùng cho cả chế độ di động và máy tính để bàn </description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>safari.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

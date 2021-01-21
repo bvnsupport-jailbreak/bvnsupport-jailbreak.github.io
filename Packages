@@ -281,6 +281,24 @@ Depiction: https://miro92.com/repo/depictions/?p=com.miro.liblottie
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.BIENVANNHAT.libundirect
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 264
+Filename: ./debfiles/com.BIENVANNHAT.libundirect_1.0_iphoneos-arm.deb
+Size: 14876
+MD5sum: 03f66a4c749e83c08826d545a2d2dc2e
+SHA1: cdb79a01367addfce8d89d909d046b754e00f103
+SHA256: c5639e0029c6a4412d3199a3fa724d8075968a1300e43e96b00185030a445f6b
+SHA512: 0e90633b06843f4303efb851a736860b14029ec33d4ab8cc277d99d42a2b0e6f9652634d0ae065a9086ffae059a9c09c6003bed4fd3c337aff0672fb39159d5f
+Description: Patchfinder và rebinder cho các phương thức objc_direct
+Tag: role::developer
+Name: libundirect
+Author: opa334
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BIENVANNHAT.lottielockscreen
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -2450,6 +2468,29 @@ Name: Safari Plus Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=safariplusDp
 Sponsor: supportjailbreak.org <http://bvnsupport-jailbreak.github.io>
+dev: opa334
+
+Package: com.supportjailbreak.safariplusVN
+Architecture: iphoneos-arm
+Version: 1.7.14-4
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bigboss@thebigboss.org>
+Installed-Size: 5314
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.BIENVANNHAT.libundirect (>=1.0) | firmware (<<14.5)
+Filename: ./debfiles/com.supportjailbreak.safariplusVN_1.7.14-4_iphoneos-arm.deb
+Size: 1982146
+MD5sum: 0b9f66a686695aca2568d5199ce24c0f
+SHA1: 3d3dbd3bc5e860714fd5d44ba9f84fefca792abf
+SHA256: ebe0a0dcebf6a46944cb1a43d806919bc3d3dcf76f36b460519cfb14ca8ac5c7
+SHA512: 574fb7489fb6c766d2e5ca1224c3c62b89bab160e49a5ee6fa83b24f98abddd024b99d71796abd63b391a82c99da76ea24727e62d43962af4f43e84e45890fe1
+Description: Nhiều cải tiến khác nhau cho Safari!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Safari Plus Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.safariplusVN
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.safariplusVN
+Sponsor: BVN <https://bvnsupport-jailbreak.github.io>
 dev: opa334
 
 Package: com.supportjailbreak.safariwallpapervitho

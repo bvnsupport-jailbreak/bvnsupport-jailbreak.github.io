@@ -4,7 +4,7 @@
 	<version>1.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12</miniOS>
+			<miniOS>13</miniOS>
                          <maxiOS>14.5</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
@@ -12,8 +12,8 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>Thêm ngày tháng Âm Lịch vào phía trên góc trái màn hình của bạn</description>
-		<description>Hỗ trợ từ Ios 12 tới Ios 14...</description>
-		<description>Các dòng máy từ Iphone 5s,5s tới 8plus yêu cầu cài thêm Tweak Fake X</description>
+		<description>Hỗ trợ từ Ios 13 tới Ios 14...</description>
+		<description>Các dòng máy từ 6S tới 8plus yêu cầu cài thêm Tweak Fake X</description>
 		<description>Các bạn có thể xem hình ảnh phía dưới</description>
 	</descriptionlist>
 <screenshots>

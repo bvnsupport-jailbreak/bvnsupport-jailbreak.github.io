@@ -1,0 +1,29 @@
+<package>
+	<id>com.BIENVANNHAT.lunartime</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thêm ngày tháng Âm Lịch vào phía trên góc trái màn hình của bạn</description>
+		<description>Hỗ trợ từ Ios 12 tới Ios 14...</description>
+		<description>Các dòng máy từ Iphone 5s,5s tới 8plus yêu cầu cài thêm Tweak Fake X</description>
+		<description>Các bạn có thể xem hình ảnh phía dưới</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>time.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

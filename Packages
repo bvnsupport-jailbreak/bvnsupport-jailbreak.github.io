@@ -341,6 +341,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.BIENVANNHAT.lunartime
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.BIENVANNHAT.lunartime
 
+Package: com.BIENVANNHAT.merriam
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1328
+Depends: applist, ws.hbang.common, preferenceloader, com.rpetrich.rocketbootstrap, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, org.thebigboss.libcolorpicker
+Filename: ./debfiles/com.BIENVANNHAT.merriam_2.0.0_iphoneos-arm.deb
+Size: 406000
+MD5sum: a2046139bc022b3305fdd9750ce10572
+SHA1: e764d8bf6a7bf9ad533695cc3fb5303406460c27
+SHA256: 3ff63b0c06c1b263c761a08214ef154ed5a60f538331fe26d5a67f165e110e2e
+SHA512: c68cad2f506c133f47529048c247fb2f5369f78d7e1177378b637b0652d7394b53ac029d4bac0ab8f0afea544148e9b31f9f97bb059957136a3af4d4ce0da881
+Description: Tùy chỉnh thiết bị IOS của bạn
+Name: Merriam Việt Hoá
+Author: kanns
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.merriam
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.merriam
+
 Package: com.BIENVANNHAT.messengernoads
 Architecture: iphoneos-arm
 Version: 3.8.0

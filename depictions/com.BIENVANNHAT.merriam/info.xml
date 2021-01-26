@@ -1,0 +1,41 @@
+<package>
+	<id>com.BIENVANNHAT.merriam</id>
+	<name>Biện Văn Nhật</name>
+	<version>2.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Mỗi phần được tách ra từ trang bắt đầu để bạn có thể tùy chọn từng điện thoại mà không cần tìm kiếm toàn bộ để tìm một tính năng.  Tinh chỉnh này bao gồm các ứng dụng danh sách, cho phép bạn chọn ứng dụng mà bạn muốn các tính năng được thực hiện.  Nếu bạn có bất kỳ câu hỏi nào hoặc tính năng nào muốn tôi phát triển khai báo, hãy gửi tin nhắn cho tôi trên Twitter hoặc Email.  Nhiều tính năng sẽ xuất hiện và màn hình chụp ảnh được đính kèm.</description>
+		<description>CẬP NHẬT MỚI NHẤT CÓ Thay đổi màu nền của thanh điều hướng * Thêm tùy chọn và thả * Thêm phần phản hồi khi nhấn Merriam.  * Thêm phần phản hồi cảm giác với vô số tùy chọn * Đặt đế phần trong chính màn hình * Phần phân cách đặt trong toàn bộ hệ thống Xóa mã lớn * Tùy chọn đặt trạng thái thanh vào thư mục * Thêm bảng nhần tùy chọn  * Thêm phát lại, cho YouTube tùy chọn * Ngừng người dùng ioS 14 sử dụng một số không hoạt động tùy chọn.  Người dùng iOS 13 vẫn có thể sử dụng chúng.  * .  * ẩn nút tùy chọn trong cảnh báo * Thêm bên ngoài nhấn đề tùy chọn Cảnh báo để loại bỏ.  * Thêm cảnh báo kiểm tra nút * Ẩn văn bản swipetounlock tùy chọn.  * Thử lại Face ID tùy chọn * Thêm vô hạn thu phóng tùy chọn cho ảnh.  * bỏ qua xác nhận xóa trên ảnh * Đã cập nhật biểu ngữ cho Merriam.  * Tùy chọn in ấn ứng dụng * Thêm tùy chọn tô màu cho trang chủ * Thêm tùy chọn để thay đổi màu sắc của văn bản hệ thống.</description>
+		<description>* Thêm tùy chọn để thay đổi màu sắc của toàn hệ thống văn bản. * Thêm tùy chọn để tô màu toàn bộ thanh trạng thái * Cải thiện giao diện người dùng MASSIVE cho Merriam * Thêm phần mới để hỗ trợ, tùy chọn phản hồi, bảng thay đổi và liên kết ứng dụng Merriam * Ứng dụng Merriam hiện có trên repo của tôi, bạn cỏ thể tìm thấy trong phần tinh chỉnh</description>
+		<description>Phiên bản siêu nhẹ và mượt mà</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>merriam1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>merriam2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>merriam3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>merriam4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã Update bản mới nhất</change>
+	</changelog>
+	<links></links>
+</package>

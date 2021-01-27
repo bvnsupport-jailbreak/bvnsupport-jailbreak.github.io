@@ -1956,6 +1956,28 @@ Name: AppStore+++
 Author: CokePokes <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.appsyncunified
+Architecture: iphoneos-arm
+Version: 84.1
+Section: Plugin ứng dụng
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 496
+Provides: appsync
+Depends: firmware (>= 5.0), firmware (<= 14.8), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Filename: ./debfiles/com.supportjailbreak.appsyncunified_84.1_iphoneos-arm.deb
+Size: 44050
+MD5sum: 06bbec59c10f1593eb2b7c7c3fde6a49
+SHA1: 29cf42122532fdccb6af041b8c0b87db1c5d3c70
+SHA256: ed51951afb1c4dedd2c448d941f3b9bca71d92c3cd7efc795b835094716ec6cc
+SHA512: 583b332773f8e62f1725ef73b405aa6a8d073cfe47207bfe8123937927a1bda6d9267b0327cd69f5e44ac96012c2af9f270c09d9b5856208f3ebb53ae2c5bc39
+Description: Giúp bạn cài File IPA 1 cách dẽ dàng.
+Name: AppSync Unified (ios5/14)
+Author: Karen/あけみ <karen@angelxwind.net>
+Sponsor: Biện Văn Nhật <https://bvnsupport-jailbreak.github.io/>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.b3rryviethoa
 Architecture: iphoneos-arm
 Version: 1.7

@@ -222,6 +222,23 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fr
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.iOX
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Themes
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Depends: com.BIENVANNHAT.toonsy
+Filename: ./debfiles/com.BIENVANNHAT.iOX_1.2.3_iphoneos-arm.deb
+Size: 3390014
+MD5sum: 12347961a17bc002096da061fa120c0d
+SHA1: 86cd8a0e912ff77a494c604207b90d230f686905
+SHA256: e4b05ec60ec81549131268b2ad0808b47a46af5e761beb431148e539f47162fc
+SHA512: d7fc96c0aa9d5ee11818356ef5392e4b6a55f62e913f0453fd527628dd99b83361b6a79a1b4f42b7ffbc3eb5944f853dbb2d5fe7733c36641b993e68ce16b980
+Description: Biểu tượng hoạt hình iOS với cảm ứng đặc biệt
+Name: iOX Animatios VH
+Author: Tykology <tykology@hotmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.libgcuniversal
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -518,6 +535,24 @@ Description: Tinh chỉnh tốt nhất cho ứng dụng TikTok.
  - Hỗ trợ iOS 10-14 và phiên bản TikTok mới nhất
 Name: TikTok God
 Author: Hao Nguyen
+
+Package: com.BIENVANNHAT.toonsy
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: va2ron1
+Installed-Size: 764
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.toonsy_1.2.3_iphoneos-arm.deb
+Size: 356898
+MD5sum: db086171cda16b73d963f28a6e7db425
+SHA1: 6ea122e9439a82487c313297665f8793ee65e5b0
+SHA256: b24a89aa8b4bb1ca30b0b246773218f18ae4ebaad6d464d3061c599d217d140b
+SHA512: 147ced15ef55dc04b294206870307cf588ce98d4eb5ea25e967618ff5ae454ae6e7cdc271d0789a8e4c729c9d96ef22b303c7ed762ae65741bc140ad20482440
+Description: Nền tảng chủ đề biểu tượng hoạt hình cho iOS 11-14.5
+Name: Toonsy Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: va2ron1
 
 Package: com.BIENVANNHAT.win10fp
 Architecture: iphoneos-arm

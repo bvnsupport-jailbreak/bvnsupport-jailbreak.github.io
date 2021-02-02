@@ -385,11 +385,11 @@ Installed-Size: 356
 Depends: mobilesubstrate (>= 0.9.5000), com.BIENVANNHAT.libfah , ws.hbang.common, preferenceloader
 Filename: ./debfiles/com.BIENVANNHAT.lunartime_1.3_iphoneos-arm.deb
 Size: 56616
-MD5sum: 513fd05f7c494fabfa019a8453ba92fe
-SHA1: 39558a0aaf6c84478d0ec60685c64c53c07f3548
-SHA256: 6dc091638c746932cda603ad80dfd744c61d720ede373567f059fc8584f22357
-SHA512: e2cd8878de46725872ab54b96ccc7410b24b01bcfa66d5b2b8b3670c95dbcb6149427aaf0c1c3221c68bf1750ea85b791c85d814139ea618e4ba1d43062720fe
-Description: Thêm ngày tháng âm lịch.Anh em không thích xài bản này có thể hạ cấp noa xuống.
+MD5sum: 3985c455504ba1e87a047eba940d690e
+SHA1: 0175e5a2db7f2f6c71e8891149f5ec11e45b1754
+SHA256: 2c4f6fc0f9bce1ad1aea3fdff3af1b3620f4953fb481c607072f3c926f3be721
+SHA512: cac0704e335699975db6b803d2cd66ce6c1b090de5229b9aafe59dd5abbe67ade1613669e96b1ab765167a2795328ce3be20f7b41768f97d5e58885a17b8a7d0
+Description: Thêm ngày tháng âm lịch.Anh em không thích xài bản này có thể hạ cấp nó xuống.
 Tag: purpose::extension
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: LunarTime

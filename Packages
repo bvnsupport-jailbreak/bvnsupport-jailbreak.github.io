@@ -239,6 +239,24 @@ Name: iOX Animatios VH
 Author: Tykology <tykology@hotmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.libfah
+Architecture: iphoneos-arm
+Version: 0.1
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 176
+Filename: ./debfiles/com.BIENVANNHAT.libfah_0.1_iphoneos-arm.deb
+Size: 32748
+MD5sum: 95820eb090b906a7195eff03480121b4
+SHA1: c126e074a13349a6aec1b17a24c5fed06da6c019
+SHA256: 6679295081cd778c099570d7cd76865423c5f2786e7a4a2a15c5f47a797ba531
+SHA512: 8b9671092abac04eec5880690416663153685e538a145e3296d77f270be798695ac2073897a8da6b77572985e5d4285f1f17d4360f3c7c2994eac0c1abb3cb75
+Description: Một thư viện tuyệt vời của một số loại !!
+Tag: role::developer
+Name: libFAH
+Author: fahlnbg
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BIENVANNHAT.libgcuniversal
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -357,6 +375,25 @@ Author: fahlnbg
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.BIENVANNHAT.lunartime
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.BIENVANNHAT.lunartime
+
+Package: com.BIENVANNHAT.lunartime
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: BIENVANNHAT
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000), com.BIENVANNHAT.libfah , ws.hbang.common, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.lunartime_1.3_iphoneos-arm.deb
+Size: 56558
+MD5sum: 1b725188b806bf3848bf806461712761
+SHA1: 9c31cf6aba899cf17f873ac491a60f02d834d7f8
+SHA256: a56f78a26422f32870949baf02fdbcbe4159e8d6ef9f37987eff6fe6fbb6704c
+SHA512: 58b03c5e336a79632e5f98ddefb4dd144b9df7d4200e07662311514094b4de0cb25b008f28154f11779d828d9880ca6a229313c614be66984cc27109886f6b0c
+Description: Thêm ngày tháng âm lịch.
+Tag: purpose::extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: LunarTime
+Author: fahlnbg
 
 Package: com.BIENVANNHAT.merriam
 Architecture: iphoneos-arm

@@ -376,25 +376,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.BIENVANNHAT.lunartime
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.BIENVANNHAT.lunartime
 
-Package: com.BIENVANNHAT.lunartime
-Architecture: iphoneos-arm
-Version: 1.3
-Section: Tweaks
-Maintainer: BIENVANNHAT
-Installed-Size: 356
-Depends: mobilesubstrate (>= 0.9.5000), com.BIENVANNHAT.libfah , ws.hbang.common, preferenceloader
-Filename: ./debfiles/com.BIENVANNHAT.lunartime_1.3_iphoneos-arm.deb
-Size: 56616
-MD5sum: 3985c455504ba1e87a047eba940d690e
-SHA1: 0175e5a2db7f2f6c71e8891149f5ec11e45b1754
-SHA256: 2c4f6fc0f9bce1ad1aea3fdff3af1b3620f4953fb481c607072f3c926f3be721
-SHA512: cac0704e335699975db6b803d2cd66ce6c1b090de5229b9aafe59dd5abbe67ade1613669e96b1ab765167a2795328ce3be20f7b41768f97d5e58885a17b8a7d0
-Description: Thêm ngày tháng âm lịch.Anh em không thích xài bản này có thể hạ cấp nó xuống.
-Tag: purpose::extension
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Name: LunarTime
-Author: fahlnbg
-
 Package: com.BIENVANNHAT.merriam
 Architecture: iphoneos-arm
 Version: 2.0.0

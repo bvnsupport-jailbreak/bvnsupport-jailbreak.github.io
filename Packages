@@ -75,6 +75,24 @@ Author: ItzNebbs
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.batteryflow-reborn
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.batteryflow-reborn
 
+Package: com.BIENVANNHAT.blockupdate
+Architecture: iphoneos-arm
+Version: 1.2
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 123
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.blockupdate_1.2_iphoneos-arm.deb
+Size: 35088
+MD5sum: 89e1fd128e7206ac13d8911f4b13b57a
+SHA1: 88362f90df512f5042f6304124ffe2190b97c9fd
+SHA256: 6a0a7d39b5761fe3fdc2570418f9e41669591a514db6632ac0b4da4238ca2d74
+SHA512: 2bf76659e11a6fc54385c86e4ca1c58beb45484611eab2f4b830f88dc973ca1cf97892006a86676fc2a9d73c591a128da95f821783d4650eb9d90067eda8e06a
+Description: Xoá Và Chặn cập Nhập Phần Mềm,hỗ trợ ios 9 tới Ios 14.4
+Name: Chặn Update PM
+Author: BIỆN VĂN NHẬT
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.carplayenable
 Architecture: iphoneos-arm
 Version: 0.0.2

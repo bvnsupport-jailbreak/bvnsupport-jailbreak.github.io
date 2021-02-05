@@ -83,11 +83,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 123
 Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
 Filename: ./debfiles/com.BIENVANNHAT.blockupdate_1.2_iphoneos-arm.deb
-Size: 35088
-MD5sum: 89e1fd128e7206ac13d8911f4b13b57a
-SHA1: 88362f90df512f5042f6304124ffe2190b97c9fd
-SHA256: 6a0a7d39b5761fe3fdc2570418f9e41669591a514db6632ac0b4da4238ca2d74
-SHA512: 2bf76659e11a6fc54385c86e4ca1c58beb45484611eab2f4b830f88dc973ca1cf97892006a86676fc2a9d73c591a128da95f821783d4650eb9d90067eda8e06a
+Size: 35048
+MD5sum: 34ebefd3534871ca74e79452da57233d
+SHA1: ef9a4f56c7903f6f565bf4578da2b66e577f79e0
+SHA256: 3823ca740e10759d100c7d939833959166ba6c3b8d6fcd9e4c0d4b006e98194d
+SHA512: 49a02f86cc834f933c9345b21c34f4a47f0b7d582441ba652ff2d4f7c780d759994d09ce46f72197df164778cc5b38938ab60808934408db41290e080889f53f
 Description: Xoá Và Chặn cập Nhập Phần Mềm,hỗ trợ ios 9 tới Ios 14.4
 Name: Chặn Update PM
 Author: BIỆN VĂN NHẬT

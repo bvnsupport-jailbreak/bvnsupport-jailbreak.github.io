@@ -84,14 +84,14 @@ Installed-Size: 123
 Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
 Filename: ./debfiles/com.BIENVANNHAT.blockupdate_1.2_iphoneos-arm.deb
 Size: 35048
-MD5sum: 34ebefd3534871ca74e79452da57233d
-SHA1: ef9a4f56c7903f6f565bf4578da2b66e577f79e0
-SHA256: 3823ca740e10759d100c7d939833959166ba6c3b8d6fcd9e4c0d4b006e98194d
-SHA512: 49a02f86cc834f933c9345b21c34f4a47f0b7d582441ba652ff2d4f7c780d759994d09ce46f72197df164778cc5b38938ab60808934408db41290e080889f53f
+MD5sum: b35cb107beba7304200a6b1049e640c2
+SHA1: d3f62d4b14c34d2c22051adb3bdabeb475ae1aac
+SHA256: f7ef8c47beb6196c0e9efb5d5734c0cd9031734151877aad75ffb5c131966c7e
+SHA512: 5b5dd5a7a34246c4fba3438f517f9c6e00db4075932626bd25c772da76ee30aaaea6bc39a7b54a77620d894019c086d286ae4ba809dd36da4efe1e828c943fb6
 Description: Xoá Và Chặn cập Nhập Phần Mềm,hỗ trợ ios 9 tới Ios 14.4
 Name: Chặn Update PM
 Author: BIỆN VĂN NHẬT
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.carplayenable
 Architecture: iphoneos-arm

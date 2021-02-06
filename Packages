@@ -2066,6 +2066,24 @@ Name: AppStore+++
 Author: CokePokes <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.appstore
+Architecture: iphoneos-arm
+Version: 0.9.14-4
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debfiles/com.supportjailbreak.appstore_0.9.14-4_iphoneos-arm.deb
+Size: 614114
+MD5sum: 4cfbffacbcdeee8f58bc7f2901fefcff
+SHA1: 270829c555e62e36d4f129aae3166702c206283c
+SHA256: c6bd55e1f084eaecc076b7aff21ac24f15f4cce3b95c25445c1c9f755348f0d5
+SHA512: ced70a48daa3b22115867aed4ce0fdcd054a485850593c2f30f2e7bdd19a9d3a8723908882e2252e83c5ee0ccd45f455d76eed14d71eef78f4bdbe4f3173e928
+Description: Cho phép bạn hạ cấp và Nâng cấp ứng dụng trong Apstore,chặn cấp nhập vượt qua giới hạn tải hỗ trợ Ios 11-14.4
+Name: AppStore+++
+Author: CokePokes
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
 Package: com.supportjailbreak.appsyncunified
 Architecture: iphoneos-arm
 Version: 84.1

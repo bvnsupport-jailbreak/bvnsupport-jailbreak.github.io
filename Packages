@@ -394,6 +394,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.BIENVANNHAT.lunartime
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.BIENVANNHAT.lunartime
 
+Package: com.BIENVANNHAT.mbbank
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 644
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.mbbank_1.2.3_iphoneos-arm.deb
+Size: 258240
+MD5sum: 82a271cc195f45071194b4120ab9ca32
+SHA1: a1ef73355d7f5c85eb3e20b8cd1e91abc90f053e
+SHA256: cebb7f9a64857655c5d827952ab247c9be7f28031058ba16765d667091d4c68c
+SHA512: c673e336aab2e6c62c178797b17ddb3ed9c449446e961dc96d17c9a600b80b84264f2ac9e276f3372c8a79d955bd5e6246e37b923528357be4dc53c2a56491f4
+Homepage: https://www.facebook.com/SUPPORT.BVN.VN
+Description: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank
+Name: HideJB MBBANK
+Author: IPALibrary
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.merriam
 Architecture: iphoneos-arm
 Version: 2.0.0

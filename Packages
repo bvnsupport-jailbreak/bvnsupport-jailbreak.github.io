@@ -1,3 +1,21 @@
+Package: com.BIENVANNHAT.FACEBOOKADS
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: BIENVANNHAT <BIENVANNHAT97@GMAIL.COM>
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.BIENVANNHAT.libjcx (>= 1.1.0)
+Filename: ./debfiles/com.BIENVANNHAT.FACEBOOKADS_1.2.3_iphoneos-arm.deb
+Size: 554718
+MD5sum: 3ce11cdccd55d305654b0856a6e89a86
+SHA1: 01d89618522c8b421e62cce30997ae231d123889
+SHA256: 5e0863553912676a9bee35824e88f1834a08b2215b1a226221302ea1b8a25b35
+SHA512: e0be8d95ba655cf19c95f834a0d82415d3722d8c5d500a607bb0610025417ebd9aa2033818504700b14f7fad16878ab863977e03ef0bc3979b0260a427c1149d
+Description: Xoá tất cả các quảng cáo trên Facebook
+Name: FB NoAds
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: JacobCXDev <jacobcxdev@gmail.com>
+
 Package: com.BIENVANNHAT.allowplaybackwhilerecordingscreensound
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -293,6 +311,24 @@ Description: Một thư viện tuyệt vời của một số loại !!
 Tag: role::developer
 Name: LibGcUniversal
 Author: MrGcGamer
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.BIENVANNHAT.libjcx
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: System
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Installed-Size: 292
+Depends: firmware (>= 11.0)
+Filename: ./debfiles/com.BIENVANNHAT.libjcx_1.1.1_iphoneos-arm.deb
+Size: 59074
+MD5sum: 6c33129b3db827ab181983671c79d81c
+SHA1: 22c581e7a5b785486e8e1d81f46785c18649e1b7
+SHA256: d5b367da561703bb931efb0878db52bc382d5d976719f1026f2d0ed3bc674226
+SHA512: 2e4b783d1c4e0c8d24886f89f611af0e88bc3c9e25e5f16896748b871906253a8c76690434e8f8c273f3b0d6ea206007cb6c8a734eac2a6c6687159131307c85
+Description: Một thư viện được sử dụng bởi JacobCXDev.
+Name: libJCX
+Author: JacobCXDev <jacobcxdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.libkitten

@@ -2142,6 +2142,27 @@ Author: Karen/あけみ <karen@angelxwind.net>
 Sponsor: Biện Văn Nhật <https://bvnsupport-jailbreak.github.io/>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.supportjailbreak.appsyncunified
+Architecture: iphoneos-arm
+Version: 91.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 732
+Provides: appsync
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.4.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Filename: ./debfiles/com.supportjailbreak.appsyncunified_91.0_iphoneos-arm.deb
+Size: 90434
+MD5sum: 525ca023c14869f2688eeb4654eea102
+SHA1: d9f2b5a7475985e43f7c6b792e50f5fcbae4db48
+SHA256: 670d8e6ff63e8bfc65570b8209ee8ec4dd7b5e9783d23bae3d6209819abe0b9f
+SHA512: 4a94fd388d0272987683b40bb36b78f37c0bad2debd90f941a2ca9d4edfde644b4aef6d066a6c1c29afd5bd9969202f402651dd1048edac412d53fe9133e499c
+Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn.
+Name: AppSync Unified (5/14.5)
+Author: Linus Yang, Karen <karen@akemi.ai>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.b3rryviethoa
 Architecture: iphoneos-arm
 Version: 1.7

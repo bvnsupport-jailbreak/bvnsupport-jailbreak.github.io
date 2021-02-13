@@ -600,6 +600,25 @@ Name: HideJb TechcomBank
 Author: Kan
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.thaydoigiongnoi
+Architecture: iphoneos-arm
+Version: 4.5.6
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 1440
+Depends: mobilesubstrate, preferenceloader, com.bvnsupport-limnes.limneos
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debfiles/com.BIENVANNHAT.thaydoigiongnoi_4.5.6_iphoneos-arm.deb
+Size: 460558
+MD5sum: d55f400fceae930187b0bdeed866acd3
+SHA1: 74eee25f926adeb8bfe4c8205d39e76cf3a99a93
+SHA256: 4e70a1dae946c51ca181f388323ef4819bac2e5354b0e9f867189d2ea1f489d2
+SHA512: 0cd1739ca738c7da553923bd21226e2696940e5c94180e503967c5dc843541a3657108a85bf11eda506d630bf7c6278ae865328bddaca2e896cc263ef3922d43
+Description: Thay đổi giọng nói của bạn trong các cuộc gọi!Hỗ trợ ios 11->14.5
+Name: Thay đổi Giọng nói
+Author: Elias Limneos
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.tiktokgod
 Architecture: iphoneos-arm
 Version: 1.9.3

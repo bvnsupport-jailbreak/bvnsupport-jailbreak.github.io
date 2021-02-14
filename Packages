@@ -24,12 +24,12 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 280
 Depends: org.swift.libswift (>= 5.0)
 Filename: ./debfiles/com.BIENVANNHAT.agentcamera_1.1.1_iphoneos-arm.deb
-Size: 67884
-MD5sum: 39b10894ba91cbba9330db9200192272
-SHA1: 41a4d86ba2baebfa6a8cf3965fc45f7562db48e3
-SHA256: a038286e36a7da977ec46d321fac6b71d88c93f0847b9bf4f2aada141abb50d0
-SHA512: 6290f1d64de3b79134652abc139e53e8819c5101c6b65e74f7104e59ceeb536ebe7d95fd31e0297913c30403ee59ed9effdb239c9f86d926418e96ac142b60bf
-Description: Quay phim mà không sợ bị người khác phát hiện.Nếu bạn là một nhân viên tình báo,bạn cần một bằng chứng khách quan,Tweak này sẽ đáp ứng được điều đó.Cách sử dụng,Một ứng dụng mới sẽ hiển thị trên màn hình chính của bạn,bạn chỉ cần mở ứng dụng đó và ấn dấu ✩ ở cuối mang hình để bắt đầu quay phim.Trong khi quay phim dấu ✩ trở thành dấu★.Khi bạn nhấn dấu ★,nó sẽ trở thành dấu ✩ và quá trình quay phim sẽ đuoejc dừng lại và sẽ được lưu vào Album Ảnh.
+Size: 67880
+MD5sum: 83a16876574b9d9d99bdea615dcf5c35
+SHA1: 871a3eb13f1cf6a184c695059ee8c11e011fe7a5
+SHA256: b4d6dabb2bb74f387e45ec08085c12cc8310843c45bf5ebfd4e6ce8e4bce5774
+SHA512: 49a24a8c1e53f0d01770f4e5286420455152a18d48e36a77e4dfc78b92a35a476cc647cc79885d658dc3ece8c193e9f9742015498f25cceb00872bd850dae2b6
+Description: Quay phim mà không sợ bị người khác phát hiện.Nếu bạn là một nhân viên tình báo,bạn cần một bằng chứng khách quan,Tweak này sẽ đáp ứng được điều đó.Cách sử dụng,Một ứng dụng mới sẽ hiển thị trên màn hình chính của bạn,bạn chỉ cần mở ứng dụng đó và ấn dấu ✩ ở cuối mang hình để bắt đầu quay phim.Trong khi quay phim dấu ✩ trở thành dấu★.Khi bạn nhấn dấu ★,nó sẽ trở thành dấu ✩ và quá trình quay phim sẽ được dừng lại và sẽ được lưu vào Album Ảnh.
 Name: AgentCamera VH
 Author: Adolfoi_
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

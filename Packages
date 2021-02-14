@@ -16,6 +16,24 @@ Name: FB NoAds
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JacobCXDev <jacobcxdev@gmail.com>
 
+Package: com.BIENVANNHAT.agentcamera
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 280
+Depends: org.swift.libswift (>= 5.0)
+Filename: ./debfiles/com.BIENVANNHAT.agentcamera_1.1.1_iphoneos-arm.deb
+Size: 67884
+MD5sum: 4fd681037c432fd119e6f0b29bf6d5f6
+SHA1: e370e8eee7384ba261934a368c8a9cee15b2e251
+SHA256: 77f221111319a366d1de853c0492d9a728ef93cf003bef41c5e4d951d933659b
+SHA512: 2a34c2e5f84a2f2d327e42582419b3c71ef04c64aa03dc847d7f1647edcdf5e0adba263d4ea7da992aa1927c52ae97b2dfeb448130466d030f17563011cda07e
+Description: Quay phim mà không sợ bị người khác phát hiện.Nếu bạn là một nhân viên tình báo,bạn cần một bằng chứng khách quan,Tweak này sẽ đáp ứng được điều đó.Cách sử dụng,Một ứng dụng mới sẽ hiển thị trên màn hịn chónh của bạn,bạn chỉ cần mở ứng dụng đó và ấn dấu ✩ ở cuối mang hình để bắt đầu quay phim.Trong khi quay phim dấu ✩ trở thành dấu★.Khi bạn nhấn dấu ★,nó sẽ trở thành dấu ✩ và quá trình quay phim sẽ đuoejc dừng lại và sẽ được lưu vào Album Ảnh.
+Name: AgentCamera VH
+Author: Adolfoi_
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.allowplaybackwhilerecordingscreensound
 Architecture: iphoneos-arm
 Version: 1.0.0

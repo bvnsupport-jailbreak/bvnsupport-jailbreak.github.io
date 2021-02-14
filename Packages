@@ -606,14 +606,14 @@ Version: 4.5.6
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
 Installed-Size: 1440
-Depends: mobilesubstrate, preferenceloader, com.bvnsupport-limnes.limneos
+Depends: mobilesubstrate, preferenceloader, com.bvnsupport-limneos.limneos
 Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: ./debfiles/com.BIENVANNHAT.thaydoigiongnoi_4.5.6_iphoneos-arm.deb
 Size: 460558
-MD5sum: d55f400fceae930187b0bdeed866acd3
-SHA1: 74eee25f926adeb8bfe4c8205d39e76cf3a99a93
-SHA256: 4e70a1dae946c51ca181f388323ef4819bac2e5354b0e9f867189d2ea1f489d2
-SHA512: 0cd1739ca738c7da553923bd21226e2696940e5c94180e503967c5dc843541a3657108a85bf11eda506d630bf7c6278ae865328bddaca2e896cc263ef3922d43
+MD5sum: 67ea8afc382932fb0ee80672835cf7a2
+SHA1: 60a5f6237fb38ca2cd2b97ccd987bd1bb2534dc5
+SHA256: c419143dabbd11747baf1dc9f195adc79adc5186c93f774308209fa7245eb467
+SHA512: 0c23b080128ce24326aac6f82b381a9f4475af4c86ed376c428abb9070e436c226b78e3d33ea9f96dd686bdee3e29a0423b2fa4568ad6b435b3a33e92bb400a4
 Description: Thay đổi giọng nói của bạn trong các cuộc gọi!Hỗ trợ ios 11->14.5
 Name: Thay đổi Giọng nói
 Author: Elias Limneos

@@ -560,39 +560,19 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: giorgioiavicoli
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.reprovision
-Architecture: iphoneos-arm
-Version: 0.5.2~EOL
-Priority: optional
-Section: Utilities
-Maintainer: BIỆN VĂN NHẬT
-Provides: com.matchstic.Extender-Installer
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Filename: ./debfiles/com.BIENVANNHAT.reprovision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14343038
-MD5sum: 02bf8d694c9aa8c682d4b65d864d4afc
-SHA1: 7f45cee3caa9e51b5a5216750ad8b86d51b91324
-SHA256: b0f3acc158f25aee95ac4f76de712554bc6acc97ed9f5a7a3ba312c538966bb6
-SHA512: 2e3f197081cfa43dca2b583ac9c2740fd82734224f19dc6d1cd43ceea5544892f14d5de848dff9387eff97126e1bc86feb9e0cc521a72f6249aecf0f3c98fe3a
-Description: Tự động gia hạn chứng chỉ của các ứng dụng!ReProvision có nhiệm vụ tự động gia hạn chứng chỉ trên các thiết bị đã Jailbreak . Không chỉ có thể gia hạn các ứng dụng dùng để Jailbreak thì nó còn có thể gia hạn các ứng dụng mà bạn đã đăng ký vào thiết bị bằng Cydia Impactor . Ngoài ra , ReProvision cho phép bạn gia hạn cả những ứng dụng đã hết hạn và không thể sử dụng . Điều này không thể làm được trên Ext3nder , nó là một điểm nổi bật của tinh chỉnh này . Giao diện của ReProvision rất hiện tại và thuận tiện để bạn có thể cài đặt dễ dàng
-Name: ReProvision VH
-Author: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.reprovisionfix
 Architecture: iphoneos-arm
 Version: 0.1.1
 Section: System
 Maintainer: BIỆN VĂN NHẬT <Bienvannhat97@gmail.com>
 Installed-Size: 16
-Depends: com.BIENVANNHAT.reprovision
+Depends: com.matchstic.reprovision
 Filename: ./debfiles/com.BIENVANNHAT.reprovisionfix_0.1.1_iphoneos-arm.deb
-Size: 2236
-MD5sum: 282134aec43d55bd31bcd801f21897ce
-SHA1: 3d454432b511e6c613b4dabfb2cc01b790faf3d9
-SHA256: 8725623f81324aa5e5688bed28536ae767a0f7383677e7a965419b594bb0b04f
-SHA512: 00dec45c9f8d7f7379eae3a9a30d8fa36b5ce36af08755669835f05b5adf067bcd024a6f94a7c6607d1491d26f035e16d84d22afbd509cf6a600626d02d1e160
+Size: 2244
+MD5sum: dbb6f3ce70dd48a055aefaa03f9c1524
+SHA1: 651572fce215e78c929411ec1cc8a4b891691394
+SHA256: ff29eccb4af68311e54002028c5115210e39e3b2f4a23e9524af2432fe64324a
+SHA512: e9a2df7dc68d471612bee824252b647ff48d43312110c5827970af1eaad28fab98611e2f06d13ffbdd8b8472f95d591e8deac70bf6a95977d495d947c3b8e500
 Description: Khắc phục sự cố ứng dụng đã ký với ReProvision sau ngày 28 tháng 1 năm 2021
 Name: ReProvisionFix
 Author: Nyuszika7h
@@ -1809,6 +1789,27 @@ Description: bỏ qua kiểm tra chữ ký của íntalld,cài File IPA,hỗ tr�
 Name: AppSync New
 Author: Linus Yang
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.matchstic.reprovision
+Architecture: iphoneos-arm
+Version: 0.5.2~EOL
+Priority: optional
+Section: System
+Maintainer: Biện Văn Nhật
+Provides: com.matchstic.Extender-Installer
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Filename: ./debfiles/com.matchstic.reprovision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14391738
+MD5sum: 967892aef82f53db0f24e907aa759e52
+SHA1: eee13d6c9b9918b77835f5c6feb41866459c8acf
+SHA256: 386bfa5cbb2aeb9583a714a24fae2360cb9696189ab85522ff030f846f650235
+SHA512: 46193e6aa586b5a37b7caacaeb8bd07e5f52ee9ece968157bd2ff94ba35ac167fe7c80724c8e511ac416dc20d5da5321c9e7e85494ab1f535757e827f57ee9b5
+Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
+Name: ReProvision
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm

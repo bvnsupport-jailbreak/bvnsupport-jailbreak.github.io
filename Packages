@@ -608,13 +608,14 @@ Maintainer: BIỆN VĂN NHẬT <Bienvannhat97@gmail.com>
 Installed-Size: 16
 Depends: com.BIENVANNHAT.reprovision
 Filename: ./debfiles/com.BIENVANNHAT.reprovisionfix_0.1.1_iphoneos-arm.deb
-Size: 2216
-MD5sum: 716842889c35bb5fe659d19e60c521d6
-SHA1: c925ad446653fa66db4b0d61a15f456416dcc5bc
-SHA256: 6e2594fc7231970222afb52645765ac947090c36a163cc65f8fdcbfcb95edef8
-SHA512: 8df88cec4281707385aa95d6ac3424bc9d453b7eebf129c1899b08da51142eed356f72f893765e0b5967bf66dad7bb0288946a12adc5b049f63ebd6c1a904bac
+Size: 2236
+MD5sum: 282134aec43d55bd31bcd801f21897ce
+SHA1: 3d454432b511e6c613b4dabfb2cc01b790faf3d9
+SHA256: 8725623f81324aa5e5688bed28536ae767a0f7383677e7a965419b594bb0b04f
+SHA512: 00dec45c9f8d7f7379eae3a9a30d8fa36b5ce36af08755669835f05b5adf067bcd024a6f94a7c6607d1491d26f035e16d84d22afbd509cf6a600626d02d1e160
 Description: Khắc phục sự cố ứng dụng đã ký với ReProvision sau ngày 28 tháng 1 năm 2021
 Name: ReProvisionFix
+Author: Nyuszika7h
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.techcombank

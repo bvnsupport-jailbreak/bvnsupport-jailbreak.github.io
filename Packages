@@ -560,24 +560,6 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: giorgioiavicoli
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.reprovisionfix
-Architecture: iphoneos-arm
-Version: 0.1.1
-Section: System
-Maintainer: BIỆN VĂN NHẬT <Bienvannhat97@gmail.com>
-Installed-Size: 16
-Depends: com.matchstic.reprovision
-Filename: ./debfiles/com.BIENVANNHAT.reprovisionfix_0.1.1_iphoneos-arm.deb
-Size: 2244
-MD5sum: dbb6f3ce70dd48a055aefaa03f9c1524
-SHA1: 651572fce215e78c929411ec1cc8a4b891691394
-SHA256: ff29eccb4af68311e54002028c5115210e39e3b2f4a23e9524af2432fe64324a
-SHA512: e9a2df7dc68d471612bee824252b647ff48d43312110c5827970af1eaad28fab98611e2f06d13ffbdd8b8472f95d591e8deac70bf6a95977d495d947c3b8e500
-Description: Khắc phục sự cố ứng dụng đã ký với ReProvision sau ngày 28 tháng 1 năm 2021
-Name: ReProvisionFix
-Author: Nyuszika7h
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
 Package: com.BIENVANNHAT.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -1789,27 +1771,6 @@ Description: bỏ qua kiểm tra chữ ký của íntalld,cài File IPA,hỗ tr�
 Name: AppSync New
 Author: Linus Yang
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.matchstic.reprovision
-Architecture: iphoneos-arm
-Version: 0.5.2~EOL
-Priority: optional
-Section: System
-Maintainer: Biện Văn Nhật
-Provides: com.matchstic.Extender-Installer
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Filename: ./debfiles/com.matchstic.reprovision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14391738
-MD5sum: 967892aef82f53db0f24e907aa759e52
-SHA1: eee13d6c9b9918b77835f5c6feb41866459c8acf
-SHA256: 386bfa5cbb2aeb9583a714a24fae2360cb9696189ab85522ff030f846f650235
-SHA512: 46193e6aa586b5a37b7caacaeb8bd07e5f52ee9ece968157bd2ff94ba35ac167fe7c80724c8e511ac416dc20d5da5321c9e7e85494ab1f535757e827f57ee9b5
-Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
-Name: ReProvision
-Author: Matt Clarke <matt@incendo.ws>
-dev: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm

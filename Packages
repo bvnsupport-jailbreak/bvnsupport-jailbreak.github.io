@@ -1,3 +1,22 @@
+Package: com.BIENVANNHAT.DARKMODE
+Architecture: iphoneos-arm
+Version: 3.4
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 1228
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Conflicts: com.laughingquoll.noctisxi
+Filename: ./debfiles/com.BIENVANNHAT.DARKMODE_3.4_iphoneos-arm.deb
+Size: 254544
+MD5sum: f1cf2719bbd442970a921828c9438b7e
+SHA1: 82164571d2c5cbe09809d89b5d82d87f41cd3db5
+SHA256: c13874e1f90c49d4a0e68cc467135fd8c1dc3a2b7174a99d234c1cd3ead62aee
+SHA512: 711c3b80c9885b905a6e2c564ef36466e2246ea9645682e690f2b331c542cdb7bbfeed69030f45b7e7545036519f61814da7ed86565a9b989cefcb7551dcc5e0
+Description: Chế độ tối hoàn hảo hỗ trợ iOS 12
+Name: Chế Độ Tối(Ios12)
+Author: LaughingQuoll
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.FACEBOOKADS
 Architecture: iphoneos-arm
 Version: 1.2.3

@@ -90,6 +90,27 @@ Name: Hack Map Liên Quân
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.axon
+Architecture: iphoneos-arm
+Version: 1.3.2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 576
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debfiles/com.BIENVANNHAT.axon_1.3.2_iphoneos-arm.deb
+Size: 202430
+MD5sum: f4b8722a381724845f9dd00a4edbb0f5
+SHA1: a7008557722267fab417bdee6de445e23fc82a0a
+SHA256: 4eca6a3e055da381497e267209deeb9abe7197e847278bb136d4ea19e3127610
+SHA512: aaf59392b7c0dd60e42e1d01cca936fb6e0aa260ed0f9d74a426e152753a092327e147ba7776ee331adeefc711583aa29f3e32b23b422cca838f423505b13172
+Description: Nhóm và xem các thông báo chưa đọc trên màn hình khóa
+Name: Axon Việt Hoá
+Author: Nepeta
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.axon
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.axon
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.batteryflow-reborn
 Architecture: iphoneos-arm
 Version: 1.3

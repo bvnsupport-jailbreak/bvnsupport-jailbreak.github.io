@@ -1,0 +1,29 @@
+<package>
+	<id> com.BIENVANNHAT.axon</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.3.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Nhóm và xem các thông báo chưa đọc trên màn hình khoá</description>
+		<description>Có nhiều cách để nhóm các biểu ngữ thông báo cho từng ứng dụng trên mang hình khoá của bạn/description>
+		<description>Axon sắp xếp các thông báo đến chưa được xem của bạn bằng ứng dụng trên màn hình khoá </description>
+		<description>Bạn có thể lọc giữa các thông báo bằng cách nhấn vào các biểu tượng ứng dụng tương ứng xuất hiện ngay bên dưới thời gian</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>axon.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

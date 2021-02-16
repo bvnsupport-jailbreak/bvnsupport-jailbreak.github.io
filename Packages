@@ -642,6 +642,27 @@ Name: Toonsy Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: va2ron1
 
+Package: com.BIENVANNHAT.trinhphatwifi
+Architecture: iphoneos-arm
+Version: 4.5
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 24313
+Pre-Depends: mobilesubstrate (>=0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (<= 14.5) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
+Filename: ./debfiles/com.BIENVANNHAT.trinhphatwifi_4.5_iphoneos-arm.deb
+Size: 11377142
+MD5sum: 4cd3806cf1e206b1189849c2e3545ff8
+SHA1: 10a928ae33e139768bd66a77e09d085619d67184
+SHA256: 6efcb848584610b0c33bce17b24ee13fd4af64a02cd6caaeed1f68c34e71066f
+SHA512: 4f967092c82a299be37b24c38d95ea53421a19d06d73f2608d09f2e338cd8602b0a03f06112a1a01e1117cf0bf8430531bf1bc29601b5fcb4a8ff5590b9e5939
+Homepage: https://www.facebook.com/SUPPORT.BVN.VN
+Description: Tự động bật chia sẻ kết nối gốc cho các thiết bị từ Ios 8 tới Ios 14.5.Điều này sẽ hoạt động trên bất kỳ nhà cung cấp dịch vụ nào mà không cần các gói hoặc tùy chọn tùy chỉnh.Giúp các Thiết Bị IoS Phát Wi-Fi 1 cách tốt nhất
+Tag: purpose::extension
+Name: Trình Phát Wi-Fi
+Author: Sam Bingner <support@tetherme.net>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.ong
+
 Package: com.BIENVANNHAT.win10fp
 Architecture: iphoneos-arm
 Version: 0.2

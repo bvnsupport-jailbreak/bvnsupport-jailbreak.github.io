@@ -600,6 +600,25 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: giorgioiavicoli
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.progesture
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Hius
+Installed-Size: 948
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn, com.hius.halfipad
+Filename: ./debfiles/com.BIENVANNHAT.progesture_1.0.2_iphoneos-arm.deb
+Size: 213308
+MD5sum: e9410a583c6408616e8e4fdbf604d60c
+SHA1: bb6747d7c1b4bb828a679b0886da516c896dc5c2
+SHA256: 6d759869b7b9a9fb21f9c909f5ee3e9c9673cb8be229f2381af20bc327d79ccf
+SHA512: fb045a669b52cc799b226e8ecac81d0f211311605e010b451650ec25547d996f06d9f021e66eef656627a2791999ab532385f742eb7ab72788f6bee8d88051d7
+Description: Fake Iphone X,Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn.Chỉ dành cho iOS 14.
+Name: ProGesture Việt Hoá
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.smartvolumemixer2
 Architecture: iphoneos-arm
 Version: 1.1-2k

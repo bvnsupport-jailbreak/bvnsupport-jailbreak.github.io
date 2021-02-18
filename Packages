@@ -600,6 +600,26 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: giorgioiavicoli
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.smartvolumemixer2
+Architecture: iphoneos-arm
+Version: 1.1-2k
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 764
+Depends: mobilesubstrate, preferenceloader, firmware(>=13.0), firmware(<=14.9)
+Filename: ./debfiles/com.BIENVANNHAT.smartvolumemixer2_1.1-2k_iphoneos-arm.deb
+Size: 280890
+MD5sum: 25fd3c3c8c07737c685d12475247218e
+SHA1: dca5849c5fa5bc1a5c67bdc11f956d37ce37aa5b
+SHA256: 04e0a365ebd4b633762546b15a64eb07201d7b5a19bbc026919f42aaf613a56b
+SHA512: 539682e925808df852bda47c54d1e4b46c7b2e07040292b78977572e673233046c7c34419dc59a05a9efc544110d20d84636123958911a5734234cfe05ee52cb
+Description: Bộ trộn âm lượng tiên tiến nhất của iOS.
+Name: SmartVolumeMixer2 Vh
+Author: midkin <midkin@hotmail.com>
+Depiction: https://mainrepo.org/package/2646
+SileoDepiction: https://mainrepo.org/sileo/2646
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6

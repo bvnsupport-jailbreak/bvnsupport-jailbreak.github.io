@@ -604,16 +604,16 @@ Package: com.BIENVANNHAT.progesture
 Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Tweaks
-Maintainer: Hius
+Maintainer: Biện Văn Nhật
 Installed-Size: 948
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn, com.hius.halfipad
 Filename: ./debfiles/com.BIENVANNHAT.progesture_1.0.2_iphoneos-arm.deb
-Size: 213308
-MD5sum: e9410a583c6408616e8e4fdbf604d60c
-SHA1: bb6747d7c1b4bb828a679b0886da516c896dc5c2
-SHA256: 6d759869b7b9a9fb21f9c909f5ee3e9c9673cb8be229f2381af20bc327d79ccf
-SHA512: fb045a669b52cc799b226e8ecac81d0f211311605e010b451650ec25547d996f06d9f021e66eef656627a2791999ab532385f742eb7ab72788f6bee8d88051d7
+Size: 213320
+MD5sum: 97f95770a0a88aa2859adb907ca1a362
+SHA1: c6aab5282f4bca71ef17fc7bc9ab82e4dea310df
+SHA256: dfeb91b88531d4e201326f53c8ac8d0ea4e52c00cbba7b2672b7dcf8230d7b0f
+SHA512: 65c5e884435980a12c2425de3e59cc513ceb6b72582d2ae58cca35949b8f7b28b24917fff61301712ed00e2f2d73f0164f0bce6ff525f1e922e72e7b51d698b6
 Description: Fake Iphone X,Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn.Chỉ dành cho iOS 14.
 Name: ProGesture Việt Hoá
 Author: Hius

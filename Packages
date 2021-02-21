@@ -227,6 +227,29 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.en
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.eneko
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.doixungcamera
+Architecture: iphoneos-arm
+Version: 1.2.3
+Priority: optional
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 123
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.doixungcamera_1.2.3_iphoneos-arm.deb
+Size: 25084
+MD5sum: 316aafabc9cc0b40d3acae8262b97706
+SHA1: 0ef7b5b8e6de463a623fa277c827923c72f45684
+SHA256: 97737c39a3b309726760a9f8afa64f8e1f9d93941af8b4eade92f988c488373a
+SHA512: 49390b4938a0e8f77fef58199c634907c54b0bd8c3d9515db6903098c67750ed9e0057b87f770666fa8b3ac1e1e51bcaf812a146e4f2a8c6ad02c3b1376781f1
+Homepage: https://www.facebook.com/SUPPORT.BVN.VN
+Description: Đối xứng Camera trước,cho các máy đời cũ,hỗ trợ từ ios 11 tới ios 14.9.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14.9
+Name: Đối xứng Camera
+Sponsor: https://www.facebook.com/SUPPORT.BVN.VN
+Author: BIỆN VĂN NHẬT
+dev: BVN
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.dra1n
 Architecture: iphoneos-arm
 Version: 2.3.4
@@ -1132,6 +1155,24 @@ Description: Cử chỉ iPhone 11 và hơn thế nữa cho iOS 13&14
  Fake củ chỉ Iphone X cho các máy đời cũ.Hỗ trợ từ ios 13 đến ios14
 Name: Little11 Việt Hoá
 Author: Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-4kvcl.vcl
+Architecture: iphoneos-arm
+Version: 102
+Section: Themes
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.bvnsupport-4kvcl.vcl_102_iphoneos-arm.deb
+Size: 345090
+MD5sum: d32c60b6a817eb3fec591a218d663a1a
+SHA1: cd9c0f404728160c03514b1096819283246b9b37
+SHA256: a4edc15e0dcf578e9f24a7dbfc6f9edd5d0a865c2a1684cf8058ba8b13ce76ab
+SHA512: af475b141deb52e947987b1298805feb1e2127f5b78da52021cb853ea35aa802fec92c72a5d6cb1e0c02394b372274f70ea5f1c4a9fc4431e77a4c84191c94fe
+Description: Chủ đề dành cho bạn
+Name: 4KVCL
+Author: ?
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-4kvcl.vcl
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-4kvcl.vcl
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvnsupport-60fps.fgotw60FPS

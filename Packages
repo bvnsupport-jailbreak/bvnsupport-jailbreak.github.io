@@ -214,13 +214,12 @@ Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 1212
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader, liblua5.4-0
-Conflicts: net.kenhtao.cylinder
 Filename: ./debfiles/com.BIENVANNHAT.cylinder_1.0.1_iphoneos-arm.deb
-Size: 233262
-MD5sum: 83a0333d700226e2b2ce38c64412be6c
-SHA1: 1785504647a36f6fc3ca10a9e91e1af100fc08e7
-SHA256: bbeda89093f2b6d02dafba80fdf2a05ec86c81eef1104b9ed32914012e8203ca
-SHA512: 1aa2a8a4e98e30a66f985359338f702aaabffe563624916e99a980c950927ec0ce52934729170ce706399e3976170db63f25b53df23c988bca7adbc0a19ddd57
+Size: 233242
+MD5sum: 2f47d1f2c716cd9b81542e53a3a01f56
+SHA1: c5a95d0dead01125ad18813e6a90b9e8a6ff4134
+SHA256: 08f76fffa98e3a09bbeab0252528f9a55d2ad7b5fa7b432d872de51c355adcc7
+SHA512: aba34828ff9c6b77505da7413cec24f10468e7f93fea35a1ad3460f4e3fce79778c856333c9c154ac0fd9ce5389b7ab14cdae821910b2b6b572da249245bf3b2
 Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 11 tới ios 14.9
 Name: Cylinder Reborn VH
 Author: Reed Weichler

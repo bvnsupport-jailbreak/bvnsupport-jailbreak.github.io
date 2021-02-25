@@ -680,6 +680,23 @@ Depiction: https://mainrepo.org/package/2646
 SileoDepiction: https://mainrepo.org/sileo/2646
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.spotilife
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Crack App
+Maintainer: BIỆN VĂN NHẬT
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.spotilife_1.2.3_iphoneos-arm.deb
+Size: 200434
+MD5sum: 901dab48b41e88682c45cc8ec980bd9b
+SHA1: 05d089858956bab9f4b92747a5039a7e8912eb2c
+SHA256: 665cddbd943334686fed7d1472e9420e58044d00e010de7b1b5f0a8c3ead9d94
+SHA512: 59810b34485959801bf439971ca9f7315ba1a4ec69cf7dc7ff8d486ae132353e35f9be27ae4ddf771251a4f21c3386b5e73f0ca263633597c529053a7b9f1156
+Description: Mở khóa tính năng cao hơn cho Spotify,loại bỏ quảng cáo,mở khoá luồn chất lượng cao.Hỗ trợ từ ios 8 tới 14.9
+Name: Spotify Premium
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6

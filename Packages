@@ -336,6 +336,26 @@ Name: Facebook No Ads
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.fast-ls14
+Architecture: iphoneos-arm
+Version: 4.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 12
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.15.1)
+Filename: ./debfiles/com.BIENVANNHAT.fast-ls14_4.0-1_iphoneos-arm.deb
+Size: 615218
+MD5sum: 7be9d6a788204c32c590ae564f052f87
+SHA1: f2804fb99d7e24b5fcceb9fcb7c0f2231a31bc0a
+SHA256: c00d6e9d4b3f5579cc35377b910a38334393e8aee54f214cf1f07e4e06b359c7
+SHA512: fcafc1ee1943fc5dc9c4d07dc9db54ae8b78354aeef507b6db482a67462536af8a4e7407b2786e75a57f60266f75e371d37c79dcb878d26e2feab761c12f006c
+Description: Thiết bị khóa nhanh và tiết kiệm pin 🔋
+Name: Fast-LS14 Việt Hoá
+Author: Plat-Ykor <plat-ykor@libero.it>
+dev: BVn
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.frontpage
 Architecture: iphoneos-arm
 Version: 1.6.4

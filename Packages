@@ -207,6 +207,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.co
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.coolcc
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.cylinder
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 1212
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader, liblua5.4-0
+Conflicts: net.kenhtao.cylinder
+Filename: ./debfiles/com.BIENVANNHAT.cylinder_1.0.1_iphoneos-arm.deb
+Size: 233262
+MD5sum: 83a0333d700226e2b2ce38c64412be6c
+SHA1: 1785504647a36f6fc3ca10a9e91e1af100fc08e7
+SHA256: bbeda89093f2b6d02dafba80fdf2a05ec86c81eef1104b9ed32914012e8203ca
+SHA512: 1aa2a8a4e98e30a66f985359338f702aaabffe563624916e99a980c950927ec0ce52934729170ce706399e3976170db63f25b53df23c988bca7adbc0a19ddd57
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 11 tới ios 14.9
+Name: Cylinder Reborn VH
+Author: Reed Weichler
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.eneko
 Architecture: iphoneos-arm
 Version: 1.2

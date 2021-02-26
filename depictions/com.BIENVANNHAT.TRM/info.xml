@@ -1,0 +1,29 @@
+<package>
+	<id>com.BIENVANNHAT.TRM</id>
+	<name>Biện Văn Nhật</name>
+	<version>116</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Chủ đề TRM</description>
+		<description>Được mod bởi Bùi Nam</description>
+		<description>Tải về và kích hoạt bằng Snowboard,Anemone,ITHEME</description>
+		<description>Các bạn xem hình ảnh phía dưới</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>TRM.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

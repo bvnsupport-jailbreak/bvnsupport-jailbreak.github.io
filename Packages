@@ -35,6 +35,23 @@ Name: FB NoAds
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JacobCXDev <jacobcxdev@gmail.com>
 
+Package: com.BIENVANNHAT.TRM
+Architecture: iphoneos-arm
+Version: 116
+Section: Themes
+Maintainer: BIỆN VĂN NHẬT
+Filename: ./debfiles/com.BIENVANNHAT.TRM_116_iphoneos-arm.deb
+Size: 12218766
+MD5sum: 240f76a502ec2abd7c8cddb361591d7b
+SHA1: 21b5be79790e1491e60929f3b4b487842ad9b800
+SHA256: 0e4b60b7aae740c67e26d039d2624ad8ff3c115f0f4318f9e43b7a7f767b968e
+SHA512: d5a5311328fb43c1150396a14cfb0f4fde0cf2c3b2eb4cf7b3e424e66e2d04d422a6e2f43969653ba5cbc1161e882d5381d961d8dede0973727a9cc2676fdd3b
+Name: TRM
+Author: Bùi Nam
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.TRM
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.TRM
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.agentcamera
 Architecture: iphoneos-arm
 Version: 1.1.1

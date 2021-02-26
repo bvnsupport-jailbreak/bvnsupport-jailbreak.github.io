@@ -858,16 +858,16 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Package: com.BVNsupport-ytbhd.ytuhd
 Architecture: iphoneos-arm
 Version: 0.0.3.6
-Section: Tinh chỉnh chi YouTube
+Section: Tinh chỉnh cho YouTube
 Maintainer: Biện Văn Nhật
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Filename: ./debfiles/com.BVNsupport-ytbhd.ytuhd_0.0.3.6_iphoneos-arm.deb
-Size: 6420
-MD5sum: b04a426d90b3b72dbd35b0d9f3971e45
-SHA1: 96fea298098f860ca76a650a6555f1a1bb87c431
-SHA256: b4d4777767994a4aaa1b064751148bf891220e94be88e45e26e52ccd8c61c346
-SHA512: 874b9ae1b21d7c7d14aa6720dc28341581e79900bfc102a0ba48410e082f07e4d173174c0f38bbe12f97646ee5a8bcb9a99db638fa2be4da680dfafe6c85791c
+Size: 6418
+MD5sum: 8893141a217b797fa55106d661d17ca5
+SHA1: 6262c2a89c5e7c17684fd7c11f89d9bfe6a4405e
+SHA256: 0488730f08b5c3afd19f29f658ffab6e982bf0604438e08dad3411fcd13197d6
+SHA512: 59a4caae5f44c5aa410a47524a78d7bd0aa3b04686d184d1c11a7cd04fa989bbbcd49e3640c4d6b332cd50fe11efa0d1fe6ca9423bb325e7595d686f790c958a
 Description: Mở khóa độ phân giải 1440p và 2160p trong ứng dụng YouTube dành cho iOS.
 Name: YTUHD SW
 Author: PoomSmart

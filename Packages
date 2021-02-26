@@ -858,16 +858,16 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Package: com.BVNsupport-ytbhd.ytuhd
 Architecture: iphoneos-arm
 Version: 0.0.3.6
-Section: Tweaks
+Section: Tinh chỉnh chi YouTube
 Maintainer: Biện Văn Nhật
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Filename: ./debfiles/com.BVNsupport-ytbhd.ytuhd_0.0.3.6_iphoneos-arm.deb
-Size: 6412
-MD5sum: 7f99ef6a6ec3e2177dd5452f38dd061c
-SHA1: 2a418b06268f81f459aee3d31a508631abf12014
-SHA256: f68e96a88a474d878647bf7b4366ba46886e01ec7dc930e0f03f39c897026b9d
-SHA512: d59daa5b33fe95378d2c3eec8fc9d0484ec48c310832d628fe45c9a043be2c97a8ad2211925b0600a63e475fca5699cd3035fcba23770304cf2cf4a1e3152cdc
+Size: 6420
+MD5sum: b04a426d90b3b72dbd35b0d9f3971e45
+SHA1: 96fea298098f860ca76a650a6555f1a1bb87c431
+SHA256: b4d4777767994a4aaa1b064751148bf891220e94be88e45e26e52ccd8c61c346
+SHA512: 874b9ae1b21d7c7d14aa6720dc28341581e79900bfc102a0ba48410e082f07e4d173174c0f38bbe12f97646ee5a8bcb9a99db638fa2be4da680dfafe6c85791c
 Description: Mở khóa độ phân giải 1440p và 2160p trong ứng dụng YouTube dành cho iOS.
 Name: YTUHD SW
 Author: PoomSmart
@@ -980,61 +980,19 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
 Architecture: iphoneos-arm
-Version: 1.0.6.2
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
-Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock
-Filename: ./debfiles/com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa_1.0.6.2_iphoneos-arm.deb
-Size: 64226
-MD5sum: 6f75f91dee07cf9fa6c930d4a693da1e
-SHA1: 48e1e3d0d23059e497de9e0bff3e10e5d013a994
-SHA256: ca5c74c58d89be4444fc38a4c895534df0e47bd50b6026a7334c5cfddf6cdcaf
-SHA512: 9c130a4b98bb10b9539ee1f565d1396239a566d72825395cb61ef1b8b004163bc7489075d1cec6dc3d21fbf6ec7dbac55364035b17209dd8fbf1af113a70607b
-Description: Tuỳ chỉnh YouTube của bạn.
-Name: YouTube Reborn Việt Hoá
-Author: SarahH12099
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
-Architecture: iphoneos-arm
-Version: 1.0.7.8
-Section: Tweaks
-Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
-Installed-Size: 672
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
-Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip
-Replaces: net.sarahh12099.youtubereborn
-Filename: ./debfiles/com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa_1.0.7.8_iphoneos-arm.deb
-Size: 174424
-MD5sum: dbe97b28574c422b90f3a207afde0adb
-SHA1: a489403377e189312564bf81100681e8c601a9d0
-SHA256: a6ea81cd503f8efb624312e50c5d9bace42848873c89afbe7e65e8c1205e5b7d
-SHA512: 1aaa3a41b7578670ed84ee1e2dd22b233340022c7f5b6524ce6b13102e27d0f02b165d493bd634b89e502aafb143bdbb0917c867b890b02e86266c992137db8c
-Description: YouTube Customizer
-Tag: compatible_min::ios12.0, compatible_max::ios14.2
-Name: YouTube Reborn Việt Hoá
-Author: SarahH12099 <sarahh12099@gmail.com>
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
-Architecture: iphoneos-arm
 Version: 1.0.8.2
-Section: Tweaks
+Section: Tinh chỉnh cho YouTube
 Maintainer: BIỆN VĂN NHẬT <BIENVANNHAT97@GMAIL.com>
 Installed-Size: 672
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip
 Replaces: net.sarahh12099.youtubereborn
 Filename: ./debfiles/com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa_1.0.8.2_iphoneos-arm.deb
-Size: 175666
-MD5sum: 78356b6b30d8e0383315f9c30da64bcb
-SHA1: 1dfa121d7c14e1c8a38d4a27f16cf64150718cdd
-SHA256: 603867a4195bbed13fcad4247a5471c91d27d75b35423ae1a5fc2d795da45c89
-SHA512: 0e093e4ab0883cbe1cd12f39165b7c6d0894a6c39d50bc593ac88b8e32708d2531986bf75ce374bf95628ca7cd6491c97ba140133a897a4c1e4b5983d6bab56f
+Size: 175676
+MD5sum: 60ac2f16c2c462e1fe7948040525c196
+SHA1: 4a3ac5335c8bd332353e4d2de35cbe87802864c4
+SHA256: b8d2af2c085ca38643e170681c4fa02fbe9aaf15b322b4d0f4dc135a35844dbe
+SHA512: a1ecf9202374de457811822634be71754fe8b6e4ba770cf17d832253cc9869d2d3e183642978d462c00d3c3eb81fff32b9113fac005c40f9d8b1067abfbcb470
 Description: Chặn Quảng cáo cho Youtube
 Tag: compatible_min::ios12.0, compatible_max::ios14.2
 Name: YouTube Reborn Việt Hoá

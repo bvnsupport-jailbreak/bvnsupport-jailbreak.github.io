@@ -3342,16 +3342,16 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: ru.rj.youtubelite
 Architecture: iphoneos-arm
 Version: 0.9.2-beta
-Section: Tweaks
+Section: Tinh chỉnh cho YouTube
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.con>
 Installed-Size: 562
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/ru.rj.youtubelite_0.9.2-beta_iphoneos-arm.deb
-Size: 86920
-MD5sum: 062c1c2a33b9148a13967ba954d19986
-SHA1: e5b232bc2f904bda936adb093af51e21b3cfacfb
-SHA256: 0516b1ea6af8a87173d026af78207ed8426f10778fd95900c8db660805f49e05
-SHA512: c5e2c9ce522bb7ec396b35f72931a982a4f0a339a070905f5b960e9d954d2dfd885db5bfa23f977019789568b39182c337aa70778656f4eb123ce61568bc5302
+Size: 86930
+MD5sum: 9d668c502af7f18429b66cf907c51282
+SHA1: b3bd7fc2e81f630c9c71c99fc4f95b00a2211651
+SHA256: 2e245304f94aa100f9614767955cd7ebdd2f0754b7cc9b1fb18233a607f3980a
+SHA512: 2c93a1cdebc1614ee8f057e8332e69750709a4a3fec89ec9e93c1ce4d7a038d5cab16a789cc65bc0e2c91ef9d913c18ba66c5da45895c71af1ec20042f4b5f33
 Description: YoutubeLite Việt hoá
  Công dụng:
  * Chặn quảng cáo

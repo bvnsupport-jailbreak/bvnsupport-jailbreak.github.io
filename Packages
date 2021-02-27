@@ -126,6 +126,26 @@ Name: Hack Map Liên Quân
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.autotouch
+Architecture: iphoneos-arm
+Version: 7.8.9
+Priority: optional
+Section: Hack Game
+Maintainer: Biện Văn Nhật
+Installed-Size: 2600
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debfiles/com.BIENVANNHAT.autotouch_7.8.9_iphoneos-arm.deb
+Size: 47057820
+MD5sum: fea5aeebc2f30c2b91ef7444cb9066cc
+SHA1: 88d11197dbdcc0451fbf2e0c5558d6c934b2cc37
+SHA256: 2d14aea5e3dd3a6376ef577b7f3804dfb3227f2cbad4f7400b4d7a0d36a04390
+SHA512: 82e4570b8e4c708422838aad91eaab4ad54f65cb866b2de7956f256a724598579e9414af8949e32fec1864ce258a3da77b50c30452b966a2ca9f74ab376b32f9
+Description: Autoclicker dành cho iOS hỗ trợ từ ios 8 tới 14.9
+Name: AutoTouch VH
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.axon
 Architecture: iphoneos-arm
 Version: 1.3.2

@@ -3275,26 +3275,6 @@ Author: Samuel Bingner
 Icon: file:///Applications/Cydia.app/Sections/hethong1.png
 Depiction: https://bvnsupport-jailbreak.github.io/index.php?pid=439
 
-Package: ru.rejail.autotouch
-Architecture: iphoneos-arm
-Version: 7.8.9
-Priority: optional
-Section: Hack Game
-Maintainer: Biện Văn Nhật
-Installed-Size: 2600
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: ./debfiles/ru.rejail.autotouch_7.8.9_iphoneos-arm.deb
-Size: 47057780
-MD5sum: b993d71fba54668ea750ad2c21ecf117
-SHA1: 155c9e78c52d8d15109d62773f245f4e8f3c4a3a
-SHA256: 9593ad26339d82c69f3723591936cd24d69bdc32a88e08eb7d44e5ba39b6d7b1
-SHA512: 0143f9a08b6b73667b014aadb9efa68ae338059d8e91d548c3e293ec2d47b227abaecc6e381ed008f5a77424d48bde1954ea2de0ae46dfa6f478701bc05b7891
-Description: Autoclicker dành cho iOS
-Name: AutoTouch VH
-Author: Kent Krantz <kentkrantz@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: ru.rj.afsocial
 Architecture: iphoneos-arm
 Version: 1.2

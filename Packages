@@ -857,6 +857,26 @@ Name: Trình Phát Wi-Fi
 Author: Sam Bingner <support@tetherme.net>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.ong
 
+Package: com.BIENVANNHAT.tuanhanhquanhcao
+Architecture: iphoneos-arm
+Version: 2.4
+Section: Tiện ích cho Ứng Dụng
+Maintainer: BIỆN VĂN NHẬT
+Depends: mobilesubstrate(>= 0.9.5015), preferenceloader(>= 2.2.2), applist
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debfiles/com.BIENVANNHAT.tuanhanhquanhcao_2.4_iphoneos-arm.deb
+Size: 205748
+MD5sum: 70bb59836841a6a355def59382634d24
+SHA1: c96f2e31936a0bf47c2402d8a42e8fcd217d58dc
+SHA256: 734e8e59f4076b03469b705307d0a33b14a2f59c1fd681c39c221314d7137db5
+SHA512: 0addbff56655d226147a4b1898bd7d51a72946f43dc9c45780ee5af95f002dd42cc8529850b800172b4b784395b1c3c9bd9b46ee4c17080bf1c1a12fecc3cb9b
+Description: Tua nhanh video quảng cáo trong ứng dụng và trò chơi.Hỗ trợ từ Ios 12=>14.5
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: lenglengyu <lenglengyu@126.com>
+Name: Tua Nhanh Quảng Cáo
+dev: lenglengyu
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.win10fp
 Architecture: iphoneos-arm
 Version: 0.2

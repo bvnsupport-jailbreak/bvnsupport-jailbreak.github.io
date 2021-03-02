@@ -431,6 +431,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fr
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.homepluspro
+Architecture: iphoneos-arm
+Version: 2.0.0-beta1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 1412
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: vn.kenhtao.homepluspro
+Filename: ./debfiles/com.BIENVANNHAT.homepluspro_2.0.0-beta1_iphoneos-arm.deb
+Size: 454370
+MD5sum: bdeaee80dfb92e538051b869697248b0
+SHA1: 848c0f6fcc0d98ea9c0e866bf16991782385761f
+SHA256: 34f43dd108841d9d6da91a2876da8fedc10aab459c6e4557d7e5ef178bcd6366
+SHA512: c05d23d5ae850053803163ad5758469ec4c7e1ff4f9e2579d14317b96b13c5ebc59ce756c5ef15009ca501715561577833e7c3f4b8ff245e581da353ce27f192
+Description: Điều khiển bố cục trên màn hình chính theo cách bạn muốn!HomePlus Pro là một tinh chỉnh mới hỗ trợ cho iOS 11 - 14 với các tính năng tương tự như Boxy hoặc Iconator . Hiện tại tinh chỉnh vẫn đang được nhà phát triển cập nhật liên tục để nó làm việc ổn định hơn .
+Name: HomePlusPro Việt Hoá
+Author: Kritanta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.iOX
 Architecture: iphoneos-arm
 Version: 1.2.3

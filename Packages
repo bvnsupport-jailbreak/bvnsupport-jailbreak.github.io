@@ -88,6 +88,23 @@ Name: Allow Playback While Recording Screen/Sound
 Author: Jun Elvin
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.altstore
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Gia hạn chứng chỉ
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=8), com.rileytestut.altdaemon
+Filename: ./debfiles/com.BIENVANNHAT.altstore_1.4_iphoneos-arm.deb
+Size: 4578794
+MD5sum: 2ab39ce3dee749d42b8261ab0033fa31
+SHA1: 341144256ccc29553f99b921be2bc66827afef98
+SHA256: 1068fbfa834f803b4f1125be1696f47e48d059bff6b705e8e6d33d55eaff8a4a
+SHA512: d7628a9bee6ee3d32c548d5f4bdbbb4cab1eea4d9a43d3fac2121a1ce36a44b90890586547ab3311735f9ef7f78f3f069c721c9f85c069c60e4812d77915c316
+Description: Gia hạn và đăng ký chứng chỉ cho các ứng dụng.
+Name: AltStore
+Author: Riley Testut
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.arenaofvalor
 Architecture: iphoneos-arm
 Version: 16

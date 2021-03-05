@@ -299,6 +299,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.en
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.eneko
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.dleasy
+Architecture: iphoneos-arm
+Version: 2.10.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 34567
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Replaces: me.ahmedbafkir.dleasy
+Filename: ./debfiles/com.BIENVANNHAT.dleasy_2.10.1_iphoneos-arm.deb
+Size: 2974860
+MD5sum: 079eb415272795e1d1018f44b5b510d2
+SHA1: d5dfbf7c65d94ee9a29592799cd14285b1308e47
+SHA256: 1cddc7a8318c7c7c4d92bbbd80a2fc5ecfb6068a12af39e2f964f7dbb18ef22d
+SHA512: 228f3b3a2828b18f4719a0f7590fc2fb2e187c845842cd4dcdf728808d7eea70b619c29f35466e707cbae30473518ea0fd9292257721b23ec701ff140224bc55
+Description: Tải xuống hình ảnh và video từ các ứng dụng xã hội một cách dễ dàng!
+Name: DLEasy VH
+Author: AhmedBafkir
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.doixungcamera
 Architecture: iphoneos-arm
 Version: 1.2.3

@@ -3085,27 +3085,6 @@ Name: snell Việt Hoá
 Author: Samg_is_a_Ninja
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.supportjailbreak.snowboardVH
-Architecture: iphoneos-arm
-Version: 1.4.0~Beta4
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 4788
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.supportjailbreak.snowboardVH_1.4.0~Beta4_iphoneos-arm.deb
-Size: 2269304
-MD5sum: da429b127bec7b049a539c72e88d2667
-SHA1: ad046a2145685562cf8371cbd32b262f48d087cf
-SHA256: 940e8169313e8a53f1c5d5d39c8361f9ac518fad417320fe98d342967f9bce96
-SHA512: 89a4f8b3477d40962ea457f30b73a59d0f0b753e436a3b1066ef81928e9c069024fc6a13662a9742366a33908565c68b48badd8a3184048e2b4301ecad37db86
-Description: Dùng để kích Hoạt Themes hoặc các tiện tích khác.!
-Name: SnowBoard Việt Hoá
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-Author: Spark & Dennis D. Bednarz
-
 Package: com.supportjailbreak.socialdownloader
 Architecture: iphoneos-arm
 Version: 1.2-1

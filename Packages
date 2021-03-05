@@ -2003,6 +2003,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.bvnjailbreak.xenhtml
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.suportjailbreak.SnowboardVH
+Architecture: iphoneos-arm
+Version: 1.4.12~Beta5
+Section: Tweaks
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.suportjailbreak.SnowboardVH_1.4.12~Beta5_iphoneos-arm.deb
+Size: 5581714
+MD5sum: c47ef1b9923f16bbda87fcc52825a4c6
+SHA1: 45e27961f7452c3c907f94182312974003b6d675
+SHA256: 3173d63a1f6437b15fadde48fd400b65469770112bcfe77dd7a68c7967aa4e30
+SHA512: 8232ae6458723d72cacf1cdbd49ecc36ece7f7183f561d9c4b33066c76f371a5e728b8ef7ecd22199c787a3d125b0007c733845564d94cde8f68e3b67d89614b
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Hoá
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.support-jailbreak.libnebbs
 Architecture: iphoneos-arm
 Version: 1.0

@@ -4,6 +4,9 @@
 			<name>Theo dõi tôi trên Facebook</name>
 			<url>https://www.facebook.com/SUPPORT.BVN.VN</url>
 			<iconclass>fa fa-facebook</iconclass>
+   <footerlinks>
 		</link>
+          <name>Ủng hộ tôi qua Paypal</name>
+			<url>https://www.paypal.me/repocydiaBVN</url>
 	</footerlinks>
 </repo>

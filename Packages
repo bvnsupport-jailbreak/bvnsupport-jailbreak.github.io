@@ -319,25 +319,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.en
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.eneko
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.dleasy
-Architecture: iphoneos-arm
-Version: 2.10.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 34567
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
-Replaces: me.ahmedbafkir.dleasy
-Filename: ./debfiles/com.BIENVANNHAT.dleasy_2.10.1_iphoneos-arm.deb
-Size: 2974860
-MD5sum: 079eb415272795e1d1018f44b5b510d2
-SHA1: d5dfbf7c65d94ee9a29592799cd14285b1308e47
-SHA256: 1cddc7a8318c7c7c4d92bbbd80a2fc5ecfb6068a12af39e2f964f7dbb18ef22d
-SHA512: 228f3b3a2828b18f4719a0f7590fc2fb2e187c845842cd4dcdf728808d7eea70b619c29f35466e707cbae30473518ea0fd9292257721b23ec701ff140224bc55
-Description: Tải xuống hình ảnh và video từ các ứng dụng xã hội một cách dễ dàng!
-Name: DLEasy VH
-Author: AhmedBafkir
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.doixungcamera
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -2172,26 +2153,6 @@ Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.Gesturesi11VN
 
-Package: com.supportjailbreak.LynxVIETHOA
-Architecture: iphoneos-arm
-Version: 1.9.5
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT <BIENVANNHAT97@gmail.com>
-Installed-Size: 2476
-Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Conflicts:
-Filename: ./debfiles/com.supportjailbreak.LynxVIETHOA_1.9.5_iphoneos-arm.deb
-Size: 1234866
-MD5sum: 50e06f456f327b1947c41d230c5d14b2
-SHA1: 6f3fbabd96b8b13e8b5b73a845ef98112ab7bcec
-SHA256: ee799e362dafce101948956e6ee5b92972be41066d19178772c26a8fd887bfdd
-SHA512: d08e8c941197431ebf4b14462cb28f38fc89d999e69f81befaf979c588531ba965e7c6989dd7520d865ebc31ebe677ea4014c84b8eecb43ed1b077fd2ff01a69
-Description: Tùy chỉnh tối ưu Thiết bị của bạn:Hỗ trợ từ Ios 12 đến ios 13.9
-Tag: purpose::extension,  compatible_min::ios12.0, compatible_max::ios13.7
-Name: Lynx VIỆT HOÁ
-Author: MTAC <mtactheming@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.supportjailbreak.LynxVIETN
 Architecture: iphoneos-arm
 Version: 2.0
@@ -2210,46 +2171,6 @@ Description: Cấu hình thiết bị theo cách bạn muốn IOS 14-14.5
 Tag: purpose::extension, compatible_min::ios14.0, compatible_max::ios14.2
 Name: Lynx2 Việt Hoá
 Author: MTAC <mtactheming@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.supportjailbreak.LynxViethoa
-Architecture: iphoneos-arm
-Version: 1.9.1
-Section: Tweaks
-Maintainer: Bvnsupport
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Filename: ./debfiles/com.supportjailbreak.LynxViethoa_1.9.1_iphoneos-arm.deb
-Size: 1145624
-MD5sum: e7f2755aefaa580947d8e8b1f26b120e
-SHA1: 4a12543f48b815e00dbce229b9ad7e09e8d241c6
-SHA256: e289d9556235e144970373ad624ffe6671b60c9627fd1b6d8e8d70e94fb9c859
-SHA512: e760c08365c01628d7967972308bfa29081b7cb9ba6877b65f74428d888073c8081284c35673d2fd11ed7aff25af38a89084ba92b6747d0e707d2656e94ffdc1
-Homepage: https://www.facebook.com/SUPPORT.BVN.VN
-Description:  Một tinh chỉnh cấu hình mọi thứ cho thiết bị của bạn!
-Name: Lynx Việt Hoá
-Author: MTAC
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-
-Package: com.supportjailbreak.Lynxviethoa
-Architecture: iphoneos-arm
-Version: 1.9.2
-Section: Tweaks
-Maintainer: Bvnsupport
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Filename: ./debfiles/com.supportjailbreak.Lynxviethoa_1.9.2_iphoneos-arm.deb
-Size: 1159418
-MD5sum: 8ca85522cb08b301fec4024f05b88c0b
-SHA1: 481effd1b457c364222fe069057d8542c9d3b9ed
-SHA256: 231cfd43e2c3ff519aeb8e06c5743d6d49f182a7e801e93ae7bfa40bf3cd98bf
-SHA512: 4f24b54a9013d9e69f1a80ad38d88a7898590b09c52e0481f617d4a022e28931927a3184058d20d92dfeeb4474ca786bd2ea2f34aa5fbf92e8c05031fda389fc
-Homepage: https://www.facebook.com/SUPPORT.BVN.VN
-Description:  Một tinh chỉnh cấu hình mọi thứ cho thiết bị của bạn!
-Name: Lynx Việt Hoá
-Author: MTAC
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.supportjailbreak.LynxViethoa
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.NolockBlurVN

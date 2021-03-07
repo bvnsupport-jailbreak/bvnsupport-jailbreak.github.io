@@ -52,6 +52,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.TR
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.TRM
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.afakerx
+Architecture: iphoneos-arm
+Version: 2.0-4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 745
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: vn.kenhtao.afakerx
+Filename: ./debfiles/com.BIENVANNHAT.afakerx_2.0-4_iphoneos-arm.deb
+Size: 150532
+MD5sum: 0d6a3a324183a59a44fd5c545e360a99
+SHA1: cf4596d71a6ba3c6309bc78ca18bca9d950ad79e
+SHA256: a4cc5d6de7c1135f26ee46e0142d25fa119fa83589e6058a18a2c812a3d0520c
+SHA512: a9e2aed9a2b0a8247def9e305c65f49d63fa2022e979808a568043ebdb992f5ab1332064bfe16c29eee96c80698f2c1f90b3559bd2a2ff7cce0f7f66747108b0
+Description: Đổi văn bản của tên nhà mạng hoặc pin và hơn nữa.
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13,compatible::ios14
+Name: AFakerX Việt Hoá
+Author: CUNSTUCK <cunstuck@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.agentcamera
 Architecture: iphoneos-arm
 Version: 1.1.1
@@ -751,6 +771,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.pa
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.passby
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: giorgioiavicoli
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.photospro
+Architecture: iphoneos-arm
+Version: 1.0-5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1172
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debfiles/com.BIENVANNHAT.photospro_1.0-5_iphoneos-arm.deb
+Size: 626630
+MD5sum: bbc3dc42353218647116c2dae5fe99d7
+SHA1: 59118851584e9ec786731284cf875342e5e280f1
+SHA256: 77e92513bef683d863ba0d5b0b7ba743de732d2b6f3effbd61e38059221f0f9d
+SHA512: 59edfcbcdc4de7b254221e2d931af3238b499294d1c5031f4b8c60af96b4f54a0046aee29d8485797c08b4b9b4b1a6bfdd70772bc1a072e111a1ebd40b5cff58
+Description: Thêm nhiều tính năng vào ứng dụng ảnh.
+Name: PhotosPro Việt Hoá
+Author: ahmedmakls <makhl.2266@yahoo.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.progesture

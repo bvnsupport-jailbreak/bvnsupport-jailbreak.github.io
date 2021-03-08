@@ -2190,23 +2190,6 @@ Name: Trong Suốt Passcode
 Author: Tr1Fecta <tr1fecta@pm.me>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
-Package: com.supportjailbreak.ShuffleVietnam
-Architecture: iphoneos-arm
-Version: 1.2.9
-Section: Tweaks
-Maintainer: Bvnsupport
-Depends: com.creaturecoding.libcspreferences
-Filename: ./debfiles/com.supportjailbreak.ShuffleVietnam_1.2.9_iphoneos-arm.deb
-Size: 390612
-MD5sum: 16345c345d0feee114b8d7f77509ac41
-SHA1: 7413d182723c5c2fe3616b719359687a84cd7673
-SHA256: 1f74792857a3241c9e55c3e9e4641f792934d9a9f14e06bb330ee77b3f6e0f04
-SHA512: 5f9ac2e60607c0cbf587c3a76012afe071fe324685b751a06b8ef3d1d35a0751c227c20416a5e33e986d0b8b853138c96f33de069f719ab316ac0d190b1be52e
-Description: Mix up your preferences
-Name: Shuffle Việt Hoá
-Author: CreatureSurvive
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-
 Package: com.supportjailbreak.animplusVIETHOA
 Architecture: iphoneos-arm
 Version: 1.0-7
@@ -3227,23 +3210,6 @@ Author: Netskao <admin@initnil.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: AntiProfilesRevoke
 dev: netskao
-
-Package: com.supportjb.CputoolVN
-Architecture: iphoneos-arm
-Version: 1.9
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, com.spark.libsparkapplist
-Filename: ./debfiles/com.supportjb.CputoolVN_1.9_iphoneos-arm.deb
-Size: 2262
-MD5sum: 390e40e4d16caf4e085492311b9845b8
-SHA1: 33d8ba3d208bd7c2f48f7d8daba0b78b15762551
-SHA256: 7e4d99781f97919e3b997ebd506f05bc1d77d516be303ba35ed6b6cb75763e5d
-SHA512: 6226005e333fa621ebcba190ae3db885f013a58976cb8f0b3c040b768a77b2e3a9c670a6778768e2e230db784095aca084f522a78f2eeb85450840d1ec0d7d78
-Description: Gói tiếng Việt dành cho Cputool!
-Name: CPUTool (gói tiếng Việt)
-Author: Biện Văn Nhật
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjilbreak.cydownvn
 Architecture: iphoneos-arm

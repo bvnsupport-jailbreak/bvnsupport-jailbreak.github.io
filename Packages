@@ -383,6 +383,23 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.ed
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.edge
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.eqe
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (<< 16), mobilesubstrate, coreutils
+Filename: ./debfiles/com.BIENVANNHAT.eqe_2.2_iphoneos-arm.deb
+Size: 7949576
+MD5sum: 563afb3b43bd7f4f85b702573e3220d9
+SHA1: e30a02cee3537c038dc874a45168d73e73a7088f
+SHA256: 8efa9d3eb05cd1964087e6e957987a1410cff470b31af1fe7c303e64a11a00c3
+SHA512: 1637be3d173c87b4a89c419bde8ca12e434a479fa995c2aed1bead3241554eeca8b79209be8ea81a81e515e568c68d20bb1ac3f3cef8b5574f7c7bac9ea19da9
+Description: Bộ cân bằng tham số trên toàn hệ thống.Cài xong Tweak nhớ UI Cache nhé.Hỗ trợ từ ios 7->14.5
+Name: EQE VH
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm
 Version: 1.4.0

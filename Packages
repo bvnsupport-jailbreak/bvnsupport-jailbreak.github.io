@@ -319,6 +319,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.en
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.eneko
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.dimentio
+Architecture: iphoneos-arm
+Version: 2.0.2
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 372
+Provides: dimentio, libdimentio0, libdimentio-dev
+Conflicts: dimentio, libdimentio0, libdimentio-dev
+Filename: ./debfiles/com.BIENVANNHAT.dimentio_2.0.2_iphoneos-arm.deb
+Size: 37968
+MD5sum: 8b15f52f81631f5bc9674d52416ad31c
+SHA1: 15bffbe9996e8a49def1da80941f3bcad2214fd5
+SHA256: 19eb90c8b5a0c46fa2fdf042f67b3cf6aebe2a21b0da94d98011f541352e7229
+SHA512: 33fa448d8723f3673c3c4f34e9fe531c40b93130f56e31aa7752c2bd30ee1fc000c3bfd2321a0baf8f2263db64016071cfd66834edcb81ed8dad354147670364
+Description: PoC tool for setting/getting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
+Tag: role::hacker
+Name: dimentio
+Author: 0x7ff
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BIENVANNHAT.doixungcamera
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -947,6 +967,25 @@ Tag: purpose::extension
 Name: Trình Phát Wi-Fi
 Author: Sam Bingner <support@tetherme.net>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.ong
+
+Package: com.BIENVANNHAT.tsssaver
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Lưu ShSh IOS
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 232
+Depends: dimentio (>=1.0.3+git20201124.7ffffff) | com.BIENVANNHAT.dimentio (>=2.0.0)
+Conflicts: co.dynastic.TSSsaver
+Filename: ./debfiles/com.BIENVANNHAT.tsssaver_2.0.3_iphoneos-arm.deb
+Size: 65832
+MD5sum: d865eda74fd0f9f7f08be34e0b704c4a
+SHA1: b356684ff65208cf0b7014881549b777719defab
+SHA256: f3697752d30d92e64108aa4d17eb7abb97895f18dd8b2d9396c376f9d85ffc4d
+SHA512: aadb681189a87822d733d2804b526020657c309c55e1fec357bb0293a4d212bf231c51a73eb2252d67237a72b233e5187b6fd2f865f0e3a3424b569182369cce
+Description: Một ứng dụng tuyệt vời!
+Name: Lưu SHSH
+Author: 1Conan <tweaks@1conan.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.tuanhanhquanhcao
 Architecture: iphoneos-arm

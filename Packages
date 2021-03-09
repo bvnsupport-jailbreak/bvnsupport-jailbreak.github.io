@@ -768,6 +768,26 @@ Name: No Ads
 Author: Hao Nguyen <hao.ict56@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.BIENVANNHAT.noads
+Architecture: iphoneos-arm
+Version: 4.8.0
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 312
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debfiles/com.BIENVANNHAT.noads_4.8.0_iphoneos-arm.deb
+Size: 74104
+MD5sum: 51a50208df0b0ae5bf7225208a57249c
+SHA1: d9cd546108095af0c1e8f7a597fb1a44f51c467b
+SHA256: 1af17040de90fa27445a2a7c58f3bbd8d9e90c3954eaf36059f3ac7b81f49cb5
+SHA512: e5038e79a85d06f925f84556855832af53cde1267cc8b5814bc5f4fec5c8834f1251885fd916cf59c20494d1d070cf10180dd828d2f713c2cc41288374f4832e
+Description: Đây là một thư viện nhà phát triển để sở thích tốt hơn và các tiện ích hữu ích.
+ Đây là một thư viện nhà phát triển để sở thích tốt hơn và các tiện ích hữu ích.
+Tag: role::developer
+Name: No Ads
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/hethoongg1.png
+
 Package: com.BIENVANNHAT.passby
 Architecture: iphoneos-arm
 Version: 1.9

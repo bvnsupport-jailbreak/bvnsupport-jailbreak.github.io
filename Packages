@@ -904,6 +904,32 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.tiktokgod
 Architecture: iphoneos-arm
+Version: 1.11.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 404
+Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.noads (>= 4.7.0), firmware (>= 12)
+Filename: ./debfiles/com.BIENVANNHAT.tiktokgod_1.11.0_iphoneos-arm.deb
+Size: 71742
+MD5sum: 077fa8b84f740d783223bb07283db82a
+SHA1: 7fe5d334c648998d313e91a6d36f6d71df6a63aa
+SHA256: cc3dba1856d3f5ad3d25620d9154d582d626e828810cf3189d6913ef77823cfc
+SHA512: 8c6d9c9c4b8bd6efc97fd9a04da8282020bf05875000cce0ba0dd250304e711a9b48d7ebe6a3640a0d469e71ffb76c08f296c221de1cd1690ce097e1a64ada4a
+Description: Tinh chỉnh tốt nhất cho ứng dụng Tiktok.
+ Tính năng:
+ - Loại bỏ các quảng cáo
+ - Tải xuống không có hình mờ
+ - Tự động cuộn đến video tiếp theo
+ - Thay đổi vùng (có thể không hoạt động cho iPad và một số thiết bị)
+ - Hiển thị thanh tiến trình (để chuyển tiếp nhanh hoặc tua lại video)
+ - Có thể ẩn UI (Xem video ở toàn màn hình)
+ - Hỗ trợ phiên bản iOS 12 - 14 & mới nhất của Tiktok
+Name: TikTok God
+Author: Hao Nguyen
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.tiktokgod
+Architecture: iphoneos-arm
 Version: 1.9.3
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT

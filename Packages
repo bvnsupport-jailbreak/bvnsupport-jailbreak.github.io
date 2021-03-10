@@ -420,33 +420,6 @@ Name: EQE VH
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.facebooknoads
-Architecture: iphoneos-arm
-Version: 1.4.0
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 584
-Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.noads (>= 4.5.0), firmware (>= 10)
-Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.4.0_iphoneos-arm.deb
-Size: 270316
-MD5sum: 6418fa044c12137664ed94cbd76c2905
-SHA1: 8caae44828a636a5e9a0fe2c2da7cdb1adb0f34d
-SHA256: 560eb300794a92998ae7dfd0f88dc030bbca88d2c9049cf9c1628324deaaeb05
-SHA512: abc5e2fdeb0163671f8fc141ccba742cdb1afda19e834220c5650f2c36d560400da49557a359b99e6ed13858c1ccde84de25ed405c6376621b90f53ad714b231
-Description: Tinh chỉnh mã nguồn mở & miễn phí cho Facebook
- - Loại bỏ các quảng cáo
- - Có thể Tải xuống Video (nhấn và giữ để tải xuống)
- - Có thể tải xuống câu chuyện
- - Ảnh hồ sơ chỉ có thể tôi
- - Tắt Story Seen (Xem câu chuyện của bạn bè mà không cho họ biết)
- - Ẩn nhà soạn nhạc trên News Feed
- - Ẩn các câu chuyện trên News Feed
- - Hỗ trợ iOS 10 (không thử nghiệm) - 11 (thử nghiệm) - 12 (thử nghiệm) - 13 (thử nghiệm)
- - Hỗ trợ phiên bản Facebook mới nhất (Nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 310)
-Name: Facebook No Ads
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Hao Nguyen
-
 Package: com.BIENVANNHAT.fast-ls14
 Architecture: iphoneos-arm
 Version: 4.0-1
@@ -718,37 +691,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.merriam
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.merriam
 
-Package: com.BIENVANNHAT.messengernoads
-Architecture: iphoneos-arm
-Version: 3.8.0
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 972
-Depends: mobilesubstrate, com.BIENVANNHAT.noads (>= 4.5.0), firmware (>= 10)
-Filename: ./debfiles/com.BIENVANNHAT.messengernoads_3.8.0_iphoneos-arm.deb
-Size: 582836
-MD5sum: 9255c56244f7f6f4952cde2b98b6cc2d
-SHA1: 8bc91c7e72a31038dbbf0886c5fc3aaa722798ff
-SHA256: aac617fdb223c5d875ba32ade53f137e52053da46280a129f528dd4fc492debf
-SHA512: 7f75f5a8ee4ed97296e701b5c3f72372372a6cfdd8ff0fe89374e7536c6a3e8b3ad8611c4552485f0a054f69eebf750928fbe82eb3a8c3331c75ff37e755aaa6
-Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
- Tinh chỉnh tốt nhất cho ứng dụng Messenger.
- * Chạm vào ảnh hồ sơ của bạn ở góc trên cùng bên trái của màn hình để truy cập cài đặt
- Đặc trưng:
- - Ẩn quảng cáo trên ứng dụng Messenger
- - Tắt biên nhận đã đọc
- - Tắt chỉ báo đánh máy
- - Vô hiệu hóa Story Seen Receipt
- - Có thể lưu câu chuyện của bạn bè
- - Ẩn Thanh tìm kiếm, hàng Câu chuyện, tab Mọi người
- - Ẩn Liên hệ được Đề xuất trong Tìm kiếm
- - Kéo dài thời lượng tải lên video câu chuyện (từ mặc định là 20 giây thành 10 phút)
- - Hỗ trợ iOS 10 (không thử nghiệm) - 11 (thử nghiệm) - 12 (thử nghiệm) - 13 (thử nghiệm)
- - Hỗ trợ phiên bản Messenger mới nhất (Nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 295)
-Name: Messenger No Ads
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Hao Nguyen
-
 Package: com.BIENVANNHAT.noads
 Architecture: iphoneos-arm
 Version: 4.5.0
@@ -767,26 +709,6 @@ Tag: role::developer
 Name: No Ads
 Author: Hao Nguyen <hao.ict56@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
-Package: com.BIENVANNHAT.noads
-Architecture: iphoneos-arm
-Version: 4.8.0
-Section: System
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 312
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
-Filename: ./debfiles/com.BIENVANNHAT.noads_4.8.0_iphoneos-arm.deb
-Size: 74104
-MD5sum: 51a50208df0b0ae5bf7225208a57249c
-SHA1: d9cd546108095af0c1e8f7a597fb1a44f51c467b
-SHA256: 1af17040de90fa27445a2a7c58f3bbd8d9e90c3954eaf36059f3ac7b81f49cb5
-SHA512: e5038e79a85d06f925f84556855832af53cde1267cc8b5814bc5f4fec5c8834f1251885fd916cf59c20494d1d070cf10180dd828d2f713c2cc41288374f4832e
-Description: Đây là một thư viện nhà phát triển để sở thích tốt hơn và các tiện ích hữu ích.
- Đây là một thư viện nhà phát triển để sở thích tốt hơn và các tiện ích hữu ích.
-Tag: role::developer
-Name: No Ads
-Author: Hao Nguyen <hao.ict56@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/hethoongg1.png
 
 Package: com.BIENVANNHAT.passby
 Architecture: iphoneos-arm

@@ -749,6 +749,35 @@ Name: Messenger No Ads
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.messengernoads
+Architecture: iphoneos-arm
+Version: 3.9.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 980
+Depends: mobilesubstrate, com.BIENVANNHAT.noads (>= 4.5.0), firmware (>= 10)
+Filename: ./debfiles/com.BIENVANNHAT.messengernoads_3.9.1_iphoneos-arm.deb
+Size: 589192
+MD5sum: 5ac056ea783dcaa3033942c21a58520a
+SHA1: ade903d56329912e8cc35bdd8c36be7c38938800
+SHA256: 16860a3a5dddfc1b8fbc6c71d616ef065cb91b0ba5e31926ce6467090b59cde0
+SHA512: 0ccde3c534b037df4c7218bd5527696d98a3a73472108d4f4ddb645895190843348398b9bea3d82f2aeff8898cedca2d004e0882e7016835ca64bd2a10a9fbca
+Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
+ Tính Năng:
+ - Ẩn quảng cáo trên ứng dụng Messenger
+ - Vô hiệu hóa đọc hóa đơn
+ - Vô hiệu hóa chỉ báo gõ
+ - Vô hiệu hóa truyện nhìn thấy
+ - có thể cứu câu chuyện của bạn bè
+ - Ẩn thanh tìm kiếm, hàng truyện, tab người
+ - Ẩn liên hệ được đề xuất trong tìm kiếm
+ - Mở rộng độ dài tải lên video câu chuyện (từ mặc định là 20 giây đến 10 phút)
+ - Hỗ trợ iOS 10 - iOS 14
+ - Hỗ trợ phiên bản Messenger mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 300.0)
+Name: Messenger No Ads
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
 Package: com.BIENVANNHAT.noads
 Architecture: iphoneos-arm
 Version: 4.5.0
@@ -1070,6 +1099,34 @@ Description: Chủ đề cho FrontPage
 Name: Windows 10
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JunesiPhone <junesgraphics@gmail.com>
+
+Package: com.BIENVANNHT.facebooknoads
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.noads (>= 4.6.0), firmware (>= 12)
+Filename: ./debfiles/com.BIENVANNHT.facebooknoads_1.4.1_iphoneos-arm.deb
+Size: 270900
+MD5sum: f57dc29e7052c936a1c6e600d7d3a6ab
+SHA1: ecc8b053ea0ad8805e495c8d6ddcc8c7cf9d8fa0
+SHA256: e581ce67c0112cd71e59554c3aca5ebece593e11f515d6e59da4afca023e9e7b
+SHA512: 59fddc55a021307a35576d0c78b161dc45234b312f2b1dfb71150f748ab827eaf30238d8abfe64147233f61371a79615420fb3af3bd90eb40e65462cbca2a141
+Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
+ Tính Năng:
+ - Loại bỏ các quảng cáo
+ - Có thể tải xuống video (nhấn lâu để tải xuống)
+ - có thể tải câu chuyện
+ - chỉ có thể tôi hình ảnh hồ sơ
+ - Vô hiệu hóa truyện nhìn (xem câu chuyện của bạn bè mà không cho họ biết)
+ - Ẩn nhà soạn nhạc trên nguồn cấp dữ liệu tin tức
+ - Ẩn câu chuyện về nguồn cấp dữ liệu tin tức
+ - Hỗ trợ iOS 12-14
+ - Hỗ trợ phiên bản Facebook mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 307.0)
+Name: Facebook No Ads
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
 
 Package: com.BVNsupport-ytbhd.ytuhd
 Architecture: iphoneos-arm

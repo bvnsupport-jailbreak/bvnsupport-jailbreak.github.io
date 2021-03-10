@@ -420,33 +420,6 @@ Name: EQE VH
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.facebooknoads
-Architecture: iphoneos-arm
-Version: 1.4.0
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 584
-Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.noads (>= 4.5.0), firmware (>= 10)
-Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.4.0_iphoneos-arm.deb
-Size: 270316
-MD5sum: 6418fa044c12137664ed94cbd76c2905
-SHA1: 8caae44828a636a5e9a0fe2c2da7cdb1adb0f34d
-SHA256: 560eb300794a92998ae7dfd0f88dc030bbca88d2c9049cf9c1628324deaaeb05
-SHA512: abc5e2fdeb0163671f8fc141ccba742cdb1afda19e834220c5650f2c36d560400da49557a359b99e6ed13858c1ccde84de25ed405c6376621b90f53ad714b231
-Description: Tinh chỉnh mã nguồn mở & miễn phí cho Facebook
- - Loại bỏ các quảng cáo
- - Có thể Tải xuống Video (nhấn và giữ để tải xuống)
- - Có thể tải xuống câu chuyện
- - Ảnh hồ sơ chỉ có thể tôi
- - Tắt Story Seen (Xem câu chuyện của bạn bè mà không cho họ biết)
- - Ẩn nhà soạn nhạc trên News Feed
- - Ẩn các câu chuyện trên News Feed
- - Hỗ trợ iOS 10 (không thử nghiệm) - 11 (thử nghiệm) - 12 (thử nghiệm) - 13 (thử nghiệm)
- - Hỗ trợ phiên bản Facebook mới nhất (Nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 310)
-Name: Facebook No Ads
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Hao Nguyen
-
 Package: com.BIENVANNHAT.fast-ls14
 Architecture: iphoneos-arm
 Version: 4.0-1

@@ -733,6 +733,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: giorgioiavicoli
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.photodock
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), com.muirey03.libimagepicker
+Filename: ./debfiles/com.BIENVANNHAT.photodock_0.0.1_iphoneos-arm.deb
+Size: 39676
+MD5sum: 136f2c2b3c15eb7280157d873e23b44e
+SHA1: c973371e4cae9207fafb6c697f5ea5686f1a255c
+SHA256: a65084183709b91e3f7fbf5e87b249f856c3a280f59d5939004221251b437a9e
+SHA512: 4f36da2dfd8df92ab27ec36382b7d1c0e612c457ca58086896dc387378024681fb1a0b9de1f3b18bb8c99a1f36deb4f726452365f9fad39da92f89ffae78c43b
+Description: Thay đổi hình nền của dock của bạn thành một bức ảnh mà bạn chọn.
+Name: PhotoDock
+Author: PopsicleTreehouse
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.photospro
 Architecture: iphoneos-arm
 Version: 1.0-5

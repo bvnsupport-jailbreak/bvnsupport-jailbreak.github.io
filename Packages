@@ -741,13 +741,13 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000), com.muirey03.libimagepicker
 Filename: ./debfiles/com.BIENVANNHAT.photodock_0.0.1_iphoneos-arm.deb
-Size: 39676
-MD5sum: 136f2c2b3c15eb7280157d873e23b44e
-SHA1: c973371e4cae9207fafb6c697f5ea5686f1a255c
-SHA256: a65084183709b91e3f7fbf5e87b249f856c3a280f59d5939004221251b437a9e
-SHA512: 4f36da2dfd8df92ab27ec36382b7d1c0e612c457ca58086896dc387378024681fb1a0b9de1f3b18bb8c99a1f36deb4f726452365f9fad39da92f89ffae78c43b
+Size: 39690
+MD5sum: 16e5e35075cd477e493162baa7a62f88
+SHA1: f79dc9d0547b6986fed38f340407199efca6ee64
+SHA256: 7017f29e90004af88563406e433be270e59c9935c13d7f9b67bb1c3f615f3e14
+SHA512: faefb3db8b02a044ad11d7ed44925016e7cbc755443e3b4d3912d858b88f45be8cd4a7bcdf2c567bf87047ed436435b1778f3808ddf14d32dc7a5daeb3b7794e
 Description: Thay đổi hình nền của dock của bạn thành một bức ảnh mà bạn chọn.
-Name: PhotoDock
+Name: PhôtDock Việt Hoá
 Author: PopsicleTreehouse
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

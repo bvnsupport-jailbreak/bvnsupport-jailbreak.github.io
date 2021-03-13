@@ -428,11 +428,11 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 584
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
 Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.4.1_iphoneos-arm.deb
-Size: 270906
-MD5sum: da6d727adff949088b54f14c643be03b
-SHA1: 1b556c1bd1f96924e3cf5680ca1694c4165c04a5
-SHA256: 1ad9cae6c880f0fcdee6c20756fd48b9dd625b3df11d80114f9f47dde674459c
-SHA512: 39610025260736d109e2d8fd6071b5053b6a48769b7577d191615482f1555e4aa148eaf325e616a87f68fcbe5e70e0399d648ffb92a080fea164fa8e429ec43e
+Size: 270690
+MD5sum: 6d3ec7ccf9bda873c49664bd1c444141
+SHA1: 3a8d2c8a65ecde0208cc931bee8b06d408cd4001
+SHA256: 0dba0f6ec5067116220e8c607f124f35a0cd275ef585606ad351cd420a7d8872
+SHA512: 9621f302dc5335937c1dcd3f7829fd78676da127385b5a71ed144a47b42188bd4a23954435358f7a22d4b2ec1f2ca48803629e89aa6406c954c3786841607e63
 Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
  Tính Năng:
  - Loại bỏ các quảng cáo
@@ -727,11 +727,11 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 1004
 Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
 Filename: ./debfiles/com.BIENVANNHAT.messengernoads_3.10.0_iphoneos-arm.deb
-Size: 587368
-MD5sum: 4ece80cdea1eaa48fadd68cfda950f65
-SHA1: f970c9c685b7e73bb786386e90462930412b504b
-SHA256: 85cc6249171a26fd1845ea0ac6054c8014000aa5bd266f85d48d16c4ef645fa1
-SHA512: 4463318000bbd940cda40760e737c8277a1932d974e00aae9883028c3f0dbc4dc00c0c4f1e1ae672c5a2bde4cfb72fde935f698e21da658c3ed0c001e52fbd14
+Size: 587144
+MD5sum: fd14a42f2d8652e0b008ccdcb6e88a1b
+SHA1: 14f0b822c1d2ecf1b682599a3ae56042fd078755
+SHA256: aaa976924a926153d99b5ff0453daf6ee467eb89ab1adf599fbe301ded8474fd
+SHA512: bbf5de56788f842242ce8cd2ad8348bba70d0b5e4e1717ce64437dcedec6cd60cdf4757b0098fe293ce64fde55a2086b20a67630e11a9edd95a750ee8881a5b7
 Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
  Tính Năng:
  - Ẩn quảng cáo trên ứng dụng Messenger
@@ -908,11 +908,11 @@ Maintainer: BIỆN VĂN NHẠT
 Installed-Size: 408
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
 Filename: ./debfiles/com.BIENVANNHAT.tiktokgod_1.12.0_iphoneos-arm.deb
-Size: 71750
-MD5sum: ebfabaf71d64d70f55c2715945f0d6e4
-SHA1: 9adfec6714dcce32982e29b1d25dc1eb81d38b6a
-SHA256: 5e069cae6bcbd5ec46f0116e64e62816f7b02e2bb897accc0afa049ee9f706a2
-SHA512: fe7db20d8ea1345b919039926d5053efaab4e82bd3617cd96d5088fb8b72b58330bc85edca063e6c53d1491d975d80521458832f47f7a27d95910d4705a680ac
+Size: 71526
+MD5sum: 45e7928a4592d92e770527bfca8746d0
+SHA1: 133dffbd0cf467ecf8f870e4190f03362874f707
+SHA256: d4266fc7709f7192044a5df4301886e86d3d7b318ba2331b49cd73f70bc78154
+SHA512: cf72740dbd5516915d39e3d451e9b0931a1ec2faf1bb88eb89a5df3851cc0095b26f7eb306f65eae5e97dcb70e7e894e8ea0c8ad49109d34c0c73927e63f4056
 Description: Tinh chỉnh tốt nhất cho ứng dụng Tiktok.
  Tính Năng:
  - Loại bỏ các quảng cáo

@@ -420,6 +420,34 @@ Name: EQE VH
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.facebooknoads
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.4.1_iphoneos-arm.deb
+Size: 270906
+MD5sum: da6d727adff949088b54f14c643be03b
+SHA1: 1b556c1bd1f96924e3cf5680ca1694c4165c04a5
+SHA256: 1ad9cae6c880f0fcdee6c20756fd48b9dd625b3df11d80114f9f47dde674459c
+SHA512: 39610025260736d109e2d8fd6071b5053b6a48769b7577d191615482f1555e4aa148eaf325e616a87f68fcbe5e70e0399d648ffb92a080fea164fa8e429ec43e
+Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
+ Tính Năng:
+ - Loại bỏ các quảng cáo
+ - Có thể tải xuống video (nhấn lâu để tải xuống)
+ - có thể tải câu chuyện
+ - chỉ có thể tôi hình ảnh hồ sơ
+ - Vô hiệu hóa truyện nhìn (xem câu chuyện của bạn bè mà không cho họ biết)
+ - Ẩn nhà soạn nhạc trên nguồn cấp dữ liệu tin tức
+ - Ẩn câu chuyện về nguồn cấp dữ liệu tin tức
+ - Hỗ trợ iOS 12-14
+ - Hỗ trợ phiên bản Facebook mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 307.0)
+Name: Facebook No Ads
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
 Package: com.BIENVANNHAT.fast-ls14
 Architecture: iphoneos-arm
 Version: 4.0-1
@@ -691,6 +719,35 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.merriam
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.merriam
 
+Package: com.BIENVANNHAT.messengernoads
+Architecture: iphoneos-arm
+Version: 3.10.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 1004
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debfiles/com.BIENVANNHAT.messengernoads_3.10.0_iphoneos-arm.deb
+Size: 587368
+MD5sum: 4ece80cdea1eaa48fadd68cfda950f65
+SHA1: f970c9c685b7e73bb786386e90462930412b504b
+SHA256: 85cc6249171a26fd1845ea0ac6054c8014000aa5bd266f85d48d16c4ef645fa1
+SHA512: 4463318000bbd940cda40760e737c8277a1932d974e00aae9883028c3f0dbc4dc00c0c4f1e1ae672c5a2bde4cfb72fde935f698e21da658c3ed0c001e52fbd14
+Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
+ Tính Năng:
+ - Ẩn quảng cáo trên ứng dụng Messenger
+ - Vô hiệu hóa đọc hóa đơn
+ - Vô hiệu hóa chỉ báo gõ
+ - Vô hiệu hóa truyện nhìn thấy
+ - có thể cứu câu chuyện của bạn bè
+ - Ẩn thanh tìm kiếm, hàng truyện, tab người
+ - Ẩn liên hệ được đề xuất trong tìm kiếm
+ - Mở rộng độ dài tải lên video câu chuyện (từ mặc định là 20 giây đến 10 phút)
+ - Hỗ trợ iOS 12 - iOS 14
+ - Hỗ trợ phiên bản Messenger mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 300.0)
+Name: Messenger No Ads
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
 Package: com.BIENVANNHAT.noads
 Architecture: iphoneos-arm
 Version: 4.5.0
@@ -861,6 +918,32 @@ Description: Thay đổi giọng nói của bạn trong các cuộc gọi!Hỗ t
 Name: Thay đổi Giọng nói
 Author: Elias Limneos
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.tiktokgod
+Architecture: iphoneos-arm
+Version: 1.12.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẠT
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debfiles/com.BIENVANNHAT.tiktokgod_1.12.0_iphoneos-arm.deb
+Size: 71750
+MD5sum: ebfabaf71d64d70f55c2715945f0d6e4
+SHA1: 9adfec6714dcce32982e29b1d25dc1eb81d38b6a
+SHA256: 5e069cae6bcbd5ec46f0116e64e62816f7b02e2bb897accc0afa049ee9f706a2
+SHA512: fe7db20d8ea1345b919039926d5053efaab4e82bd3617cd96d5088fb8b72b58330bc85edca063e6c53d1491d975d80521458832f47f7a27d95910d4705a680ac
+Description: Tinh chỉnh tốt nhất cho ứng dụng Tiktok.
+ Tính Năng:
+ - Loại bỏ các quảng cáo
+ - Tải xuống không có hình mờ
+ - Tự động cuộn đến video tiếp theo
+ - Thay đổi vùng (có thể không hoạt động cho iPad và một số thiết bị)
+ - Hiển thị thanh tiến trình (để chuyển tiếp nhanh hoặc tua lại video)
+ - Có thể ẩn UI (Xem video ở toàn màn hình)
+ - Hỗ trợ phiên bản iOS 12 - 14 & mới nhất của Tiktok
+Name: TikTok God
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
 
 Package: com.BIENVANNHAT.toonsy
 Architecture: iphoneos-arm
@@ -1964,6 +2047,29 @@ Tag: purpose::extension, compatible_min::iosiOS7
 Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.haoict.libhdev
+Architecture: iphoneos-arm
+Version: 4.8.0
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 312
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debfiles/com.haoict.libhdev_4.8.0_iphoneos-arm.deb
+Size: 74124
+MD5sum: 41b4fabd737d24fdbf7b6b54fdf8d783
+SHA1: e039320ea53fadebb76ef0972666f93274001eb0
+SHA256: d01b2bc163f604ec38b720335f165368ee7887deb6a2dcc8013e61d249df16be
+SHA512: b9a75ab1c054623c97f71bea3066a7593f687a536978f422e0b618104cd1851c428ae7e9ded1f4fb8944e288bc1462eaeb2bd438382b6e940facb819c4e107d0
+Description: This is a developer library for better preferences and useful utilities.
+ This is a developer library for better preferences and useful utilities.
+ Change log: 
+ - v4.8.0: Improve performance & reduce package size
+ - v4.7.0: Improve media download & fix preferences cell color
+Tag: role::developer
+Name: libhdev
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: Hao Nguyen <hao.ict56@gmail.com>
 
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm

@@ -748,25 +748,6 @@ Name: Messenger No Ads
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
-Package: com.BIENVANNHAT.noads
-Architecture: iphoneos-arm
-Version: 4.5.0
-Section: System
-Maintainer: BIỆN VĂN NHẬT <BIENVANNHAT97@GMAIL.com>
-Installed-Size: 380
-Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
-Filename: ./debfiles/com.BIENVANNHAT.noads_4.5.0_iphoneos-arm.deb
-Size: 72352
-MD5sum: 11d13bab39f38e22835edfadafad957a
-SHA1: e5495d5fd9f7c121e8dd170b416039d884b91e75
-SHA256: b26e01b6fa753630f116279edd8c5367e6b12441f48c7c4b0a07ac73960c56d0
-SHA512: 993dd8e29a96428319c5a1a23ede5c86441853f1e7fde1d78bace2aa4dfca631138a1dcd883c629f3d7b18901ce654317233eff7e38cebc9b20d652ab2e08335
-Description: Đây là thư viện dành cho nhà phát triển để có các tùy chọn tốt hơn và các tiện ích hữu ích.
-Tag: role::developer
-Name: No Ads
-Author: Hao Nguyen <hao.ict56@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
 Package: com.BIENVANNHAT.passby
 Architecture: iphoneos-arm
 Version: 1.9

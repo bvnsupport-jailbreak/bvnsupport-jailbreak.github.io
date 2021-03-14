@@ -525,6 +525,31 @@ Name: iOX Animatios VH
 Author: Tykology <tykology@hotmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.killallapps
+Architecture: iphoneos-arm
+Version: 3.2.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, applist, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debfiles/com.BIENVANNHAT.killallapps_3.2.0_iphoneos-arm.deb
+Size: 64898
+MD5sum: 6ef64ffe33656ad37a1e8966f81e24c7
+SHA1: 733a93945186083a29b19cf71e6e321ed7048cbc
+SHA256: 4d39a9e468837caf178823919d7c49e3bbeb292b4fab03a42d32b1be40f9ee19
+SHA512: 298aa91e71ff31d2bac04ebf1ce171d2758932375fbbb68f388542aa6217f886e473aac122153148733db1ff5ac697c6702e76f2ecdce322eac2a3b2a9b431c1
+Description: Vuốt xuống trong bộ chuyển đổi ứng dụng để Đóng tất cả các ứng dụng nền
+ Tính năng:
+ - Hiệu ứng UI tùy chỉnh / Phản hồi Haptic khi đóng tất cả các ứng dụng
+ - Tùy chọn để thêm nút xóa và kiểu của nó
+ - Tùy chọn để đóng tất cả các ứng dụng nhưng giữ cho ứng dụng hiện tại còn sống
+ - Tùy chọn để tắt tất cả các ứng dụng và khởi động lại ứng dụng hiện tại
+ - Kiểu chuyển đổi iPad
+ - Hỗ trợ iOS 12 - 14.5
+Name: Kill All Apps
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
 Package: com.BIENVANNHAT.libfah
 Architecture: iphoneos-arm
 Version: 0.1

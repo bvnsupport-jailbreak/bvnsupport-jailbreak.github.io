@@ -3049,6 +3049,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: Đặt ảnh chụp màn hình trong điện thoại.
 
+Package: com.supportjailbreak.screenshotxvn
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Utilities
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 36948
+Filename: ./debfiles/com.supportjailbreak.screenshotxvn_1.3_iphoneos-arm.deb
+Size: 35414904
+MD5sum: b60402c0e71b11077eefc3d3d65ced71
+SHA1: 8e7b989758a9b1fc4eaa48104d917a74063bf9e2
+SHA256: 5c6b0fb1685f7733fd132a422bd6d92ce5ac480497f6f9b27ad2ef876b0409f3
+SHA512: 2b52965bb551e0da3325b60ff7ff2bcb89c6cb67ff837b0211b336eb0684bdf010c3be9171f7fff7bb7a23fa2793a5ebafcf09aef8457276bc85437ecb9c8edb
+Description: Chèn hình ảnh của bạn vào mẫu iPhone X
+Name: ScreenshotX VN
+Author: JunesiPhone
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.snellviethoa
 Architecture: iphoneos-arm
 Version: 1.1

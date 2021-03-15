@@ -489,6 +489,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fr
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.hdtiktok
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 109
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debfiles/com.BIENVANNHAT.hdtiktok_0.0.1-1_iphoneos-arm.deb
+Size: 5698
+MD5sum: ef40c05b9be94686fa946fb6baef9f83
+SHA1: b58600df46853be18574f6f8f7e7860571af13b8
+SHA256: 155560242eef2f63c5211b77a020d5fe9bdc33ef360f1aebb61dcdcf949ce0e0
+SHA512: e04770a2ecc1132782f341a8ceb207e0cc0269fb2e46f3ce78c6e63c6bbfe9b91c874d6ffad7aa6431f7665ec6fbb839ff4cc0e13a04f8ad41e9ff2d10f3374c
+Description: Mở khóa tính năng Tải lên video chất lượng cao trên ứng dụng Tiktok
+Tag: purpose::extension
+Name: Upload Video HD TikTok
+Author: Mohammad Ghzayel <mohmad_agzail@hotmail.com>
+dev: BVn
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.homepluspro
 Architecture: iphoneos-arm
 Version: 2.0.0-beta1

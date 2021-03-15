@@ -1670,26 +1670,6 @@ Author: lunotech11
 Support: https://www.facebook.com/SUPPORT.BVN.VN
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bvnsupport-limneos.limneos
-Architecture: iphoneos-arm
-Version: 1.2.3
-Priority: optional
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 212
-Depends: mobilesubstrate
-Conflicts: ru.rejail.limneosos
-Filename: ./debfiles/com.bvnsupport-limneos.limneos_1.2.3_iphoneos-arm.deb
-Size: 16438
-MD5sum: 06a2015b9fed8dd6fc5afbd5f59f2a17
-SHA1: c3d20d8341efd83da5b78d780479742b6d0f5401
-SHA256: 4bfd674a1cdaee46589bdaf92fcd67dc06a5d30a18471c78e776f39e9f2fbd30
-SHA512: bb5a3b5a2f5b47e66b3dde5bc1f83874a27a63c2186a4e73fe1142a0fc7ac38e2efdb3ec2d2c89749f4c4a5cd112ac4b613d2f301e5e43e856f9f28b7df09d2a
-Description: Kích hoạt bản quyền miễn phí cho tinh chỉnh của Limneos!
-Name: Limneos
-Author: Julioverne
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvnsupport-linpdd.libpddokdo
 Architecture: iphoneos-arm
 Version: 1.3

@@ -473,15 +473,15 @@ Architecture: iphoneos-arm
 Version: 1.1.8-1k
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 644
+Installed-Size: 12345
 Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
 Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock, com.imkpatil.floatingdockplus
 Filename: ./debfiles/com.BIENVANNHAT.floatingdockplus13_1.1.8-1k_iphoneos-arm.deb
-Size: 137718
-MD5sum: a949e7552830f6e8d1ebfe12dcc37e06
-SHA1: 225ab9e959521ff7d174b2fae81b59d2a026f36e
-SHA256: 182d403b875afe6898116cd7389580becedf966f020e6aed8ebd2afdfeb3f86c
-SHA512: d33eb25382230b3d49078487448cfa32b61740e68d6875fa982645dda7bd623eb0dfaaa1f83cf12786c0a9615072186ca95c19b358e944fb3a81916f93e1c36b
+Size: 137720
+MD5sum: ef01085dd90b13c1b10d45f39b260ef9
+SHA1: 191d50a0794b7d7bb40c1d6c8112205b97f08e99
+SHA256: 70aa2e575b59e3f388118ecb0c6a09973718c42748a42411df528a3f4bf7b231
+SHA512: 20337c296e6b65d9cbcff450949720c7e9c137b8ec02ae13759ddf9dd798980c73a5bee8aae759dd51607fc475ec61f4ff154ad6f45e0ae12c60eb2beb3f7072
 Description: Use your Dock like a PRO!
 Name: FloatingDockPlus 13/14 VH
 Author: P2KDev <p2kdev@gmail.com>

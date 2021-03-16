@@ -468,6 +468,27 @@ Author: Plat-Ykor <plat-ykor@libero.it>
 dev: BVn
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.floatingdockplus13
+Architecture: iphoneos-arm
+Version: 1.1.8-1k
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 644
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock, com.imkpatil.floatingdockplus
+Filename: ./debfiles/com.BIENVANNHAT.floatingdockplus13_1.1.8-1k_iphoneos-arm.deb
+Size: 137716
+MD5sum: 0e27561044194cf5666334689e3ae383
+SHA1: baef392b518786042e89e3355861b1f937c21e2d
+SHA256: f5e6e64e09a6aef1bb8a199556f43638920a41fb87cc0fe8de75fdc651877c51
+SHA512: 92d90ba682139148917071ff852ca0fa4df38df14423420a922ad2f912bbca1f9ad2e28553e3565c1e48b77fa448fc11d38a55d112e6b0982e0b48d219d063a4
+Description: Use your Dock like a PRO!
+Name: FloatingDockPlus 13/14
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.floatingdockplus13
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.floatingdockplus13
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.frontpage
 Architecture: iphoneos-arm
 Version: 1.6.4

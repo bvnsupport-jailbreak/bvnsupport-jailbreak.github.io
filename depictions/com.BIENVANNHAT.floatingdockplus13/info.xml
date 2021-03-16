@@ -1,0 +1,43 @@
+<package>
+	<id>com.BIENVANNHAT.floatingdockplus13</id>
+	<name>Biện Văn Nhật</name>
+	<version> 1.1.8-1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>FloatingDockPlus13/14sẽ nâng cao giao diện cho màn hình chính của bạn và cũng sẽ cho phép bạn thực hiện đa tác vụ như một CHUYÊN GIA! </description>
+		<description>iPad Dock được chuyển sang iPhone Gắn vào Trình chuyển đổi ứng dụng Đạ tác vụ Split-View & Slide View. 
+Cũng hỗ trợ splitview dọc như Android! Khị bật chế độ xem chia nhỏ, bạn có thể định hướng trên các ứng dụng yêu thích của mình. </description>
+		<description>Ví dụ, bạn có thể thưởng thức youtube ở chế độ Phong cảnh! Nếu bạn muốn điều này không xảy ra, vui lòng đưa vào danh sách đen ứng dụng mong muốn khỏi cài đặt tinh chỉnh - Phần Đa nhiệm Tùy chỉnh cho số lượng biểu tượng dock. 
+Tinh chỉnh sẽ thu nhỏ thanh dock dựa trên số lượng biểu tượng và cũng chia tỷ lệ bố cục Homescreen Grid theo tỷ lệ! 
+Ứng dụng gần đây / được đề xuất trong Dock của bạn Danh sách đen cho các ứng dụng gần đây Tùy chinh cho số lựợng các Đề xuất dock (Ứng dụng gần đầy / Handoff, v.v.) Làm cho Dock trong suốt</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>floatingdockplus1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>floatingdockplus2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>floatingdockplus3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>floatingdockplus4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã Update bản mới nhất</change>
+	</changelog>
+	<links></links>
+</package>

@@ -2572,6 +2572,26 @@ Sponsor: bienvannhat.org <http://nhatbie 97@gmail.com>
 dev: opa334
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.choicyVN
+Architecture: iphoneos-arm
+Version: 1.3.2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 802
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Filename: ./debfiles/com.supportjailbreak.choicyVN_1.3.2_iphoneos-arm.deb
+Size: 187264
+MD5sum: 97790d031cf25aeace92c4629f114262
+SHA1: 7964a405bef60769aaa6f1a5152884b143f9972e
+SHA256: db3620e1311045a725c30e1506a710dea60fc861581985235b7e991914ebfc4e
+SHA512: 7293d9dcf28b30b0ea86e102199c959fa9a74b5c797a30273a9ae82c3c1b4ac253cd8f68cb0b65d6c0a0a99b570b5f64ce83c2b9aa96b55ea5f3ebb0edd0d3ef
+Description: chặn phát hiện jailbreak
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy Việt Hoá
+dev: opa334
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
 Package: com.supportjailbreak.cloneappcmd
 Architecture: iphoneos-arm
 Version: 1.0~b3

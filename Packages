@@ -734,14 +734,14 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 136
 Depends: firmware (>=12.0), mobilesubstrate
 Filename: ./debfiles/com.BIENVANNHAT.lowlock_1.0_iphoneos-arm.deb
-Size: 6894
-MD5sum: 4a0bbe6e18439ff02d2e00f4493ad10b
-SHA1: 4fd4137e6d4108812b3285ae6f5223e6a251b527
-SHA256: af8aba00749ecd8d53195786e8de57972e028fc49f6fab9e9cf73e788ea6b898
-SHA512: d105e0f021a6f8aeb4529bd9114d3c25733c4fbb90d994dcf43130e728e4bb3766c7d7110429cd64cb3c7c4afc2eb2de584961d61692cbb97e2fba7a0360537d
+Size: 6896
+MD5sum: efccc0d059fa56cb198adeefaa13a713
+SHA1: 40494b60de203cc32af619f266e06a1dff78142a
+SHA256: 1b5df5b118f69b4d8d2cfeff4b7974824dfe5731a3410ecd0fa7671e484dd286
+SHA512: a16f636976fb9c57690ae57b04b15c850899bb79f6bffa21421f5ede8d61edc489b7d51f5804ddea4522eeb78ea462ee91c33b67a5c4c0e0249cb568910f3023
 Description: Turn on Low Power Mode once the device locked.
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
-Name: LơLock Việt Hoá
+Name: LowLock Việt Hoá
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

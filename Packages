@@ -913,6 +913,24 @@ Depiction: https://mainrepo.org/package/2646
 SileoDepiction: https://mainrepo.org/sileo/2646
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.spectral
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 548
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.ryannair05.libmitsuhaforever, ws.hbang.alderis
+Filename: ./debfiles/com.BIENVANNHAT.spectral_1.0.0_iphoneos-arm.deb
+Size: 243190
+MD5sum: 0445fae6e4b01199fc73fad2add94953
+SHA1: 1b2b509bfad93e91a79313e68dd5d253d4834796
+SHA256: a751c9273aab2ae66128a55bf1b43fee431204c6b1c6b403448f61d039442e09
+SHA512: e9f09cbad7c3668d0924ac93a88636b1c124d5c13ecd3821ee0e08df89a35af534569dab4dfbb0aa400ef1a5ce821cce0f45b562a765e6be392893ec63b09c61
+Description: Trình phát nhạc màn hình khóa với trình hiển thị âm thanh tích hợp
+Name: Spectral Việt Hoá
+Author: Beckett O'Brien <support@becketto.dev>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.spotilife
 Architecture: iphoneos-arm
 Version: 1.2.3

@@ -362,6 +362,24 @@ Author: BIỆN VĂN NHẬT
 dev: BVN
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.doubletoday
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Adolfoi_
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.doubletoday_1.0.3_iphoneos-arm.deb
+Size: 4856
+MD5sum: a48c06dbaa5f1b4921b0b8f330994f0e
+SHA1: f3351db0325f0e1b3cc473f83c258ec28117cfab
+SHA256: d8c3021daeb9168588ad4e940cabe7c40ecc4a065e003aff8e80dfba37438038
+SHA512: 9f9807f66990cab8a8c33e90c13970106541fe064716ea37e3cf54cf65a3855c9ca34da444ad68d36ff2fbe304469bd695dd0aa91b5c5b8975cf1819aeff01d7
+Description: Thay thế thư viện ứng dụng Thành các widget
+Name: DoubleToday
+Author: Adolfoi_
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.dra1n
 Architecture: iphoneos-arm
 Version: 2.3.4

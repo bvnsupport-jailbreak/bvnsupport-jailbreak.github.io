@@ -163,6 +163,25 @@ Name: Hack Map Liên Quân
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.arenaofvalor
+Architecture: iphoneos-arm
+Version: 18
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 9856
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.arenaofvalor_18_iphoneos-arm.deb
+Size: 2419304
+MD5sum: a6e35c8131c07c1f40d761a9ac1f89ec
+SHA1: 9e8c524febc22e6da40eaad1b7717be8e0e6469a
+SHA256: 9920c2d2c2a91b9f3e252b2c646c1410326cb98ac6fe60a3f6add6018f4954a1
+SHA512: ef27d46ebdec7d1efaa166c82763003cf5031576cbe7461f4a117147b722cfb5df436c00262655da36b13804b931cf6d545a26d1e56ba2f0221e819df4a020c1
+Homepage: https://www.facebook.com/SUPPORT.BVN.VN
+Description: Hack Map liên Quân mùa 18 cho anh em xài.Sử dụng tài khoản Ios God hoặc sử dụng tài khoản Facebook để sử dụng .Sử dụng thoải mái nhé không Band đâu.
+Name: Hack Map Liên Quân
+Author: Laxus
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.autotouch
 Architecture: iphoneos-arm
 Version: 7.8.9

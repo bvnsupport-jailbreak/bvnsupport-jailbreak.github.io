@@ -949,26 +949,6 @@ Name: ProGesture Việt Hoá
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.sileo
-Architecture: iphoneos-arm
-Version: 2.0.2+e2
-Priority: optional
-Section: Packaging
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Installed-Size: 11964
-Pre-Depends: debianutils, dpkg (>= 1.19)
-Depends: apt (>= 1.8.0), libapt (>= 1.8.2.2), libapt-pkg5.0 (>=1.8.2.2), apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils
-Conflicts: cydia-gui (<<99.0)
-Filename: ./debfiles/com.BIENVANNHAT.sileo_2.0.2+e2_iphoneos-arm.deb
-Size: 4508160
-MD5sum: 2dc7d8a3847f0287ff3ee0a08374dc64
-SHA1: c17217ea835aee55e2d677e01f34df8f232ab25c
-SHA256: 8a8f8eb182a37ff88cd88faa3ab3018f53ed103175956da5f09bc8b41f7c470a
-SHA512: f61bd2e5e77e2a6c082a0f6520d2acc38782591ae056cd5d88cd15bb1521d29a7229c574190d19bc1a65beb73f54ca4b5d7ee76e3a9ce53245280871024ce650
-Description: Trình quản lý gói hữu ích cho bạn.Có thể dùng chung Zebra và Cydia
-Name: Sileo VH
-Author: Sileo Team <getsileoapp@gmail.com>
-
 Package: com.BIENVANNHAT.smartvolumemixer2
 Architecture: iphoneos-arm
 Version: 1.1-2k

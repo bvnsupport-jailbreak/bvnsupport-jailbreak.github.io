@@ -956,14 +956,14 @@ Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Depends: firmware (>=13.0), ws.hbang.common, com.spark.libsparkcolourpicker, com.smokin1337.ldrestarthelper
 Filename: ./debfiles/com.BIENVANNHAT.settingsbuttons_1.4_iphoneos-arm.deb
-Size: 103446
-MD5sum: f61162f24069c909ec7fd8ba9c8bfa5d
-SHA1: c2c6ee9e34eae003d3cd69de101f5a795692742f
-SHA256: 7a628c600165dfc3348c8e03574484303e3ba31d90149e45f1a9f735880d3c2d
-SHA512: a6ed1f2519a9a845c1f04ebd4fef1c5f95fbb10b9e2bde6c16b783aa79903ed4a4e62a25a31402060ee8a87a7279bff6d1430f16fe67c2ff5e5dc69ffa13c3d4
+Size: 103452
+MD5sum: 5080c1b7b97029eff31d01d8f8ff9ca5
+SHA1: 80c7d9cd9ed0af349caf934f48c9176dca22c36d
+SHA256: 68810237b86dd4cb138046ac405c94f28fe29a77cc0a630aaead38fe97b05b5e
+SHA512: ce5f31512582678106da4605414dea0fb845fd0015572bdd191c75cf429a274ddd3cd7d10467452449d66f19f770baa2fb5dda324ed88aa47b61fe01e63607b8
 Description: Các nút hữu ích trong thanh Nav cài đặt.
 Tag: role::enduser
-Name: SettingsButtons
+Name: SettingsButtons VH
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Tags: compatible_min::ios13.0, compatible_max::ios14.3
 Author: ETHN <ethanwhited2208@gmail.com>

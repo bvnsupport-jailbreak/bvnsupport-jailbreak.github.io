@@ -949,6 +949,26 @@ Name: ProGesture Việt Hoá
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.settingsbuttons
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Depends: firmware (>=13.0), ws.hbang.common, com.spark.libsparkcolourpicker, com.smokin1337.ldrestarthelper
+Filename: ./debfiles/com.BIENVANNHAT.settingsbuttons_1.4_iphoneos-arm.deb
+Size: 103446
+MD5sum: f61162f24069c909ec7fd8ba9c8bfa5d
+SHA1: c2c6ee9e34eae003d3cd69de101f5a795692742f
+SHA256: 7a628c600165dfc3348c8e03574484303e3ba31d90149e45f1a9f735880d3c2d
+SHA512: a6ed1f2519a9a845c1f04ebd4fef1c5f95fbb10b9e2bde6c16b783aa79903ed4a4e62a25a31402060ee8a87a7279bff6d1430f16fe67c2ff5e5dc69ffa13c3d4
+Description: Các nút hữu ích trong thanh Nav cài đặt.
+Tag: role::enduser
+Name: SettingsButtons
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Tags: compatible_min::ios13.0, compatible_max::ios14.3
+Author: ETHN <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
+
 Package: com.BIENVANNHAT.smartvolumemixer2
 Architecture: iphoneos-arm
 Version: 1.1-2k

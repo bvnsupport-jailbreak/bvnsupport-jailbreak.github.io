@@ -51,6 +51,22 @@ Name: SemiRestore 11-14
 Author: Pwn20wnd
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.SemiRestore
+Architecture: iphoneos-arm
+Version: 1.1.4
+Section: Utilities
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.SemiRestore_1.1.4_iphoneos-arm.deb
+Size: 54528
+MD5sum: b92c3e3c909dae08368e815fe1117074
+SHA1: 7d80253e59e9c52f5861e3cdd318a0927267ecc1
+SHA256: e4557c1c66c8af276da62b85a6ccba3c1a01b6bcc219d1d023897c3845c2fad5
+SHA512: 97f77de7b65c634f2ba295490ed5b5439be933323dbf21c838ced7431e21f6cf692092a9a07a1d495c4fb0321216f324c88cc21fda17ceb779f437f154f285fa
+Description: Công cụ gỡ jailbreak sạch 100% cho iOS 11 đến 14.3,khôi phục lại máy về như lúc xuất xưởng. lưu ý sao lưu lại dữ liệu trước khi chạy.Tweak dùng rất đơn giản,bạn chỉ cần nhấn vào Unjailbreak,nó sẽ chạy khi bạn nhấn vào Xác nhận.
+Name: SemiRestore 11-14
+Author: Pwn20wnd
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.TRM
 Architecture: iphoneos-arm
 Version: 116

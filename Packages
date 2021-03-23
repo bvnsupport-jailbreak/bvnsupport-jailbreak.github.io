@@ -1109,6 +1109,23 @@ Name: Spotify Premium
 Author: julioverne
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.strangerwp
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, wallpaperloader
+Filename: ./debfiles/com.BIENVANNHAT.strangerwp_1.0_iphoneos-arm.deb
+Size: 12331738
+MD5sum: ef5726d7439d2b752adca44d2d340bf7
+SHA1: 5a4a9547e74bc19b5f3ebbcc394388864534de0e
+SHA256: e47dea78912901c44438867e100135cb42db2dd4fc2747b02bd67a7406bcf0f9
+SHA512: 66b4752c2ddaec65b2ae3b1da1faf5625a83e579316337065ce2e440dc71bdcf3805689b830010ba58f878c746c2b383ba76d3870fc4acc72b70b4f44cbb8ccf
+Description: Một hình nền Tối / Sánh Stranger.
+Name: Stranger Things Wallpaper
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+Author: Skitty
+
 Package: com.BIENVANNHAT.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -1267,6 +1284,26 @@ Description: Giải pháp cho ae khắc phục lỗi k copy được mã OTP t�
 Name: Fix OTP SMS
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.wallpaperloader
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BIENVANNHAT
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.0) , com.BIENVANNHAT.strangerwp
+Filename: ./debfiles/com.BIENVANNHAT.wallpaperloader_1.1.1_iphoneos-arm.deb
+Size: 19960
+MD5sum: a5a3e8b4a8b35bca7600461daaeeea01
+SHA1: c9c291d6188753c74b7f0963cf97d571151fdd0f
+SHA256: 205cc2934a1cb5778357dbd94535286995ea91b9bf19256648752f8a58ffe55e
+SHA512: 1268c2f01c2642ecb68ca6fe935a493961202aeca5704d5250fe2648fb645c0c43f137ff84cca70aed8515f084ac192ee4e07596f2cd487270a7279f5afe1a24
+Description: Thêm nhiều hình nền mặc định!Sau khi cài đặt Tweak xong bạn vào Cài đặt =>Hình Nền,sau đó chọn hình nền mới,nhấn vào"TĨNH" chọn hình nền vừa mới thêm vào và lưu lại.
+Name: Wallpaperloader VH
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.wallpaperloader
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.wallpaperloader
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Skitty
 
 Package: com.BIENVANNHAT.win10fp
 Architecture: iphoneos-arm

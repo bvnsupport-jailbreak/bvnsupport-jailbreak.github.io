@@ -1,0 +1,29 @@
+<package>
+	<id>com.BIENVANNHAT.wallpaperloader</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Hỗ trợ iOS 13 đến 14</description>
+		<description>WallpaperLoader cho phép tải các gói hình nền tùy chỉnh vào danh sách hình nền mặc định.  </description>
+		<description>Khi cài tweak này sẽ đi kèm hình nền cho các bạn</description>
+		<description>Các bạn có thể xem videos phía dưới. nhé</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>wal.MP4</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

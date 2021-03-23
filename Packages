@@ -871,6 +871,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.BIENVANNHAT.lunartime
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.BIENVANNHAT.lunartime
 
+Package: com.BIENVANNHAT.macosnotifications
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 420
+Filename: ./debfiles/com.BIENVANNHAT.macosnotifications_1.1.0_iphoneos-arm.deb
+Size: 62296
+MD5sum: 7b6b863f0455d3ea7a4bee7fd09fcb2e
+SHA1: 5d127557dc8d37c48b65af726b9d66b03306b6f4
+SHA256: b79b45ca7b22e018c5152f14c5b045c4b5e8450c183862031ba50136aed30d69
+SHA512: ea6416d3518000dc2a966e583c6a13bbdf6063974f5ccfd90fbec17bb3f443043a66c7d0f3884cd6a80744a98a7da0b333e0adcec7230bc5c404aac886b02a67
+Description: Giao diện thông báo lấy cảm hứng từ MacOS!  Được thiết kế cho iPad từ đầu.  Loại bỏ tất cả các nền mờ có thể xuất hiện với thông báo của bạn để làm cho chúng tôi cảm thấy tích cực hơn và mang lại cảm giác máy tính cho bàn / máy tính xách tay thực hiện cho chúng tôi.
+Name: Destra Việt Hoá
+Author: Jax Roth
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.mbbank
 Architecture: iphoneos-arm
 Version: 1.2.3

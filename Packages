@@ -67,6 +67,24 @@ Name: SemiRestore 11-14
 Author: Pwn20wnd
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Springtomize
+Architecture: iphoneos-arm
+Version: 5.2.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2424
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.BIENVANNHAT.Springtomize_5.2.0_iphoneos-arm.deb
+Size: 683166
+MD5sum: ce0d8e4104b69f2e92aea274f476b0be
+SHA1: ee568a814d26461e1649072485b8edd54fa38837
+SHA256: e0a6ac528b6ff77598cc1466b87db0169639e9d860fc7a9089c805e4624a1a40
+SHA512: 96c82c5017c907dc4fdacc82adc7b8b871865e0eb8c43ae843e8ef0abea22341a2400c1b2be4abe4275a4bd459eb00e295d3a939e77277584c8d8ef98b07eb1a
+Description: Tùy chỉnh thiết bị của bạn hơn bao giờ hết.
+Name: Springtomize 5 VH
+Author: sharedRoutine
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.TRM
 Architecture: iphoneos-arm
 Version: 116

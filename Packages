@@ -1132,13 +1132,13 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Wallpaper
 Maintainer: Biện Văn Nhật
-Depends: mobilesubstrate, wallpaperloader
+Depends: mobilesubstrate, com.BIENVANNHAT.wallpaperloader
 Filename: ./debfiles/com.BIENVANNHAT.strangerwp_1.0_iphoneos-arm.deb
-Size: 12331790
-MD5sum: 95318dce421fd2fa1d70e23a6d07d4ac
-SHA1: 80dba1f305e4c7915b3e8c0e13c4b03787198834
-SHA256: 4398cfbb2c009536a19ee02d53ab2817a9882c550e2397a1d98ac76e58218f7d
-SHA512: ea94c7bb5e208dacf3479e465ae27f4a1a214a8cdf82c67c828438f9156eedae0a07684088ef11056acd08877e138141c8aec6843515f8e54d0f57ac69780cca
+Size: 12331786
+MD5sum: 71a9dcbf2562d68a4bd1ff8d2eb20417
+SHA1: e88d3aaab2f13c7d9dce55c1f9cb6b6b397bf630
+SHA256: bae109859537dd4f1d426f130c77f0ae34bb4cfef35d4218fa1ea14b2b4eb3a2
+SHA512: f6824f4190862b90e9d94ea5f8e4859b8b5253d93d545d2a758d9f75b029dc010343dc75dab368c14b7887aa8024ffbe4fac44da524aed9aad3b9ed888658849
 Description: Một hình nền Tối / Sánh Stranger.
 Name: Stranger Things Wallpaper
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.strangerwp
@@ -1311,13 +1311,13 @@ Version: 1.1.1
 Section: Tweaks
 Maintainer: BIENVANNHAT
 Installed-Size: 168
-Depends: mobilesubstrate, com.BIENVANNHAT.strangerwp
+Depends: mobilesubstrate
 Filename: ./debfiles/com.BIENVANNHAT.wallpaperloader_1.1.1_iphoneos-arm.deb
-Size: 19786
-MD5sum: 80c1cf1af6295ef9d348075fcec0dc67
-SHA1: 47b708c5b2e709539902bfd7b62526f28662d640
-SHA256: e976c3c9d04077baf70be19646724f6c03bcd2ffedb1f96caae188d6e0a02ecb
-SHA512: f2eae93e9b6f57ceb2c348a7ca04f56ac8e77f6371bffeae37913dcd7c696077f140014ba163d1a63dbd9e2e6ef9d3885d1d45fd7e2f023a22a4a01454430c2d
+Size: 19780
+MD5sum: a7c5980d6431d263d9e98d561ceef2bc
+SHA1: 5ea1c3ed21a25ea03783d0d677302cff0dbceb5c
+SHA256: 83855e0a7e4c325c248e262a4a5d62d36f8d295ea98eaf8b5b7580f107b9f7a0
+SHA512: 46beadfd597ba315fe248c58a7b274059f935f975f49b11a4d33dd7707acbf583ded66f03fc8522caf999f833fa931a99c232d17864c4658bdf92a795bc2601b
 Description: Thêm nhiều hình nền mặc định!
 Name: Wallpaperloader VH
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

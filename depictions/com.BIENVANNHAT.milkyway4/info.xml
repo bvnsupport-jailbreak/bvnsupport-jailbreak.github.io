@@ -1,0 +1,29 @@
+<package>
+	<id>com.BIENVANNHAT.milkyway4</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.1~beta</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Hỗ trợ iOS 14 đến 14.5</description>
+		<description>Chế độ nhiều cửa sổ</description>
+		<description>Các ứng dụng xuất hiện dưới dạng cửa sổ có thể đóng, thu nhỏ hoặc thay đổi kích thước cho nội dung của người dùng. Cửa sổ được kích hoạt bằng cách mở Trình chuyển đổi ứng dụng và chạm và giữ vào một ứng dụng bạn chọn. Sau khi làm như vậy, cửa sổ hoạt động và người dùng có thể mở thêm cửa sổ để làm việc cùng với cửa sổ đầu tiên. Bạn có thể xem video để hiểu rõ hơn.</description>
+		<description>Các bạn có thể xem videos phía dưới. nhé</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>milkyway4.MP4</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

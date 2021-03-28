@@ -1029,6 +1029,22 @@ Author: BVN,akusio <akusio-report@neko2.net>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
 
+Package: com.BIENVANNHAT.modern6
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Themes
+Maintainer: BIỆN VĂN NHẬT
+Filename: ./debfiles/com.BIENVANNHAT.modern6_2.1.1_iphoneos-arm.deb
+Size: 19882480
+MD5sum: be7186671960fe534922da9141356282
+SHA1: 8370102912aab0291175a315990969b0c1b29181
+SHA256: 1880d3fe91bfc161cdf52d8ae6a29fc725b59428b902a6898710022756f6d5de
+SHA512: c63f89633ee558adcd3b97149aedb19194f08c86196b003918bac51c91776a9f261d3a9d44bdcf210f993db191439db9dff62ef3b91046fe0c4e2743154c88cd
+Description: Chủ đề iOS 6 sắc nét nhất thế giới.
+Name: Modern 6
+Author: IceCool Tech
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.passby
 Architecture: iphoneos-arm
 Version: 1.9
@@ -1126,6 +1142,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Tags: compatible_min::ios13.0, compatible_max::ios14.3
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
+
+Package: com.BIENVANNHAT.sixls
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2200
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), firmware(>= 12.2) | org.swift.libswift (>= 5.0) | com.BIENVANNHAT.modern6
+Filename: ./debfiles/com.BIENVANNHAT.sixls_1.1_iphoneos-arm.deb
+Size: 1589154
+MD5sum: 6fcbef393d9162509f4bb199cc637451
+SHA1: 05e8ab847aa84fd1b3e0bdfd467cbaa221ffd04e
+SHA256: 17c241ee557dd3ac25c234f94890aede40824c5decbc6ab5346e4d13ab3cc58d
+SHA512: 3d820b15290b0f9bf659e0b73b92a62b804829f6bc372e6a684758409e6c07628bbf3846444aa1bccbd7b3a98173db5bad6f7640ed7922b696df1b865dc48f87
+Description: Màn hình khóa kiểu iOS 6!,mình đã cho Theme Ios 6 đi kèm với Tweak này,bạn có thể cài thêm Snowboard để kích hoạt Theme Ios6
+Name: Six (LS) Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Skitty
 
 Package: com.BIENVANNHAT.smartvolumemixer2
 Architecture: iphoneos-arm

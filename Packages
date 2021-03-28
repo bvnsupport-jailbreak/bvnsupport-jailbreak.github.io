@@ -999,15 +999,15 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 134
 Depends: mobilesubstrate, applist, preferenceloader, com.BIENVANNHAT.Libbvn
 Filename: ./debfiles/com.BIENVANNHAT.milkyway4_1.0~Beta_iphoneos-arm.deb
-Size: 84752
-MD5sum: dfc33b84c77dc3ef6ae73616b0786ba0
-SHA1: 0b5dfce9b9aa8d5056b7be0e4ae74b0eb5f2dab6
-SHA256: 61170b5f28af2b264e9ee44fec7ecdb291390124f7b8e106163f81477ee70100
-SHA512: 47ac1d370793170d73b340717cc14060ac3c456caa66d194ea23ca785e663b5af1141b87fd7738302c8bf11f80c14c54ca87f620840f3f30a9b66cfbc99eeb01
+Size: 84754
+MD5sum: ed7cef032a0b1eec5dd5e03eb447920c
+SHA1: c03b55d61466a2cf20d5f86adeacf02c31851ef0
+SHA256: 98890af07d4b66dacfb21acd084a145656f644448b60477c1d41244eca79bb7f
+SHA512: 3ebc7c03489a372014adb0bb72c90bf370cdc6cb30889213570e9326808d3f3c633d4895f1c89af70910724bc078ddc408dd36b004c3e9e9c8f5fbabb592b162
 Description: Tinh chỉnh nâng cao cho đa nhiệm,Support Ios 14.0-14.5
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: MilkyWay4
-Author: akusio <akusio-report@neko2.net>
+Author: BVN,akusio <akusio-report@neko2.net>
 
 Package: com.BIENVANNHAT.passby
 Architecture: iphoneos-arm

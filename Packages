@@ -1017,15 +1017,15 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 134
 Depends: mobilesubstrate, applist, preferenceloader, com.BIENVANNHAT.Libbvn
 Filename: ./debfiles/com.BIENVANNHAT.milkyway4_1.1~Beta_iphoneos-arm.deb
-Size: 84812
-MD5sum: b4af456ab6f88b9453c19858df1746bd
-SHA1: 1ffb3ba7dfd919015eb6e42041edcfe4472f8a41
-SHA256: f5f60b6d9856b1277eda1146d0472f401356f317d534340076065df7cb2a541a
-SHA512: 6e9d3259c0458fa0d55c1d5a7f7046f2fcf33323997a55e60120d3ff4b2dcd5fbf793de82e4410e70543fd705f5c793e802fb943b773729d6659340f1a1b6f63
+Size: 84818
+MD5sum: 51902d986d106dafdf831acf689a97c3
+SHA1: 13ba41738735e3e991de2e1a7d1194b73305c415
+SHA256: 70d97e279c065a8b57d37057bee5169d4ed633c865920fcc30f0da2cda7abecc
+SHA512: c90fc3e9586e66755c3ebbd594e83ca90c4da032c95aaab001eb5289509e4d2b99bd265754809f61e75994ed2acf5547915afe18e686a31b3a6c3bce164048bf
 Description: Tinh chỉnh nâng cao cho đa nhiệm,Support Ios 14.0-14.5
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: MilkyWay4
-Author: BVN,akusio <akusio-report@neko2.net>
+Author: akusio <akusio-report@neko2.net>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
 

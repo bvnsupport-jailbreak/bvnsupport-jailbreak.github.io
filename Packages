@@ -175,6 +175,23 @@ Name: Allow Playback While Recording Screen/Sound
 Author: Jun Elvin
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.alt5tore
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.alt5tore_0.0~beta1_iphoneos-arm.deb
+Size: 37220
+MD5sum: 1909e386a77a08b58dbfd4c4e3ee97b0
+SHA1: eff18ee37a4dc687e9d4e06713cc2ea89ead0855
+SHA256: edd02cfa43c102bb96b14cfec64ba9d04eb79f124c524c5b439c45e1198c4e31
+SHA512: 527603038c20c612944a31ce604883a39812f889bf0004152b43e669fc8b79bdd1a27f1e2db4f336259e06071778d2c64c2d9855917e3767c5df369f228753aa
+Description: Các tính năng bổ sung cho Altstore
+Name: Alt5tore Việt Hoá
+Author: julioverne <julioverne@me.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.altstore
 Architecture: iphoneos-arm
 Version: 1.4

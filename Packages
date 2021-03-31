@@ -1895,6 +1895,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvnsupport-fakeios.fakeIOS14
 Architecture: iphoneos-arm
+Version: 14.4.2
+Section: System
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Depends: mobilesubstrate, firmware (>=5.0)
+Filename: ./debfiles/com.bvnsupport-fakeios.fakeIOS14_14.4.2_iphoneos-arm.deb
+Size: 1804
+MD5sum: e4ab2a2986dcd956300256b00f99dd5c
+SHA1: 3932b29d5cf9e42632231ac3ad4afd99b0335a19
+SHA256: bc8a2e0498a70b05130972ed5712e4f8501bccf6c745a1566fb1e0c9522d22ba
+SHA512: 4e645359fa41dfa55bf28931fed6dde008083278478b5330af2f9f31440b110495fee0297b284897994e6a3393e28cb835e443400aaeccbdc34e06a4c5e91752
+Description: Cài xong gắn sim ghép Active ICCID OK rùi vào lại Cydia Để Xoá Tweak ,yêu cầu không khởi động lại máy.
+Name: Fake iOS Ghép Sim
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: BIỆN VĂN NHẬT
+
+Package: com.bvnsupport-fakeios.fakeIOS14
+Architecture: iphoneos-arm
 Version: 14.4
 Section: System
 Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>

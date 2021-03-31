@@ -666,6 +666,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fr
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.halem
+Architecture: iphoneos-arm
+Version: 1.0-0+debug-1+debug
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 4772
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+Filename: ./debfiles/com.BIENVANNHAT.halem_1.0-0+debug-1+debug_iphoneos-arm.deb
+Size: 1653326
+MD5sum: c37461ba3025d5f456a5893b879b561a
+SHA1: 964a223afdb0889779253180026d9cb59c301a6b
+SHA256: 718bbcf2c4e0fdba63b41f75fcd1f257f5f18c6c13c0ae107e32a7e9ca70eee0
+SHA512: 5a7990da9c806ec1b12f9228860712653ef1cb5d9bc6b436f516cc499baf38f8964aaa593418e0e5f69a88d55fa0102359ee4dad5d1e4e75b830fa4768f779d0
+Description: Hack 8Ball Pool đảm bảo win 100%
+Name: Hack 8 Ball Pool Win 100%
+Author: halem
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.hdtiktok
 Architecture: iphoneos-arm
 Version: 0.0.1-1

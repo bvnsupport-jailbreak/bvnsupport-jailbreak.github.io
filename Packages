@@ -1079,6 +1079,24 @@ Name: Modern 6
 Author: IceCool Tech
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.moorebarx13
+Architecture: iphoneos-arm
+Version: 0.9.0~alpha1.1.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 732
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, applist
+Filename: ./debfiles/com.BIENVANNHAT.moorebarx13_0.9.0~alpha1.1.3_iphoneos-arm.deb
+Size: 174150
+MD5sum: c1e8d071548948521eb509f0d304c43f
+SHA1: 248288c89a8e80574408ce509296eadfa6aabe0d
+SHA256: 3d8480910ad711feb7ff3bb7396c60503a58cc4a0120c2e5d2affabeb0c502f4
+SHA512: f6bcf82b22fc01def0c524819a227186339437561a3b80091097657358537f05de8c18559a5f1099af4bd710556bd4dd4935b68d2cbd8b115b5ddbc6b7a50772
+Description: Thêm biểu tượng thanh trạng thái của bạn,hỗ trợ từ ios 12 tới 14.5
+Name: MooreBarX13 Việt Hoá
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.passby
 Architecture: iphoneos-arm
 Version: 1.9

@@ -684,6 +684,24 @@ Name: Hack 8 Ball Pool Win 100%
 Author: halem
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.halem
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 4772
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+Filename: ./debfiles/com.BIENVANNHAT.halem_1.1_iphoneos-arm.deb
+Size: 1653486
+MD5sum: d7585a77369b54f7d56eb0b1fc253725
+SHA1: eee81ad9a776da594b9cf06d437c3798c15f7482
+SHA256: 60b860c1da603999518f9afa24305a3587e6bbe349e1817fff0bd20321f89441
+SHA512: a1cac28e8d9fed49cb9b168a5b749fa073e85c8cb0e852f7db6d3efd73b12ebd57a068a0e6ca1e9650bcffbdba1e133d38e9241db110a6679ccbea4ade8cf192
+Description: Một tinh chỉnh Crack tuyệt vời cho bạn.Tweak này có đầy đủ tính năng mà bạn đang cần.Hack 8BallPool và một số ứng dụng khác.
+Name: Crack Apps
+Author: halem
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.hdtiktok
 Architecture: iphoneos-arm
 Version: 0.0.1-1

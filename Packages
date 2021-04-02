@@ -777,6 +777,26 @@ Name: IconCert14 Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.jellylockreborn
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 2064
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,ws.hbang.alderis (>= 1.1),com.spark.libsparkapplist
+Filename: ./debfiles/com.BIENVANNHAT.jellylockreborn_1.0_iphoneos-arm.deb
+Size: 534052
+MD5sum: 947005e1ce53341136c19cbf6dd640fb
+SHA1: 78da65667aebf8f8364513fbc1b40c1736819b60
+SHA256: 037173a535c8d42c906679000846b21120b27210776b9710d24c79f7f2d485fa
+SHA512: 40838451723ffc61e68bab997ba097ade8ec3872fc74cfa1084e113da6d04c050d858286746f3acde6374f9caa9492128f2cf5a328e0d4c5e7ae8105a3719136
+Description: Trình khởi chạy ứng dụng trên màn hình khoá đơn giản đẹp mắt cho iOS 13-14.9.
+Name: JellyLock Reborn VH
+Author: MegaDev
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.jellylockreborn
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.jellylockreborn
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.killallapps
 Architecture: iphoneos-arm
 Version: 3.2.0

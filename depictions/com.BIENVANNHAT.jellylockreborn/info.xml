@@ -1,0 +1,29 @@
+<package>
+	<id>com.BIENVANNHAT.jellylockreborn</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+                         <maxiOS>14.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>JellyLock Reborn Một phần khởi động ứng dụng màn hình khóa đơn giản đẹp mắt dành cho iOS 14 được lấy cảm hứng từ JellyLock gốc cho iOS 7 và JellyLock Unified cho iOS 9.</description>
+		<description>Các tùy chọn ưu tiên: tùy chọn mờ ,tùy chọn màu sắc, chọn ứng dụng ,chọn phím tắt ẩn các yếu tố</description>
+		<description>Mình đã Test trên Ios 13 và ios 14 đều hoạt động rất ổn</description>
+		<description>Các bạn xem hình ảnh phía dưới</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>jelly.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

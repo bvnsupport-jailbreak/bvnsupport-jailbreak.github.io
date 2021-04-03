@@ -1966,23 +1966,6 @@ Name: Fake iOS Ghép Sim
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Author: NHC
 
-Package: com.bvnsupport-fakeios.fakeios14
-Architecture: iphoneos-arm
-Version: 14.0
-Section: System
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Depends: mobilesubstrate, firmware (>=5.0)
-Filename: ./debfiles/com.bvnsupport-fakeios.fakeios14_14.0_iphoneos-arm.deb
-Size: 1786
-MD5sum: 0d58ece5007035cec37d1f21ee55e3a7
-SHA1: c834ba999fdb6de7374990a8b51a3f55c404ef19
-SHA256: 5fa3e9780a84beae5b5ad382f4b5f8b78cf025a863b932a6be039793267c5604
-SHA512: c46dd028678101b585c6018a54e05661deba5c51cd6ecd63fec9736545958bb10387a3807cde6bff50222877aec24f07cad1afd2ccf18897d1ce904529bb5e53
-Description: Fake Ios 14 để ghép sim cho các máy không hỗ trợ như Iphone:5,5s,6
-Name: Fake iOS Ghép Sim
-Author: NHC
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
 Package: com.bvnsupport-fakex.little12
 Architecture: iphoneos-arm
 Version: 1.2.3

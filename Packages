@@ -381,6 +381,29 @@ Name: carplay(14)
 Author: Cortex
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.carrierizer2
+Architecture: iphoneos-arm
+Version: 1.1.2
+Priority: optional
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.peterdev.libpddokdo
+Filename: ./debfiles/com.BIENVANNHAT.carrierizer2_1.1.2_iphoneos-arm.deb
+Size: 76246
+MD5sum: c8c9f70dc9acf8a2a7666ab007135176
+SHA1: c689e6628c3cab3d6a08ec6bae7a2f9d85948a01
+SHA256: 9d489abaf77466be83ca1ae313a64221c21c9d3f886a61eb626682c18ec7a734
+SHA512: 766b5430b813e2a64449675a84d2b6555f03ea9d08c4297a5cef363b7331180da4cfc0a77ae112bdbb9cca6761db589edaa448d8c62b447fe41f67a1fc92a19b
+Description: Tùy chỉnh văn bản / tùy chọn cho nhà cung cấp dịch vụ của bạn!
+Tag: purpose::extension
+Name: Carrierizer2 Việt Hoá
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.carrierizer2
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.carrierizer2
+dev: lucaluca86
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.coolccVN
 Architecture: iphoneos-arm
 Version: 4.0

@@ -1,0 +1,29 @@
+<package>
+	<id> com.BIENVANNHAT.carrierizer2</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+                         <maxiOS>14.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tương thích với iOS 12- 14.9Carrierizer cung cấp cho bạn cách để tùy chỉnh thay đổi văn bản của nhà cùng cấp dịch vụ của bạn</description>
+		<description>Tweak cũng cung cấp tính năng Ẩn Nhà cung cấp dịch vụ nếu Công tắc được Bật mà không có Văn bằn Tùy chỉnh được Thêm vào! </description>
+		<description>Định cấu hình các tùy chọn từ Cài đặt. Xem ảnh chụp màn hình bên dưới. </description>
+		<description>* Tách và Thêm làm Mới tùy chọn đề Tùy chỉnh Thay đổi Văn bản Không có SIM (Không có Dịch vụ) và điều đó sẽ được Khắc phục Cường độ Không có Tín hiệu xảy ra trên các Thiết bị ios14 dưới đây</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>carri.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

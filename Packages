@@ -306,16 +306,16 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: com.BIENVANNHAT.autotouch
 Architecture: iphoneos-arm
 Version: 7.8.9~1K
-Section: Tweaks
+Section: Hack Game
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 107052
 Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9)
 Filename: ./debfiles/com.BIENVANNHAT.autotouch_7.8.9~1K_iphoneos-arm.deb
-Size: 47868940
-MD5sum: 8b2c9919559a035bc4a585a45ecf2828
-SHA1: c7cf61c115c22b283c0a9cdd283b285324446b82
-SHA256: db035d9fcb4f06706c74481faa4121cfb1217ea7779175cc3903faf6905595b9
-SHA512: ee3725f324be2f99e5eb4003193bdf70c191b31a4e99bed1c2b3f41b8fcea0a02c1e5cb05f4ef683d1c7cd0aa132644f56d2cec5fa0d0d7f61de9c9414d7565f
+Size: 47868946
+MD5sum: 9db592baa8858c4040c6f7c42bfcddb7
+SHA1: acc407723f8f8ebc777c0f995ab6dad69b19fea4
+SHA256: 36470fdc28024a4d7767336899369e61b556ff4804dcc95b166a115eceea15d5
+SHA512: 159d8df423128774886d256ed3505d4baca0ccb2274c6fae5ad692fba33c577dfb85c6ad562344e3f1173411361565fce2aad91bc582062784300d42ee6b8220
 Description: Sau khi cài đặt, bạn cần mở AutoTouch trên màn hình chính và chọn Settings > License và nhấn Download License đế kích hoạt AutoTouch. Ghi lại, phát lại, mô phỏng chạm/nhấn trên mọi nơi của thiết bị, chạy tập lệnh Lua. Phiên bản hiện tại được hỗ trợ cho iOS 9 - 14
 Name: AutoTouch VH
 Author: Kent Krantz

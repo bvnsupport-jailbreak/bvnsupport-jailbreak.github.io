@@ -579,6 +579,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.dr
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.dra1n
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.dra1n
+Architecture: iphoneos-arm
+Version: 4.5.6
+Section: Tweaks
+Maintainer: MegaDev & Amy While
+Installed-Size: 3976
+Depends: mobilesubstrate, firmware(>=12.2) | org.swift.libswift (>=5.0), ws.hbang.common,preferenceloader, com.cokepokes.libnotifications (>= 0.2-2)
+Conflicts: com.megadev.dra1n, com.amywhile.dra1n
+Filename: ./debfiles/com.BIENVANNHAT.dra1n_4.5.6_iphoneos-arm.deb
+Size: 2149096
+MD5sum: 5d1400e77445df217b91f7d8d0d5bf20
+SHA1: 81c8e528da36fda592a67d803e8f3e717f469e54
+SHA256: 7052a38009c5ce79fae50303c7ab1ac058ece0c0976359d050f5bc3d6f586f79
+SHA512: ffe62e98f9394c30dda070414d5048abf00edfee05a16766c3a37f001d3ae043408e0714d50732c07bbe655644b59a65ecfb2bfb04f74cc7b3f6d81a10efe22a
+Description: Tìm ra những gói nào là Dra1ning pin của bạn!
+Name: Dra1n Việt Hoá
+Author: MegaDev
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.dra1n
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.dra1n
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.edge
 Architecture: iphoneos-arm
 Version: 2.6.1

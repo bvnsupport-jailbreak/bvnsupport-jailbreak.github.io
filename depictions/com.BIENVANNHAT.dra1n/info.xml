@@ -1,11 +1,11 @@
 <package>
 	<id>com.BIENVANNHAT.dra1n</id>
 	<name>Biện Văn Nhật</name>
-	<version>2.3.4</version>
+	<version>4.5.6</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11</miniOS>
-                         <maxiOS>14.5</maxiOS>
+			<miniOS>12</miniOS>
+                         <maxiOS>14.9</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -23,7 +23,7 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>• Sửa lỗi trong đó bảng thủ phạm trống • Thay đổi màu sắc hiệu quả hơn • Thêm tùy chọn Fahrenheit và MM / DD • Hiển thị ram trống trên trang chủ • Biểu đồ sẽ không nhảy xung quanh khi bạn mở chế độ xem • Không còn yêu cầu libMRYIPC, chỉ  RocketBootstrap</change>
+		<change>Phiên bản mới support Ios 14 ,hỗ trợ từ ios 12 trở lên😘Ios 11 vui lòng giảm cấp xuống bản 2.3.4</change>
 	</changelog>
 	<links></links>
 </package>

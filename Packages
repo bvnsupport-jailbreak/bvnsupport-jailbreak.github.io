@@ -234,11 +234,11 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 948
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debfiles/com.BIENVANNHAT.androbar_1.0_iphoneos-arm.deb
-Size: 164986
-MD5sum: c7ec6bb317e0e6e3a35d908af0dbd081
-SHA1: d6a8667c2ecbb50c8c9a3f59b759480b5a109bc0
-SHA256: 9a18e9d8e5f59432eb575800db42a05ededae5caa79e8bd4049fd7307e6e90fb
-SHA512: e7133f51b09fb9c4a567210e4e892ab6c32358e36b970834987bdf91b09f4a092771546ab5e522fd51f08965d26d0bf9f66cb00f2f24fde6640cbed6e0a8955d
+Size: 166058
+MD5sum: 100223e4719f50c28d02887e714f6d6d
+SHA1: 267766f35fdf1ba9a69390c8bf28a41daf1744e4
+SHA256: 3917f48747f3276440b11cd6055abfb5a9ee33c8d14ba46a51159f9ebe3e85b2
+SHA512: 296ac6460a190081e8a01ecf715c0e89e7cf4dead416f57254837819d482cfb76457e81bc73d2af8f563b1d142974f6f344646b9089061117cb348f2ede1a993
 Description: Thanh công cụ dưới màn hình như Androi cho Ios,hỗ trợ ios 14.0-14.5
 Name: AndroBar Việt Hoá
 Author: Ginsu

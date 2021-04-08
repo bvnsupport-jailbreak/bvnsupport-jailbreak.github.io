@@ -1329,6 +1329,25 @@ Name: ProGesture Việt Hoá
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.progesture
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 920
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn, com.hius.halfipad
+Filename: ./debfiles/com.BIENVANNHAT.progesture_1.0.9_iphoneos-arm.deb
+Size: 187134
+MD5sum: 71600345d7974652f62e0d6393589b6c
+SHA1: bfb9f3b354cd6901f15df49126f5be5c240aef65
+SHA256: 01f7692eb4c495bfaad0ad8baad783d2d8fc138dfbe54335a35611406fd77a56
+SHA512: 060519dee5c785469456d3db23ce09028c2ed2de191cd62e16c725eede89a1d7e6a9c71429026000890cb70cf75e3dc0bf5f64650f0c3035f14dc218da7fed96
+Description: Cử chỉ hiện đại, tính năng iPad và Iphone X nhiều tính năng độc đáo nhưng nhẹ và ít pin hơn.Chỉ dành cho iOS 14.
+Name: ProGesture Việt Hoá
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.settingsbuttons
 Architecture: iphoneos-arm
 Version: 1.4

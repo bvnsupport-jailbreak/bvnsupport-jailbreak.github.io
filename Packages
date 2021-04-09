@@ -1,3 +1,18 @@
+Package: com.BIENVANNHAT.Blackorangepro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: BIỆN VĂN NHẬt
+Filename: ./debfiles/com.BIENVANNHAT.Blackorangepro_1.0_iphoneos-arm.deb
+Size: 11349550
+MD5sum: aa5fae1c39519a702a08afb73b3b2b12
+SHA1: 58dc12023bf5c2bf9d736e64a8f47bdfb714dc30
+SHA256: f57c22daa5c660d79fa0e9eb935126799abacec3f6af31fa64158410138f3774
+SHA512: 81becfc1f69555de6d87e497b8e4cee0c442399eb2119e43fd25f182c658b546411bda1e54dc5b726988279ae9a9cea6f80c903f069a20ff26f9e5d9714320fe
+Name: Black orange pro
+Author: Khoảng lặng
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.DARKMODE
 Architecture: iphoneos-arm
 Version: 3.4

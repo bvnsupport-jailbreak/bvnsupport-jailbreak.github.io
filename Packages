@@ -1774,23 +1774,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-chu
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-chucmungnammoi.Chucmungnammoi
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.Bvnsupport-fakeios.fakeios14
-Architecture: iphoneos-arm
-Version: 14.5
-Section: System
-Maintainer: BIỆN VĂN NHẬT
-Depends: mobilesubstrate, firmware (>=5.0)
-Filename: ./debfiles/com.Bvnsupport-fakeios.fakeios14_14.5_iphoneos-arm.deb
-Size: 1780
-MD5sum: 4a52a5996360064de283079a365898d9
-SHA1: 023ef6f009665f7bc998f2083417b27e81756426
-SHA256: 68a6010aae6fafff309cac0095ef0e552273d6440527c3e3a296cafb09a9a0a4
-SHA512: 43ba68b893b413d42cbb60e9d08bcc89fc49a60e72f76e9210b662fb58cf5b558cf83d33b7f6fad8ceb1a7fe7430340cf1c17123d68fed14a4e7df22084e133d
-Description: Fake Ios 14.5 tweak dùng để ghép sim cho Iphone Lock.Cài xong gắn sim ghép Active ICCID Oki rồi vào lại Cydia để xoá Tweak.#Lưu Ý.Không khởi động lại máy khi chưa xoá Tweak này.
-Name: Fake iOS Ghép Sim
-Author: BIỆN VĂN NHẬT
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
 Package: com.Bvnsupport-lsbvn.LSBVN
 Architecture: iphoneos-arm
 Version: 3.4.5
@@ -2097,23 +2080,6 @@ Author: Bùi Nam
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-Tet.Chudetet
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-Tet.Chudetet
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvnsupport-fakeios.fakeIOS14
-Architecture: iphoneos-arm
-Version: 14.4
-Section: System
-Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
-Depends: mobilesubstrate, firmware (>=5.0)
-Filename: ./debfiles/com.bvnsupport-fakeios.fakeIOS14_14.4_iphoneos-arm.deb
-Size: 1778
-MD5sum: 3359566f50e4e41d73dc9f6c29692230
-SHA1: 821db563d528cc8109e2d06d6e697cb18b587bfc
-SHA256: 7f6220e44439fe40c042ed059ceb44f2b687f83d9b9ab3e97d102e8cd3974b06
-SHA512: ba0871aefb8ce3d38065d7af12ad436283ab5788026d9a54059edaa87a8ca5c8183614db36b35a9e6fe482da8d2d88d038405928e26e4bf3eb9d04192588c328
-Description: Cài xong gắn sim ghép Active ICCID OK rùi vào lại Cydia Để Xoá Tweak ,yêu cầu không khởi động lại máy.
-Name: Fake iOS Ghép Sim
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-Author: NHC
 
 Package: com.bvnsupport-fakex.little12
 Architecture: iphoneos-arm

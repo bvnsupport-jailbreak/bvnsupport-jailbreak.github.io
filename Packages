@@ -1266,6 +1266,27 @@ Name: MooreBarX13 Việt Hoá
 Author: tateu (Josh Harris) <tateu@tateu.net>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.myfolderstitles
+Architecture: iphoneos-arm
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 480
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.peterdev.libpddokdo, org.thebigboss.libcolorpicker
+Filename: ./debfiles/com.BIENVANNHAT.myfolderstitles_1.0.0_iphoneos-arm.deb
+Size: 91224
+MD5sum: 05d71d6331ff835d34f3e8dcdd961937
+SHA1: f8239ba63644e12bc56585709da7d43e7275d337
+SHA256: d2a76e31306d15268ce29a0be455f50d38cb6e92e516cdd133eb61c9c5683417
+SHA512: f1a5164bcdfe66120406ea3ad78fda8ac03d89f0d69ad4103c0a6c072aa97be0e6843f17ee2f10a1b4b42567f2a7b595cc1c64704610f3ae758fae9b99070fc1
+Description: Văn bản / Tùy chọn tùy chỉnh cho các thư mục của bạn Tiêu đề!
+Tag: purpose::extension
+Name: MyFoldersTitles Việt Hoá
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.ntspeed
 Architecture: iphoneos-arm
 Version: 0.2~beta9

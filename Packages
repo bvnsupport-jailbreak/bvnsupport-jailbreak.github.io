@@ -1513,6 +1513,23 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNH
 Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 Author: Skitty
 
+Package: com.BIENVANNHAT.successionrestore
+Architecture: iphoneos-arm
+Version: 1.4.16~b4
+Section: Utilities
+Maintainer: BIỆN VĂN NHẬT
+Depends: firmware-sbin, rsync
+Filename: ./debfiles/com.BIENVANNHAT.successionrestore_1.4.16~b4_iphoneos-arm.deb
+Size: 1179426
+MD5sum: 56284a7232604645775ab5921b90678a
+SHA1: 4a20fc26fbd20936bf24b3840ef3b23908fa505c
+SHA256: 9c0a18c421f6086f1d4d8634bce4cb095fe35ab1b0c1dae03b1891f0b1962d28
+SHA512: 9727d773e6c9f62bf353c43c29ccc786e8f94b36f76fab2cd24fc531949669cd7b22c0113961d9d9658db8c8a19df06e97ddc5600293dc1c9644d9e52ee67e72
+Description: Khôi phục thiết bị của bạn và dữ lại Ios hiện tại.Hỗ trợ ios 10 tới Ios 14.9
+Name: Succession VH
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6

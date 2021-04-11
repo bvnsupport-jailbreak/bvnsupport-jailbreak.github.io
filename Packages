@@ -1266,6 +1266,23 @@ Name: MooreBarX13 Việt Hoá
 Author: tateu (Josh Harris) <tateu@tateu.net>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.ntspeed
+Architecture: iphoneos-arm
+Version: 0.2~beta9
+Section: Tweaks
+Maintainer: BIEN VAN NHAT
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.ntspeed_0.2~beta9_iphoneos-arm.deb
+Size: 119714
+MD5sum: 7b7d9627fbeda4c04e1a2bf90aa13629
+SHA1: 5999768b664f442808c14e6392b9b9e1ed33b7c9
+SHA256: d8aaf19f1f6c559e1ae3a1937518bf9f80d958266d65bb5569c0b43cba41ff61
+SHA512: 57c30159dcd4f06d7bc9b588ca5266ff69eb3f73ac6f5a2f29d16b25d3741b3198ad5bbf394032674a59d0e6a1725ea8d03586791cb757c8eb6bd8b9cc88d8b7
+Description: Hiển thị tốc độ mạng ở thanh trạng thái.Hỗ trợ ios 6 tới ios 14.9
+Name: NtSpeed VH
+Author: Julioverne
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.passby
 Architecture: iphoneos-arm
 Version: 1.9

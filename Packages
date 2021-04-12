@@ -1312,13 +1312,13 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 532
 Depends: mobilesubstrate
 Filename: ./debfiles/com.BIENVANNHAT.panoramapapers_1.6.4-1_iphoneos-arm.deb
-Size: 97116
-MD5sum: 6a588125ed13353a7d2f0febad3f42cc
-SHA1: 689ea60140e6d36082944909d11a987d174532dd
-SHA256: 272de729af51e38a5e59e521e904979943c1636a83cc3ab3c9b01451975388de
-SHA512: 57438400b430d733f0659b181e1bd4737b43728cb7e0c050ee84a2c8d608b85a98d9228becda3956eff66d32036001261f02614c4038e0e8dc856fc4236fbf1d
+Size: 97000
+MD5sum: 5c9d80d262f86e6e2dee2705bc8702e1
+SHA1: 88c94e1b8876388d8a221d6b3fa17003be67cb01
+SHA256: 38b36c9a49a5f20489455d1233c5dce40ea43e41cb8f517f547ff2313f4d77f7
+SHA512: 344d2b7fa9bbf6500bcb86a6b4ea42ec5eb013916b0985ab8d75937b26ff4e01317c627861fb474d29de7d3cca4237a41032f8a4a7243ab7cab1d57c48a83739
 Description: Cập nhật cho iOS 12 và 13và 14
- Mô tả:"Thêm một hình ảnh khác nhau trên màn hình chính! Nếu bạn sử dụng đúng hình ảnh bạn có thể tạo ra một bức tranh toàn Cảnh.Hiện Cấu hình lựa chọn trên cài đặt - hỗ trợ lên đến 10 màn hình!
+ Mô tả:"Thêm nhiều hình ảnh khác nhau trên màn hình chính! Cập nhật cho iOS 12 và 13và 14
 Name: PanoramaPapers Việt Hoá
 Author: sst1337
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

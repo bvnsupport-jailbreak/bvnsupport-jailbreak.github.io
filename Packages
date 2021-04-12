@@ -737,25 +737,6 @@ Author: Plat-Ykor <plat-ykor@libero.it>
 dev: BVn
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.filza64bit
-Architecture: iphoneos-arm
-Version: 3.8.2-6
-Section: Utilities
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 21788
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza
-Filename: ./debfiles/com.BIENVANNHAT.filza64bit_3.8.2-6_iphoneos-arm.deb
-Size: 8422384
-MD5sum: f4ad92d1916266edba44ee3a67c0538f
-SHA1: 0c5bc2f029cb635bd267134d05eaadbd4c099bf3
-SHA256: 71db0fb6c72415b6720319dbeea88d0702f70c6d3fe7602cf4906fc736f8167f
-SHA512: a0fc0bc9d63229dd21ae56da64b24299bf95176a62852f8db19c7106bbf7218bfd107a24281455004ddeaecbda66d4de3d0000dac49be81dee79f249af57d080
-Description: Trình quản lý tập tin cho iOS của bạn!
-Name: Filza File Manager 64-bit
-Author: TIGI Software
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.floatingdockplus13
 Architecture: iphoneos-arm
 Version: 1.1.8-1k
@@ -3345,6 +3326,25 @@ Description: Mô tả:Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ
 Name: Filza File Manager 64-bit
 Author: TIGI Software
 Icon: file:///Applications/Cydia.app/Sections/tienich1.png
+
+Package: com.supportjailbreak.filza64bit
+Architecture: iphoneos-arm
+Version: 3.8.2-6
+Section: Utilities
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 21788
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: ./debfiles/com.supportjailbreak.filza64bit_3.8.2-6_iphoneos-arm.deb
+Size: 8422386
+MD5sum: e9f03e121d5138a86d554f1731789675
+SHA1: b8c4edf10a8e3762e1d01de9b4ed90f9338546e7
+SHA256: 204664a949be11aa7ac5157ed639fa7efa9d07f3414405aaaa703eac3b841513
+SHA512: 0b74e6c3b6f30f17d9c65b310e19abe1387a0dd8e4fb5f708cde0c54dbea49c9ceea1ba7394b3fdc47693b1f1bc7f36ac1a2fb3bdf5286b1c3e0115b0c02a629
+Description: Trình quản lý tập tin cho iOS của bạn!
+Name: Filza File Manager VH
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.flex3beta
 Architecture: iphoneos-arm

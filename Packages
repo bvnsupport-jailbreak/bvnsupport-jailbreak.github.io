@@ -1304,6 +1304,25 @@ Name: NtSpeed VH
 Author: Julioverne
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.panoramapapers
+Architecture: iphoneos-arm
+Version: 1.6.4-1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.panoramapapers_1.6.4-1_iphoneos-arm.deb
+Size: 97116
+MD5sum: 6a588125ed13353a7d2f0febad3f42cc
+SHA1: 689ea60140e6d36082944909d11a987d174532dd
+SHA256: 272de729af51e38a5e59e521e904979943c1636a83cc3ab3c9b01451975388de
+SHA512: 57438400b430d733f0659b181e1bd4737b43728cb7e0c050ee84a2c8d608b85a98d9228becda3956eff66d32036001261f02614c4038e0e8dc856fc4236fbf1d
+Description: Cập nhật cho iOS 12 và 13và 14
+ Mô tả:"Thêm một hình ảnh khác nhau trên màn hình chính! Nếu bạn sử dụng đúng hình ảnh bạn có thể tạo ra một bức tranh toàn Cảnh.Hiện Cấu hình lựa chọn trên cài đặt - hỗ trợ lên đến 10 màn hình!
+Name: PanoramaPapers Việt Hoá
+Author: sst1337
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.passby
 Architecture: iphoneos-arm
 Version: 1.9

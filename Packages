@@ -134,6 +134,24 @@ Name: Springtomize 5 VH
 Author: sharedRoutine
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Springtomize
+Architecture: iphoneos-arm
+Version: 5.2.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2456
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.BIENVANNHAT.Springtomize_5.2.3_iphoneos-arm.deb
+Size: 695162
+MD5sum: 8b289488daf62354357701682f25d7cd
+SHA1: dd014f4aaf562a16cc0174ac63ec02fa56bdeb88
+SHA256: ea05127c3740b42f66c829df28f5718afc57bac609e850ddee3c07a06fcb33b0
+SHA512: 630a2637422124ef1e4221811a2ae2e7bbe266f5edb21678061815379979ef01d70af7363404a3564e7778be917739ec2bbe5b877acec82848d706cd20c4b567
+Description: Tùy chỉnh thiết bị của bạn hơn bao giờ hết.
+Name: Springtomize 5 VH
+Author: sharedRoutine
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.TRM
 Architecture: iphoneos-arm
 Version: 116

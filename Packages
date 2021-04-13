@@ -1305,6 +1305,24 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.notifierdots
+Architecture: iphoneos-arm
+Version: 0.3-5
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Depends: firmware (>=11.0), firmware (>= 11.0),  mobilesubstrate (>= 0.9.5000), applist, preferenceloader (>= 2.2.3), ws.hbang.common (>= 1.11)
+Filename: ./debfiles/com.BIENVANNHAT.notifierdots_0.3-5_iphoneos-arm.deb
+Size: 126068
+MD5sum: 29320cc7d4222975f0ed8d36a56f06cd
+SHA1: bb90b2ed60b9149e97aea67fc781df1efd196bbe
+SHA256: c3672777127a57d50f238e85bb1641b4eed1c3c29809bc825caeb15a62b541e3
+SHA512: b7f467d116db7d6ed5101faba8d41bb8ef4d693186453dafa407729b88f94b242e08cadca186a5a1dea2c61b4bf6e78861cc9619f966e85c66fa93cb10e459b2
+Description: Chỉ báo thông báo dựa trên huy hiệu trên thanh trạng thái, được thực hiện cho iPhone có ghi chú.Hỗ trợ Ios 11 tới ios 14.5
+Name: NotifierDots Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Tags: compatible_min::ios11.0, compatible_max::ios14.3
+Author: iamalive2008 <iamalive2008@foxmail.com>
+
 Package: com.BIENVANNHAT.ntspeed
 Architecture: iphoneos-arm
 Version: 0.2~beta9

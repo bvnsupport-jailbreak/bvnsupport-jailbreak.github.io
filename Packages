@@ -1456,6 +1456,24 @@ Name: ProGesture Việt Hoá
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.scribble
+Architecture: iphoneos-arm
+Version: 2.0.2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.2), com.boo.libscribble, com.spark.libsparkcolourpicker
+Filename: ./debfiles/com.BIENVANNHAT.scribble_2.0.2_iphoneos-arm.deb
+Size: 76892
+MD5sum: 354107869ec0c3eb256ebddf539bdf26
+SHA1: c8a6221e89222d642a9c67b32e627964dc4a5b70
+SHA256: 5e8a66d76f0e8337a21bb20b7fe46c27ec02ed18899ecdc8939657d7cc96e6ca
+SHA512: 8d36c7c811e01385868c71ca4524cbe33b955fae55a96330cb97248d041b105cad8509c7e356b3cb629fdbc24a13c228ff73517b2f3ce7b627baa5c5d4a75f16
+Description: Mở khoá bằng cách vẽ lên màn hình.Scribble mô phỏng lại cách chúng ta mở khóa thiết bị của mình bằng một bước ngoặt hiện đại. Chỉ cần mở khóa thiết bị của bạn bằng một bản vẽ tùy chỉnh mà bạn thiết lập. Scribble được thiết kế để thay thế mật mã hoàn chỉnh, nhưng bạn luôn có tùy chọn để sử dụng mật mã thông thường của mình. Scribble cung cấp cho người dùng tùy chỉnh đầy đủ về cách họ muốn nó nhìn và cảm nhận.Hỗ trợ từ ios 11-14.5
+Name: Scribble Việt Hoá
+Author: Boo
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.settingsbuttons
 Architecture: iphoneos-arm
 Version: 1.4

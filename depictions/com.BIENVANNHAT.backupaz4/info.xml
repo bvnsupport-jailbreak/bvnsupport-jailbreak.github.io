@@ -1,0 +1,38 @@
+<package>
+	<id>com.BIENVANNHAT.backupaz4</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>BackupAZ trở lại với phiên bản mới bao gồm nhiều tính năng hơn, giao diện được làm mới và tất nhiên là ổn định nhất.Tại sao phải sử dụng iTunes để sao lưu thiết bị khi bạn có BackupAZ 4? Ứng dụng này có thể lưu tất cả các dữ liệu này</description>
+		<description>• Gói Cydia đã cài đặt
+ • Deb của các chỉnh sửa được cài đặt của bạn trong phiên bản mà chúng hiện đang được cài đặt! Nguồn Cydia Tùy chọn Tweaks và Ứng dụng Apple 
+• Tài khoản Lịch sự kiện Lịch sử cuộc gọi Số địa chỉ 
+• Dữ liệu sức khỏe 
+• Thư viện iBooks
+• Tin nhắn và iMessages 
+• Ghi chú Ảnh và Video Dấu trang Safari
+ • Cài đặt SpringBoard 
+• Ghi nhớ giọng nói 
+• Thư thoại Đế khôi phục!</description>
+		<description>BackupAZ4 sao lưu dữ liệu trong vị trí Safeguard iTunes nhưng đế bảo mật thì tôi khuyên bạn nên sao lưu những dữ liệu này trên máy tính từ đường dẫn sau: var/mobile/Library/Preferences/BackupAZ4 Nếu bạn muốn khôi phục bản sao lưu của mình sau khi bạn đã lưu nó vào máy tính thì hãy thay thế thư mục BackupAZ4 trong đường dẫn trên. Bạn cũng có thế tải các bản sao lưu của mình lên Dropbox từ ứng dụng!</description>
+		<description>Cảnh báo: Một số ứng dụng yêu cầu khởi động lại (chẳng hạn như ứng dụng Điện thoại). Đối với điều này, chỉ cần sử dụng nút trong cảnh báo sau khi phục hồi. Bạn cũng có thế sử dụng nút khởi động lại trong các trang «Tùy chọn». BackupAZ 4 cũng cho phép bạn xem trước các tệp sẽ được lưu khôi phục để hiểu rõ hơn về những gì sẽ được thực hiện!</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Backup.PNG</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

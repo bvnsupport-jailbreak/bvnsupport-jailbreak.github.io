@@ -411,6 +411,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.ax
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.axon
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.backupaz4
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BIỆN văn Nhật
+Depends: firmware (>= 13.0), coreutils-bin, dpkg, shell-cmds
+Filename: ./debfiles/com.BIENVANNHAT.backupaz4_1.0.1_iphoneos-arm.deb
+Size: 12857618
+MD5sum: e3e0403f641a356fdef17a7899067f4c
+SHA1: 49c1cd41eb700de227067a29b55dc034beafb609
+SHA256: 9f95d9ff65ce7f23f711220b737149f7bb25cd6e75a9d1d88505183c75e57a01
+SHA512: 055e24cb7778dbb56afa26083237035b59ff48c2ea652465fe1796ecd042a17c62edbb7e77de6845bf98e47288e5712c0107eb94b755807de264da2a7317f222
+Description: Trình sao lưu tốt nhất cho thiết bị của bạn.
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.backupaz4
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.backupaz4
+Name: BackupAZ 4 (iOS 13 - 14)VH
+Author: SynnyG
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.batteryflow-reborn
 Architecture: iphoneos-arm
 Version: 1.3

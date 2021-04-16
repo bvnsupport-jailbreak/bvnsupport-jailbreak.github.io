@@ -816,6 +816,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fr
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.gravitation
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1264
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.gravitation_0.1.1_iphoneos-arm.deb
+Size: 147704
+MD5sum: ce8df552061ca4ac2dc5a6bcd4276829
+SHA1: a642796a0f42e743d227cc8b0e89aa86302c4930
+SHA256: ba35659e747d374491152f085277b822657c041a76551f3fd0d70fbfddfd9345
+SHA512: a65c189a8e0868cbd2112b804c0292ad4dc558f5aeef913209b32bd6abe0c4535d26efaa43dfcd17dc9d45a0baea8295d544ae736e789089915fa740a906d52c
+Description: Lắc điện thoại của bạn để icon rơi lả tả rất hay
+Name: Gravitation Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Kritanta
+
 Package: com.BIENVANNHAT.halem
 Architecture: iphoneos-arm
 Version: 1.0-0+debug-1+debug

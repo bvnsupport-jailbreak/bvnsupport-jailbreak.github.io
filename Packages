@@ -1008,25 +1008,6 @@ Name: Kill All Apps
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
-Package: com.BIENVANNHAT.libapappview
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Addons
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 196
-Replaces: com.rpgfarm.libapappview
-Filename: ./debfiles/com.BIENVANNHAT.libapappview_1.0_iphoneos-arm.deb
-Size: 32724
-MD5sum: 4d32d6549aa7023bfdfeb76585bd4855
-SHA1: b23bc9c15495d5ea252801d6695835f5ee39e285
-SHA256: eee2289977c9527939ffb10e2e7aca08ee541a67a59c340b17ca05a8d135eb66
-SHA512: e3f1fc082f8738e19dd2a7e8758d147bb6084cde7d3800bfdb7ef07684e8004f092aed50b1dad8edd7dfc0cdacbc07b547ce5c5aafff87416f3b7b6011aba864
-Description: GÓI HỖ TRỢ CHO PUllover pro (Fixios14)
-Tag: role::developer
-Name: libAPAppView
-Author: Baw Appie <pp121324@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
 Package: com.BIENVANNHAT.libfah
 Architecture: iphoneos-arm
 Version: 0.1
@@ -1535,13 +1516,13 @@ Architecture: iphoneos-arm
 Version: 2.4~Beta
 Section: Tweaks
 Maintainer: BvnSupport <nhatbien97@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist, com.BIENVANNHAT.libapappview
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist, com.rpgfarm.libapappview
 Filename: ./debfiles/com.BIENVANNHAT.pulloverprofixios14_2.4~Beta_iphoneos-arm.deb
-Size: 1568848
-MD5sum: 4c511da5894b7c80a560991e69b0e954
-SHA1: 66d7e1bc4b8d1b56aa88f79595c20d708d1045ea
-SHA256: 1451bfff26e133f05184f9ae83a4e6846db2d4d52837c0c988402129a9695fe9
-SHA512: 74304689f4cad68863b3de165beff23166403d2df8c19a1a4c32522a694e28fc7db8d7933ed474546ce42b0db88a94bccfcc0a623d5c9253538d180ef6697a2e
+Size: 1568852
+MD5sum: 1616d3b109d93c3e4a984d4f20687103
+SHA1: 53a933d0663a27531d3da774d7e13d4c3d7871b8
+SHA256: 9be5c1eb1ab305bb87c3374a7ade3c52abdab6112a7d2009aeab81e7d447c0e6
+SHA512: c10b1bc2597328e27fb668e341a1dfece11a5dd326e5f228b3fd32d4cf6bfcd4dfb891e2d24ccc4168aa295f812fc452cd9e631bf9ac0106707116a13f84e58b
 Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!
 Name: PullOver Pro (Fix Ios14)
 Author: c1d3r <c1d3rdev@gmail.com>
@@ -2927,6 +2908,24 @@ Description: bỏ qua kiểm tra chữ ký của íntalld,cài File IPA,hỗ tr�
 Name: AppSync New
 Author: Linus Yang
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.rpgfarm.libapappview
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: BIEN VĂN NHAT
+Installed-Size: 196
+Filename: ./debfiles/com.rpgfarm.libapappview_1.0_iphoneos-arm.deb
+Size: 32694
+MD5sum: 5d8a8500910904dea7add77f08855184
+SHA1: 9a09204fe1fc21887ff51c6800e3820af77e7ec7
+SHA256: f9058c0e16931534e1abf574fe48feccfcf41319557faf34471f4d1a46f5c4ae
+SHA512: f68095a10101d87297478700ad07f1df297885fd38d8c242d3ecb176159f45b16602fdcda7fb25cfc7102220f05b22ee2b9d526b1eec7b3e3c9a6c9fa0f882ab
+Description: Gói hỗ trợ cho Pullover Pro (Fix Ios14)
+Tag: role::developer
+Name: libAPAppView
+Author: Baw Appie <pp121324@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.support-jailbreak.libnebbs
 Architecture: iphoneos-arm

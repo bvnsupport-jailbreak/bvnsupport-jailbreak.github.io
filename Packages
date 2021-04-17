@@ -910,6 +910,24 @@ Name: HomePlusPro Việt Hoá
 Author: Kritanta
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.homepluspro
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Bien Van Nhat
+Installed-Size: 1412
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.homepluspro_2.0.1_iphoneos-arm.deb
+Size: 454402
+MD5sum: 2bd350bc48ba8db44006bcb53cb0af6f
+SHA1: ebf56beda40721b281331e7e1c807c16cdeab0cd
+SHA256: fbb70de51c1f59135614513bcc4fbf6b1ddd6af7e201e3fe187b852a5f0a634a
+SHA512: d7e098fba0118669a62cfd968bc7f4fff2d65f468f4f2d81bf3b5a973069c4b691820df5bba289a30a1aaa177cde7a0895289df21e3587665a0ebfa352811efc
+Description: Điều khiển bố cục trên màn hình chính theo cách bạn muốn!Điều khiển bố cục trên màn hình chính theo cách bạn muốn!HomePlus Pro là một tinh chỉnh mới hỗ trợ cho iOS 11 - 14 với các tính năng tương tự như Boxy hoặc Iconator . Hiện tại tinh chỉnh vẫn đang được nhà phát triển cập nhật liên tục để nó làm việc ổn định hơn .
+Name: HomePlus Pro VH
+Author: Kritanta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.iOX
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -3240,6 +3258,25 @@ MD5sum: 622effd9ee652f8e1034c4464afddef7
 SHA1: 6a3bfedfb2d6abe3bd971988bcac433ff2f9651c
 SHA256: aa8095680634d8840acf06209fe6f276e89ee8461fe19b9b0d06885dcfda17d2
 SHA512: d02f22bb5b620a668ce27977d3a29336b43677c5d481c72974cf0b1df4611e546feedeb22ba5fe741b5df751ace04883ce2e7c16a23ab03c7bc53ed142d71d1a
+Description: Sắp xếp các biểu tượng trên màn hình chính.
+Name: Boxy 4(13/14)VH
+Author: William Vabrinskas
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.supportjailbreak.boxy4vn
+Architecture: iphoneos-arm
+Version: 4.3.6
+Section: Tweaks
+Maintainer: Bien Van Nhat
+Installed-Size: 3564
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Filename: ./debfiles/com.supportjailbreak.boxy4vn_4.3.6_iphoneos-arm.deb
+Size: 2989126
+MD5sum: 02893ff7475302511be3eb77f8e92720
+SHA1: dc31c7f12d5e4a44be890b4ed7aad76a662bf011
+SHA256: bbff65241985c4d51e53ee49500169a159b94e51e7720c3b6a512d3491a8a073
+SHA512: 89579d64f3b50842a8b630d34ec8f7438541b850eea69809d5ca5399ac98e286ba53b3d8e694b12a634c1db2deacfbe2b173acf3d1a5cd1df6f53b5c58454503
 Description: Sắp xếp các biểu tượng trên màn hình chính.
 Name: Boxy 4(13/14)VH
 Author: William Vabrinskas

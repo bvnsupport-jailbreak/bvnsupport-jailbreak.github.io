@@ -1,3 +1,25 @@
+Package: com.BIENVANNHAT.2thanhdock
+Architecture: iphoneos-arm
+Version: 1.0-beta1
+Priority: optional
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <BIENVANNHAT97@GMAIL.COM>
+Installed-Size: 100
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.2thanhdock_1.0-beta1_iphoneos-arm.deb
+Size: 10114
+MD5sum: 0af20fa186e48ca78358afca1d38f11a
+SHA1: 6f6db24dc398f5a01dcfbc0448034af3edd7d3fd
+SHA256: b44147015a81804b98214da952c16c7a0c8f83df5daed9cd554ebe8fd8097c95
+SHA512: 6a3e26ba6b60be6e5e66497dfed388f18aefa8226a17c7b4bbcc8325ca73d42ae442a1c8b970f7983c642ce49af977ff33a467be0cc667cb27f2b3b7f29cfd85
+Homepage: https://bvnsupport-jailbreak.github.io
+Description: Tạo 2 thanh dock ở màn hình chính cho bạn.Hỗ trợ ios 13-14.5
+Tag: purpose::extension, compatible::ios13, :ios14.5
+Name: 2 Thanh Dock
+Author: BIỆN VĂN NHẬT <BIENVANNHAT97@GMAIL.COM>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+dev: BVN
+
 Package: com.BIENVANNHAT.Blackorangepro
 Architecture: iphoneos-arm
 Version: 1.0

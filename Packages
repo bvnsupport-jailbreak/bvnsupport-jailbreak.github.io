@@ -89,6 +89,24 @@ Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Name: Libbvn
 Author: BIỆN VĂN NHẬT
 
+Package: com.BIENVANNHAT.Orion
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 8624
+Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./debfiles/com.BIENVANNHAT.Orion_1.0.0_iphoneos-arm.deb
+Size: 2964934
+MD5sum: 6b37dde1bc295beb49d15ca7b9b25afb
+SHA1: df4d2254fe394e346b22e171724b35536eb29c9f
+SHA256: 3d070793915a32cf0a74d46c8d3039762087d9516dbd34debee9b69c850dd3ed
+SHA512: 4cbd9aa9f9fcf7a94c7b9845d5dbced83b044702fbcb28592714cf5a538320176d1c0186efff5d472eac85c3738157ce95c8cc9a12e270199aa3af97ad4fb9f7
+Description: Cấu hình mọi thứ trên thiết bị của bạn!
+Name: Orion Việt Hoad
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.3

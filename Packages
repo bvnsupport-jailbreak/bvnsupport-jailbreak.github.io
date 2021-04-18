@@ -95,15 +95,15 @@ Version: 1.0.0
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 8624
-Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist, com.BIENVANNHAT.libvew
 Filename: ./debfiles/com.BIENVANNHAT.Orion_1.0.0_iphoneos-arm.deb
-Size: 2964934
-MD5sum: 6b37dde1bc295beb49d15ca7b9b25afb
-SHA1: df4d2254fe394e346b22e171724b35536eb29c9f
-SHA256: 3d070793915a32cf0a74d46c8d3039762087d9516dbd34debee9b69c850dd3ed
-SHA512: 4cbd9aa9f9fcf7a94c7b9845d5dbced83b044702fbcb28592714cf5a538320176d1c0186efff5d472eac85c3738157ce95c8cc9a12e270199aa3af97ad4fb9f7
-Description: Cấu hình mọi thứ trên thiết bị của bạn!
-Name: Orion Việt Hoad
+Size: 2966256
+MD5sum: 9ed6d79efdf3af67fac6bb2361ebb526
+SHA1: 0bc30eba07d4f4e67b3e3eadff4482a5c9075812
+SHA256: 4e740ac1f91be077e0b911d3973ed3b06d8962fd88c0245e628c1bfe7758240d
+SHA512: 49ff8023c502f3b578fd9bb4570ddef08a1db408b4dc18f0ff9e3d6fd00080167ba3e2cfa355492b42ab112263ad1dc06d476ab6f63fdb383252c70299de1ca6
+Description: Cấu hình mọi thứ trên thiết bị của bạn!Hiện tại 1 số chức năng mình chưa việt hoá được hết nên anh em thống cảm nhé.Ngày mai sẽ có bản Full Tiếng Việt Trên Repo.
+Name: Orion Việt Hoá
 Author: John Zarogiannis <johnzrgnns@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
@@ -1160,6 +1160,21 @@ Tag: role::developer
 Name: libundirect
 Author: opa334
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.BIENVANNHAT.libvew
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Filename: ./debfiles/com.BIENVANNHAT.libvew_1.0_iphoneos-arm.deb
+Size: 29478
+MD5sum: 158342c92671a4f85bfe514624e02b2d
+SHA1: 15798b315c9ad4c3bc21ebe31dd47d6ef645fa1f
+SHA256: fd256f7243dff2fb90930376778f1bb5f6b890cbe29db22ea9b675eeadf737ab
+SHA512: 42c248ebd6b9de2c6674689e1d2fc43a39c27a7762fcacc0c209ec69ea187303666a8248a9c29bc40237de46bc9abf8e05205ae8c30be34b0179d961d77de23a
+Description: Gói hỗ trợ cho Tweak
+Tag: purpose::extension
+Name: Libvew
+Author: BIỆN VĂN NHẬT
 
 Package: com.BIENVANNHAT.lottielockscreen
 Architecture: iphoneos-arm

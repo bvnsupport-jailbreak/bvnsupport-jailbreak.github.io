@@ -1459,10 +1459,10 @@ Installed-Size: 2132
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2)
 Filename: ./debfiles/com.BIENVANNHAT.orionappstoreapps_1.0.0_iphoneos-arm.deb
 Size: 1085870
-MD5sum: fbd05e96cd2c7c7e9947a36cea5de9ab
-SHA1: 50a7a5a1203fad7f70b168dc0b41af473cf89bd7
-SHA256: dbf3889cb443925f7b395893ec781062fcc5f59398a659bb8243f6d576cc7a75
-SHA512: 9592cd5e6981f146728a1cac2c86704d09847b8cff2970cea39d96be21f42f5855a96e58b7d516d0af5a7584ac368d532222db7d1b6929265ccef94375bfba52
+MD5sum: 1bbedac8e39eb5f22a1b0b8ba1867bb6
+SHA1: 4e79dc54f6c5ba74af26d3bbc5e31b0e100168e9
+SHA256: a81f565af43189d2bf2d8f6aa27a620b78e380deb9297ffca34407fe38c687ed
+SHA512: 5768277ccdd26d8b2f98f45385ac7bee54cc6ef786adf670997dac6c5453d53a9a6d63daccaf8933ea89889eb267a108880027f8a2226edf17652bbcc19531a4
 Description: Tweak này hỗ trợ chặn quảng cáo và 1 số tính năng HỮU ÍCH ở các ứng dụng sau:Facebook,Messenger,Youtube,Reddit,Twiter.Support ios 13-14.5
 Name: Orion(AppStore Apps)VH
 Author: Johnzaro  <johnzrgnns@gmail.com>

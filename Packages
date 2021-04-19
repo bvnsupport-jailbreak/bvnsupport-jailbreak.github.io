@@ -107,6 +107,24 @@ Name: Orion Việt Hoá
 Author: John Zarogiannis <johnzrgnns@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Orion
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 8624
+Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist, com.BIENVANNHAT.libvew
+Filename: ./debfiles/com.BIENVANNHAT.Orion_1.0.1_iphoneos-arm.deb
+Size: 2970384
+MD5sum: 8dc43f08df026713f443762548477de7
+SHA1: 12b1fe5222f15576ccf7415f0868df38ed4c5992
+SHA256: 13df22c21db7f8559e913761384edd33a318a5fbbed6fc8aeef851bf31127475
+SHA512: 8a433aabcc7404e13931f27647e249d3e38a24e37f551212dc051d428761c9a2378f0098483078b2cced0b9078702119e696645ffd9b268e7ab389adaffde296
+Description: Cấu hình mọi thứ trên thiết bị của bạn!Update thếm tiếng việt,hiện tại mình chưa có thời gian để chỉnh sửa lại cho anh em dễ hiểu,Ae cứ xài tạm đi nhé,mình sẽ Update tiếp😂
+Name: Orion Việt Hoá
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.3

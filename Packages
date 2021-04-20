@@ -4240,24 +4240,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreakbvn.appshacksviethoa
 Architecture: iphoneos-arm
-Version: 4.5-4
-Section: Tweaks
-Maintainer: BIÊN  VĂN NHẬT
-Installed-Size: 6228
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debfiles/com.supportjailbreakbvn.appshacksviethoa_4.5-4_iphoneos-arm.deb
-Size: 3152766
-MD5sum: 0309823bd2175932206dcb511e1360c5
-SHA1: d661b8ce975147258863027f48831013136445d6
-SHA256: da94308f5c01d9be08bd3dba6b2ce5e59cfa58ad29c80d31d55e0d2fc5601db4
-SHA512: 30123bf9504cc02a327fd2d7c7f224d07f4049e98acd9334a45cd4dd3a7340594b967c87c881bd2a7b50136c609e4f6901f4e6927177961c4476ceb70c878335
-Description: Kích hoạt bản quyền cho các ứng dụng trả phí.
-Name: Apps Hacks Việt Hoá
-Author: hmodei96
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.supportjailbreakbvn.appshacksviethoa
-Architecture: iphoneos-arm
 Version: 4.4
 Section: Tweaks
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>

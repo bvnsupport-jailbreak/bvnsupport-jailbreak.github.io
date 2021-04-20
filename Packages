@@ -436,12 +436,12 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 107052
 Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9)
 Filename: ./debfiles/com.BIENVANNHAT.autotouch_10.2_iphoneos-arm.deb
-Size: 47876264
-MD5sum: 20fbedf5153e4601522cea9c56112c8c
-SHA1: 41481094c14589d08578b022e2844eb4f7afc9f4
-SHA256: ee563a0273a4f81b09e258ae311eea395b5955953a7657e3ea89b98346a02cea
-SHA512: 4270df26495de603a71e4fbc1bbd9b9f16cb368dade68c366b597d350f10cbbe1aea3334703a6791358b5d81c2beaf5dc78fb1fc64c29e6fb9dd3f175aed9b2a
-Description: Sau khi cài đặt, bạn cần mở AutoTouch trên màn hình chính và chọn Cài đặt > Giấy phếp và nhấn vào tải xuống giấy phép đế kích hoạt AutoTouch. Ghi lại, phát lại, mô phỏng chạm/nhấn trên mọi nơi của thiết bị, chạy tập lệnh Lua. Phiên bản hiện tại được hỗ trợ cho iOS 9 - 14
+Size: 47876258
+MD5sum: cc24e5e1008718b75a100c1c4cb4c8ea
+SHA1: 0bf79f89fbe849ec1377b9a7ec9624fd6b0f98fa
+SHA256: 0e2589ab5c144b26a5ff677bf451b209dc20678f752ed9ca6db31d4a2c94352e
+SHA512: c9038edd8b55e9f819738b370e41fdaff3186ef07d6f18ab61c4927e32efa0b8188e1f96d43c09707c07134d2405eba7d5c26066998c1a6d179256a2e309d3cf
+Description: Sau khi cài đặt, bạn cần mở AutoTouch trên màn hình chính và chọn Cài đặt > Giấy phép và nhấn vào tải xuống giấy phép đế kích hoạt AutoTouch. Ghi lại, phát lại, mô phỏng chạm/nhấn trên mọi nơi của thiết bị, chạy tập lệnh Lua. Phiên bản hiện tại được hỗ trợ cho iOS 9 - 14
 Name: AutoTouch VH
 Author: Kent Krantz
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

@@ -125,6 +125,24 @@ Name: Orion Việt Hoá
 Author: John Zarogiannis <johnzrgnns@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Orion
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 234
+Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./debfiles/com.BIENVANNHAT.Orion_1.0.2_iphoneos-arm.deb
+Size: 2974880
+MD5sum: fac4a125e003caa90a1a145dd1a68fd2
+SHA1: fc1087cca14bf4597dc57a83a425b3d5d18c5f9b
+SHA256: 7e01282285c029619cc282c2ebbef333dabf660184820bb47de44f584bc6d7d7
+SHA512: 7327720e31b231c846a6c36b62608f6e46a7b4871a6d88d124147102aa70cece0ce936f086801815793806a5994664aa60b47c8a27f0fa0087ea3ca565f1feec
+Description: Cấu hình mọi thứ trên thiết bị của bạn!Đã Update Full ngôn ngữ Việt nam😋Hỗ trợ ios 13 tới 14.5
+Name: Orion Việt Hoá
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.3
@@ -1178,21 +1196,6 @@ Tag: role::developer
 Name: libundirect
 Author: opa334
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
-Package: com.BIENVANNHAT.libvew
-Architecture: iphoneos-arm
-Version: 1.0
-Section: System
-Filename: ./debfiles/com.BIENVANNHAT.libvew_1.0_iphoneos-arm.deb
-Size: 29478
-MD5sum: 158342c92671a4f85bfe514624e02b2d
-SHA1: 15798b315c9ad4c3bc21ebe31dd47d6ef645fa1f
-SHA256: fd256f7243dff2fb90930376778f1bb5f6b890cbe29db22ea9b675eeadf737ab
-SHA512: 42c248ebd6b9de2c6674689e1d2fc43a39c27a7762fcacc0c209ec69ea187303666a8248a9c29bc40237de46bc9abf8e05205ae8c30be34b0179d961d77de23a
-Description: Gói hỗ trợ cho Tweak
-Tag: purpose::extension
-Name: Libvew
-Author: BIỆN VĂN NHẬT
 
 Package: com.BIENVANNHAT.lottielockscreen
 Architecture: iphoneos-arm

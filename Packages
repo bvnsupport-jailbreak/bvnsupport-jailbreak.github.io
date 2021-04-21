@@ -632,11 +632,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 640
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.BIENVANNHAT.libgcuniversal, com.spark.libsparkapplist
 Filename: ./debfiles/com.BIENVANNHAT.copypasta_1.3.4_iphoneos-arm.deb
-Size: 257538
-MD5sum: 41668b947b8b0db0dee2079725c7c805
-SHA1: 2fb7ebbe0cad554da9ef9ae2367dc04bd28d0e11
-SHA256: 516d65a1eaf4d069c5d6cc393c33a0667db4a4331e44d39088b15509d4e5a409
-SHA512: bb9187798bc94126b3e3062053310019b12ace6dac190b91ab6bab3468513ecc46e6d8b01815054605ad046a507dae37e5ed8e147780495c3530e2673b40acfc
+Size: 257532
+MD5sum: 33411c7d91b382a81f2165c633abac74
+SHA1: a02896563ff37a8f0a958e55156730abea6c1794
+SHA256: 8e9ccaa87e99cc751ba3147c7bb988eceb3be6e4b1febc1b770d8fc084497d73
+SHA512: 8d047b5911afefa974c7a129aac985907494998107f1f4e43b292983028dcaaf17e5bbef51023e655667efa4faf138d0f65a5fcecbbc4f5ab3c8a1b030b30a5f
 Description: Trình quản lý dữ liệu sao chép hoặc cắt của bạn.Hỗ trợ ios 13-14.5
 Name: Copypasta Việt Hoá
 Author: Nepeta & Litten

@@ -624,6 +624,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.co
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.coolcc
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.copypasta
+Architecture: iphoneos-arm
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 640
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.BIENVANNHAT.libgcuniversal, com.spark.libsparkapplist
+Filename: ./debfiles/com.BIENVANNHAT.copypasta_1.3.4_iphoneos-arm.deb
+Size: 257538
+MD5sum: 41668b947b8b0db0dee2079725c7c805
+SHA1: 2fb7ebbe0cad554da9ef9ae2367dc04bd28d0e11
+SHA256: 516d65a1eaf4d069c5d6cc393c33a0667db4a4331e44d39088b15509d4e5a409
+SHA512: bb9187798bc94126b3e3062053310019b12ace6dac190b91ab6bab3468513ecc46e6d8b01815054605ad046a507dae37e5ed8e147780495c3530e2673b40acfc
+Description: Trình quản lý dữ liệu sao chép hoặc cắt của bạn.Hỗ trợ ios 13-14.5
+Name: Copypasta Việt Hoá
+Author: Nepeta & Litten
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.cylinder
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -1135,6 +1153,26 @@ SHA1: 2f358ea20a99032dce131b948f5faaa637924e51
 SHA256: 39a294316a7ae273d7804c8b87aca64ea3cfda823a15db32deaf9044779a4665
 SHA512: 9c3572c8302ddb18670a01d2c175dca5360f43052259b1c6cd207a90a4c8c05510f7c264f6ade061c3a93f9653907f609c086c3a6e2b55a42fd6d76d11a67040
 Description: Một thư viện tuyệt vời của một số loại !!
+Tag: role::developer
+Name: LibGcUniversal
+Author: MrGcGamer
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.BIENVANNHAT.libgcuniversal
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 296
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: ./debfiles/com.BIENVANNHAT.libgcuniversal_1.2.0_iphoneos-arm.deb
+Size: 74532
+MD5sum: f09af5082d869cfe2cc820101bea21ae
+SHA1: 7d605bd23b19b6d383e47a7ea01f4cdd9eb3bf89
+SHA256: 7712f6dea62cd8c1b6ef35958996ce51f4aacd7d12fade0e7ae9bc596f9e6a5b
+SHA512: cfd6efe97035304b752d9601a0620e2a6c94fb83a5726c792cecca0fed638fe4da253c4f68008051c68a53364df9347be0ed7a3e2887e92deae75c8ce85cf5fb
+Description: An awesome library of some sort!!
 Tag: role::developer
 Name: LibGcUniversal
 Author: MrGcGamer
@@ -4236,6 +4274,24 @@ Name: AmongLock Việt Hoá
 Author: Litten <hiya@litten.love>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak1.amonglockvietho
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak1.amonglockvietho
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.supportjailbreakbvn.appshacksviethoa
+Architecture: iphoneos-arm
+Version: 4.5-4
+Section: Tweaks
+Maintainer: BIÊN  VĂN NHẬT
+Installed-Size: 6228
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debfiles/com.supportjailbreakbvn.appshacksviethoa_4.5-4_iphoneos-arm.deb
+Size: 3152642
+MD5sum: fffee9eb128d1683fb014f23e8aa4d93
+SHA1: 86ceb38b5ae547aee7a83db917b04899a58b099b
+SHA256: 4c2377177bb4030fc9c61be7630cafff19d6e32065ceb68ae46cfcb2cb59d6c0
+SHA512: 9bb9344f91df1d1b9798b6b4267aa3c0a0ec1e7bf0b5215e8b31d4257ac45cf205458675d840dcc9de0f1e1ebf757c464ecd875a6270436b916fcad354f94915
+Description: Kích hoạt bản quyền cho các ứng dụng trả phí.🥰
+Name: Apps Hacks Việt Hoá
+Author: hmodei96
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreakbvn.appshacksviethoa

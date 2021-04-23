@@ -886,6 +886,24 @@ Author: Plat-Ykor <plat-ykor@libero.it>
 dev: BVn
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.fastup
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 636
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.fastup_1.0.2_iphoneos-arm.deb
+Size: 146320
+MD5sum: fca8623dea4b7679a9c26b497fe5bfe7
+SHA1: c877a79aa4e9c80749490d1e8e2d58d8bb933355
+SHA256: 893da8903816c545d402d0aae2d15332e559a5f2d970c843bb66d53ce889644f
+SHA512: d2865a9b0f36b55c02fd2aacc56cbea98ea919b7c4bd0dda71496308d03ee4e8558717fe61e26f0c30893a6057080ed9ae63847c05dd4995be8d8f93d92da574
+Description: Tăng tốc hoặc làm chậm thiết bị theo cách bạn muốn!Hỗ trợ ios 11 tới 14.5
+Name: FastUp Việt Hoá
+Author: mostafa89
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.floatingdockplus13
 Architecture: iphoneos-arm
 Version: 1.1.8-1k

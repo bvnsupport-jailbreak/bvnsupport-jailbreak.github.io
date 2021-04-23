@@ -1714,6 +1714,24 @@ Name: PullOver Pro (Fix Ios14)
 Author: c1d3r <c1d3rdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.BIENVANNHAT.rescale2
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 748
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.rescale2_1.0_iphoneos-arm.deb
+Size: 109942
+MD5sum: 5925aea0d280b2ed7114088918489ce2
+SHA1: 4be31f0dd3fb2a203f7e5d56347bb8945b259f0b
+SHA256: 6b02c0ffe669c11f81947de0f3dab7bbc81654a1bbb0c53a5e6337b1a103c09b
+SHA512: 9eb7afcea2073f634bd14f008d928f743ccb9c08293f7b4a190dd0b8542dd5a817b4bb2a8627d4f7b7140bc72a1e5a25f73a6ff268e37624bec3e1facbcac34c
+Description: A modern (and safe) Upscale alternative!
+Name: Re:Scale 2 Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Sniper_GER <sniperger@festival.ml>
+
 Package: com.BIENVANNHAT.scribble
 Architecture: iphoneos-arm
 Version: 2.0.2

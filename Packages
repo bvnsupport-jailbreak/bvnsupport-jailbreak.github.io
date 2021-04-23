@@ -925,6 +925,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fl
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.floatingdockplus13
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.frameios14
+Architecture: iphoneos-arm
+Version: 2.4.2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 8332
+Depends: mobilesubstrate,preferenceloader,firmware (>= 14.0.0)
+Filename: ./debfiles/com.BIENVANNHAT.frameios14_2.4.2_iphoneos-arm.deb
+Size: 2755134
+MD5sum: 082824359f2d67d608626d9840459bd1
+SHA1: e09054f569f0db3a0fa2d9615ad956e9051eb2ae
+SHA256: 67fac4a9f625517374a510d900e374efb1d215b710b76c6527c5be483353e5ad
+SHA512: e27a801bc4647e9827eb06410fe6df8fc486d43b176304eeab00e9778ff1fba0e61948f6644265f57c089e48e0c6f7babca8ac2b6433f8a40dd406e1af86bfcd
+Description: Thêm video vào màn hình chính &Màn hình khoá của bạn🥰.
+Name: Frame Việt Hoá (11-14)
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Zerui Chen
+
 Package: com.BIENVANNHAT.frontpage
 Architecture: iphoneos-arm
 Version: 1.6.4

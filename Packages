@@ -943,6 +943,24 @@ Name: Frame Việt Hoá (11-14)
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Zerui Chen
 
+Package: com.BIENVANNHAT.frameios14
+Architecture: iphoneos-arm
+Version: 2.4.3
+Section: Wallpaper
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 8516
+Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.9)
+Filename: ./debfiles/com.BIENVANNHAT.frameios14_2.4.3_iphoneos-arm.deb
+Size: 2822082
+MD5sum: a2d8ba0e4063f0d7c86e26b49f236bc3
+SHA1: 35bd4c578fbd5089009e1ba8060c8d539889d218
+SHA256: 81bb67c9164439c468cf17a588da23915a5ce1d52758451ce9bc402470a70a3c
+SHA512: 51bdfe47a7c7cf8a3e89782ccf86a68ca1508f35bf3966ae3f754e36704251472994a68d4d0926a141cc69551a0d7e15ef564a0076dfb628a4c14a54fb22c74c
+Description: Thêm video vào mang hình chính & mang hình khoá của bạn.
+Name: Frame Việt HOá(12-14)
+Author: Zerui Chen
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.frontpage
 Architecture: iphoneos-arm
 Version: 1.6.4

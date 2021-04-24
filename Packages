@@ -782,6 +782,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.dr
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.dra1n
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.dustbusterfree
+Architecture: iphoneos-arm
+Version: 1.1
+Priority: optional
+Section: Utilities
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 968
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debfiles/com.BIENVANNHAT.dustbusterfree_1.1_iphoneos-arm.deb
+Size: 365272
+MD5sum: ba87b07d14bd23588ab63e4580925648
+SHA1: d41bc17a07767062e5f3eed19707ce7f8274d321
+SHA256: 0d4ffa7e2007f4caa5c12865d099f8482b472064481a2547e518be9b406f15c9
+SHA512: 2156fbbc871233dac36a691d0b9c0be29be06389ae8e3e3206bb407b3c95d9944012f1826056b5476df8597ba3e3c05bd2fd91912eb5739d3c7b9f702266a4b4
+Description: Trình dọn rác cho thiết bị của bạn.Hãy dọn sạch các tập tin không cần thiết,hỗ trợ ios 11 tới ios 14.5
+Tag: purpose::uikit
+Name: DustBuster VH
+Author: Plat-Ykor <plat-ykor@libero.it>
+dev: platykor
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.edge
 Architecture: iphoneos-arm
 Version: 2.6.1

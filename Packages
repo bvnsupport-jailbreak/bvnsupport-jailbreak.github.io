@@ -353,6 +353,26 @@ Name: AndroBar Việt Hoá
 Author: Ginsu
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.april
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 660
+Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.libgcuniversal
+Filename: ./debfiles/com.BIENVANNHAT.april_1.0.1_iphoneos-arm.deb
+Size: 350074
+MD5sum: 6426dec0bde50397cbb8908ffafd1f5e
+SHA1: e7aae752df260bff503f619686c90bb4711a6abe
+SHA256: 795619d9585738cd6df1c7af0ad0e62d64ac0c74f97e3e089cc8f93131586339
+SHA512: 76015c193bd8dc4cbd003dd74f2ba1095028db2950246237d24824f76dfdf5a4c566fc4431693d379f00b88e9e027b4762b7a968de7d547aeb6dd052c384c8e4
+Description: Tuỳ chỉnh cài đặt của bạn.
+Tag: compatible_min::ios13.0, compatible_max::ios14.9
+Name: April Việt Hoá
+Author: Luki120 <lukimaine120@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.luki120.april
+SileoDepiction: https://repo.twickd.com/package/com.twickd.luki120.april/native
+
 Package: com.BIENVANNHAT.arenaofvalor
 Architecture: iphoneos-arm
 Version: 16

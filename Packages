@@ -700,6 +700,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.en
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.eneko
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.diary
+Architecture: iphoneos-arm
+Version: 1.0-508
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 7008
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.diary_1.0-508_iphoneos-arm.deb
+Size: 3388100
+MD5sum: 3aaf81bc89a5bebbf04f9c03e2469d28
+SHA1: 2c40727dda2c708e81c375526bf181d485a3e696
+SHA256: 1f19c6a4ed4e18ca6a3d558568f78057a46a8c9d503b626e6ac34f8907114d22
+SHA512: f86575595ce2679b94ae365dd085b0a5097b35e58cdeba8aa2847adb626c531047398c39856e6bdea17ed22ca5bd2b7e2c34752860e7c4b4f37e9aab57cb0401
+Description: Tạo màn hình khoá Window 10,hỗ trợ ios 13-14.5
+Name: Diary Việt Hoá
+Author: Litten
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.dimentio
 Architecture: iphoneos-arm
 Version: 2.0.2

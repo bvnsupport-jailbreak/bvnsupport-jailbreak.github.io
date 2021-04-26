@@ -1686,16 +1686,14 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 8572
 Depends: firmware (>=13.0), firmware (<=14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
 Filename: ./debfiles/com.BIENVANNHAT.orion_1.1.0_iphoneos-arm.deb
-Size: 3030178
-MD5sum: 63897aa345bacba54766dae2db70e5d1
-SHA1: 6affc2f163f1b43750d88d754d4f97440674c0cf
-SHA256: 34fe4ad8ceff62f450d5e40767a3394e39641a900e1bc39fd07f4865208ec991
-SHA512: b5e0c322cde36c058dce004dc96ac477659f7c9e181f41d9725b46b5549584bef9a3400ae67618474d7d36f1846b4ca43f353d9275ac2cc4117b45c1edd2519e
+Size: 3030130
+MD5sum: 57664a126171f98bbe4af99e38e76d11
+SHA1: a07d86590c6a19aee48714c52af4d4dd61b0f344
+SHA256: 66af8d7ecb814a1e1ac57397bd05acba118ac70cfb0feb3a382ecdead6275de5
+SHA512: c355517b7e3c25eed37533b216d0e0dec1ef8c3f122d61a571b73ef74b2b1c79874e04af3b9b785e50cafa1a4cf3fa88f0a387c1c2d7c020f09c7fa1b6a7d09e
 Description: Cấu hình mọi thứ trên thiết bị của bạn!
 Name: Orion Việt Hoá
 Author: John Zarogiannis <johnzrgnns@gmail.com>
-Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.orion
-Depiction: https://repo.kenhtao.net/view/6731
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.orionappstoreapps

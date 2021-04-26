@@ -1855,11 +1855,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 976
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.BIENVANNHAT.rescale2_1.0.2_iphoneos-arm.deb
-Size: 130624
-MD5sum: 85bcc7fc0e35014fd7e3e53a2368954c
-SHA1: d976d9b5cc7298261f6ba26a8ed93e5b60822539
-SHA256: d5e3737479b3b7ba0b56ba10a7257deee3b62aa9172b7ea641a461dab6e30187
-SHA512: e9e2fb50bd7d675409ba8bd8dab8518f9c274bc0b899c4710c39d2da889660580288efae1d7e6de760254f4b3c353a554a4bd20f16230bd5d89fdfda9546c39a
+Size: 130632
+MD5sum: 80db360c640ef048ee415f6a94d765e1
+SHA1: 6da5c885a9b44133dee0b55df3f4b70407f40c50
+SHA256: a0843d551dd5a97eb965e79c5f4b67f1ce09c0a5f642144cad1ad52f6719e113
+SHA512: c64af9004ce7a143b90cbf5f7b7359172696dfdf0783969d84a9d0fbd728b7aedba08a3d5cd70020cee6bc89d4f5f108124acd4540d60554eed59daf21ab101a
 Description: Tuỳ chỉnh độ phân giải màn hình của bạn🥰
 Name: Re:Scale 2 Việt Hoá
 Author: Sniper_GER <sniperger@festival.ml>

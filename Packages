@@ -1678,6 +1678,26 @@ Name: NtSpeed VH
 Author: Julioverne
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.orion
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 8572
+Depends: firmware (>=13.0), firmware (<=14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./debfiles/com.BIENVANNHAT.orion_1.1.0_iphoneos-arm.deb
+Size: 3030178
+MD5sum: 63897aa345bacba54766dae2db70e5d1
+SHA1: 6affc2f163f1b43750d88d754d4f97440674c0cf
+SHA256: 34fe4ad8ceff62f450d5e40767a3394e39641a900e1bc39fd07f4865208ec991
+SHA512: b5e0c322cde36c058dce004dc96ac477659f7c9e181f41d9725b46b5549584bef9a3400ae67618474d7d36f1846b4ca43f353d9275ac2cc4117b45c1edd2519e
+Description: Cấu hình mọi thứ trên thiết bị của bạn!
+Name: Orion Việt Hoá
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.orion
+Depiction: https://repo.kenhtao.net/view/6731
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.orionappstoreapps
 Architecture: iphoneos-arm
 Version: 1.0.0

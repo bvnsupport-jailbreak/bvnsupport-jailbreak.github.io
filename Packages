@@ -431,6 +431,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.arenaofvalor
 Architecture: iphoneos-arm
+Version: 18-1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 9344
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.arenaofvalor_18-1_iphoneos-arm.deb
+Size: 2419174
+MD5sum: 11acadbe86f6688342a24a5299e0c375
+SHA1: 032af838f8f48c714247d18b9667848f7944ac5e
+SHA256: 0f408f95a779b14429b43119ecfade9269f8a6e33b639263792e0372db6d211b
+SHA512: f5d51da8e93e026003dd5cc2c0aab8b9e8607f4e1a477688a52041c368abdc156658b0637467784700fa65aad6204a0ebb1cc6608811b5e302386e4ecca6d881
+Description: Hack map liên quân .Sử dụng tk IosGod hoặc facebook để sử dụng
+Name: Hack Map Liên Quân
+Author: Laxus
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.arenaofvalor
+Architecture: iphoneos-arm
 Version: 18
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT

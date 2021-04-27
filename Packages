@@ -92,16 +92,16 @@ Author: BIỆN VĂN NHẬT
 Package: com.BIENVANNHAT.OLEDAnimated
 Architecture: iphoneos-arm
 Version: 1.0.2
-Section: Tweaks
+Section: Themes
 Maintainer: Biện Văn Nhật
 Installed-Size: 976
 Depends: com.BIENVANNHAT.toonsy
 Filename: ./debfiles/com.BIENVANNHAT.OLEDAnimated_1.0.2_iphoneos-arm.deb
 Size: 734776
-MD5sum: 924cf8cfbe76f4512e343e57c1e3916e
-SHA1: 8fa5ad560622e1566b8ceb491275362fba47f5c4
-SHA256: 5c0691b32d387d0e7e20a7860cbfeecd9c20c8788d0a10abe6089e0df0c78bc6
-SHA512: 1f058681ecb12b90606a09579f0af2cb9f44795627c0c1d44b4c35c8e70e57b559d40208f5dcf4da76bb295617b065bf8083cb5f1ee058233cf582d3d117d885
+MD5sum: 8efe915ce7e506ba2c268d506d6ac0c4
+SHA1: 9342d6d089d9f4f4e83ad8b7d636dfbcb6d4014b
+SHA256: 7eb3c1e7ac41983abaa6877ae1739cb7c3f6a81642da3950670d4952fbd13527
+SHA512: 4c8ac2dc87ab4d9a12750d4172ff42e27dbfa2c4f8b2b8105eac0653d74d16e4062acda30fcfae862509f99ab806684888a657bef7c0d34ffe3ba444a21998ce
 Description: Chủ đề OLED Animated dành cho bạn
 Name: OLED Animated
 Author: Tyko

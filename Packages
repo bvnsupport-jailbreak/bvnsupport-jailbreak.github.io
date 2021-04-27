@@ -89,6 +89,24 @@ Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Name: Libbvn
 Author: BIỆN VĂN NHẬT
 
+Package: com.BIENVANNHAT.OLEDAnimated
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 976
+Depends: com.BIENVANNHAT.toonsy
+Filename: ./debfiles/com.BIENVANNHAT.OLEDAnimated_1.0.2_iphoneos-arm.deb
+Size: 734776
+MD5sum: 924cf8cfbe76f4512e343e57c1e3916e
+SHA1: 8fa5ad560622e1566b8ceb491275362fba47f5c4
+SHA256: 5c0691b32d387d0e7e20a7860cbfeecd9c20c8788d0a10abe6089e0df0c78bc6
+SHA512: 1f058681ecb12b90606a09579f0af2cb9f44795627c0c1d44b4c35c8e70e57b559d40208f5dcf4da76bb295617b065bf8083cb5f1ee058233cf582d3d117d885
+Description: Chủ đề OLED Animated dành cho bạn
+Name: OLED Animated
+Author: Tyko
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.Orion
 Architecture: iphoneos-arm
 Version: 1.0.0

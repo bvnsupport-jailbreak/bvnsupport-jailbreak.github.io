@@ -897,6 +897,26 @@ Author: Plat-Ykor <plat-ykor@libero.it>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 dev: platykor
 
+Package: com.BIENVANNHAT.dustbusterfree
+Architecture: iphoneos-arm
+Version: 1.3
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 818
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debfiles/com.BIENVANNHAT.dustbusterfree_1.3_iphoneos-arm.deb
+Size: 1093898
+MD5sum: d8c38ba18e72e8ce2b64fc59602302c7
+SHA1: 2551255a760b51a85c298d5d65ed21ff928d0a38
+SHA256: 025b11282fe872bb0c837b3b5f3b0d6f34df8a84570b5796da6251291528e036
+SHA512: 606378891198a1c5e6c872b77ac4c72c2d3f64ab089391d68d477b21f5ab6975ad9b382286a1a641d7937270d73d1e2aa60ae97534763270429b2bac697d408a
+Description: Hãy dọn sạch các tập tin không cần thiết,trình dọn dẹp rác tối ưu nhất
+Name: DustBuster VH
+Author: Plat-Ykor <plat-ykor@libero.it>
+dev: platykor
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.edge
 Architecture: iphoneos-arm
 Version: 2.6.1

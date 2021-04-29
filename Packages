@@ -1460,6 +1460,25 @@ Name: libundirect
 Author: opa334
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.BIENVANNHAT.libundirect
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Development
+Maintainer: BIENVANNHAT
+Installed-Size: 269
+Filename: ./debfiles/com.BIENVANNHAT.libundirect_1.1_iphoneos-arm.deb
+Size: 15102
+MD5sum: 5bbb3ab61d2eee6310b507927c0793c5
+SHA1: ef720cd150fd19d9379380a2fc3fa7a68992b6fb
+SHA256: 93307ccddd7d6ea7a07e092f21961d6604d1de759de14c2bc3f62521b1ec971d
+SHA512: d88f247e35080fb4c2419453a4442108b323f4a99ddca781c20c0d61e9450aa24bdd4093590da64be5768e3d5690733e0ceb4b3e7b56f787ea8c48bd529e3245
+Description: Patchfinder and rebinder for objc_direct methods
+Tag: purpose::library
+Author: opa334 <opa334@protonmail.com>
+Name: libundirect
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+dev: opa334
+
 Package: com.BIENVANNHAT.lottielockscreen
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -4277,13 +4296,13 @@ Version: 1.7.16-2
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 5432
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>=1.1) | firmware (<<14.5)
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.BIENVANNHAT.libundirect (>=1.1) | firmware (<<14.5)
 Filename: ./debfiles/com.supportjailbreak.safariplusVN_1.7.16-2_iphoneos-arm.deb
-Size: 2010276
-MD5sum: c1a42a2b5b17fad869eadec482f9f69d
-SHA1: 5a56efb8f0e8d4cec0cb0c1950094d4a256b2375
-SHA256: 9dcd3d4dca0149617ebc7055c77472601ca6c3c9d20c251ff4045a62dcce0b83
-SHA512: 1b29041cabc04947dd13ee6c7bb2ce067f01783fb537515db9f5a678b923a3f6622daf08276b81555c631b61a0251f7cbb74309ea00cf4c3d6f63d414999d921
+Size: 2010280
+MD5sum: 4667faeee3e1052d99cc0b6e38feafed
+SHA1: 42274bc9f894e73a0e9a1fe1d74475579b289025
+SHA256: c122d002543d84d52fefa8c05cee5309b959637a5a9319e23fbb1e059f0456d1
+SHA512: 3a0c20d6911634cef2dc3a4f31241593fd614898d2b90bb9e00662e9ac1e3300397838b21a85807d652cf408239227cd229061fb4e0557b8b477af3ad4bd19ee
 Description: Nhiều cải tiến khác nhau cho Safari!
 Author: opa334 <opa334@protonmail.com>
 Name: Safari Plus Việt Hoá

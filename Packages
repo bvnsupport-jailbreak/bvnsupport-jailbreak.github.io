@@ -4366,6 +4366,24 @@ Name: Safariwallpaper Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Litten
 
+Package: com.supportjailbreak.safariwallpapervitho
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.BIENVANNHAT.libgcuniversal, com.BIENVANNHAT.libkitten
+Filename: ./debfiles/com.supportjailbreak.safariwallpapervitho_1.4_iphoneos-arm.deb
+Size: 253294
+MD5sum: d893dd979d8a3b3c474f0ea0ffb36381
+SHA1: 0c7f0dbb27912391666071607cadde9949e55382
+SHA256: cf3bae65699ce28d46efb2ae25a4d230b308cf386ac32888e2238494a3cbf492
+SHA512: 14816032c3c05d05e3b12718df1c51c6925de9ee7df6d68098c494d04153143271367435d659e0c736ecc3b8aec58515cdc5e83683f87ca83f32446aacb6e70b
+Description: Thêm hình nền vào Safari
+Name: SafariWallpaper Việt Hoá
+Author: Litten
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
 Package: com.supportjailbreak.screenshotxVN
 Architecture: iphoneos-arm
 Version: 0.4

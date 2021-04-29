@@ -1614,6 +1614,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.merriam
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.merriam
 
+Package: com.BIENVANNHAT.merriam
+Architecture: iphoneos-arm
+Version: 2.0.4
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 1256
+Depends: applist, ws.hbang.common, preferenceloader, com.rpetrich.rocketbootstrap, org.thebigboss.libcolorpicker
+Filename: ./debfiles/com.BIENVANNHAT.merriam_2.0.4_iphoneos-arm.deb
+Size: 324362
+MD5sum: 51d21058c0f195dc02f0e6e86fdb69af
+SHA1: 66ad29c5a8bf94292b6aa3b4dd4e227281d01c66
+SHA256: e2aaf18586a71f3e841f6cf5383f422c12997d81cbc891679345bd455e25a51f
+SHA512: 2cc19b6f17ca69005db05319c468174576f40a4f4f4210168fc241582b1296415a3c01bad125afaefd3e6c6fd2dc6390d0b8c944a4a86ffda0e93e6ccb67d093
+Description: Cấu hình thiết bị theo cách bạn muốn!
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Merriam Việt Hoá
+Author: kanns
+
 Package: com.BIENVANNHAT.messengernoads
 Architecture: iphoneos-arm
 Version: 3.10.0

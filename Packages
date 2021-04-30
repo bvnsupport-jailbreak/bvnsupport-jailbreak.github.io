@@ -540,6 +540,24 @@ Name: AutoTouch VH
 Author: Kent Krantz
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.autotouchunlock
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 364
+Depends: mobilesubstrate, firmware(>=13.0)
+Filename: ./debfiles/com.BIENVANNHAT.autotouchunlock_1.0.1_iphoneos-arm.deb
+Size: 28776
+MD5sum: 75ec01023ef1a80a5e181950e7addfa0
+SHA1: 70c5abe7a333092b266f0e9ce550ee44470d1b52
+SHA256: 65b83697300f2568903522eb586a822545efaa15a13acb6647d0fdd3b654ed49
+SHA512: bc15051ac9503c105e222dfbfd84c614dc88e214804ad0b141d5fb3755a19845f28e144e5a699e9ee0f6bd27303bf274cddaec669af75bbbb200a90bc17961e7
+Description: Tự động mở khóa vào màn hình chính sau khi xác thực trên thiết bị FaceId và TouchID.  Nếu có thông báo / điều khiển phương tiện, v.v. (xem trang cài đặt tinh chỉnh) trên màn hình khóa của bạn sau khi xác thực, chỉ cần đặt ngón tay của bạn trên TouchID để chuyển đến màn hình chính.  Hỗ trợ iOS 13-14.6
+Name: AutoTouchUnlock VH
+Author: udevs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.axon
 Architecture: iphoneos-arm
 Version: 1.3.2
@@ -1886,6 +1904,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.pa
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.passby
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: giorgioiavicoli
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.perseus
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 444
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=13.0), com.udevs.vexillarius
+Filename: ./debfiles/com.BIENVANNHAT.perseus_1.2.3_iphoneos-arm.deb
+Size: 143692
+MD5sum: 5e624477d2f0268c4c98d6171931cd63
+SHA1: 461c0f08847bcc1fe2620f7a8b827e5f073251d0
+SHA256: 1f981041b4d223e4640906f0e2361db5af21aeee65e4bd7e0d19c9a5f9dd297b
+SHA512: 32863ff273cab8b2de831a90ed6d604513c5485d06fdf0d7689cac35278e63ab70489b99439eb5fb1d9907a122fecfb637bb1a430169f93fd712febe11c996be
+Description: Mở khóa iPhone bằng Apple Watch,cho anh em đang sử dụng Ios 13 muốn trải nghiệm tính năng mở khoá"FaceId"bằng AppleWhatch khi đeo khẩu trang.
+Name: Perseus VH
+Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.photodock

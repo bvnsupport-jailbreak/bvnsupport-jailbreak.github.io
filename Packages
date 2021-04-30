@@ -1284,6 +1284,24 @@ Name: HomePlus Pro VH
 Author: Kritanta
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.iGameGuardian8.3
+Architecture: iphoneos-arm
+Version: 8.3
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 15000
+Filename: ./debfiles/com.BIENVANNHAT.iGameGuardian8.3_8.3_iphoneos-arm.deb
+Size: 832446
+MD5sum: f1420c0705f6bdbdd0522202892fcac5
+SHA1: 809da176ff3c0947e85162c491567ecda348d66f
+SHA256: 04c300e170d2da82e85bf8edd3df6e8cb4e01dedd5a4d83541e9895a72bc9129
+SHA512: 4056ceb0e11ebb905c0dbe44e0eb1909e327bcee171cbe9862450860a4242bde28d189376158c1014fdd453cc578a5624fd794b5a7c5da25c7930e7cb2eb6cde
+Name: iGameGuardian VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: iggnew
+Sponsor: iggnew
+
 Package: com.BIENVANNHAT.iOX
 Architecture: iphoneos-arm
 Version: 1.2.3

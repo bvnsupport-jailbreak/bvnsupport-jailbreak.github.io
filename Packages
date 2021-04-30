@@ -1944,6 +1944,26 @@ Name: ProGesture Việt Hoá
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.prokeys
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: xyz.royalapps.realkeys
+Filename: ./debfiles/com.BIENVANNHAT.prokeys_1.0_iphoneos-arm.deb
+Size: 125844
+MD5sum: 05438a06c9e8fede427fad7effb45808
+SHA1: ca7b95efea4a012ca1c2070c611385c3e8f54fff
+SHA256: 97f8034df61b1196c4285552727bc49972201a977e32b1a7835e5cf8dc9c2d9e
+SHA512: 457a8f204170c1e3a25c5d11ebd2c2e045aae23d5bdadfdc93a759b17afa876fc223eb6785089b6272636c21ceb2cd22869436575d4400b11b2ac0731a3c46a3
+Description: Cải thiện bàn phím trên iOS của bạn.
+Tag: compatible_min::ios13.0
+Name: ProKeys Việt Hoá
+Author: Justin Proulx <justinproulxapps@outlook.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.pulloverprofixios14
 Architecture: iphoneos-arm
 Version: 2.4~Beta

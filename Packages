@@ -716,6 +716,25 @@ Name: Cylinder Reborn VH
 Author: Reed Weichler
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.cylinder
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 1384
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.cylinder_1.0.3_iphoneos-arm.deb
+Size: 374922
+MD5sum: 34b71285ae0d94fd2be1f577dc6be67e
+SHA1: c8aa5195a97b3f067869bf41861f93927b5adc10
+SHA256: 87e6ccd8dca9b2b65a7d133f9921e04533b9117d9b2c7a9f40cc18f9c3820bac
+SHA512: 8a7fc2954debc79d80ff551c1c36e57cc6789cfadc5de1503f0ba4f0b6e7377e14bdc894892efabe0599ac3c223d294461bc09a58ddba1d6286ab6b7e5ef500a
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 11 tới ios 14.9
+Tag: compatible_min::ios11.0
+Name: Cylinder Reborn VH
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.eneko
 Architecture: iphoneos-arm
 Version: 1.2

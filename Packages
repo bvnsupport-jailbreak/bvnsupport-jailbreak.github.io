@@ -655,6 +655,24 @@ Name: carplay(14)
 Author: Cortex
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.carplayenable
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.carplayenable_1.1.1_iphoneos-arm.deb
+Size: 85552
+MD5sum: ea4ec41f4a3a4127fab789da33c6f73a
+SHA1: 81c6bc4eb13cc1eb15dcc2a6cecd8a1c5f23e923
+SHA256: 52b95c02d73556c59509cd012b6be54b6e75c18530f199a4434f809627ae8220
+SHA512: 39b30add21ab261fc2ce94f647a239ece76a8f398c204bd388cc26cf7fcf0396181d869df74a47c43d0dce15b3f4e021686d258e17aef4d8916150228874c576
+Description: Sử dụng bất kỳ ứng dụng nào với CarPlay.Sau khi cài đặt , không có ứng dụng hoặc cài đặt nào xuất hiện trên màn hình chính của bạn . Sau khi kết nối CarPlay của ô tô với iPhone , hầu hết các ứng dụng được cài đặt trên iPhone sẽ hiển thị trên CarPlay .
+Name: CarPlay(14)
+Author: Cortex
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.carrierizer2
 Architecture: iphoneos-arm
 Version: 1.1.2

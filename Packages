@@ -1591,6 +1591,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.lottielockscreen
 
+Package: com.BIENVANNHAT.loupe
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.2), firmware(>=13.0)
+Filename: ./debfiles/com.BIENVANNHAT.loupe_1.0.0_iphoneos-arm.deb
+Size: 79438
+MD5sum: fb542d5f1ab6422f9d17b9296c4b3d92
+SHA1: 085eccb25206759ee6d7512c9bb8e41a0a71a8e4
+SHA256: 5d48df10978fd449692ab2747578aa2999d502a325a1aa872d7e75974301e062
+SHA512: dafc06232aa437b1fd9581764de882a92214289bb5d36e4d7971e6e4c4342159ec07ff825f9a9fe9b1229cc5dfadc7ccae0d568611fe18f8a5399c7bc093acab
+Description: Kính lúp cho cho văn bản,Tweak này thử nghiệm trên ios 14 có thể không hoạt động trên ios Thấp hơn.
+Name: Loupe VH
+Author: udevs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.lowlock
 Architecture: iphoneos-arm
 Version: 1.0

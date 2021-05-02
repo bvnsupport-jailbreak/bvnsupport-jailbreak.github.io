@@ -2041,15 +2041,16 @@ Architecture: iphoneos-arm
 Version: 2.4~Beta
 Section: Tweaks
 Maintainer: BvnSupport <nhatbien97@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist, com.rpgfarm.libapappview
+Depends: firmware (>= 14.0),  mobilesubstrate, com.rpetrich.rocketbootstrap, applist, com.rpgfarm.libapappview
 Filename: ./debfiles/com.BIENVANNHAT.pulloverprofixios14_2.4~Beta_iphoneos-arm.deb
-Size: 1568852
-MD5sum: 1616d3b109d93c3e4a984d4f20687103
-SHA1: 53a933d0663a27531d3da774d7e13d4c3d7871b8
-SHA256: 9be5c1eb1ab305bb87c3374a7ade3c52abdab6112a7d2009aeab81e7d447c0e6
-SHA512: c10b1bc2597328e27fb668e341a1dfece11a5dd326e5f228b3fd32d4cf6bfcd4dfb891e2d24ccc4168aa295f812fc452cd9e631bf9ac0106707116a13f84e58b
-Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!
+Size: 1568902
+MD5sum: 821aee1c54dd93cf19edc305d59e5640
+SHA1: 3a2afddc47f7a8e744a198d91ede9238e22c811c
+SHA256: 9d53ad633749b247fa43c4902ef51080bb4111eed9d599af298871d5f785af8e
+SHA512: deb73eece9ab5a817e250978e28db19a63aaf8229b5fb27730f0aa6ba3529bb62759b35f54b894d2efb30b0429cc3117e9dec44c0b75cea8069c7698372c3dd3
+Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!Chỉ hỗ trợ ios 14-14.3.
 Name: PullOver Pro (Fix Ios14)
+Conflict: com.supportjailbreak.pulloverprovitho
 Author: c1d3r <c1d3rdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 

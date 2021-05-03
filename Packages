@@ -1609,6 +1609,24 @@ Name: Loupe VH
 Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.loupe
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.2), firmware(>=13.0)
+Filename: ./debfiles/com.BIENVANNHAT.loupe_1.1.0_iphoneos-arm.deb
+Size: 82876
+MD5sum: d094cd404c892b25fbfccff48e9f3c7b
+SHA1: 4229957632842875c2a781a76a5e56c8b3ca2b85
+SHA256: 72fbd83dc1bedfcc7a3928b3e6474e484944a4e8df090a05408e7fc10893c340
+SHA512: e8dbcfb921fb3fe6689c0b15ebcb9666fc0d14684f2861606178bbeeadb99bfc4868809b1d9617e8a0e2dc6b81dc3a3104501560f4f79918c7f8e87e4b9339d0
+Description: Kính lúp cho các văn bản
+Name: Loupe VH
+Author: udevs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.lowlock
 Architecture: iphoneos-arm
 Version: 1.0

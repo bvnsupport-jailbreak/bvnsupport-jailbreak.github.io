@@ -1393,6 +1393,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.je
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.jellylockreborn
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.key+
+Architecture: iphoneos-arm
+Version: 1.0.1-2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.key+_1.0.1-2_iphoneos-arm.deb
+Size: 170646
+MD5sum: f6b3224d78712a818737a207ca0fd48e
+SHA1: 1030981dcc0d92f9f1a17dc833c9d201a3625a4f
+SHA256: fc851b60c93a4b5da5a2f13c9286bae6ee64878539227cf00e85cebea95afee9
+SHA512: 8400879b510c789080dfddfee53a204cdd304d4aff42bbb7f32b85dc4e3a722cc28d24621d11a1de2e9e546615c4302ceee2734dafce3c7536a9fb9796f941ff
+Description: Một tinh chỉnh cho bàn phím của bạn.
+Name: Key+ VH
+Author: XCXiao
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.killallapps
 Architecture: iphoneos-arm
 Version: 3.2.0

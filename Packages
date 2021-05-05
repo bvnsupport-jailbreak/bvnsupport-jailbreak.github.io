@@ -72,6 +72,24 @@ Name: FB NoAds
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JacobCXDev <jacobcxdev@gmail.com>
 
+Package: com.BIENVANNHAT.Key+
+Architecture: iphoneos-arm
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.Key+_1.0.2-1_iphoneos-arm.deb
+Size: 171868
+MD5sum: 2505348d2a367c0b09c6b02972f37a21
+SHA1: 716403bba270b17fe24813cbc02ddae6bf5d2e24
+SHA256: bc9aaddadd76f00e742a4b4f5376833e3e837a13691d518b72a17834c2202754
+SHA512: 078a264cb444257718cee97bdf1e87d610497afd13c1b75573945fd04ce21cc2420da0808411cd06627ee54d68d215e32446fcc2f29daceefd4156a6de36d6ec
+Description: Một tinh chỉnh cho bàn phím của bạn.
+Name: Key+ VH
+Author: XCXiao
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.Libbvn
 Architecture: iphoneos-arm
 Version: 0.1

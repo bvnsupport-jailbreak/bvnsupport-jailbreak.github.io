@@ -2254,6 +2254,25 @@ Name: Re:Scale 2 Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Sniper_GER <sniperger@festival.ml>
 
+Package: com.BIENVANNHAT.s2.global
+Architecture: iphoneos-arm
+Version: 3088-84edcb6b-GLOBAL-65
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 3668
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.s2.global_3088-84edcb6b-GLOBAL-65_iphoneos-arm.deb
+Size: 1537142
+MD5sum: 96dcde46683186a324c05f23260e6c0a
+SHA1: b524c9c4a3acc8489ac2a37893319fdac4ac6e6f
+SHA256: 568262b4a60cf3ee4bf7de20951ba3132b97ffff67045a4400e9627acfb0a7ae
+SHA512: 5e8f728827815765173f9582aa1420a972cc5009a2eb39a345fa06619c968623165e19e199a130643d80e9d4c3e3f5237f219d9fa8460710a4531de8a5f804fd
+Homepage: https://fb.watch/5jP4WgP2-l/
+Description: Hướng dẫn sử dụng mình đã đăng bài ở trên Fanpage,nếu anh em chưa theo dõi Page thì có thể vào phần tác giả mình có để link Hd ở đấy🥰
+Name: 8Ball 5.3.1
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Cheto
+
 Package: com.BIENVANNHAT.scribble
 Architecture: iphoneos-arm
 Version: 2.0.2

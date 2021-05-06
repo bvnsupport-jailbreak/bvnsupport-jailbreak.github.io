@@ -2161,6 +2161,25 @@ Name: ProGesture Việt Hoá
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.progesture
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 952
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn, com.hius.halfipad
+Filename: ./debfiles/com.BIENVANNHAT.progesture_1.1.3_iphoneos-arm.deb
+Size: 202062
+MD5sum: 9cccb1fe6512b161058a6b1c0e49e9fe
+SHA1: d9cb524300494dbcce4267c640de0b2637165cd2
+SHA256: 5a53d3c9abee5c40bfd39b7e9f4c9524cf25c5108b6a7fb55a422c4eee3403a0
+SHA512: f8129055b6d71a3b009c1003f3385b8854b521a52e2badae40afd97818f1d45907d777d046c8d64ef260911641d9f3482127993b3d54330ee6ad7ebc4c51e430
+Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn. Chỉ dành cho iOS 14.
+Name: ProGesture Việt Hoá
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.prokeys
 Architecture: iphoneos-arm
 Version: 1.0

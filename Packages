@@ -2523,6 +2523,23 @@ Name: Tua Nhanh Quảng Cáo
 dev: lenglengyu
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.tweakcleaner
+Architecture: iphoneos-arm
+Version: 14.7
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Depends: firmware (>= 13.0), firmware (<= 14.6), cy+model.iphone, bash, rsync, gzip, dpkg, coreutils, ncurses, system-cmds, openssh
+Filename: ./debfiles/com.BIENVANNHAT.tweakcleaner_14.7_iphoneos-arm.deb
+Size: 4708326
+MD5sum: 08af749c2b6ea1ba51e23e138d06ab15
+SHA1: fb6821aee30be421ecbcb8831e1a817d4e7353b7
+SHA256: 81507d36ee226d6c88d8c04ecdf5c93ddb3613c88e3925570e1551f6e68e9b47
+SHA512: ae5ae370bac022f36969d9a40f4496e8f7f4dcbb9f3cf82b18820a8bc76021bce289a6e85552eb166b3c84806e6f18e0e91baaacde1f0266a7e79cce98327919
+Description: Tweak này giúp bạn xoá tất cả các Tweak đang dùng chỉ cần 1 lần nhấn là tất cả các Tweak sẽ bị xoá.Hỗ trợ từ ios 13 đến 14.6
+Name:  Cleaner PRO VH
+Author: Önder Azazi <onderazazi@hotmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.u0smscompletefix
 Architecture: iphoneos-arm
 Version: 1.0.1

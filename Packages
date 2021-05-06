@@ -2473,17 +2473,17 @@ Installed-Size: 412
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
 Filename: ./debfiles/com.BIENVANNHAT.tiktokgod_1.12.2_iphoneos-arm.deb
 Size: 72494
-MD5sum: bd81702d3f20b689521ea5b594663c9c
-SHA1: 4728017cb182e3ac22444155103bbbe9499cd5fe
-SHA256: 12f2685d3136f0411858bb374fe9a76a2dea0b71c921709032d89bc66eb3a56f
-SHA512: a37934968b13809d0cf8427f92a32685f425955a33d8efdca9dca1efbf2ffebbbf7e876fe18c90361d0c6ff5210e44b899d2e710e061621d7fffe331bde1e8f6
+MD5sum: e60063e892a95e9f700a7d9ca5b81c27
+SHA1: b3deb92b6ce7e57d20948caa3814ee0287b6ec19
+SHA256: 9726091da4520d479ab39f025568b5574dd57d7661f56c6c460c04ee314c90bb
+SHA512: 7a7ab0f89b37172916225af27644a9c4c6115ac14c5586639c272734e98cd10dde2f8e54f2e90762649e8c8e1f2d94189a117e80b75ee82c4e5cec556345007b
 Description:
  Tính năng:
  - Chặn quảng cáo
  - Tải xuống videos không có logo
  - Tự động chuyển tiếp videos
  - Thay đổi vùng
- - Tua nhanh video& tua lại videos
+ - Tua nhanh video hoặc tua ngược videos
  - Chế độ xem toàn màn hình
  - Hỗ trợ từ ios 12 tới 14.6
  - Hỗ trợ Tiktok phiên bản mới nhất🥰

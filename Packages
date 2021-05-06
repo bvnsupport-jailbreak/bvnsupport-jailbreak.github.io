@@ -20,6 +20,25 @@ Author: BIỆN VĂN NHẬT <BIENVANNHAT97@GMAIL.COM>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 dev: BVN
 
+Package: com.BIENVANNHAT.Atria
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 880
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro, com.supportjailbreak.boxxy4vn, com.BIENVANNHAT.homepluspro, net.kenhtao.homepluspro, net.kenhtao.boxy4
+Filename: ./debfiles/com.BIENVANNHAT.Atria_1.0.0_iphoneos-arm.deb
+Size: 305550
+MD5sum: 65fe7081bfe82a0810e3e91d59ffb5d8
+SHA1: 292877cdcb1e2fb8617aec357b31672a82e3e4a7
+SHA256: 89b400b00da537fb481a8abd30c56e139d5f29bffe458db40bda57d02214bef6
+SHA512: f38aa8b2664e9518b197b2988c56d68b103060df157e08c63c6d1ac990c265aeb4510f3e52234a2de4d4c133e2ee05f3d4a5745e79cd31a352858ff679dbe2da
+Description: Trình chỉnh sửa bố cục màn hình chính thích hợp cho iOS 14
+Name: Atria Việt Hoá
+Author: ren7995 <lau7995ren@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.Blackorangepro
 Architecture: iphoneos-arm
 Version: 1.0

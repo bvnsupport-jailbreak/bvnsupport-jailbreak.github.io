@@ -503,6 +503,25 @@ Name: Hack Map Liên Quân
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.atria
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro, com.supportjailbreak.boxxy4vn, com.BIENVANNHAT.homepluspro, net.kenhtao.homepluspro, net.kenhtao.boxy4
+Filename: ./debfiles/com.BIENVANNHAT.atria_1.0.1_iphoneos-arm.deb
+Size: 303912
+MD5sum: 47c550cab981ed68396b7fa184cb6f92
+SHA1: aa8e63c1637aa990fdf0460a153bc8d637a5f7aa
+SHA256: 8dd2ff45752df2736c6bfe45781a915df9979c3d1c9907f72caf2ac7b6edaa29
+SHA512: 34a2dbb18a328000dbc286eb840cc5adbf80e8cb514bc153baf36d3a83da13b7d794c19db75f91ab0144eabf65b55a848b0f4def9b99382b3ecc4aa6780a3ac6
+Description: Trình chỉnh sửa bố cục màn hình chính thích hợp cho iOS 14
+Tag: compatible_min::ios14.0
+Author: ren7995
+Name: Atria Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.autotouch
 Architecture: iphoneos-arm
 Version: 10.1

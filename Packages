@@ -2256,19 +2256,19 @@ Author: Sniper_GER <sniperger@festival.ml>
 
 Package: com.BIENVANNHAT.s2.global
 Architecture: iphoneos-arm
-Version: 3088-84edcb6b-GLOBAL-65
+Version: 5.3.1
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 3668
 Depends: mobilesubstrate
-Filename: ./debfiles/com.BIENVANNHAT.s2.global_3088-84edcb6b-GLOBAL-65_iphoneos-arm.deb
-Size: 1537142
-MD5sum: 96dcde46683186a324c05f23260e6c0a
-SHA1: b524c9c4a3acc8489ac2a37893319fdac4ac6e6f
-SHA256: 568262b4a60cf3ee4bf7de20951ba3132b97ffff67045a4400e9627acfb0a7ae
-SHA512: 5e8f728827815765173f9582aa1420a972cc5009a2eb39a345fa06619c968623165e19e199a130643d80e9d4c3e3f5237f219d9fa8460710a4531de8a5f804fd
+Filename: ./debfiles/com.BIENVANNHAT.s2.global_5.3.1_iphoneos-arm.deb
+Size: 1537052
+MD5sum: 9f33f4b7a4275aba341995f607f5fca0
+SHA1: 9cb9f8c0be85000dde598359e4ccfebbb31c7201
+SHA256: da89ea21899ade1b7803168c5ff309d7d2e4a6d166901769934a2794214f35bf
+SHA512: 80f2e7faed4cf9d1903cd9317a10835f9d98ed038ebfe0d540663341afc0c6cf62c6b260166e87ff90aeba376f73884680761aaf76b96a431c4a12a21c0a8747
 Homepage: https://fb.watch/5jP4WgP2-l/
-Description: Hướng dẫn sử dụng mình đã đăng bài ở trên Fanpage,nếu anh em chưa theo dõi Page thì có thể vào phần tác giả mình có để link Hd ở đấy🥰
+Description: Hướng dẫn sử dụng mình đã đăng bài ở trên Fanpage "REPO CYDIA BVN"
 Name: 8Ball 5.3.1
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Cheto

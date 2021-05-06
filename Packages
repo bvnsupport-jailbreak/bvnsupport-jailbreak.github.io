@@ -4395,6 +4395,25 @@ Name: Gesturesi11 Việt hoá
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.supportjailbreak.gesturesi11vn
+Architecture: iphoneos-arm
+Version: 3.6.7
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 364
+Depends: mobilesubstrate, preferenceloader
+Replaces: com.hius.gesturesi11
+Filename: ./debfiles/com.supportjailbreak.gesturesi11vn_3.6.7_iphoneos-arm.deb
+Size: 54034
+MD5sum: b5905e60ea9d06acf87d17d82cf344ab
+SHA1: bead23b76d1e84c729e33927d0fe7a03bdf557f7
+SHA256: a0fa21311ff3f04debd999cb3543ec3a4b568559ec03c425713cee183bd1e273
+SHA512: 3d8e717f68e94062acb7f527251771fe0777157aaa1b56bd301693490effb259cd981b614d1d1cdb0efdf08ac7dedcb4051ae2c0f2bb08ba2c67c10a0f1915e0
+Description: Fake cử chỉ iphone X,nhẹ nhàng ít hao pin.Hỗ trợ ios 13-14.6
+Name: Gesturesi11 Việt Hoá
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.halfipadVH
 Architecture: iphoneos-arm
 Version: 10.1
@@ -4439,6 +4458,25 @@ Name: HalFiPad Việt Hoá
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.halfipadVH
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.halfipadVH
 dev: hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.supportjailbreak.halfipadvh
+Architecture: iphoneos-arm
+Version: 10.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
+Filename: ./debfiles/com.supportjailbreak.halfipadvh_10.2_iphoneos-arm.deb
+Size: 115678
+MD5sum: 39b69ba3a2ad3601c09a2bcb4048f7e2
+SHA1: e5022bf45711ae4b7ae86dddf4142e5e2db797ea
+SHA256: da357189cd70671f75691ee66623b6909d8206a06bb9bfd87ac9d692f44327b6
+SHA512: 506f4e43fa5b965333283174caec6e0f08c76684b4fba415707d67f348a758ba81766352394fa2ecc8ed01836b09b219a92842556b8199d09816c8efc87a9cde
+Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn.
+Name: HalFiPad Việt Hoá
+Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.halfipadvh

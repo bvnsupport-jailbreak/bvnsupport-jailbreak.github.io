@@ -1167,6 +1167,24 @@ Name: FastUp Việt Hoá
 Author: mostafa89
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.filzacompiler
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 332
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.filzacompiler_0.2_iphoneos-arm.deb
+Size: 77804
+MD5sum: bac25a7bd46f9b0bc618c474703e86b6
+SHA1: d06e70f0cf1ca4247107bc5f5c7aa21e04be856e
+SHA256: 086481e9365bd7700c268e5894dfd5d329a9d595914c1d3020a090bd7cdc05eb
+SHA512: 995131ae12ff4282a9e2b0c2933b27516505b859b78ed2ae0d654a58d41c8128ce789e6efbbd3d7d9eff2aa4d9a5e21c488f9228467a9eeffa2ddf4be0862663
+Description: Biên dịch các gói ngay trên Filza.Tinh chỉnh có thế biên dịch các gói với Filza dành cho những người viết mã trên điện thoại thông minh. Một nút có tên là Biên dịch sẽ xuất hiện trong trình soạn thảo văn bản của Filza, vì vậy tôi có thể biên dịch nó ngay khi nhấn nút đó và nhập đường dẫn đến gói.Hỗ trợ từ ios 11-14.6
+Name: Filza Compiler VH
+Author: SsS136
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.floatingdockplus13
 Architecture: iphoneos-arm
 Version: 1.1.8-1k

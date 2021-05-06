@@ -1974,6 +1974,32 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.noadsocial
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.noadsocial_1.2.1_iphoneos-arm.deb
+Size: 27096
+MD5sum: 97c5a97d03335fb590e766200bf14413
+SHA1: 150a65e11b84a016e06685922a8b9149ee81ad8c
+SHA256: 92eca39183f002ced3e45052d8e92bd2f9f07c1af591fd7dcc93a8e83f0ae779
+SHA512: ef5290c67aca47e9ba7b26b44907dfbe537a26315fcb99e0b304c8a5ce4df0006e0a8260bfc9bcd29e4477f4ca9df18b7202020463479b12d147cbb71fcfaa71
+Description: 
+ - Tính năng:
+ - Chặn quảng cáo Youtube
+ - Phát lại nền (Youtube)
+ - Chặn quảng cáo Facebook
+ - Chặn quảng cáo Messenger
+ - Chặn quảng cáo Twitter
+ - Chặn quảng cáo Reddit
+ - Chặn quảng cáo Instagram
+Name: NoAds Social VH
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.notifierdots
 Architecture: iphoneos-arm
 Version: 0.3-5

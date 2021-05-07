@@ -2299,6 +2299,24 @@ Name: 8Ball 5.3.1
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Cheto
 
+Package: com.BIENVANNHAT.safaritabs14
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=14.0), com.BIENVANNHAT.libundirect
+Filename: ./debfiles/com.BIENVANNHAT.safaritabs14_1.0.1_iphoneos-arm.deb
+Size: 8438
+MD5sum: f378833d0f0f3ceca1a62197ba827738
+SHA1: 77547fd635de7aac70669b9aa0df20ff167b7ad5
+SHA256: e2a97a36433bdcca57866b7cd6e36acab0f907b179df9e964876f789add0991e
+SHA512: d9f72403e87c505d57cb3a6dda0b09438de374383ddddc8ec08b6e5d301a7b9829979b60baf1944f7bca22860d4594391c54c731da563f3a3ccf241d7db9e93c
+Description: Mang giao diện Tab lên  Safari cho iphone(hỗ trợ ios 14-14.5.1)
+Name: SafariTabs14 VH
+Author: udevs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.scribble
 Architecture: iphoneos-arm
 Version: 2.0.2

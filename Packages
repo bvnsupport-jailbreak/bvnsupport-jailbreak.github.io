@@ -1662,6 +1662,24 @@ Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.libundirect
 Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Development
+Maintainer: Biện Văn Nhật
+Installed-Size: 274
+Filename: ./debfiles/com.BIENVANNHAT.libundirect_1.1.1_iphoneos-arm.deb
+Size: 15236
+MD5sum: dd5d11538d4d60db2920784ddebede59
+SHA1: 34e3850301dda0374067bdcb452f55ffdb2b0624
+SHA256: 3c78457939c90f054319d969b72d7564be11fe54314d61121721fd3c9f7e0578
+SHA512: 767fd36a1c49e621b5b6b15260378267fd4fc6887c206fb3e393b42653dd454155b0f8401ae2c10eca752cd3a506ed61b97a589367aa5c83048227fbce77ba5f
+Description: Patchfinder and rebinder for objc_direct methods
+Tag: purpose::library
+Author: opa334 <opa334@protonmail.com>
+Name: libundirect
+dev: opa334
+
+Package: com.BIENVANNHAT.libundirect
+Architecture: iphoneos-arm
 Version: 1.1
 Section: Development
 Maintainer: BIENVANNHAT

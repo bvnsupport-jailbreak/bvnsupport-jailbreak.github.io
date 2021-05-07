@@ -2262,6 +2262,24 @@ Conflict: com.supportjailbreak.pulloverprovitho
 Author: c1d3r <c1d3rdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.BIENVANNHAT.pulloverprofixios14
+Architecture: iphoneos-arm
+Version: 2.5~Beta
+Section: Tweaks
+Maintainer: BvnSupport <nhatbien97@gmail.com>
+Depends: firmware (>= 14.0),  mobilesubstrate, com.rpetrich.rocketbootstrap, applist, com.rpgfarm.libapappview, com.ex.substitute
+Filename: ./debfiles/com.BIENVANNHAT.pulloverprofixios14_2.5~Beta_iphoneos-arm.deb
+Size: 1568936
+MD5sum: f899bd90ca05f86196df204e467327bd
+SHA1: 781c3d3b97e7090dcfe5dd60f6a28df00e994678
+SHA256: 264b32c20dd027055456526200b68f1ba513f7ece919c87d29f11d0bdaaa6dc7
+SHA512: d73c5ab9d76372f71a78fa2236f811f6c3c2a93ccc7c0ca0627f666bfa12f89ffadb213bd00c94411bd377c5805ddc70dfba46a510dea2c18a7eb6d44ba3fe89
+Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!hỗ trợ ios 14-14.5,Đã update Fix lỗi bàn phím trên ios 14-14.5
+Name: PullOver Pro (Fix Ios14)
+Conflict: com.supportjailbreak.pulloverprovitho
+Author: c1d3r <c1d3rdev@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
 Package: com.BIENVANNHAT.rescale2
 Architecture: iphoneos-arm
 Version: 1.0.2

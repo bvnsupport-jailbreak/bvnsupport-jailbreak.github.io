@@ -2113,6 +2113,23 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: giorgioiavicoli
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.peep
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Filename: ./debfiles/com.BIENVANNHAT.peep_2.0.1_iphoneos-arm.deb
+Size: 119946
+MD5sum: bba969525f03416fab3ed2b742ac6bd8
+SHA1: a7f32fdd40d4ef22f35cdee36b7e3c40e41b8508
+SHA256: 51c52f25bbd0ba302d3075888af9567162280ee9f3190bcd84c07b4a44ea4a56
+SHA512: 15d9e25ebd25c84fa3860fd9948b7e5cc4b2a9aa7715374e52975a222e616591e7ad174af183f31baac8b636ef228ccaf2a9f3fc07e725e408c3e1740908aa30
+Description: Ẩn và hiển thị thanh trạng thái của bạn bằng một lần nhấn!Hỗ trợ từ ios 11 tới 13.7
+Name: Peep Việt Hoá
+Tags: compatible_min::ios11.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Author: ConorTheDev <conorthedev@gmail.com>
+
 Package: com.BIENVANNHAT.perseus
 Architecture: iphoneos-arm
 Version: 1.2.3

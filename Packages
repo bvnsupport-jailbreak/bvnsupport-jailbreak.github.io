@@ -2119,11 +2119,11 @@ Version: 2.0.1
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Filename: ./debfiles/com.BIENVANNHAT.peep_2.0.1_iphoneos-arm.deb
-Size: 119946
-MD5sum: bba969525f03416fab3ed2b742ac6bd8
-SHA1: a7f32fdd40d4ef22f35cdee36b7e3c40e41b8508
-SHA256: 51c52f25bbd0ba302d3075888af9567162280ee9f3190bcd84c07b4a44ea4a56
-SHA512: 15d9e25ebd25c84fa3860fd9948b7e5cc4b2a9aa7715374e52975a222e616591e7ad174af183f31baac8b636ef228ccaf2a9f3fc07e725e408c3e1740908aa30
+Size: 119986
+MD5sum: 3e4803f04e7d651d5e9fbfd409860816
+SHA1: 9efdba805f90fb6bc4b9536881cb53901feb91ca
+SHA256: 5aabb2ef607360a8483d15340f4e18c8dd9c8d7b7e80a41a7e31bd26e286429b
+SHA512: ea28819971d1e218edc935c6009750616ab2d17548c0d0e8818b78021d81db1afbfe40cd438e0845330a2709ddb6407d922c05d5c7d3d97c607fad24352c8e4d
 Description: Ẩn và hiển thị thanh trạng thái của bạn bằng một lần nhấn!Hỗ trợ từ ios 11 tới 13.7
 Name: Peep Việt Hoá
 Tags: compatible_min::ios11.0, compatible_max::ios13.7

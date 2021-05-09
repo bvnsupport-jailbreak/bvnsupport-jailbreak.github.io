@@ -2286,12 +2286,12 @@ Section: Tweaks
 Maintainer: BvnSupport <nhatbien97@gmail.com>
 Depends: firmware (>= 14.0),  mobilesubstrate, com.rpetrich.rocketbootstrap, com.ex.substitute, applist, com.rpgfarm.libapappview
 Filename: ./debfiles/com.BIENVANNHAT.pulloverprofixios14_2.5~Beta_iphoneos-arm.deb
-Size: 1568940
-MD5sum: cdd332f570499dbf82d70e140d96b2de
-SHA1: 7540d8eab46b0183596156c78dbf5bdbe9f08b65
-SHA256: 2a7b691227b990e59f4ebacbba5919b60ec23e481f5b1b2b97c0c16a81fffcca
-SHA512: 1cdb9290d3437f44d4bdb52695326bb3c95196a34a7ef2ee19eaf1bd1e4f1d8625eb06ae289b0e2cb5385a6abda9e07bb2e3f1dc9ec351f293df8e51e56518c9
-Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!hỗ trợ ios 14-14.5,Đã update Fix lỗi bàn phím trên ios 14-14.5
+Size: 1569000
+MD5sum: b7cc12c7851b8d38f424e945346c9b27
+SHA1: 90e846510fb132b75342e1d1e00c9eaa8c4d2ad0
+SHA256: d6b89e66d7bd5f173c211f3c06be3428005c7a1fad23bac74d307df4db410315
+SHA512: 3c96ff7eddef2d828a29765eda8d524b1db3b16aa3012945270a4b689b02ddcae02052916de412de496b26a0b11cad08d11c7b9a0186c4d543909b0164efdb1d
+Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!hỗ trợ ios 14-14.5.Lưu ý:những bạn đang sử dụng Ios 14.0=>14.3 vui lòng hạ cấp về phiên bản 2.4Beta.Phiên bản 2.5 này chỉ hỗ trợ ios 14.4 tới 14.5.
 Name: PullOver Pro (Fix Ios14)
 Conflict: com.supportjailbreak.pulloverprovitho
 Author: c1d3r <c1d3rdev@gmail.com>

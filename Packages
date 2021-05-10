@@ -5250,24 +5250,6 @@ Name: CyDown
 Author: julioverne <julioverne@me.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
-Package: con.BIENVANNHAT.8ball
-Architecture: iphoneos-arm
-Version: 1.2
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 236
-Depends: mobilesubstrate
-Filename: ./debfiles/con.BIENVANNHAT.8ball_1.2_iphoneos-arm.deb
-Size: 176060
-MD5sum: de040b6b8f538ebc31382dc949d427d4
-SHA1: 6c2bcfcdcda308dcd132e715ace070d2586d7949
-SHA256: 6ffccc2c30cfa5db5aaf7614567813b5eaee4e0d11fda6666147a76e28ad7bbd
-SHA512: bf5584624df82958eac8e602ec035427c873b2f843cd12e9a24b50da8ef57f6fa5463cda7d6638995ff498d59116dabdcc77fa863760e533e0645ad62ce50a7f
-Description: Hack Game 8BALL POOl mới nhất,không Ban & tâm dài cho anh em sử dụng.Sử dụng mật khẩu sau để Kích hoạt:{DN}PUBG
-Name:  8Ball Pool Hack
-Author: {DN}PUBG
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: plutil
 Architecture: iphoneos-arm
 Version: 0.1.0

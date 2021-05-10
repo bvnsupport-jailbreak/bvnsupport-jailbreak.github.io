@@ -3808,6 +3808,25 @@ Name: libhdev
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Author: Hao Nguyen <hao.ict56@gmail.com>
 
+Package: com.haoict.libhdev
+Architecture: iphoneos-arm
+Version: 4.8.1
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debfiles/com.haoict.libhdev_4.8.1_iphoneos-arm.deb
+Size: 76728
+MD5sum: 22140df05f421fb9b9a1f2b4020fae89
+SHA1: c0768f02e7f8fb24f13a41eb4c6c493a874795e6
+SHA256: 149490ba9ef385500ef27c33e04f2f26395fd9fb44631f75c9701bb36bffdd6f
+SHA512: 8fe323c03d605fc4674dae9caa99acdb4a28658fb9dd59b8439f09047f66441f6e177f92864b8c611afa1b01a5fee55ba397c5c765423b606c0204f183eb4588
+Description: This is a developer library for better preferences and useful utilities.
+Tag: role::developer
+Name: libhdev
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: Hao Nguyen <hao.ict56@gmail.com>
+
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
 Version: 1.1-20b

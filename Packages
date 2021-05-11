@@ -2814,6 +2814,24 @@ Name: Windows 10
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JunesiPhone <junesgraphics@gmail.com>
 
+Package: com.BIENVANNHAY.vezaIos14
+Architecture: iphoneos-arm
+Version: 0.2-beta
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 5036
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debfiles/com.BIENVANNHAY.vezaIos14_0.2-beta_iphoneos-arm.deb
+Size: 3480410
+MD5sum: c7a2713d55be00d43740a00bfbe14d0f
+SHA1: 4786bd68604a033a1f0282e6b1424ffcaea9c15a
+SHA256: 998a596cea982d7e8f58f4513ea4b7efaefe307f6cbb4dee4b383f0120de521f
+SHA512: 2837770b21604263ca52b85622126d817e1ff8e6a3ffde6e5d5351948d54c214d690f7f5a3b72b38cfc9414f4473dcacf8b0ef6c758296ab8719d1791d1c1a4d
+Description: Bổ sung mô-đun trên màn hình khóa của bạn!
+Name: Veza (11-14) VH
+Author: ApexTweaks
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BVNsupport-ytbhd.ytuhd
 Architecture: iphoneos-arm
 Version: 0.0.3.6

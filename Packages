@@ -5333,12 +5333,12 @@ Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 4604
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/dev.midn1ght.copylog_1.5.deb
-Size: 2124140
-MD5sum: 4f21f101e6f3e9744ba2a084e168df18
-SHA1: 533146901e78c6a891adce1fae71347c528ce7e7
-SHA256: b810ff4b0aad0cd8d7816907d56dfb96c50c998f4e010e4776af98200c5988eb
-SHA512: 1ad4fc6e112d20d5152a49f0fce3a4661f4a2a7e1bbb31d5ea0c32837f6711ec12333af51f3aff3de857b91c9d49a9a68655953281964283d6bd23bea4fd1135
+Filename: ./debfiles/dev.midn1ght.copylog_1.5.3-1_iphoneos-arm.deb
+Size: 2124136
+MD5sum: cb37d076c25e3b9da1be1469b923e871
+SHA1: 0e34118c45d727d89e5f8da908577d66a23f1ba6
+SHA256: 3ba62bf58b950e6fa8db390f650e1c91957ade2ab70c31b482975a5cdb6159a1
+SHA512: f88ea7e43f9d136550fa5ee9ef1db82789e0f58a710c2fb9d783ec4094088f75fcaef843afb31ef96248cf20a3730523e723b313ca5c194dd8baa0b9006b5e8b
 Description: Trình quản lý dữ liệu sao chép & cắt cho iOS.
 Name: CopyLog Crack
 Author: TomT000

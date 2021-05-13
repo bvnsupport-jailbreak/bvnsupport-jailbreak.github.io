@@ -4434,6 +4434,24 @@ Name: CopyLog (Gói tiếng việt)
 Author: Biện Văn Nhật
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.copylogvietho
+Architecture: iphoneos-arm
+Version: 1.5.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 4596
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.supportjailbreak.copylogvietho_1.5.3_iphoneos-arm.deb
+Size: 2372
+MD5sum: fa141e01e56e1c69f5bc08145a7a89a7
+SHA1: 608d1e6697b8a21918b857fb0107311f2b2092d6
+SHA256: 46772eeece09bde15b68066462e21350a4f711e3ed2cd0782c25e351b739e496
+SHA512: 2ee5273e9c3af75301662776f868a5f9ce05a3fa706ecf3f68322b4b219b1787e2ab274caa30f2a0d6171a596a8678ec2ab68367b920f5afcc0247479e421b8a
+Description: Gói tiếng việt dành cho Copylog!
+Name: CopyLog (Gói tiếng việt)
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.cracktool4ios1214
 Architecture: iphoneos-arm
 Version: 4.0

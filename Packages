@@ -5326,6 +5326,24 @@ Name: vexillarius
 Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: dev.midn1ght.copylog
+Architecture: iphoneos-arm
+Version: 1.5.3-1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 4604
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/dev.midn1ght.copylog_1.5.deb
+Size: 2124140
+MD5sum: 4f21f101e6f3e9744ba2a084e168df18
+SHA1: 533146901e78c6a891adce1fae71347c528ce7e7
+SHA256: b810ff4b0aad0cd8d7816907d56dfb96c50c998f4e010e4776af98200c5988eb
+SHA512: 1ad4fc6e112d20d5152a49f0fce3a4661f4a2a7e1bbb31d5ea0c32837f6711ec12333af51f3aff3de857b91c9d49a9a68655953281964283d6bd23bea4fd1135
+Description: Trình quản lý dữ liệu sao chép & cắt cho iOS.
+Name: CopyLog Crack
+Author: TomT000
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: plutil
 Architecture: iphoneos-arm
 Version: 0.1.0

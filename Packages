@@ -4232,11 +4232,11 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.6)
 Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Replaces: us.hackulo.appsync50
 Filename: ./debfiles/com.supportjailbreak.appsyncunified_94.1_iphoneos-arm.deb
-Size: 90476
-MD5sum: 62ebfbb07492affb7b23d8fe88b8d504
-SHA1: e368497e362d1a8a3a2fd9825ef646a200505812
-SHA256: cc81605f9409ace9e6102dbea27a1cad8697ce8f13b1edde93e4287347071a04
-SHA512: a9ef0f54f00c809a5b0850aa5f954a296bba1b46087f45eaa040ea8aeab81bd56e0a00dc111a2c2d773b11f1ce21474c197ef10b81bd2129c1f496d70a5b43ba
+Size: 88566
+MD5sum: a4185d87a9ace8d63f7233a6968dd284
+SHA1: 664c7ab8ad13cd584eb4c5919d6b451fee8b8266
+SHA256: 29fc6b830d2e296e2c326637f1a9262a7bf7d7f582c583adba599defbc088515
+SHA512: 5f884f4ca1222cff1a292a0f637d6e42cc9f4afb3be7076ecdf313d8d4561b926dbcb0e6ae18f3b59875bc4113337762f79934dafafe7b073fd3cefc5647ab21
 Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn.Hỗ trợ ios 5 tới 14.6
 Name: AppSync Unified (5/14.5)
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>

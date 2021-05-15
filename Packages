@@ -5423,6 +5423,24 @@ Name: CopyLog Crack
 Author: TomT000
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: dev.midn1ght.copylog
+Architecture: iphoneos-arm
+Version: 1.5.4r
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 4604
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/dev.midn1ght.copylog_1.5.4r_iphoneos-arm.deb
+Size: 2124256
+MD5sum: fae618a04404837c23a006dd1821c07f
+SHA1: 3cfe97f92b139e72dc1ea454ed68ae3fefc2a0bc
+SHA256: f8361dbf5777882a2441901f212c2cdf9385ba968aebd509ad0510fe66bc580b
+SHA512: f249bcd50ea878366f92e9bd8087ffa0a8f0477515070fe512c3e51140e0b554f9f3fab075473732e55aebb32ea41682da3451e9ee31e92ff50e2f7d0a624302
+Description: Trình quản lý dữ liệu sao chép & cắt cho iOS.
+Name: CopyLog Crack
+Author: TomT000
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: plutil
 Architecture: iphoneos-arm
 Version: 0.1.0

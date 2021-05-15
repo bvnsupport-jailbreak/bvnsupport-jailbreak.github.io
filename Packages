@@ -5545,6 +5545,24 @@ Name: YouTubeLite Việt Hoá
 Author: Networke <re.errornetwork@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: sileoturkiye.mejor
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật <Bienvannhat97@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.ouraigua.jodebox, ws.hbang.common
+Conflicts: n.uf.mejor.bigboss, n.uf.mejor
+Filename: ./debfiles/sileoturkiye.mejor_1.4_iphoneos-arm.deb
+Size: 1924938
+MD5sum: e6c17d990d541ca036e340f0d19d5645
+SHA1: f6c8c44782a7c90984bc6e066638ebca13216d89
+SHA256: 31968cd15233e0bedfb7ff18d264eccc49cf6deba8bc4e9223d3be2adda3b123
+SHA512: c0a9a0ace53f00b91601f0349535eefbc7dbfcf2906ad41dc3e6595f11cee9ad01d1977a9f717a46e3eab79fa8bac8656cab8cd1b1d0f700bd47a192e7a7a304
+Description: Tải xuống các video và chặn Quảng cáo ở các Apps:Facebook,Instagram,Jodel,Snapchat,Tiktok,Tweetbot,Tumblr,Twitter,whatsapp,Youtube.
+Name: mejor Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: AzozzALFiras
+
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
 Version: 1.1.15

@@ -1169,6 +1169,23 @@ Name: Faces Pro Việt Hoá
 Author: Ben Rosen & CPDigitalDarkroom <support@quantumtweaks.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.fakeios14
+Architecture: iphoneos-arm
+Version: 14.6
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Depends: mobilesubstrate, firmware (>=5.0)
+Filename: ./debfiles/com.BIENVANNHAT.fakeios14_14.6_iphoneos-arm.deb
+Size: 1682
+MD5sum: a15d9cda7003abe4e26b52e2789c25ea
+SHA1: bbfb432007fb165d5592892ca54ef70218d386f7
+SHA256: 64b0c1684290cd3d79d1a41133762e0f2d45e5bb16ce737733be785ac18d3b89
+SHA512: 768ec8469fd912616ffcf71305066f2154340c9644884fe7b4351167db900ae16b5270690d1def7c35d77010c6ccd5c2b4dfa565340f26ad0430fdf7873a671a
+Description: Fake Ios 14.6 cho anh ghép sim,sau khi cài xong bạn tiến hành ghép sim và Active ICCID,sau khi làm xong bạn bạn vào lại Cydia và xoá Tweak Fake Ios.Done
+Name: Fake Ios 14.6
+Author: BIỆN VĂN NHẬT
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BIENVANNHAT.fast-ls14
 Architecture: iphoneos-arm
 Version: 4.0-1

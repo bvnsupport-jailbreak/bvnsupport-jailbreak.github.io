@@ -4407,11 +4407,11 @@ Installed-Size: 3612
 Depends: mobilesubstrate, preferenceloader
 Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
 Filename: ./debfiles/com.supportjailbreak.boxy4vn_4.4.2_iphoneos-arm.deb
-Size: 3014314
-MD5sum: 8662755020ffdd6ac05808c6e4b1f0d1
-SHA1: 13000c06b39fc3b7603b30324adc743df94f6af1
-SHA256: 69028a3fdf3aa2bb709e31044d393b9f12541f019b424fa3e68f133af5ad3c1c
-SHA512: c76f319b6583755e636f93c1088be81afff9c0f07c7c96479728253d376239b778159ced9d37e99cce0cb303f0907fbf1a1ccc6beccffe3695d1a3b790f84501
+Size: 3014318
+MD5sum: 948f0cb5d7d47844f42eb7470fccca9f
+SHA1: 350021b47bc619432eec8563e410150bc27deec6
+SHA256: 126d4886447e9777526c595ea676569c2fc10b19903271de690e42d3bee0d9c0
+SHA512: 78dbdbd3c38607a6dbf6d831ba9d79a661daeb2a8eb5aaa9a36ed6e56e098ad1465f3db4f8a35b6c18040b1458f3ffc0eb31bf46e53d648950b578bb77d6f58c
 Description: Sắp xếp các biểu tượng trên màn hình chính.
 Name: Boxy 4(13/14)VH
 Author: William Vabrinskas

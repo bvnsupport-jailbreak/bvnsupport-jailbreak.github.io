@@ -1171,18 +1171,18 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.fakeios14
 Architecture: iphoneos-arm
-Version: 14.6
+Version: 14.5.1
 Section: System
 Maintainer: BIỆN VĂN NHẬT
 Depends: mobilesubstrate, firmware (>=5.0)
-Filename: ./debfiles/com.BIENVANNHAT.fakeios14_14.6_iphoneos-arm.deb
-Size: 1682
-MD5sum: a15d9cda7003abe4e26b52e2789c25ea
-SHA1: bbfb432007fb165d5592892ca54ef70218d386f7
-SHA256: 64b0c1684290cd3d79d1a41133762e0f2d45e5bb16ce737733be785ac18d3b89
-SHA512: 768ec8469fd912616ffcf71305066f2154340c9644884fe7b4351167db900ae16b5270690d1def7c35d77010c6ccd5c2b4dfa565340f26ad0430fdf7873a671a
-Description: Fake Ios 14.6 cho anh ghép sim,sau khi cài xong bạn tiến hành ghép sim và Active ICCID,sau khi làm xong bạn bạn vào lại Cydia và xoá Tweak Fake Ios.Done
-Name: Fake Ios 14.6
+Filename: ./debfiles/com.BIENVANNHAT.fakeios14_14.5.1_iphoneos-arm.deb
+Size: 1686
+MD5sum: f8df974ec1539222a8aae99a6642ea54
+SHA1: 1b845e51ad66d497a5b8b13e505f495ce17f984f
+SHA256: f7154a7ecdb7da7387a0ebb8b53d0e6e0c4542cf55f622f4918e0153a9dacf14
+SHA512: a205a8d13d7bcbec8572b01fe0a438f40bdf3c2a8cfd73efa3e8cc0976acf33d115dbdbe13ddc70e696fc49bbc67d42f2ffb0a176205d9531d9d19add8efe024
+Description: Fake Ios 14.5.1 cho anh ghép sim,sau khi cài xong bạn tiến hành ghép sim và Active ICCID,sau khi làm xong bạn bạn vào lại Cydia và xoá Tweak Fake Ios.Done
+Name: Fake Ios 14.5.1
 Author: BIỆN VĂN NHẬT
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 

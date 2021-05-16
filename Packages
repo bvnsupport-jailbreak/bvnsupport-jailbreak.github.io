@@ -4398,6 +4398,25 @@ Name: Boxy 4(13/14)VH
 Author: William Vabrinskas
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.supportjailbreak.boxy4vn
+Architecture: iphoneos-arm
+Version: 4.4.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 3612
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Filename: ./debfiles/com.supportjailbreak.boxy4vn_4.4.2_iphoneos-arm.deb
+Size: 3014314
+MD5sum: 8662755020ffdd6ac05808c6e4b1f0d1
+SHA1: 13000c06b39fc3b7603b30324adc743df94f6af1
+SHA256: 69028a3fdf3aa2bb709e31044d393b9f12541f019b424fa3e68f133af5ad3c1c
+SHA512: c76f319b6583755e636f93c1088be81afff9c0f07c7c96479728253d376239b778159ced9d37e99cce0cb303f0907fbf1a1ccc6beccffe3695d1a3b790f84501
+Description: Sắp xếp các biểu tượng trên màn hình chính.
+Name: Boxy 4(13/14)VH
+Author: William Vabrinskas
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.supportjailbreak.caskViethoa
 Architecture: iphoneos-arm
 Version: 1.2.0

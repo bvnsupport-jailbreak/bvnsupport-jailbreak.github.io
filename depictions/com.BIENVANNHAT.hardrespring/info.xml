@@ -1,0 +1,23 @@
+<package>
+	<id> com.BIENVANNHAT.hardrespring</id>
+	<name>Biện Văn Nhật</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5</miniOS>
+                         <maxiOS>14.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tweak này có tên là HardRespring của nhà phát triển LNSSPsd. Nó sẽ giải quyết được việc giúp thiết bị của bạn Respring lại máy khi bị đơ, treo máy hay đứng hình qua các phím cứng trên máy</description>
+		<description>Sau khi cài đặt thì bạn sẽ không có gì để cấu hình cả. Cách sử dụng như sau:</description>
+		<description> Respring (sbreload) Giữ nút nguồn, sau đó nhấn nút giảm âm lượng (rồi thả ra) một lần và nhấn nút tăng âm lượng.</description>
+		<description>ldrestart Giữ nút nguồn, sau đó nhấn nút giảm âm lượng (rồi thả ra) hai lần và nhấn nút tăng âm lượng hai lần. Restart backboardd Giữ nút nguồn, sau đó nhấn nút giảm âm lượng (rồi thả ra) ba lần và nhấn nút tăng âm lượng ba lần.Hỗ trợ ios 5 tới ios 14.6 </description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1391,6 +1391,29 @@ Name: Crack Apps
 Author: halem
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.hardrespring
+Architecture: iphoneos-arm
+Version: 0.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 270
+Depends: mobilesubstrate, firmware (>= 5.0), uikittools
+Filename: ./debfiles/com.BIENVANNHAT.hardrespring_0.0.1_iphoneos-arm.deb
+Size: 9938
+MD5sum: dd7e85cf50469a0df66751e9a94e6a5b
+SHA1: ceaf1de9569629021db7583e993c6d90cd3a529a
+SHA256: cd8c2a6c5c86b0d6f9e3367383975e3f9a51568e80157fc82e41fb8cf2d6b9eb
+SHA512: 7eb52bdb0599638d1c45cbf95ac4bc83bf80e6d8963fd76d88333cee01c8bae98d1dd84702fd5af905c3c609b4f76759511d7bed32185ea65412e35101ef6b72
+Description: Tweak này có tên là HardRespring của nhà phát triển LNSSPsd. Nó sẽ giải quyết được việc giúp thiết bị của bạn Respring lại máy khi bị đơ, treo máy hay đứng hình qua các phím cứng trên máy
+Tag: purpose::extension
+Name: HardRespring VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.hardrespring
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.hardrespring
+Author: Ruphane <lnsspsd@protonmail.com>
+dev: lns
+
 Package: com.BIENVANNHAT.hdtiktok
 Architecture: iphoneos-arm
 Version: 0.0.1-1

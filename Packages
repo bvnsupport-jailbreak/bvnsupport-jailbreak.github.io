@@ -1563,6 +1563,24 @@ Name: Key+ VH
 Author: XCXiao
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.key+
+Architecture: iphoneos-arm
+Version: 1.0.3-6
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.key+_1.0.3-6_iphoneos-arm.deb
+Size: 175568
+MD5sum: 79ca596e26be5bac8c343abb58cf025b
+SHA1: e67cfcdb1a42fff219034fb92db73d958e799f79
+SHA256: a19bd776a8d4dd137d7230c1e3ea4bef6fae9b0d650fbd3a2dccd63eed10948b
+SHA512: c244ff87f592a69307dd1df6df9e7371af96a7aa0d725c75b95162e2ec19835eab67752eb49b39daa75831c23e9ce69e8e2ce5f6c075fc0770d5a038a7f03b2c
+Description: Một tinh chỉnh cho bàn phím của bạn.Hỗ trợ ios 13-14.6
+Name: Key+ VH
+Author: XCXiao
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.killallapps
 Architecture: iphoneos-arm
 Version: 3.2.0

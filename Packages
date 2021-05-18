@@ -399,15 +399,15 @@ Installed-Size: 123
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debfiles/com.BIENVANNHAT.andauchamtrang_0.2-beta_iphoneos-arm.deb
 Size: 8852
-MD5sum: 1581c63fb342902f32ac5cb75e79b99a
-SHA1: e2c69f45a92ede02689e4f7d80033f5daf69f163
-SHA256: 3d17818aa25d73799669cff0b1efd7b5399a5ae5eadffa55acd066af1a971e1f
-SHA512: 01c22c338d53673ebff0d70830741eeb14fb833bc0b40255ae2d33137ccb50311dd5e173c1473863babb318ac7a697172af0f749f48a982782795b0e7277b068
+MD5sum: bd3050189d1bf6a358cbbcc32ba36112
+SHA1: a30f73144b7f3fb3083e33ffc4927abb339943ed
+SHA256: 5c7bd1319f301cc5d692c7062d0eefdef4d8f19cd3d1cf0fa421309561f59d81
+SHA512: 5a39104d47e547db90ea599cef3602b17c5fd52917cae7f5f20890aa0d3268f277b3a64723e9ab8830c18596c370a72c044a2cfb9825ae8c3cccf943b179c415
 Description: Ẩn dấu chấm trang trên màn hình chính.Hỗ trợ ios 14 -14.5
 Author: Biện Văn Nhật
 Name: Ẩn Dấu Chấm Trang
 dev: BVN
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.androbar
 Architecture: iphoneos-arm

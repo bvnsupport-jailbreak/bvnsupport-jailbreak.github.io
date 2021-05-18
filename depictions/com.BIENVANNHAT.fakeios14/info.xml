@@ -1,0 +1,23 @@
+<package>
+	<id> com.BIENVANNHAT.fakeios14</id>
+	<name>Biện Văn Nhật</name>
+	<version>14.5.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tweaks dùng để Fake lên ios cao để ghép Sim cho máy Lock đời cũ</description>
+		<description>Sau khi cài xong bạn tiến hành gắn sim ghép và Ative ICCID</description>
+		<description> Lưu ý:Sau khi Active xong bạn vào lại Cydia để xoá Tweak,tránh trường hợp bị Crash ứng dụng</description>
+		<description>Tweak được phát hành bởi Biện Văn Nhật ,hỗ trợ ios 5 tới 14.5 </description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

@@ -390,6 +390,25 @@ Name: AltStore
 Author: Riley Testut
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.andauchamtrang
+Architecture: iphoneos-arm
+Version: 0.2-beta
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 123
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.andauchamtrang_0.2-beta_iphoneos-arm.deb
+Size: 8852
+MD5sum: 1581c63fb342902f32ac5cb75e79b99a
+SHA1: e2c69f45a92ede02689e4f7d80033f5daf69f163
+SHA256: 3d17818aa25d73799669cff0b1efd7b5399a5ae5eadffa55acd066af1a971e1f
+SHA512: 01c22c338d53673ebff0d70830741eeb14fb833bc0b40255ae2d33137ccb50311dd5e173c1473863babb318ac7a697172af0f749f48a982782795b0e7277b068
+Description: Ẩn dấu chấm trang trên màn hình chính.Hỗ trợ ios 14 -14.5
+Author: Biện Văn Nhật
+Name: Ẩn Dấu Chấm Trang
+dev: BVN
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BIENVANNHAT.androbar
 Architecture: iphoneos-arm
 Version: 1.0

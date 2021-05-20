@@ -198,6 +198,26 @@ Name: Orion Việt Hoá
 Author: John Zarogiannis <johnzrgnns@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Orion
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 8572
+Depends: firmware (>=13.0), firmware (<=14.6), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./debfiles/com.BIENVANNHAT.Orion_1.1.0_iphoneos-arm.deb
+Size: 3030528
+MD5sum: 78231d4d4f611db10c6aa5345eb7092a
+SHA1: cc39a535ba58d564c87a18ac0d366edf4f53a3c3
+SHA256: 7779dff0a57c7f3871b553600cfe7614fa1404cd066f0e7fe203f940b214d32e
+SHA512: c84379d1f73cde0de71abc021f0aa2ebf176082be6bce994a71eeb1ecbfaf850f3572d72cde67155d0ab59ab1b73848df3c19648ba059bf17b6944d9323d6deb
+Description: Cấu hình mọi thứ trên thiết bị của bạn!
+Name: Orion Việt Hoá
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.Orion
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.Orion
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.3

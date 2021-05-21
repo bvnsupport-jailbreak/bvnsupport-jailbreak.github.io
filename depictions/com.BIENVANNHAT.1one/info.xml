@@ -1,0 +1,23 @@
+<package>
+	<id> com.BIENVANNHAT.1one</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+                         <maxiOS>14.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tuỳ chỉnh thiết bị của bạn theo các bạn muốn,Tweak có hơn 200 tính năng</description>
+		<description>Tweak này cũng tương tự như Tweak Orion</description>
+		<description> Tweak được bán với giá 2 đô ở Repo Packix 'Free tại nguồn BVN❤️ </description>
+		<description>Hỗ trợ ios 12 tới 14.5.1</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

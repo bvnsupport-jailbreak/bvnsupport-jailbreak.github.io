@@ -1,3 +1,23 @@
+Package: com.BIENVANNHAT.1one
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: mostafa89
+Installed-Size: 3044
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.0), com.muirey03.libimagepicker
+Filename: ./debfiles/com.BIENVANNHAT.1one_1.0.3_iphoneos-arm.deb
+Size: 1229568
+MD5sum: c1be0e9540e0b936af4d1ed5c9407a73
+SHA1: 658c36524c0603e8a1a8b24752918b64c4ad590b
+SHA256: 828b787359be510c26e25b44660e45b3a09e589473f3698c25ee4c47c7163d6d
+SHA512: cd4310204592c04cbf13433682622b217baa9b821b627571f8a5208d5fcfc0d29478d26c77468e06076297b64d36ef95e159f6999ee3849f70fc831bc1be99fd
+Description: Your Device Your Way!
+Name: 1ONE Việt Hoá
+Author: mostafa89
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1one
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1one
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.2thanhdock
 Architecture: iphoneos-arm
 Version: 1.0-beta1

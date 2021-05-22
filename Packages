@@ -2822,6 +2822,57 @@ Name: TikTok God
 Author: Hao Nguyen
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.time
+Architecture: iphoneos-arm
+Version: 7.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 4400
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader,firmware (<= 14.99)
+Conflicts: com.manu.timedemo
+Filename: ./debfiles/com.BIENVANNHAT.time_7.0_iphoneos-arm.deb
+Size: 1501038
+MD5sum: 60161584d80ceb29c8084b3a304f1bcd
+SHA1: 49a706b1eac0758244b7bcbf75ae1dd438a510cf
+SHA256: be61b767b044a1a45016489521b64cefbba3b9a749ba14c449e08a356159e4cf
+SHA512: e071c13e1be71df97fc35dcb3c06b6e9dbef51fd786094d14222e8ef2388855021c70e1213827b19d09cc608f5c480d4385db71657885f36aa467f199c854322
+Description: Thời gian của bạn theo cách của bạn.
+ Thời gian của bạn theo cách của bạn.
+ -Tất cả iPhone & iPAD đều được hỗ trợ (Người dùng đã thử nghiệm trên ipad pro 12.9).
+ -Statusbar (Phải, Trái, Trung tâm Điều khiển).
+ -Ngày & Giờ màn hình khóa Có thể được tùy chỉnh.
+ -Cài đặt hiển thị múi giờ múi giờ khác nhau ở góc trên cùng bên trái, bên phải, CC.
+ -Có gì mới
+ - Hệ thống lưu trữ được sử dụng, không gian trống.
+ -Tốc độ làm việc.
+ -Tên mạng Lan.
+ -Ram tốc độ.
+ -Phiên bản iOS.
+ -CC Giờ với các tùy chọn tương tự như trong Trang chủ.
+ -CC Network Customization, văn bản di động, v.v.
+ -Tất cả bao gồm với kích thước tùy chỉnh, phông chữ. WiFi, màu di động, 4G đến 5G hoặc khác.
+ -WifiNetwork hoặc khác thay vì Mạng di động, Thay đổi tùy chọn hiển thị trong cài đặt trước,
+ -Khối lượng âm thanh trong khi nhấn nút,
+ -Mute Chuyển đổi âm thanh nếu bật tiếng,
+ -HS tùy chỉnh nhãn biểu tượng đồng hồ,
+ -HS tùy chỉnh nhãn biểu tượng Calander,
+ -Công tắc hệ thống màu,
+ - Nhấn đúp vào biểu tượng Wifi để tắt wifi (Mặc định bị tắt, Bật để xem hành động),
+ -Biểu tượng Pin &% tuổi thay đổi màu sắc dựa trên mức pin (các bản sửa lỗi), Ngoài ra, nó sẽ gây xung đột với các tinh chỉnh pin khác, Tắt tùy chọn pin trong cài đặt nếu bạn không sử dụng Thời gian,
+ -Trình chiếu tùy chọn tính năng bổ sung.
+ -các cấp độ dễ dàng điều chỉnh và chủ yếu là thân thiện với người dùng & cài đặt yêu cầu của người dùng đã được mặc định.
+ -Hình ảnh tùy chỉnh trong chuỗi thời gian
+ -Tùy chọn hiển thị.
+ -Prefrences Tùy chỉnh thân thiện với người dùng
+ -Tuyệt thông tin phản hồi Haptic của giao diện người dùng
+ -Hỗ trợ ngôn ngữ
+ -Xung pin
+ -Nhiều cài đặt trước khác được thêm vào
+ -Hỗ trợ ios 11 tới 14.6
+Name: Time Việt Hoá
+Author: NaneraManu
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BIENVANNHAT.toonsy
 Architecture: iphoneos-arm
 Version: 1.2.3

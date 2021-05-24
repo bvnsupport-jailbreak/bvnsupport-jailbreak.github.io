@@ -2341,6 +2341,24 @@ Name: PhotosPro Việt Hoá
 Author: ahmedmakls <makhl.2266@yahoo.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.presetextension
+Architecture: iphoneos-arm
+Version: 1.0.21~Beta4
+Section: SnowBoard Extensions
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 792
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Filename: ./debfiles/com.BIENVANNHAT.presetextension_1.0.21~Beta4_iphoneos-arm.deb
+Size: 174582
+MD5sum: 53996ee7cbb0b6c8ca44f330af3a9629
+SHA1: ce954d5d36f3c6b24e172a348cd5dd9e2814c4ef
+SHA256: 9c3b73312101cb58b42651c73c84b8e3cc822750eef91c6b695b5dd524927333
+SHA512: 764e902d997b2534755ae26516e4ef2a7201c781398bbd34bf9d9a8b273b56454382e38565e7a460f21d2562ab5b459ec56dfdb6fcbb11bad0c3c3ac53c3f56b
+Description: SnowBoard Presets Extension
+Name: SnowBoard Preset Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
 Package: com.BIENVANNHAT.progesture
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -2660,6 +2678,137 @@ Description: Chụp ảnh màn hình nâng cao hơn.Snapper là một tinh chỉ
 Name: Snapper 2 VH
 Author: Jonathan Winger-lang
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.snowboard.dock
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: Biện Văn Nhật
+Installed-Size: 512
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.dock_1.1.0~Beta4_iphoneos-arm.deb
+Size: 91070
+MD5sum: 3f57c5ba7cdd7ab182a252cb81de6d05
+SHA1: 95fb59df26503c1b830e9dc621c37d3e5f43782e
+SHA256: 2972658254a7e091fa0faedbc1e1cf5dbf36859e83fa8baec237ac437e8bb758
+SHA512: 3780ce5de72f66de42a9130440022d3f898246fe1c1fba792ed78dbb04a542b301dcb975f0d58f94cb04a6045b99114ddd5ee7a425f4599dd30dbcadeca9e8dd
+Description: Gói tiện ích dock cho Snowboard
+Name: SnowBoard Dock Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.effects
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 408
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.effects_1.1.0~Beta4_iphoneos-arm.deb
+Size: 107230
+MD5sum: 6ebacf49ea5b536b520e77c54274f241
+SHA1: 36c32bb8985fcf1d57cf890f119e823df95263da
+SHA256: 9361b0e227a2550f314083c0f5db46cf90b36fd348ab228f7f903c1f946a61a7
+SHA512: e238792c2b40ae4d5f0cfeb8ab77c48f6a347bbdb8028abab6301e01e4e8d52ed107f6d07b43e079d9b306bb4bb43a956d807d3ac121978c0553243c10f3f832
+Description: Icon Effects for SnowBoard
+Name: SnowBoard Icon Effects Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.fonts
+Architecture: iphoneos-arm
+Version: 1.0.12~Beta4
+Section: SnowBoard Extensions
+Maintainer: Biện Văn Nhật
+Installed-Size: 400
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.fonts_1.0.12~Beta4_iphoneos-arm.deb
+Size: 37950
+MD5sum: aef4ec7ab26e225273766c8d301f1ea9
+SHA1: f149671078734bb19e8f4c6cfb2af913e65c2b53
+SHA256: 0dcd221c947d07a09cdd2acc393fb65894e48728d11be71c94efc1efed7be496
+SHA512: 5b18aaa08ddc4ae9ff321adf16309f133303c54bbab799450ee97d3635889d5f2f41c275cdf71148713b0001d0f9dceaefdf64caa99edfafa86ff4167db040cf
+Description: Phông chữ cho SnowBoard
+Name: SnowBoard Fonts Extension
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.snowboard.labels
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 400
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.labels_1.1.0~Beta4_iphoneos-arm.deb
+Size: 40430
+MD5sum: 3c5cef3851843ce0e1be8bf9d83784eb
+SHA1: 88e771b974e9c43d5bc83ba7406ec2e9d608174a
+SHA256: dcf503dfd2e616c754191abe6212de668f141fcd7ac0c8fe65769de4223eeac8
+SHA512: 1801646abe8a6cc05127f8e9954345f18866e2ed22084c7e9a2fe6d5598ea04f5d1dc1a7b9ab20a25d4bed348698005b92fd54636da5cef6945e7a052a1da84f
+Description: Labels for SnowBoard
+Name: SnowBoard Labels Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.masks
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 356
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.masks_1.1.0~Beta4_iphoneos-arm.deb
+Size: 55606
+MD5sum: 7013cacc9f694273f55205d106b8c5ed
+SHA1: 1a2b7233958cd4dca5e704f3c575ec1efcf6a9b3
+SHA256: 98a725bd906ed0a5739e71044049cc65c0fe6012ccf19810ded35d77d4ec646e
+SHA512: 39db04bad9f490546a024445584284c2674691b87677891c21eb3437565a7e66d38a88de1664c3d51e93dca94eb0b7daff005abcc9276503038bfe5b6163c861
+Description: Icon masks for SnowBoard
+Name: SnowBoard Icon Masks Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.pagedots
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 452
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.pagedots_1.1.0~Beta4_iphoneos-arm.deb
+Size: 62372
+MD5sum: 03d2b82c1a858153d61068c85e12764e
+SHA1: b6238fc5c44899155747a3ead43b298c7145f7bd
+SHA256: cb9f17e3cb2869ab79b942162422e1781335cc5123fb30acd5b7c6f6198855a3
+SHA512: 02b6276e541b725d8bb6499fbf9e995a293657447d49429aeba94b230364840357f3440126ab2fe33a86363280324bb3f3d5a76f44c7e480021f2599d9682fa8
+Description: Page Dots for SnowBoard
+Name: SnowBoard Page Dots Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard
+Architecture: iphoneos-arm
+Version: 1.4.12~Beta4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 4828
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.snowboard.dock, com.BIENVANNHAT.snowboard.fonts, com.BIENVANNHAT.snowboard.efects, com.BIENVANNHAT.presetextension, com.BIENVANNHAT.snowboard.pagedots, com.BIENVANNHAT.snowboard.labels, com.BIENVANNHAT.snowboard.masks
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.BIENVANNHAT.snowboard_1.4.12~Beta4_iphoneos-arm.deb
+Size: 2170716
+MD5sum: db2292079dedd85814a3519c57219106
+SHA1: 4ffb2828d767de995f97cbb558ea4947065b04cc
+SHA256: 2450c7bd28fc9c28959a25f91c1a96617978312629ac532489990536eca1b412
+SHA512: b159e68e8717796ba4c45d0043e5d3f87760d5062d4debb25b5bb2af87f46664c0b131faba9027b3a910d56edba2e433fc70285b2b44104965ef24fac2fe80ab
+Description: Snowboard theming engine
+Name: SnowBoard Việt Hoá
+Author: Spark & Dennis D. Bednarz
 
 Package: com.BIENVANNHAT.spectral
 Architecture: iphoneos-arm

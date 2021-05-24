@@ -2790,6 +2790,78 @@ Name: SnowBoard Page Dots Extension
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Spark
 
+Package: com.BIENVANNHAT.snowboard.respringextension
+Architecture: iphoneos-arm
+Version: 1.0.7~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 596
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm.deb
+Size: 79618
+MD5sum: ba9a21442df48f89e94f83651efef9a3
+SHA1: 19c7f1de4a817633fb2bb6f46212174b08742274
+SHA256: 235c64f393d3d66e1c4924379afa6ca933737a8406ee03d882e7068d8e127051
+SHA512: 1ed789ce1b37ae7544ef1441cbc96fdeeaba4baaa38cdf8278d6d071cf011427988803e179e5c380917257faaecc39323616f5c1cf1e4d4f4e2514cefc7034d7
+Description: Respring icon extension for SnowBoard
+Name: SnowBoard Respring Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.settingsicons
+Architecture: iphoneos-arm
+Version: 1.0.25~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 452
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.0)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.settingsicons_1.0.25~Beta3_iphoneos-arm.deb
+Size: 54494
+MD5sum: 0ce212d4ecc4dd469c1e16793c18a56f
+SHA1: 2c1ce34fa7bca203d636c802f5ebe9b280853a48
+SHA256: f51e865021f767685d30f5205ab6fa885ec2c979e3036bbae6e256b62e1f97a8
+SHA512: 53878c2c7afe4a4eda06f003b0cb1b3cceb5931c8a2157eb48f5e02e9b7bf39ea5c94c39f7222cdfc17a1f9483d4d35a9fb11ca7976bfb345f0106664cf5de58
+Description: Settings Icons for SnowBoard
+Name: SnowBoard Settings Icons Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.sounds
+Architecture: iphoneos-arm
+Version: 0.0.3~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 400
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.sounds_0.0.3~Beta4_iphoneos-arm.deb
+Size: 41012
+MD5sum: 4a0f04518cdedd1c156263ff0a0b2d15
+SHA1: 3e8c7583013489215abf1901366a3c85d72e87cb
+SHA256: e0d04f2bc4f71ad5aee2ea210a96b4012a83eeb361dce887a63415ed46a3c3ad
+SHA512: 40ca5ea99d2080954e2a19f1e6654b6f951786d78a746539a216fd82515fe2f238ebe7d019f4582764cabc50ee67b5ebb7f677eed7e0a472ea2b985e82864172
+Description: Sounds for SnowBoard
+Name: SnowBoard Sounds Extension
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.snowboard.statusbar
+Architecture: iphoneos-arm
+Version: 1.0.10-Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 456
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.statusbar_1.0.10-Beta3_iphoneos-arm.deb
+Size: 73002
+MD5sum: 5564bf88ec453cc05034af722de29e58
+SHA1: b691f052f70eb52246362767fac64fad7ba20c14
+SHA256: 62acb9d3e5695ab2d475404aa4c06ca3152f6e20455872df757aad20129dbda4
+SHA512: 7f0496b0680615c0c56bbc21d7cffc87c58441d7b377ba7310c3ca9ee428284478d1bcac6aaf9c7850ad3be525282bd1b7cc29ddbb7af7ce847b81098a91d9f9
+Description: StatusBar for SnowBoard
+Name: SnowBoard StatusBar Extension
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.snowboard
 Architecture: iphoneos-arm
 Version: 1.4.12~Beta4

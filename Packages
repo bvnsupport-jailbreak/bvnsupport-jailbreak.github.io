@@ -2347,13 +2347,13 @@ Version: 1.0.21~Beta4
 Section: SnowBoard Extensions
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 792
-Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>> 1.2.22)
 Filename: ./debfiles/com.BIENVANNHAT.presetextension_1.0.21~Beta4_iphoneos-arm.deb
-Size: 174582
-MD5sum: 53996ee7cbb0b6c8ca44f330af3a9629
-SHA1: ce954d5d36f3c6b24e172a348cd5dd9e2814c4ef
-SHA256: 9c3b73312101cb58b42651c73c84b8e3cc822750eef91c6b695b5dd524927333
-SHA512: 764e902d997b2534755ae26516e4ef2a7201c781398bbd34bf9d9a8b273b56454382e38565e7a460f21d2562ab5b459ec56dfdb6fcbb11bad0c3c3ac53c3f56b
+Size: 174580
+MD5sum: 3ee7238398e0efaf002287a08232dcd5
+SHA1: 5f9154f3b15d9ee778fba1490106e34fcdfdd573
+SHA256: f1299829ed7cecee31eb524893c96f9669bf1e92a71bc7b812abfaad0c6fe719
+SHA512: 9ad53813100c65e160f6cf0dc2da6ced6cf8244114d035994cc0fc6184e1301677570be38d82ec90ab03c0bd9c26597bcf1f66f5c10353f6b17d32d4f390df90
 Description: SnowBoard Presets Extension
 Name: SnowBoard Preset Extension
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

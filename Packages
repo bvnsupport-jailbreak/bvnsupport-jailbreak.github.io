@@ -2826,6 +2826,24 @@ Name: SnowBoard Settings Icons Extension
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Spark
 
+Package: com.BIENVANNHAT.snowboard.settingsicons
+Architecture: iphoneos-arm
+Version: 1.0.26~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 452
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.0)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.settingsicons_1.0.26~Beta4_iphoneos-arm.deb
+Size: 75362
+MD5sum: f4e904303b0a4cd8a59913d612fa38a6
+SHA1: f3abf9d377d2b3000c953b8764412bf738ec22a1
+SHA256: 6078dc73c441eea2e9325460864c8717c530a1ec25a1a7b0281f2e7cbc19f5b7
+SHA512: 9b7650adec40eb8e3081db2eca1e9ea1404e4c6dea6810b18f29cfc72a9e9bd534dafa9a83e089cda0723217e495f4987b1a3ea9ee38760608832ccd0f5b97c1
+Description: Settings Icons for SnowBoard
+Name: SnowBoard Settings Icons Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
 Package: com.BIENVANNHAT.snowboard.sounds
 Architecture: iphoneos-arm
 Version: 0.0.3~Beta4

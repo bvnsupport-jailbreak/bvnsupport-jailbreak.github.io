@@ -2953,6 +2953,23 @@ Name: Succession VH
 Author: Samg_is_a_Ninja
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.tatamthamncamera
+Architecture: iphoneos-arm
+Version: 0.1
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Depends: mobilesubstrate, firmware (>=5.0)
+Filename: ./debfiles/com.BIENVANNHAT.tatamthamncamera_0.1_iphoneos-arm.deb
+Size: 1920
+MD5sum: 99350de262a60961991994533f17da06
+SHA1: cef3837475f16da1ff2bf4e2cfa1957af18f35b1
+SHA256: 07819199f4be922e535b70144dac56e473c5caed63d1804ef0b23d504bc9a62b
+SHA512: c90dc4ecedccf2ca71ac36392344013f68f88557f220c5cf2b6ec61a27e7d96c1a3d98e6a865e6770ccdd668064c48d55fb42156b4193a9eabd35f7fc473f82f
+Description: Tweak này giúp bạn tắt âm thanh máy ảnh,cho các dòng máy J/A,KH/A,hỗ trợ ios 5 tới 14.7
+Name: Tắt Âm Thanh Camera
+Author: BIỆN VĂN NHẬT
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BIENVANNHAT.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6

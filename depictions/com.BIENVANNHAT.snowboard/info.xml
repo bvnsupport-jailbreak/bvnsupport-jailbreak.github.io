@@ -1,0 +1,23 @@
+<package>
+	<id> com.BIENVANNHAT.snowboard</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.4.12~Beta4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>SnowBoard Snowboard là sản phẩm kế thừa tinh thần nhẹ nhàng cho  chủ đề Winterboard huyền thoại.  Nó hoạt động với iOS 7 trở lên và hỗ trợ các định dạng từ tất cả các công cụ chủ đề phổ biến khác.  Snowboard trung thành với tinh thần bẻ khóa và là một công cụ thiết yếu, do đó nó được cung cấp miễn phí. </description>
+		<description>Tinh chỉnh này dùng để kích hoạt Các Theme"Chủ đề"tốt nhất hiện tại</description>
+		<description>Sau khi cài xong các bạn vào kho lưu trữ Repo BVN và chọn vào mục =>>SnowBoard Extensions để cài thêm các tiện ích đi kèm của nó❤️ </description>
+		<description>Hỗ trợ ios 7 tới 14.7</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

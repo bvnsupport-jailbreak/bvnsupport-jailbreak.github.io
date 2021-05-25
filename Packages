@@ -2880,6 +2880,24 @@ Name: SnowBoard StatusBar Extension
 Author: Spark
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.snowboard.ui
+Architecture: iphoneos-arm
+Version: 1.0.58~Beta3
+Section: SnowBoard Extensions
+Maintainer: Biện Văn Nhật
+Installed-Size: 476
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>> 1.2.22)
+Filename: ./debfiles/com.BIENVANNHAT.snowboard.ui_1.0.58~Beta3_iphoneos-arm.deb
+Size: 122706
+MD5sum: 0f16400c4f489999192dfa5a183d2ff4
+SHA1: a1c59589763c4ea7a0611d0f664df612d1461c67
+SHA256: 949171af400730ebaf5f34d8f57f9863032ac173da427d41ecd4c883a1058a41
+SHA512: 89c38b33b016cbb105da0e43c5a88f0b966a3105a629197ae78722db05617552f121b2e61ef188c6abe63a529655658064ed88313bb5648ddfbc5e6193513aec
+Description: UI Extension for SnowBoard
+Name: SnowBoard UI Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
 Package: com.BIENVANNHAT.snowboard
 Architecture: iphoneos-arm
 Version: 1.4.12~Beta4
@@ -2891,13 +2909,15 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debfiles/com.BIENVANNHAT.snowboard_1.4.12~Beta4_iphoneos-arm.deb
-Size: 2170666
-MD5sum: f022df1ae7c30158ee6b39de09d3d13e
-SHA1: de2fd030db1a4f33c7c027823d3f9e59b2896c69
-SHA256: 4f042814b4f1f89c5880bd020bebc98d86dc97cbb1bea0df0c13a993223ec6f8
-SHA512: 79195dbacc28e5c4d071534ced66f3264d802b87d265c4c19623363c1ed0a2e39e6ddac2eb69128aa5e1f2d70819c11791892689d9f43705590897e2bc996ee3
+Size: 2170720
+MD5sum: 5cc5ae1a2e729da5c765ac5303ed14c9
+SHA1: 5f6f52cc9dca75a73b00857cbb77fab672dbfd76
+SHA256: 70cf736d9029043fc4ab93309af6b9bc51ac22b20e4c664ebeddf0a1fbd5a957
+SHA512: 26c78db9bcdba2ca1898c86f7736f2e4565e7fe79e3cb5118f6c670414728e763fe5101a31a7937365089dba14f2b6cf7756e1f279df722e3063e8384d541d7d
 Description: Snowboard theming engine
 Name: SnowBoard Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.snowboard
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.snowboard
 Author: Spark & Dennis D. Bednarz
 
 Package: com.BIENVANNHAT.spectral

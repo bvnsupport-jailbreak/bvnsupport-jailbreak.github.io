@@ -1,0 +1,23 @@
+<package>
+	<id> com.BIENVANNHAT.bioprotectxs</id>
+	<name>Biện Văn Nhật</name>
+	<version>4.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Phiên bản hỗ trợ iOS Bảo vệ thiết bị của bạn bằng Touch ID hoặc mật mã.</description>
+		<description>Tinh chỉnh BioProtect phổ biến và vô cùng hữu ích. Tinh chỉnh này có thể khóa các ứng dụng và thư mục cụ thể trên thiết bị Jailbroken của bạn và xác thực quyền truy cập vào chúng thông qua Face ID</description>
+		<description>Mặc dù điểm nổi bật chính của BioProtect X là hỗ trợ Face ID, nhưng tinh chỉnh cũng hoạt động với Touch ID và mật mã cũ tốt như trước. Chỉ cần nhấn vào biểu tượng để mở ứng dụng và Face ID sẽ tự động quét khuôn mặt của bạn. </description>
+		<description>Khi xác thực đi qua, bạn sẽ có quyền truy cập vào ứng dụng mà không cần bất kỳ nỗ lực hoặc thời gian nào. </description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

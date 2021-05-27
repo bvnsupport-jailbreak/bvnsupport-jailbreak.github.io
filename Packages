@@ -772,6 +772,27 @@ Author: ItzNebbs
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.batteryflow-reborn
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.batteryflow-reborn
 
+Package: com.BIENVANNHAT.bioprotectxs
+Architecture: iphoneos-arm
+Version: 4.6
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2176
+Depends: mobilesubstrate, preferenceloader, com.bvnsupport-limneos.limneos
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debfiles/com.BIENVANNHAT.bioprotectxs_4.6_iphoneos-arm.deb
+Size: 832982
+MD5sum: 2694b0aa53211e04a7fda19f32374fd2
+SHA1: cb6696003faeff3ceb2ecab41722f3c0fb050430
+SHA256: ab8c30b2ad4d9ccc0c020d4a6034c73a6cdfbf4ddade32b5823a3c43f56a5390
+SHA512: 24ab2d2f00ca5b8bd7cfb9a867683247bda5c633dee5a9839b3a6e744e6c43435d141281fbc74f6d2b10f3346fe835579d327fb14bcb32b203be8044708f7511
+Description: Bảo vệ thiết bị của bạn bằng Touch ID hoặc mật mã.
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.bioprotectxs
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.bioprotectxs
+Name: BioProtect XS (12/14)VH
+Author: Elias Limneos
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.blockupdate
 Architecture: iphoneos-arm
 Version: 1.2

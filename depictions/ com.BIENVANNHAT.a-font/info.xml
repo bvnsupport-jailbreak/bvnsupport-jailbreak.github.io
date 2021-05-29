@@ -1,0 +1,24 @@
+<package>
+	<id> com.BIENVANNHAT.a-font</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.9.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Cài đặt Font chữ cho iPhone của bạn! </description>
+		<description>A-Font cho phép bạn tùy chỉnh phông chữ hệ thống của thiết bị iOS giống như các chỉnh sửa phổ biến hiện có như BytaFont.</description>
+		<description>Tinh chỉnh này tác động đến mọi trường hợp văn bản trên thiết bị cầm tay của bạn, bao gồm Màn hình chính , Thanh trạng thái, văn bản trong các ứng dụng và thậm chí là văn bản trên các trang web. </description>
+		<description>Phiên bản mới nhất hiện tại,support Ngôn ngữ Việt Nam
+</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

@@ -340,6 +340,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.TR
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.TRM
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.a-font
+Architecture: iphoneos-arm
+Version: 1.9.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2380
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debfiles/com.BIENVANNHAT.a-font_1.9.4_iphoneos-arm.deb
+Size: 868982
+MD5sum: fea0f4973ad6141d4b2d7437f6ac15a7
+SHA1: 333657627b7ef39a78ef10f8847301d93ac52f49
+SHA256: f3f467f193977dad12338990ac3dbaf12be4cb2a01e9a457dbb39890fd435809
+SHA512: a51c235232961c9d0a7e90ba0bd2fe90a72679931bfa3dbb40a02bbf67279eeb303f43f9bf0b5c832ef9bd28b33260f50ebded4353bd19b1831f0e4e20da6bb5
+Description: Cài đặt Font chữ cho iPhone của bạn!
+Name: A-Font VN
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.a-font
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.a-font
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.afakerx
 Architecture: iphoneos-arm
 Version: 2.0-4

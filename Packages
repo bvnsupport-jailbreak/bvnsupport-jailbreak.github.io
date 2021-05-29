@@ -3615,6 +3615,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.burritoz.croutons13
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.burritoz.croutons13
 
+Package: com.burritoz.croutons13
+Architecture: iphoneos-arm
+Version: 1.0.2k
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=11), mobilesubstrate
+Filename: ./debfiles/com.burritoz.croutons13_1.0.2k_iphoneos-arm.deb
+Size: 89372
+MD5sum: 16871c025c137d9ece82908ad1aa90af
+SHA1: 22472882186826632be9667fae54fb384dd977b8
+SHA256: c084ab894c717b6c53097310655e4438676508011b87f019265501b68d4e62b5
+SHA512: c4cbe70cdd494b9570f3bd9cdc1c60159a2dd269494a0da0ae33adea7625fe1c1ec2ad1c581e6af79da9a4e96df9cafa3c58830ce953c665c64361b053ff059d
+Description: Brings croutons tweak to iOS 13+
+Name: croutons13 Việt Hoá
+Tags: compatible_min::ios11, compatible_max::ios14.9
+Author: ren7995 <lau7995ren@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.burritoz.croutons13
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.burritoz.croutons13
+
 Package: com.bvn-supportjailbreak.CustomSounds2Vn
 Architecture: iphoneos-arm
 Version: 7.8.9

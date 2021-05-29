@@ -1,0 +1,24 @@
+<package>
+	<id>com.BIENVANNHAT.letmeknow</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.4.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tương thích với iOS 11 - 14.6 </description>
+		<description>Tinh chỉnh này sẽ cho bạn biết chính xác khi nào cuộc gọi kết nối / ngắt kết nối để bạn không phải tiếp tục giữ! </description>
+		<description>Nó phát rung khi kết nối / ngắt kết nối cuộc gọi.  Định cấu hình các tùy chọn từ Cài đặt.</description>
+		<description>Phiên bản mới nhất hiện tại,support Ngôn ngữ Việt Nam
+</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

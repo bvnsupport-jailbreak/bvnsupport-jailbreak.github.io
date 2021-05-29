@@ -1744,6 +1744,26 @@ Name: Kill All Apps
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.letmeknow
+Architecture: iphoneos-arm
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.letmeknow_1.4.3_iphoneos-arm.deb
+Size: 32944
+MD5sum: 0ab372a9c400318aaaf1a50aecd2ecff
+SHA1: 5f7a8a1a24567072ef3ef7c8a1a5d40bb8775140
+SHA256: 862dcc9ae190c85a0f355acff96777da7004b30f2c817cd3db369fa4023ff1b6
+SHA512: 9aebcb601c3f19997e470919c21ab188a8b67447689a6be2a3d2bf283f3229f198ed6fc482f4ffa6e10a48fc9eff4fa5d970ff1818802fa81f483827e1b5b090
+Description: Tinh chỉnh này sẽ cho bạn biết chính xác khi nào cuộc gọi kết nối / ngắt kết nối để bạn không phải tiếp tục giữ!
+Name: LetMeKnow VH
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.letmeknow
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.letmeknow
+
 Package: com.BIENVANNHAT.libfah
 Architecture: iphoneos-arm
 Version: 0.1

@@ -1205,6 +1205,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.ed
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.edge
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.eneko
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 680
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.BIENVANNHAT.libgcuniversal
+Filename: ./debfiles/com.BIENVANNHAT.eneko_1.3_iphoneos-arm.deb
+Size: 289104
+MD5sum: 446264e44ecabca1ad8844e833bb7d05
+SHA1: 061da7772b646feba470278b1736989dd433e98f
+SHA256: 635fe94d50b35cc065ee5ec5286ffb4053f35e89c4f3030ea7208a86c70060cd
+SHA512: 3181b208881fdc43bedf249489cea0029aad1b481b313ce120deaf346d0d1874095f9d2357792d4a299a1dfe5d98bd6ce9faa9e1086fe367ed5bcd9fec764b27
+Description: Đặt video làm hình nền của bạn
+Name: Chọn Video làm hình nền
+Author: Litten
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.eneko
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.eneko
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.eqe
 Architecture: iphoneos-arm
 Version: 2.2
@@ -1816,6 +1836,26 @@ MD5sum: f09af5082d869cfe2cc820101bea21ae
 SHA1: 7d605bd23b19b6d383e47a7ea01f4cdd9eb3bf89
 SHA256: 7712f6dea62cd8c1b6ef35958996ce51f4aacd7d12fade0e7ae9bc596f9e6a5b
 SHA512: cfd6efe97035304b752d9601a0620e2a6c94fb83a5726c792cecca0fed638fe4da253c4f68008051c68a53364df9347be0ed7a3e2887e92deae75c8ce85cf5fb
+Description: An awesome library of some sort!!
+Tag: role::developer
+Name: LibGcUniversal
+Author: MrGcGamer
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.BIENVANNHAT.libgcuniversal
+Architecture: iphoneos-arm
+Version: 1.2.4
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 296
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: ./debfiles/com.BIENVANNHAT.libgcuniversal_1.2.4_iphoneos-arm.deb
+Size: 74922
+MD5sum: 229e92ef675f0bf97dd04bcf5d9f2199
+SHA1: ba0683a956489e35df9adce4a9338ad229f4b1c6
+SHA256: 7f95023eb585e0fa55d47a56fe9c33107cff99a7c837b17bdec2651bc742f963
+SHA512: 4d5efaa9b49f00f2575f6a328fc14046901e72443d5bfc053335ce7763485e9422c5204aa4aacc739e5f0a8162f7da9b24caafd53e1d37b91cd965ec18e66d64
 Description: An awesome library of some sort!!
 Tag: role::developer
 Name: LibGcUniversal

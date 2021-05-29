@@ -928,26 +928,6 @@ Name: Copypasta Việt Hoá
 Author: Nepeta & Litten
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.croutons13
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: firmware (>=11), mobilesubstrate
-Filename: ./debfiles/com.BIENVANNHAT.croutons13_1.0.2_iphoneos-arm.deb
-Size: 89132
-MD5sum: 69a18a6ac71f8705788733b656378d8d
-SHA1: d70dc7de2bfa58245f880d6da77100db2d8fe03a
-SHA256: f4d5343b3daf2bbbaae4aa7372f6e223d194350fd8fb7117ba7f9d0297cf8c47
-SHA512: 0c6be57b116b414b5426dbd58757aa4aeb0c475c162b5a8d219814039ba0ca2728f946563d90dcfa1d0f65f44a36fc197b3ba107d35433914e12c63f1b1ae891
-Description: Mang đến tinh chỉnh croutons cho iOS 13&14
-Name: croutons13 Việt Hoá
-Tags: compatible_min::ios11, compatible_max::ios14.9
-Author: ren7995 <lau7995ren@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.croutons13
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.croutons13
-
 Package: com.BIENVANNHAT.cylinder
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -3614,6 +3594,26 @@ Author: Antony .M
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bienvannhat-support.animemybadges
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bienvannhat-support.animemybadges
+
+Package: com.burritoz.croutons13
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=11), mobilesubstrate
+Filename: ./debfiles/com.burritoz.croutons13_1.0.2_iphoneos-arm.deb
+Size: 89128
+MD5sum: 97820d9d52f61bea3972251fa9b575d6
+SHA1: a6f025309a977046738cb90ebfdac28b51fe535c
+SHA256: bf6af81905b6aa4da403ff0eee941eda1cfd4ea4edef7cab0140d27c41030781
+SHA512: f925c93c2f7637cc6742319c583ff753f242b8c34303fa7c904e293ead04c9b82727a18cffcc4a76c231fa3115e960ca6fb5d0b342dbc60d03af035060da570f
+Description: Mang đến tinh chỉnh croutons cho iOS 13&14
+Name: croutons13 Việt Hoá
+Tags: compatible_min::ios11, compatible_max::ios14.9
+Author: ren7995 <lau7995ren@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.burritoz.croutons13
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.burritoz.croutons13
 
 Package: com.bvn-supportjailbreak.CustomSounds2Vn
 Architecture: iphoneos-arm

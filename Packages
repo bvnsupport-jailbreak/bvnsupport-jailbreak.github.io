@@ -5985,6 +5985,26 @@ Name: CopyLog Crack
 Author: TomT000
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: org.mr.no2theft4
+Architecture: iphoneos-arm
+Version: 1.2cr
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2592
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debfiles/org.mr.no2theft4_1.2cr_iphoneos-arm.deb
+Size: 1307936
+MD5sum: 3e4e29892d487e600d6501d68dbdd574
+SHA1: f7f1142a441b14842b10a53afd98fe8b1530d049
+SHA256: 93105b0412afcc33460fe78535888efc513c5bf861670239ea21c469a3485f71
+SHA512: ddd3ce60a1e0893ca949840e0bed7eb42ee179cc4f4bd4f538d2342c0b9cf93bc81bcfc312fedf531ff8955910738bd6cc51bb6a4d13ccfe5fec19c0716eb982
+Description: Tinh chỉnh hoàn chỉnh nhất chống lại những kẻ chơi khăm, những kẻ tọc mạch khó chịu và những tên trộm.
+Name: No2Theft4 Việt Hoá
+Author: elias
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=org.mr.no2theft4
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=org.mr.no2theft4
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: plutil
 Architecture: iphoneos-arm
 Version: 0.1.0

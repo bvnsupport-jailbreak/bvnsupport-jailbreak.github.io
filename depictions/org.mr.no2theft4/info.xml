@@ -1,0 +1,25 @@
+<package>
+	<id> org.mr.no2theft4</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.2cr</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Điều tốt nhất tiếp tục trở nên tốt hơn! Giới thiệu No2Theft4, phiên bản kế nhiệm của No2Theft3, bản tinh chỉnh hoàn chỉnh nhất chống lại những kẻ chơi khăm, những kẻ tọc mạch và những tên trộm khó chịu. No2Theft4 đã được làm lại từ đầu, với rất nhiều tính năng mới. Ý tưởng chính đằng sau tinh chỉnh đó là bảo vệ điện thoại của bạn ở những nơi công cộng và khỏi những người bạn / đồng nghiệp làm phc cập vào điện thoại. Giả sử bạn đang ăn tối trong một nhà hàng và điện thoại của bạn đang được sạc trên quầy bar, ai đó đi qua và giật chiếc điện thoại đó và cố gắng chạy thì điều gì sẽ xảy ra? </description>
+		<description>Tùy chọn bộ sạc: Báo động sẽ báo động ngay lập tức khi ngắt sạc, báo động không thể tắt, hình ảnh của trộm sẽ được chụp cùng với vị trí thiết bị và sẽ được gửi đến bất kỳ số nào trong số hai số sms bạn chỉ định hoặc một trong số hai email bạn chỉ định trong phần tinh chỉnh. Màn hình khóa: nếu bạn có các thành viên gia đình, bạn bè, đồng nghiệp phiền phức thích nhìn trộm điện thoại của bạn, bạn có thể chỉ định số lần bạn được phép nhập mật khẩu trước khi kích hoạt báo thức đó, chụp ảnh của người khó chịu đó, lưu vào thư viện ảnh và được gửi với vị trí thiết bị dưới dạng SMS hoặc Email. đang cố gắng truy cập
+Vị trí thiết bị rất chính xác, chính xác như google, trên thực tế, nó sử dụng cùng một API như bản đồ google</description>
+		<description>Lệnh từ xa: đây là một tính năng gọn gàng cho phép bạn điều khiển từ xa thiết bị của mình trong trường hợp thiết bị bị đánh cắp: Bạn chỉ định một từ kích hoạt, giả sử bạn đã chọn "lệnh điều khiền từ xa". Bạn chỉ gửi một tin nhắn SMS đến điện thoại bị đánh cắp có chứa từ "lệnh điều khiển từ xa" và một khi tin nhắn SMS đó nhận được một email và một tin nhắn SMS sẽ được gửi đến các số và email bạn đã chỉ định cùng với vị trí thiết bị đề tìm thấy nó! Nỗ lực: Bạn cũng có thể chỉ định số lần thử khi nhập mật mã không thành công trước khi kích hoạt cảnh báo và tốt hơn nữa, bạn có thể chì định thời gian tắt trong vài giây, giả sử bạn đã chỉ định 5, khi mật khẩu được nhập sai hoặc bộ sạc bị ngắt kết nối điện thoại sẽ đợi 5 giây trước khi báo động, cho bạn thời gian đề xác thực. Disable Shutdown: vô hiệu hóa chức năng tắt máy thường xuyên khi cảnh báo đang phát ra, trong trường hợp cố gắng thiết lập lại phần cứng, một email sẽ được gửi kèm hình ảnh và vị trí của thiết bị, rất tiếc là không thể dừng thiết lập lại phần cứng vì nó không phải là một tính năng phần mềm mà chúng tôi có quyền truy cập đến. </description>
+		<description>Báo thức tùy chình: Tinh chỉnh đi kèm với 4 âm thanh báo động có sẵn, phần thú vị là bạn có thể nhập RIÊNG MÌNH! Đơn giản như việc đặt BẤT KỲ tệp âm thanh nào trong / Thư viện / Hỗ trợ ứng dụng / No2Theft3 / No2Theft3 / Âm thanh báo thức và tinh ra chúng và bạn có thể chọn báo thức mình thích. Chất lượng ảnh chụp mặt trước cũng có thể được điều chỉnh theo ý thích của bạn trong phạm vi tùy chọn, từ chất lượng thấp đến chất lượng cao nhất. WiFi an toàn: Bạn cũng có thể thiết lập tối đa 5 mạng WiFi được coi là an toàn, nếu bạn được kết nối với một trong những WiFis này, báo động sẽ không bao giờ kích hoạt. Tùy chọn bồ sung: khi cảnh báo kích hoạt, bạn có thể định cấu hình tinh chỉnh thành: Bật Dữ liệu trong trường hợp nó bị vô hiệu hóa, rất quan trọng đề có thể gửi vị trí và ảnh. Bật chế độ LPM, để giữ cho điện thoại sống động hết mức có thể. Bật Vị trí nếu nó đang tắt, cần thiết để gửi vị trí.
+</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản 1.2 * Sửa lỗi cài đặt cho một số người dùng</change>
+	</changelog>
+	<links></links>
+</package>

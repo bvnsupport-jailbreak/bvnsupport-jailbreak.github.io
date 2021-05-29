@@ -1,0 +1,21 @@
+<package>
+	<id>com.BIENVANNHAT.croutons13</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Mặc dù các liên kết breadcrumb mà iOS đặt trong Thanh trạng thái khi chúng ta chuyển từ ứng dụng này sang ứng dụng khác được đánh giá cao, nhưng chúng không được thẩm mỹ cho lắm.</description>
+		<description>Croutons13 của nhà phát triển burrit0z thay đổi điều đó bằng cách thay thế chuỗi văn bản mà các liên kết breadcrumb để lại bằng biểu tượng của ứng dụng mà bạn sẽ được quay lại nếu được nhấn.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

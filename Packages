@@ -348,13 +348,13 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 2380
 Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
 Filename: ./debfiles/com.BIENVANNHAT.a-font_1.9.4_iphoneos-arm.deb
-Size: 868982
-MD5sum: fea0f4973ad6141d4b2d7437f6ac15a7
-SHA1: 333657627b7ef39a78ef10f8847301d93ac52f49
-SHA256: f3f467f193977dad12338990ac3dbaf12be4cb2a01e9a457dbb39890fd435809
-SHA512: a51c235232961c9d0a7e90ba0bd2fe90a72679931bfa3dbb40a02bbf67279eeb303f43f9bf0b5c832ef9bd28b33260f50ebded4353bd19b1831f0e4e20da6bb5
+Size: 869010
+MD5sum: 4946eb29b96b828c5f5626740900e365
+SHA1: 094a72f1100d32ef29f5099e1a0997780e07ff54
+SHA256: 0ed695446cf348be520b621077ecd78b477ba9b78a0b054713c1bef44a0acb5d
+SHA512: be0f3bc4c991a5ccd2f7a01d7f415726f4b50a9e02789eb630ac814b6478fbdde5fc5a2ca579428c5f7ed8de0a15c8250b2d2ad8744c4b1304191e27842b952e
 Description: Cài đặt Font chữ cho iPhone của bạn!
-Name: A-Font VN
+Name: A-Font Việt Hoá
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.a-font
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.a-font

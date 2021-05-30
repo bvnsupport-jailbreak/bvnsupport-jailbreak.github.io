@@ -3531,6 +3531,29 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-you
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
+Architecture: iphoneos-arm
+Version: 2.1.2.8
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1484
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
+Filename: ./debfiles/com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa_2.1.2.8_iphoneos-arm.deb
+Size: 433078
+MD5sum: 235f68756379d7e1c511dd0ca0dfe946
+SHA1: 8269038883f5ad1c22fbcc39a0741e01fde3fb8e
+SHA256: 3b9601a518e8a5940d230ae2fd9ca68964ddf3113d9704a6fa8cfecdf5bee2bb
+SHA512: 40caa6122879ee254461bd6fafb54a2757d8979edf38335feeec8c3b133dab8cd29e258721abbd631259439ee4b8d143613ea27c8e4faaa2f8fdaaeccefbf021
+Description: YouTube Customizer
+Name: YouTube Reborn Việt Hoá
+Author: Ryan H & SarahH12099
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2

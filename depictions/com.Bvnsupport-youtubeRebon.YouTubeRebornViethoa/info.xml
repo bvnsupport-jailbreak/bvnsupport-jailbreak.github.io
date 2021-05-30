@@ -1,38 +1,30 @@
 <package>
 	<id>com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa</id>
 	<name>Biện Văn Nhật</name>
-	<version>/1.0.8.2</version>
+	<version>/2.1.2.8</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.0</miniOS>
-                         <maxiOS>14.5</maxiOS>
+			<miniOS>13</miniOS>
+                         <maxiOS>15</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Tiện Ích tuỳ chỉnh những thành phần trong ứng dụng Youtube Như tuỳ chọn Video,cho phép Phát lại nền và chặn quảng cáo.</description>
-		<description>Tuỳ chọn thanh Tab</description>
-		<description>Tuỳ chọn lớp phủ</description>
-		<description>Tuỳ chọn màu sắc</description>
+		<description>- không có quảng cáo ,  
+- Phát trong nền
+- PiP 
+- Tải Video
+- Tải xuống âm thanh
+- Còn nhiều chức năng khác ..vv...</description>
+		<description>Nói về Tweak Youtube Reborn thì quá nhiều người  đã biết về nó lâu rồi nhưng hôm nay lại giới thiệu về nó vì cách đây vài ngày tweak đã update lên phiên bản Youtube Reborn 2.1.2.8 phải nói là hoàn hảo không bị lỗi lặt vặt như các bản trước đó , đặc biệt nó cập nhật Google's api changes giúp có thể Tải Video...mà không bị lỗi với tốc độ tải rất nhanh</description>
+		<description>Phiên bản này hỗ trợ Ios 13 trở lên ,anh em Ios 12 vui lòng hạ cấp xuống bản cũ</description>
+		<description>Xem Video phía dưới xem Hướng dẫn sử dụng</description>
 	</descriptionlist>
 <screenshots>
         <screenshot>
             <description></description>
-            <image>YouTubeReborn1.PNG</image>
-        </screenshot>	
-        <screenshot>
-            <description></description>
-            <image>YouTubeReborn2.PNG</image>
-        </screenshot>	
-        <screenshot>
-            <description></description>
-            <image>YouTubeReborn3.PNG</image>
-        </screenshot>	
-        <screenshot>
-            <description></description>
-            <image>YouTubeReborn4.PNG</image>
-        </screenshot>
+            <image>YouTubeReborn1.mp4</image>
     </screenshots>
 	<changelog>
 		<change>Đã Update bản mới nhất</change>

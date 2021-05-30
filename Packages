@@ -4295,6 +4295,26 @@ Name: Tranzlo Việt Hoá
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport.tranzlovh
+Architecture: iphoneos-arm
+Version: 3.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 5324
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.17), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debfiles/com.bvnsupport.tranzlovh_3.1_iphoneos-arm.deb
+Size: 2634624
+MD5sum: 211f022ebf0e30528a8f362580b402a3
+SHA1: 02969b39ee5df6e93405da0edb62bee1feb13afc
+SHA256: 96479088f4db766530bf4a3d85e468340840a95027e2d637a65114e19a66d25d
+SHA512: f7b2f1e0e679687e1e1e7f661678fa443d3849b0cbbe99538f8db750700ce2f92726bc6c1d107d33b1d3afc05797ee4c4d0a26afe0b33507dded0b2f1184be1d
+Description: Một tinh chỉnh dịch thuật tốt nhất hiện tại.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo Việt Hoá
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.tranzlo
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupportjailbreak.dcsyhi.fuji
 Architecture: iphoneos-arm
 Version: 1.0.1

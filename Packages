@@ -4616,6 +4616,44 @@ Name: Time Việt Hoá
 Author: NaneraManu
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.miro.libmiro
+Architecture: iphoneos-arm
+Version: 1.0.17
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1676
+Depends: firmware (>=12.0), com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.miro.libmiro_1.0.17_iphoneos-arm.deb
+Size: 258214
+MD5sum: 4692118e8058b83aaa686e51b5c606a0
+SHA1: deedb9af83d7d49000dc2542f590cef988aba734
+SHA256: 1f17ddc057de732c4304c271a4831a1b83cf2bea9661e2c1491010471b7eba9f
+SHA512: 394f2b3aa5be7456f2f53e0770afef52534c50dff3c8bed362981cb7f3ac17672904ae0e92567233baadef1e8092c673151616502de046582ee6bfcb64bc681a
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios12, compatible_max::ios14
+Name: libMiRO
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.libmiroprefs
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2536
+Depends: firmware (>=12.0)
+Filename: ./debfiles/com.miro.libmiroprefs_1.0.4_iphoneos-arm.deb
+Size: 563662
+MD5sum: 3828f36fc74c435e3618c6d8d9db9bb3
+SHA1: c848f60572bfe527b4da648cb60b92da5cb24f72
+SHA256: a7d4ddcd6a27a9e127795d6fad47d536eb5ef7a2cffc1e281f10300f68768dbe
+SHA512: 5ca8b40d39587e8bf2cefeb517c6edafbcf04c4d53aab679c6003e45714eeb4da6d92a0622965c721c995355220bbcc2c7b95ee79b72bac019f2250554b01796
+Description: Shared library for my tweaks' preferences.
+Tag: role::developer, compatible_min::ios12, compatible_max::ios14
+Name: libMiROPrefs
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroprefs
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.rpgfarm.libapappview
 Architecture: iphoneos-arm
 Version: 1.0

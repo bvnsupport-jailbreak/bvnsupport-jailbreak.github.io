@@ -2269,6 +2269,26 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.no2theft4
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2592
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debfiles/com.BIENVANNHAT.no2theft4_1.3_iphoneos-arm.deb
+Size: 1254712
+MD5sum: cafd8ff621d8f9d26a205074e7e2d3f0
+SHA1: ebda7fa6d1c3b2b37fa12a01f652c1784e8ad5da
+SHA256: 4aedd804d2423e231bd6a3e5f779c425dda7ea3953701e419f8fb0c9fe6f764d
+SHA512: f6786e2bd238d05bc033d66c1848ce744705d9b675ff1ddae27b5471c02d976e920659145977d7065c42fb08ddc376a134885ae837e40d484e697d278d778fb9
+Description: Bảo vệ thiết bị của bạn tốt hơn!
+Name: No2Theft4 Việt Hoá
+Author: elias
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.no2theft4
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.no2theft4
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.noadsocial
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -6223,26 +6243,6 @@ SHA512: f249bcd50ea878366f92e9bd8087ffa0a8f0477515070fe512c3e51140e0b554f9f3fab0
 Description: Trình quản lý dữ liệu sao chép & cắt cho iOS.
 Name: CopyLog Crack
 Author: TomT000
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: org.mr.no2theft4
-Architecture: iphoneos-arm
-Version: 1.2cr
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 2592
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debfiles/org.mr.no2theft4_1.2cr_iphoneos-arm.deb
-Size: 1307936
-MD5sum: 3e4e29892d487e600d6501d68dbdd574
-SHA1: f7f1142a441b14842b10a53afd98fe8b1530d049
-SHA256: 93105b0412afcc33460fe78535888efc513c5bf861670239ea21c469a3485f71
-SHA512: ddd3ce60a1e0893ca949840e0bed7eb42ee179cc4f4bd4f538d2342c0b9cf93bc81bcfc312fedf531ff8955910738bd6cc51bb6a4d13ccfe5fec19c0716eb982
-Description: Tinh chỉnh hoàn chỉnh nhất chống lại những kẻ chơi khăm, những kẻ tọc mạch khó chịu và những tên trộm.
-Name: No2Theft4 Việt Hoá
-Author: elias
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=org.mr.no2theft4
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=org.mr.no2theft4
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: plutil

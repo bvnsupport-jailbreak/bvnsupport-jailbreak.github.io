@@ -1,7 +1,7 @@
 <package>
-	<id> org.mr.no2theft4</id>
+	<id> com.BIENVANNHAT.no2theft4</id>
 	<name>Biện Văn Nhật</name>
-	<version>1.2cr</version>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12</miniOS>
@@ -19,7 +19,7 @@ Vị trí thiết bị rất chính xác, chính xác như google, trên thực 
 </description>
 	</descriptionlist>
 	<changelog>
-		<change>Phiên bản 1.2 * Sửa lỗi cài đặt cho một số người dùng</change>
+		<change>Phiên bản 1.3* Sửa lỗi cài đặt cho một số người dùng</change>
 	</changelog>
 	<links></links>
 </package>

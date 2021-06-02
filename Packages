@@ -1401,6 +1401,24 @@ Name: FastUp Việt Hoá
 Author: mostafa89
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.fbads
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Block Ads Facebook
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.fbads_1.0.0_iphoneos-arm.deb
+Size: 11950
+MD5sum: bfcb4ad9887041a9bbe1e5d8ae3924bd
+SHA1: 8bcb6e43ef6b6e66301538b67f2108e2ed0545b8
+SHA256: 10d5085a32e6fe0144b98d258154c115c1272174846fe276181e33d201cd8525
+SHA512: e18fd31f8f97fb9714190204a2af8c2adebefe6dab00876005419d2a19f2b13d1dba29e7970dffdbe5777153b5052aac50bac7dd789ed2d5b2a79df477d730c9
+Description: Xoá tất cả mọi quảng cáo Facebook
+Name: Chặn Quảng Cáo Facebook
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fbads
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fbads
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.filzacompiler
 Architecture: iphoneos-arm
 Version: 0.2

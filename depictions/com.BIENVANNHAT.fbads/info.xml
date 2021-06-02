@@ -1,0 +1,25 @@
+<package>
+	<id> com.BIENVANNHAT.fbads</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+                         <maxiOS>16</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tương thích với Thiết bị iOS 11-14 và arm64e (A12-14) và Phiên bản Facebook cuối cùng.
+</description>
+		<description>Chặn Quảng cáo Facebook là một Tinh chỉnh nhỏ giúp vô hiệu hóa các bài đăng gây phiền nhiễu được tài trợ vào Ứng dụng Facebook!</description>
+		<description> Thật vậy, Tinh chỉnh Vô hiệu hóa QUẢNG CÁO cả bên trong Bảng tin và Chế độ xem Câu chuyện!</description>
+		<description>Tinh chỉnh không có cấu hình trong cài đặt,cài xong Auto xoá quảng cáo😄</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>
+	

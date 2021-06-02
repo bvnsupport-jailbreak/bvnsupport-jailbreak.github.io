@@ -1263,16 +1263,16 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm
 Version: 1.4.1
-Section: Tweaks
+Section: Block Ads Facebook
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 584
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
 Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.4.1_iphoneos-arm.deb
-Size: 270690
-MD5sum: 6d3ec7ccf9bda873c49664bd1c444141
-SHA1: 3a8d2c8a65ecde0208cc931bee8b06d408cd4001
-SHA256: 0dba0f6ec5067116220e8c607f124f35a0cd275ef585606ad351cd420a7d8872
-SHA512: 9621f302dc5335937c1dcd3f7829fd78676da127385b5a71ed144a47b42188bd4a23954435358f7a22d4b2ec1f2ca48803629e89aa6406c954c3786841607e63
+Size: 270700
+MD5sum: 23c78a32d05e8e9426b79cfb0d05692d
+SHA1: 7c22bb1fd314a83c03b4409ac2c5cb3047506f24
+SHA256: 5b2074cfb531c0b3003efb6474665efdbe85684b590953f9acf957b480dd1b98
+SHA512: cc50d0ab1e0e25c70240fd88dea375e8cade027f4654decd90a8fb785899450535d4b9f28ecfabddfcd37725fbac4c63272544eb6c4c41bb7948a7dd7f45b304
 Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
  Tính Năng:
  - Loại bỏ các quảng cáo

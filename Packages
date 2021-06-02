@@ -1344,6 +1344,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fa
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fakeios14
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.BIENVANNHAT.fakeios14
+Architecture: iphoneos-arm
+Version: 14.7~beta
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Depends: mobilesubstrate, firmware (>=10.0)
+Filename: ./debfiles/com.BIENVANNHAT.fakeios14_14.7~beta_iphoneos-arm.deb
+Size: 1740
+MD5sum: faadc89b65e621635b1668b716183c01
+SHA1: de66abd128d7ade5d08591dd570f41f837c05673
+SHA256: 18906e1d70f86980311dde8336421745f951c0ddbc02b0bddb87642cea845fbb
+SHA512: 1a95b3790155eea857ccea0203a877dff0ac8c4a4a438a35ad66259d3e478abd464773af6f32003cac1d462878d64f2cb86fe52d395b60fd711fcef2c799e520
+Description: Fake Ios 14.7(beta) cho anh ghép sim,sau khi cài xong bạn tiến hành ghép sim và Active ICCID,sau khi làm xong bạn bạn vào lại Cydia và xoá Tweak Fake Ios.Done
+Name: Fake Ios 14.7(Beta)
+Author: BIỆN VĂN NHẬT
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fakeios14
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fakeios14
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BIENVANNHAT.fast-ls14
 Architecture: iphoneos-arm
 Version: 4.0-1

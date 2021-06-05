@@ -3151,24 +3151,6 @@ Name: Spotify Premium
 Author: julioverne
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.spotilifefix
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 140
-Depends: com.BIENVANNHAT.spotilife
-Filename: ./debfiles/com.BIENVANNHAT.spotilifefix_1.0.1_iphoneos-arm.deb
-Size: 6574
-MD5sum: d6f8f2393fb014e1aecc6fd48eca7eb1
-SHA1: e4b91eda27359ff60feea5842194d3d80626d6a4
-SHA256: 739d7f34b0d0390039651e783d594cea4be5d3225e3b036814bfd5cd4c6a905c
-SHA512: 5d4b1fdc2dfc3d676c298162ca2a85deda4a174a5b82d4bd531466528de71d8e60381b80111ebbb4309be9a0db9d376240ff111ce90c96267c8b9e506bf5d53e
-Description: Sửa Spotilife nếu không hoạt động trên phiên bản mới nhất.
-Name: SpotilifeFix VH
-Author: Ginsu
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.strangerwp
 Architecture: iphoneos-arm
 Version: 1.0

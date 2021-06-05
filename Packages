@@ -2658,11 +2658,11 @@ Installed-Size: 492
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
 Conflicts: me.nepeta.relocate
 Filename: ./debfiles/com.BIENVANNHAT.relocateRebon_2.1_iphoneos-arm.deb
-Size: 118684
-MD5sum: 5edf942a74f5d29a1bf1a52f87be19c9
-SHA1: d3948516e649162d9ce3169fd525126c7f57630c
-SHA256: 0ffc3265e5c5e868ea196bb03b8189578d139efa7871265b1fa15432e892ae8e
-SHA512: 9be1b16ceffd662464998db9300aa72c0563e7c51d66ba31ca8355df27cdb9ff37918fdc38b7134c3e46ead419fa64309d428a3470252f1fa8cf859e494e3d6d
+Size: 118718
+MD5sum: 463db46908f445551ad0298713c48b0c
+SHA1: 26a60fce014a7cbf0072d9daaf08f6176bb92caf
+SHA256: e179a95886e0dc7b8a4049aa03a4f0e6d6df2068b6249cc4041cdb6c79478f9f
+SHA512: c4315cb450caf67db5486844b9eff108aab56ec2a13b9ce121ffc4961566ab272811c42ba5204cddddfd7cfc65cb5ee29fdc1253e3e84ab4c3088f5b45335706
 Description: Giả mạo vị trí của bạn ở bất cứ đâu
 Name: Relocate Reborn VH
 Author: Nepeta

@@ -18,6 +18,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1o
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1one
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.1one
+Architecture: iphoneos-arm
+Version: 1.1.2R
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 5860
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.0), com.muirey03.libimagepicker
+Filename: ./debfiles/com.BIENVANNHAT.1one_1.1.2R_iphoneos-arm.deb
+Size: 3428768
+MD5sum: 877922d65aaef120255b1ad5ca30dadd
+SHA1: acb93189cf94e3979605a92e135a6cb6900c7965
+SHA256: d86d05aa125e31e35b88cd9bf21ff4ced5b1181d697b62d745ecfc9a7842b88a
+SHA512: 2c8253ecb6d9981480a23a07f65246725ccfd05a0a636c37baf818fbe19e256b212f476d922c3d2ccda579ceeadcdf701a3116597f1f3b763c634366bdc448d6
+Description: Cấu hình mọi thứ trên thiết bị của bạn.
+Name: 1ONE Việt Hoá
+Author: mostafa89
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1one
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1one
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.2thanhdock
 Architecture: iphoneos-arm
 Version: 1.0-beta1

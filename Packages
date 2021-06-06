@@ -2326,6 +2326,27 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.neonboard
+Architecture: iphoneos-arm
+Version: 1.0.13
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2452
+Provides: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Replaces: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Filename: ./debfiles/com.BIENVANNHAT.neonboard_1.0.13_iphoneos-arm.deb
+Size: 425758
+MD5sum: 9926da0099ac625b5225af2fb85069c1
+SHA1: 8cc31c1b1ff7c2a1d3fd6f2d53502707c476a5a3
+SHA256: f7bfe330426ae93ea9a00826cadbdbf54881f47152560b52c3794c354f0c807b
+SHA512: 69838fdabde4e4463e64e6b47704d1a4fd51062730dacedf952eb6bf34af18ded9744b1fadafc899e17e5f95d4421fa40bc8f7b1da7a9185e7b592cd110daaad
+Description: Công cụ chủ đề nhẹ nhàng đầy đủ tính năng dành cho iOS 7-14.
+Name: NeonBoard Việt Hoá
+Author: ArtikusHG
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.no2theft4
 Architecture: iphoneos-arm
 Version: 1.3

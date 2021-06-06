@@ -3545,6 +3545,25 @@ Name: Veza (11-14) VH
 Author: ApexTweaks
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNNHAT.tranzlomodules
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2408
+Depends: firmware (>=12.0), mobilesubstrate, ws.hbang.common (>= 1.11), com.opa334.ccsupport, com.miro.tranzlo (>=2.4)
+Filename: ./debfiles/com.BIENVANNNHAT.tranzlomodules_1.0_iphoneos-arm.deb
+Size: 347700
+MD5sum: fe0fbced73ba2b87ee7f759089688941
+SHA1: ddfe1196346cb47695624e6a33b8fdb7a313b1f0
+SHA256: 105140e649637f2ef4255e4f10a49105fc7472eda4f4069e5f25aabf35e664c6
+SHA512: 21fee2ef47985ba8d9dbd19b9653372afb4da385b4f134cc78260c4b2c018fe98b6d8de49ebfc214157df74e46041f39b6a2f97535edd4963cab94e03473eefc
+Description: Mô-đun CC cho Tranzlo
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Name: TranzloModules VH
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BVNsupport-ytbhd.ytuhd
 Architecture: iphoneos-arm
 Version: 0.0.3.6

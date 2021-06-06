@@ -2838,6 +2838,28 @@ Name: Shuffle Việt Hoá
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.shuffle
+Architecture: iphoneos-arm
+Version: 1.5.2R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2324
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debfiles/com.BIENVANNHAT.shuffle_1.5.2R_iphoneos-arm.deb
+Size: 557486
+MD5sum: 050b60a9c891a5141c96df9a3a0ea311
+SHA1: 0e8c14c93c72bcdf7fd0f4c93c9027fa162125e8
+SHA256: 8d19b715a3f9ba30923b881d4cebafea03c185c8462aff9326801b906c4ef197
+SHA512: 8d6cf302e36be0c052a5e856b0f8d8488f393a168c5de671f9de8b392e7c4fe408c0bd580377a46a303cbf4eb9c4ecc0d6fbe9f261755e02bc1eaa7ee0b31c87
+Description: Phân chia các mục trong Cài đặt của bạn!Hỗ trợ ios 10 tới ios 14.9
+Tag: purpose::extension, compatible_min::ios10
+Name: Shuffle Việt Hoá
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.sixls
 Architecture: iphoneos-arm
 Version: 1.1

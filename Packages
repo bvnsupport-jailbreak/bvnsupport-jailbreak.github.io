@@ -3582,6 +3582,24 @@ Name: Windows 10
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JunesiPhone <junesgraphics@gmail.com>
 
+Package: com.BIENVANNHAT.youtubepatcher
+Architecture: iphoneos-arm
+Version: 0.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.youtubepatcher_0.3_iphoneos-arm.deb
+Size: 5108
+MD5sum: cdbba004bb17b9232fc2a7ecd5c592ca
+SHA1: 036f1f67d28f6988a8f8614cd310074bcfc78bda
+SHA256: 5d2e9f697d927035ce3f07093eec0b51fb1047f5024f4e2b46c41e649c093e6e
+SHA512: f39334fb4d854a8b5a57e17eb00780ca0ba77fd3db6bb378a7ef4085932d420c00ed18a711e0d8aa5b2afde481d3cedf51a52c9a3867ce80b515f78c9d356cbc
+Description: Chặn quảng cáo Youtube&phát lại nền.Hỗ trợ ios 10=>14.7&Youtube Phiên bản mới nhất
+Name: YouTubePatcher VH
+Author: ichitaso
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAY.vezaIos14
 Architecture: iphoneos-arm
 Version: 0.2-beta
@@ -5993,6 +6011,25 @@ Description: Control Center gần như là giao diện bạn sẽ sử dụng đ
 Name: PowerSelector (iOS 11 to 14)
 Author: ichitaso <ps11@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienich1.png
+
+Package: com.supportjailbreak.powerselectorios11to14
+Architecture: iphoneos-arm
+Version: 1.3.3
+Section: Utilities
+Maintainer: Biện Văn Nhật
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.supportjb.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debfiles/com.supportjailbreak.powerselectorios11to14_1.3.3_iphoneos-arm.deb
+Size: 386486
+MD5sum: 5c3cd924f9ca8041d57475f7794b3d03
+SHA1: 666b6f2a0a83df3b5df21e841298eb10d09d657e
+SHA256: cd2cc42235d7d120cd104290e3cdd008e9bb6d2979a7f8cc658eae14b0096c24
+SHA512: 023d1e36020595289ceb9dda26e3cad9b726ec2a8a9c53da26f90b4fe708a7db5d450ef6e6f5b827b6c79083fcf4f079d6f0ea6f050b97ca2ce4e9c37d5e7651
+Description: Control Center gần như là giao diện bạn sẽ sử dụng đến rất nhiều, việc thêm các tuỳ chọn dưới đây thông qua PowerSelector giúp bạn có thêm một số chức năng hữu ích.
+Name: PowerSelector (iOS 11 to 14)
+Author: ichitaso <ps11@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.pulloverprovitho
 Architecture: iphoneos-arm

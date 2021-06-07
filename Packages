@@ -399,6 +399,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.a-
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.a-font
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.adgpro
+Architecture: iphoneos-arm
+Version: 0.0.1-3R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 114
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.adgpro_0.0.1-3R_iphoneos-arm.deb
+Size: 5178
+MD5sum: 04b728c38802c1a5c436a4ace790f1c3
+SHA1: c9f703ea6a13b8ead650126ba1071fb3fbae929a
+SHA256: 84e43eb57c11711cf7e576e583bcb2b90cf96491daad65442f477d5dc58de737
+SHA512: 00b9d452797258f2216c882cfc7c4531dacde6dc28e9a3a1753544746f4610d91ce03e299cef6b833ea246310e11066117aff346414e271ecb434a220501fd54
+Description: AdGuard hack lên phiên bản Pro.Hỗ trợ ios 10-14.7
+Name: AdGuard Pro Hack
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: md.furman
+
 Package: com.BIENVANNHAT.afakerx
 Architecture: iphoneos-arm
 Version: 2.0-4

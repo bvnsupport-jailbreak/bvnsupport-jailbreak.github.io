@@ -131,6 +131,25 @@ Name: FB NoAds
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JacobCXDev <jacobcxdev@gmail.com>
 
+Package: com.BIENVANNHAT.FlyJB
+Architecture: iphoneos-arm
+Version: 1.2.6R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1580
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Filename: ./debfiles/com.BIENVANNHAT.FlyJB_1.2.6R_iphoneos-arm.deb
+Size: 768514
+MD5sum: 8b5c076157d21e4b252d38ce42604177
+SHA1: 1e10bfdca5cf974fbcd0ae29d54b0bfa74c46240
+SHA256: e90b13287459f0db3370cb26c8443c589f80b86e318ff2df664916844ae00118
+SHA512: 2795f3f57c31954082ffec6a87bc21da2aabc6c524c948f33f95b70b544145e654404e8270017553ff3918781affa18450bf9c337ea9bf8987d747cd7c72d071
+Description: Chặn kiểm tra Jailbreak cho iPhone của bạn.Theo nhà phát triển thì tinh chỉnh này bỏ chặn phát hiện Jailbreak cho một số ứng dụng tại Hàn Quốc và không biết liệu nó có hỗ trợ cho những ứng dụng ở các nước khác không? Chẳng biết nữa, anh em cấu hình tại Cài đặt rồi chọn ứng dụng cần bỏ chặn xem ra gì không?Hỗ trợ Ios 11 tới Ios 14.7
+Name: FlyJB X Việt Hoá
+Author: XsF1re
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.Key+
 Architecture: iphoneos-arm
 Version: 1.0.2-1

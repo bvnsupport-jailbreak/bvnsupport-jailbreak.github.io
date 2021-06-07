@@ -1740,6 +1740,24 @@ Name: IconCert14 Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.iosgodsiapcracker
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.iosgodsiapcracker_1.0.3_iphoneos-arm.deb
+Size: 17904
+MD5sum: 16fb59d396a88230414331dab87aa57e
+SHA1: 16ef052ad42a303baade5801145474039efbafc9
+SHA256: 19f301701d94e1cd26c5ea17eed141b81ef97e45455aedfbf6953714ef592314
+SHA512: 7467ddf2e4e1a6057baa0007fba5d707a789b2a5f4bfb9bd8c586077bb60b759a236d5b7fef7b6aab03305c81b3063cad97d7e2e97b30bc4157eaf1cb8266eaf
+Description: Cài xong tweak rồi vào Setting đi đến ioSGods iAP Cracker và bật lên Vào ứng dụng cần mua In-App và ấn mua hàng, khi hiện thông báo thanh toán thì bạn ấn huỷ là được.Hỗ trợ Ios 8 tới 14.7
+Name: iOSGods iAP Cracker
+Author: Laxus
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.jellylockreborn
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3508,6 +3526,24 @@ Description: Thêm nhiều hình nền mặc định!
 Name: Wallpaperloader VH
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Skitty
+
+Package: com.BIENVANNHAT.wifikey
+Architecture: iphoneos-arm
+Version: 1.9
+Section: Utilities
+Maintainer: Biện Văn Nhật
+Installed-Size: 184
+Filename: ./debfiles/com.BIENVANNHAT.wifikey_1.9_iphoneos-arm.deb
+Size: 35876
+MD5sum: 0674b53d3e36d23f1030abb09b2b6497
+SHA1: 352312cf338a84e157f8b20dac518527d981ffdc
+SHA256: 779e0a3f17ca9ac9e20faf8dde48b99da9adab91469345a9e4c6044a33d62d09
+SHA512: f46330775d83c6f54a8a61f51dbd587285b9dfb484b6d91848f2ac5334b3a36deda0aebc5ab55e205aa0aee054aad515fda069bc53418558df6c8673b331ea07
+Description: Xem lại các mật khẩu Wifi đã kết nối
+Tag: purpose::extension
+Name: WiFi Key VH
+Author: fahlnbg
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.win10fp
 Architecture: iphoneos-arm
@@ -6023,6 +6059,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbre
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.safariplusVN
 Sponsor: BVN <https://bvnsupport-jailbreak.github.io>
 dev: opa334
+
+Package: com.supportjailbreak.safariplusVN
+Architecture: iphoneos-arm
+Version: 1.7.17-3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 5430
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>= 1.1) | firmware (<< 14.9)
+Filename: ./debfiles/com.supportjailbreak.safariplusVN_1.7.17-3_iphoneos-arm.deb
+Size: 2010416
+MD5sum: 438c7b67bad2d55b9b5ef67450316a4f
+SHA1: e9407cd83e0d785aaef2146c289bf41aefa432d3
+SHA256: 93d385cbd25126b1963972eb03ee9a93aaf0517967dde5a4948b289e753e7bae
+SHA512: 322d074db1b23baf8bb0492eddae935c982e9c6705d274ec5a550d4436b4d1ea4c2c79a297b06401cf4691150c0485f87f4129abbe2d55a797cd7b0ae8c8625b
+Homepage: https://opa334.github.io/
+Description: Thêm tinh chỉnh cho Safari
+Name: Safari Plus Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.safariplusVN
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.supportjailbreak.safariplusVN
+Author: opa334 <opa334@protonmail.com>
 
 Package: com.supportjailbreak.safariwallpapervitho
 Architecture: iphoneos-arm

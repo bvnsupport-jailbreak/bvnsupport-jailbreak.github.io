@@ -3556,12 +3556,12 @@ Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | 
 Conflicts: preferenceloader, com.artikus.preferenceloader
 Replaces: preferenceloader, com.artikus.preferenceloader
 Filename: ./debfiles/com.BIENVANNNHAT.preferred_1.0.3_iphoneos-arm.deb
-Size: 92098
-MD5sum: 6ab9e56ab1804f34e2a79ca2099e7f3d
-SHA1: 2511048449eae7f7848fb28195781bba7b7e279a
-SHA256: 1e344b7e7bfb3e453515229748771afeea8887c495578f455673028e98f81db0
-SHA512: 1458bae1903238c08077c070969346e93cbadccbb0842eaf2f86180cebbdc1cb2906f754f2d9f6e6d7d54ee5fdf20c50793cf5af0771da444994d5d9bc249a4a
-Description: a modern preference bundle loader
+Size: 92302
+MD5sum: c8e4c6904c98079e1502bcaebd1e56eb
+SHA1: d5ddc16b83e9ce11b2c7afe8ffb79d93b41fddbf
+SHA256: 14bc33c2996a458c66bbda097494ecf59ed9d353b85d7656c733f7cdbb1a4643
+SHA512: e0d9bbcfd8ff5fb6bac035bfcb600aa45dd46f0e99ad5a4d6776d8c8e6080559e88bcef60fd022221af99a2cc4285268f1c402fecdd0772d57bdcd12aa0987a1
+Description: Preferred cho phép tải các gói PreferenceLoader trong ứng dụng Cài đặt , cũng như bao gồm một miếng đệm để cung cấp chức năng libprefs . Gói này cung cấp khả năng xử lý lỗi được cải thiện và cải thiện tốc độ so với PreferenceLoader ,Không có cài đặt nào để định cấu hình .
 Tag: role::hacker, purpose::library, compatible_min::iOS8
 Name: preferred
 Author: CreatureSurvive <support@creaturecoding.com>

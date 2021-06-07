@@ -417,6 +417,24 @@ Name: AdGuard Pro Hack
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: md.furman
 
+Package: com.BIENVANNHAT.adgpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: stem grade
+Installed-Size: 624
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.adgpro_1.0_iphoneos-arm.deb
+Size: 150678
+MD5sum: 3d5e17d3cd6e3fb2347eb635fdb6a6f2
+SHA1: 013fb797f48705c30521d13fb8ddb3e0fab6d9b3
+SHA256: a5b3222d0be0371e5f40a64c996e5445b5f88cb4dbdbf8222501270fe5f1b334
+SHA512: 2398da6b97332a06a3d42f75e76b2623f282827a074fde716a032a6622fc53791efbb874cf920042bd635f3a825104ff7869fa99c5e3db46525d754cff20ebb8
+Description: AdGuard hack lên phiên bản Pro.Hỗ trợ ios 10-14.7
+Name: Adguard Pro VH
+Author: stem grade
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.afakerx
 Architecture: iphoneos-arm
 Version: 2.0-4

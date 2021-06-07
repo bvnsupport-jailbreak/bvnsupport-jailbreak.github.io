@@ -3545,6 +3545,29 @@ Name: Veza (11-14) VH
 Author: ApexTweaks
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNNHAT.preferred
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 756
+Provides: preferenceloader (= 3.0.3), com.artikus.preferenceloader
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Conflicts: preferenceloader, com.artikus.preferenceloader
+Replaces: preferenceloader, com.artikus.preferenceloader
+Filename: ./debfiles/com.BIENVANNNHAT.preferred_1.0.3_iphoneos-arm.deb
+Size: 92098
+MD5sum: 6ab9e56ab1804f34e2a79ca2099e7f3d
+SHA1: 2511048449eae7f7848fb28195781bba7b7e279a
+SHA256: 1e344b7e7bfb3e453515229748771afeea8887c495578f455673028e98f81db0
+SHA512: 1458bae1903238c08077c070969346e93cbadccbb0842eaf2f86180cebbdc1cb2906f754f2d9f6e6d7d54ee5fdf20c50793cf5af0771da444994d5d9bc249a4a
+Description: a modern preference bundle loader
+Tag: role::hacker, purpose::library, compatible_min::iOS8
+Name: preferred
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+dev: CreatureSurvive
+
 Package: com.BIENVANNNHAT.tranzlomodules
 Architecture: iphoneos-arm
 Version: 1.0

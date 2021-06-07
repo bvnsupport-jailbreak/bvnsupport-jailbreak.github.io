@@ -3510,6 +3510,27 @@ Name:  Cleaner PRO VH
 Author: Önder Azazi <onderazazi@hotmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.tweaksettings
+Architecture: iphoneos-arm
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1328
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debfiles/com.BIENVANNHAT.tweaksettings_1.0.4_iphoneos-arm.deb
+Size: 595796
+MD5sum: 8461712a46a1078f15a3f3aa4c301b4e
+SHA1: f08586c1bac673204263e6839702303a4fe806a5
+SHA256: d18949de31f7098ea2907944a5237f2ccdc28299334ba33535704b98a77714b8
+SHA512: 137600040c15ebe02907040372ddc0d064f86b4a6129c7d5576c93a31549aabe755659fdffcffcf5074a51dbb74e390902f40e45099f0be388a0965ba4dd1edc
+Description: Ứng dụng cài đặt chuyên dụng để chỉnh sửa.Hỗ trợ ios 10-14.7
+Tag: purpose::application, compatible_min::ios10
+Name: TweakSettings VH
+Author: CreatureSurvive <support@creaturecoding.com>
+dev: CreatureSurvive
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.u0smscompletefix
 Architecture: iphoneos-arm
 Version: 1.0.1

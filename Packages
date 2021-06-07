@@ -4813,6 +4813,25 @@ Name: libMiROPrefs
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroprefs
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.miro.libmiroprefs
+Architecture: iphoneos-arm
+Version: 1.0.6R
+Section: Development
+Maintainer: Biện Văn Nhật
+Installed-Size: 1348
+Depends: firmware (>=12.0)
+Filename: ./debfiles/com.miro.libmiroprefs_1.0.6R_iphoneos-arm.deb
+Size: 485078
+MD5sum: 1b5f9b54e86d212d8ce9fceaa85f85e6
+SHA1: 20ad997cd4a7bb9dbdd48fde483f70929e2ae2e5
+SHA256: 1071b5506cd6cb837ace1b578c64e2aea8fd5368d5f5d19c54ac4a11c9dc5684
+SHA512: 0f6a50c79b2c7c76af68cec1da284d6d1e4e3c44143e9813812c13676464db84a7effcd6d7158e875a0c3c157d0deba8ac430df58f3f3fbf3dc4059c9d85feea
+Description: Thư viện được chia sẻ cho các tùy chọn chỉnh sửa của tôi.
+Tag: role::developer, compatible_min::ios12, compatible_max::ios14
+Name: libMiROPrefs
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroprefs
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.miro.tranzlo
 Architecture: iphoneos-arm
 Version: 3.1

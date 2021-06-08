@@ -2220,6 +2220,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.mbbank
 Architecture: iphoneos-arm
+Version: 1.2.3R
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 644
+Depends: mobilesubstrate, com.BIENVANNHAT.FlyJB
+Filename: ./debfiles/com.BIENVANNHAT.mbbank_1.2.3R_iphoneos-arm.deb
+Size: 258402
+MD5sum: ba6062593166ebe7e9f4010721c0c3f7
+SHA1: 06c55e892d7043294034daab430d5474d7d637c2
+SHA256: 717a09fa8074b4a51077ea5b76234aa346a1d035affd3e30af58818e088a5a5f
+SHA512: 88f1d9da5cb5039575ab5013143d5f13e133ae6be3fca160655884f88cb2b1b4d41c13e1dd747ad89dde45a9ca1fb6f0244e8d616c1da494d4f1f8fb83161567
+Homepage: https://www.facebook.com/SUPPORT.BVN.VN
+Description: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank,sau khi cài xong nó sẽ đi kèm Tweaks FlyJb X anh em vào Tweak đó bật lên và chọn vào "Danh sách Bypass" bật ứng dụng MBbank lên nhé.Chúc các bạn thành công😋
+Name: HideJB MBBANK
+Author: IPALibrary
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.mbbank
+Architecture: iphoneos-arm
 Version: 1.2.3
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT

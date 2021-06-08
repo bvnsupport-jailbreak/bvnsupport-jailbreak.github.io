@@ -825,6 +825,23 @@ Name: BackupAZ 4 (iOS 13 - 14)VH
 Author: SynnyG
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.backupaz4
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 13.0), coreutils-bin, dpkg, shell-cmds
+Filename: ./debfiles/com.BIENVANNHAT.backupaz4_1.2_iphoneos-arm.deb
+Size: 12951254
+MD5sum: 9bcec73de945ea56e6301eb0e1a8d637
+SHA1: caec116ac9ab76270c95f0784c6791256a76647c
+SHA256: 7f39f04063cc9cfdc394804498bea17d109e542e2d5547f0ba1ea6326a2572cd
+SHA512: d814017f0690e18c157466f308a950393ffd57b3cf6b439d6e9b2bd802747b87d687c13dd39e1334e7e89c9ba269af2d0e2c9cd9ed3be6a781571f95f48de3cf
+Description: Trình sao lưu tốt nhất cho thiết bị của bạn.
+Name: BackupAZ 4 (iOS 13 - 14)VH
+Author: SynnyG
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.bakgrunnur
 Architecture: iphoneos-arm
 Version: 1.6.6

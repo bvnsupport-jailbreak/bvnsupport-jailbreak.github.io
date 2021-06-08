@@ -1113,6 +1113,24 @@ Name: Diary Việt Hoá
 Author: Litten
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.diary
+Architecture: iphoneos-arm
+Version: 1.1R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 7008
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.diary_1.1R_iphoneos-arm.deb
+Size: 3377636
+MD5sum: fb105069c8fe8b63c6a5d48231690320
+SHA1: ea445366e15148ea27604e082c9be8c1408dae8c
+SHA256: 4afd0b0013ef866b6b63710dc4c73cb1ec60114fb2194303216747c5fcbb70c4
+SHA512: 599c9771a427f9965d9f4406fc4cf41bdd4941691ade69d0a6e36ab718fb4ad7449824e6d01a82de8482ea38ec6e4ecf9cbb0dcd07c920af8b14289a4a7a834d
+Description: Màn hình khoá theo kiểu Windows 10.Update Fix lỗi Respring
+Name: Diary Việt Hoá
+Author: Litten
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.dimentio
 Architecture: iphoneos-arm
 Version: 2.0.2

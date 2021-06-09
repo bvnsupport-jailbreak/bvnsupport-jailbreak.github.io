@@ -1137,14 +1137,14 @@ Version: 1.2
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 5480
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.BIENVANNHAT.libgcuniversal, com.peterdev.libpddokdo
 Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi
 Filename: ./debfiles/com.BIENVANNHAT.diary_1.2_iphoneos-arm.deb
-Size: 15157462
-MD5sum: 1d0aac55903dd44f8c601254f823c07f
-SHA1: 5b76862357bcdadcd7405083f3228ee230b70353
-SHA256: 76e7278d7613b772189d9a6731784357c6abec07cdaf83256561116746ac502f
-SHA512: 1492917da8332ae882b9bc1675a1aaa24bd33a2b8312eee6d40ce5b3a10bf73c4c7289597a9a34848f8f44446fa74fece865e076cc92a6ccfcd2d36293be7459
+Size: 15157464
+MD5sum: d3dc6d136f2b69303a6a748beeabf316
+SHA1: 26257df06977a89ed5a693a856cf89948086eb00
+SHA256: 489a957cf2e54be3463fb6c5b773bd10c39b9e48694ffdd00fab88f88bc77d32
+SHA512: eeaf5187a5deb13d794bd4c949fbb675d8f1b93690fc070a2a19c521dbd2a55444f0030b4f6dcb79e045f19503c9bc53bcd8f76802f3f4072075ede860243a49
 Description: Màn hình khoá theo kiểu Windows 10.Update Fix lỗi Respring
 Name: Diary Việt Hoá
 Author: Litten

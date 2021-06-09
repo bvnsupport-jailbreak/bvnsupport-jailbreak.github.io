@@ -386,11 +386,11 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.BIENVANNHAT.Wifi_1.0~Beta_iphoneos-arm.deb
-Size: 42536
-MD5sum: 919c459dae5541ba3bb9e47c89c5dcf1
-SHA1: 7d7171a315c722d0e02ad2b6db57a70b6267a316
-SHA256: dd087cecb8f4aa8c799c803a127faf4de93c4b6ff1f2d646f015f324b4fabec1
-SHA512: aca3da310e206db624c51457bfef8eeac2c4bfc351cb4c10451dc0be49f097eed9e255cb8dee21ea299d76014fa03557ed2f7fb803eeb2c9db2731fa8ec4d373
+Size: 42534
+MD5sum: f4984866c41373782b449bd079845694
+SHA1: 974f0c841374da4fec97622ed332495e71b3292c
+SHA256: ad283aa1095e690c4887ee462306c377975a51d0b8a818c7a2d593f950ab0d62
+SHA512: 1c76bd6e502794d8c1e4cc11e23e20305289dc3bcff34f5ea8ea4acc52a53f378bbb7c110879f183458a285784a91c7b09f26fcb66d8aaf34f08a20bef501765
 Description: Luôn kết nối WIFI,hỗ trợ Ios 11 đến Ios 14.7
 Name: Luôn kết nối WiFi
 Author: Biện Văn Nhật

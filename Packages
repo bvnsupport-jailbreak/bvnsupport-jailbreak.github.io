@@ -4906,7 +4906,7 @@ Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.ex.substitute
 Architecture: iphoneos-arm
-Version: 2.1.0R
+Version: 2.1.1
 Priority: optional
 Section: System
 Maintainer: Sam Bingner
@@ -4917,12 +4917,12 @@ Depends: firmware (>= 8.0), cy+cpu.arm64, com.saurik.substrate.safemode (>=0.9.6
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, science.xnu.substitute, mobilesubstrate, ws.hbang.stopcrashingpls (<<1.0.2)
 Breaks: com.saurik.substrate.safemode (<<0.9.6004)
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
-Filename: ./debfiles/com.ex.substitute_2.1.0R_iphoneos-arm.deb
-Size: 11105480
-MD5sum: 3e923a178c43d433569ad73ddb509480
-SHA1: 0deac7c512ed0aa737ee766766ff9deb00578188
-SHA256: 48e54cd36e8a611e275edd9ac804ecf9cbcfd52b0958100ee5584cd2758f5ff6
-SHA512: 151288b62ddbb7781754058bc52bda6db4373274d6d263a43fab47f6dfc44c9568f3aa58dc6776675fa2af9bcee47f54dc1e877d0daecd168934368bdbac07c7
+Filename: ./debfiles/com.ex.substitute_2.1.1_iphoneos-arm.deb
+Size: 11105474
+MD5sum: a0a800d41e2506106a9379ec4b54a0f9
+SHA1: fddfd2d2736681a023a8c3a9b0c5a6960201f3dd
+SHA256: f4ba8d1aaaca91752f9f188fe7868c9907049bd2f7b38cd3f580588c03d1f9b2
+SHA512: f105af654c725e8bacb07dce159a90970cd37fdf3acb952bfaf1fc89564a89e8179e4b967eaec1b094c89822dc87f64d9ea44c0ceba0fa598a16ff13f75b08f6
 Description: Substrate substitute for code substitution
 Author: comex <comexk+da@gmail.com>
 Name: Substitute

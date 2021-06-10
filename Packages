@@ -4904,6 +4904,29 @@ Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.ex.substitute
+Architecture: iphoneos-arm
+Version: 2.1.0R
+Priority: optional
+Section: System
+Maintainer: Sam Bingner
+Installed-Size: 26968
+Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7033+dummy)
+Pre-Depends: coreutils-bin, dpkg (>=1.17.11)
+Depends: firmware (>= 8.0), cy+cpu.arm64, com.saurik.substrate.safemode (>=0.9.6005), uikittools (>=1.1.13-4), darwintools
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, science.xnu.substitute, mobilesubstrate, ws.hbang.stopcrashingpls (<<1.0.2)
+Breaks: com.saurik.substrate.safemode (<<0.9.6004)
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
+Filename: ./debfiles/com.ex.substitute_2.1.0R_iphoneos-arm.deb
+Size: 11105480
+MD5sum: 3e923a178c43d433569ad73ddb509480
+SHA1: 0deac7c512ed0aa737ee766766ff9deb00578188
+SHA256: 48e54cd36e8a611e275edd9ac804ecf9cbcfd52b0958100ee5584cd2758f5ff6
+SHA512: 151288b62ddbb7781754058bc52bda6db4373274d6d263a43fab47f6dfc44c9568f3aa58dc6776675fa2af9bcee47f54dc1e877d0daecd168934368bdbac07c7
+Description: Substrate substitute for code substitution
+Author: comex <comexk+da@gmail.com>
+Name: Substitute
+
 Package: com.haoict.libhdev
 Architecture: iphoneos-arm
 Version: 4.8.0

@@ -1866,6 +1866,23 @@ Name: IconCert14 Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.ikghdCr
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.ikghdCr_0.1_iphoneos-arm.deb
+Size: 1270
+MD5sum: 63e88fb055c0fb3943b68db8e7cecce4
+SHA1: 8f89a11871b96f08e590947e2075e4be807782f2
+SHA256: a21b41066aea4d3ee2254d06a3ae6994016add809a1632fd5bba61eb61d64209
+SHA512: a64e1de3fc09d73e3e16ac7cfe737a8922c9e52bc93a0affeab69c52c070136648b0d2b8edab5c68a59d2ed322f8f8c57b98f1b4ef1abec1a05db2a289bb0247
+Description: Plugin cho Cracktool,Crack các Tweaks của iKarwan
+Name: iKarwan Cracked All Tweals
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: fahlnbg
+
 Package: com.BIENVANNHAT.iosgodsiapcracker
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -4652,6 +4669,28 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytb
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-ytbkill.youtubekiller
+Architecture: iphoneos-arm
+Version: 3.2.5-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2736
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis, com.BIENVANNHAT.ikghdCr, com.supportjailbreak.cracktool4ios1214
+Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.twickd.sarahh12099.youtube-reborn, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
+Filename: ./debfiles/com.bvnsupport-ytbkill.youtubekiller_3.2.5-1_iphoneos-arm.deb
+Size: 1096974
+MD5sum: ae2b21c45f25a3cef374f9d0ac2352a5
+SHA1: fd5084ca847e48d108a775fe96d25ea5f2ddd7c5
+SHA256: b15548cb428fd298c5b7f008fbe59c71cf6a889f8b4ef5e0dbc17fba3dd31056
+SHA512: 52767d272cfbe179f66e0e46a5b31654e7ded96e5d73237ddbc4bf318e3c6cae6848acb792bf942c610691808e433e171c1ea7693629ba5abd22622a9b377271
+Description: Ứng dụng Youtube phát lại không có quảng cáo theo phong cách giao diện người dùng iPad và hơn thế nữa!
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios14.6
+Name: YouTubeKiller Việt Hoá
+Author: Ikarwan
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.0
@@ -6810,6 +6849,25 @@ Name: plutil
 Author: Samuel Bingner
 Icon: file:///Applications/Cydia.app/Sections/hethong1.png
 Depiction: https://bvnsupport-jailbreak.github.io/index.php?pid=439
+
+Package: pro.ikghd.libkdev
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: System
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Provides: com.haoict.libhdev
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
+Replaces: com.haoict.libhdev
+Filename: ./debfiles/pro.ikghd.libkdev_1.0.0_iphoneos-arm.deb
+Size: 46928
+MD5sum: 7bd6a943a9e169b52c6576496cc5cf73
+SHA1: 8e770d2d4bd035ea08219946acba6ffb97235526
+SHA256: 5b4e1b7771937a1e2550ff234b603ce0883ab1741e016821fb66eed80bcb57cc
+SHA512: 3703b43f167a772f7724607a261d5bc4804ba519684766eef0fd3d73289775628078f1673f345dfeef61abaea2421fbb0747b39435333ca6283f1b405c2fcb17
+Description: library to communicate with tweaks .
+Tag: role::developer
+Name: libkdev
+Author: iKarwan <ikg_hd@bk.ru>
 
 Package: ru.rj.afsocial
 Architecture: iphoneos-arm

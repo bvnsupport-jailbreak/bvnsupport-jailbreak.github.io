@@ -4658,14 +4658,14 @@ Version: 3.2.5-1
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 2736
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis,  com.supportjailbreak.cracktool4ios1214, com.fahlnbg.ikghdCr
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis,  com.supportjailbreak.cracktool4ios1214
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.twickd.sarahh12099.youtube-reborn, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Filename: ./debfiles/com.bvnsupport-ytbkill.youtubekiller_3.2.5-1_iphoneos-arm.deb
-Size: 1096970
-MD5sum: 575c3d7fe46cfb40fdda06b21f0351b8
-SHA1: 30b3ce81858d9ee62ea5738bcfd5aff903df80fe
-SHA256: 89b1cc975941f5de69ad10530df736f17849768658409e911bd1d821d8b2a921
-SHA512: 9e468b029e154008fb220ba156847e0607d9bcbd1031368d7ffb8a8255945221de6fe48ddd1e271ce7942fe6ae08aceb3252ed412100cad521572fd9b8b9fce1
+Size: 1096950
+MD5sum: 404302de14c6edb33332c44e0616ff50
+SHA1: 98640378a69db88876bb9e5ea13c5ba70e31f01c
+SHA256: 35042f2327e41ea28619f23b1dfbcd987562f475da83a6af2ab1251a5116fb5c
+SHA512: 77228f3fc446f55299db8579d60ed126ab46db0c7c098cca96cf0fd708afb1c7d418851728a14e132fa123f19081e7d6db6f47a0015264e896d0f33f3e9cabe4
 Description: Ứng dụng Youtube phát lại không có quảng cáo theo phong cách giao diện người dùng iPad và hơn thế nữa!
 Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios14.6
 Name: YouTubeKiller Việt Hoá
@@ -4948,23 +4948,6 @@ SHA512: f105af654c725e8bacb07dce159a90970cd37fdf3acb952bfaf1fc89564a89e8179e4b96
 Description: Substrate substitute for code substitution
 Author: comex <comexk+da@gmail.com>
 Name: Substitute
-
-Package: com.fahlnbg.ikghdCr
-Architecture: iphoneos-arm
-Version: 0.1R
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debfiles/com.fahlnbg.ikghdCr_0.1R_iphoneos-arm.deb
-Size: 1256
-MD5sum: 527d3de877c56cc2a8711190e44e9f3e
-SHA1: b54d58c5dfdb8a99ca23bb90486b4fdaa3a22432
-SHA256: 5377732a9c53aee3637b78ea052e0517471411d183883a3d9a1531b17fb4ef5b
-SHA512: bedd6b3b222ddc70b3438c24b8be8a75bb8fbe9dda684a05cf0bb56332ee29557a436648520759233e8b1d360853f360a59de429917c5280d659fef581454c81
-Description: Plugin cho Cracktool,Crack các Tweaks của iKarwan
-Name: iKarwan Cracked All Tweaks
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: fahlnbg
 
 Package: com.haoict.libhdev
 Architecture: iphoneos-arm
@@ -5853,6 +5836,23 @@ MD5sum: bd883d929eab228f6da4ec1a599c5403
 SHA1: 2a91753a55627bdd6e474a3b025fd012cd9d1ae4
 SHA256: e688a07fe97f9297389f7e9a79206844c9cd3bb5decea806de46fb7449d6b5a6
 SHA512: 98ee20b3fed7b62816d9b713d684608419030a5dad27f2222b817e11f187c748461799b2a24390b4f7e108618bff27b8956b88ebf4451b10cf15c7127c5ae848
+Description: Crack Tweaks on one click
+Name: CrackTool4 (iOS 12/14)
+Author: julioverne <nhatbien97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tienich1.png
+
+Package: com.supportjailbreak.cracktool4ios1214
+Architecture: iphoneos-arm
+Version: 4.1
+Section: Utilities
+Maintainer: BvnSupport <nhatbien97@gmail.com>
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debfiles/com.supportjailbreak.cracktool4ios1214_4.1_iphoneos-arm.deb
+Size: 729414
+MD5sum: 4f22570066b58e9e0629534cc33889fb
+SHA1: 2a2b5a5851d51e712f1b4942c8afe5d57ae175f8
+SHA256: 38c187082aae1e7979bbec602130dd387b5a93fa6270169323762da0fb586c2d
+SHA512: eac83e892aba01502e4a8efafc1f5a129873df9d8111bd14a4e0ea83390f3749b64250d8a4bf3bb0209b5afd60c7ce135bda9c968423d22539de11bf3b515d2a
 Description: Crack Tweaks on one click
 Name: CrackTool4 (iOS 12/14)
 Author: julioverne <nhatbien97@gmail.com>

@@ -1866,23 +1866,6 @@ Name: IconCert14 Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
-Package: com.BIENVANNHAT.ikghdCr
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debfiles/com.BIENVANNHAT.ikghdCr_0.1_iphoneos-arm.deb
-Size: 1270
-MD5sum: 2f007f03398461eb61f69d33606a3ccb
-SHA1: a2cfa88b7ce702cf2bde459f7088be98e6f9afb9
-SHA256: 33169fc4672da9fb1eb1fd9616963051f754929ac69e9cb816d9454162174647
-SHA512: 13470e604114fd24cd7a668848c34a206e46c3f5d75df43726e51473604507f546728a7fb7ab50e761976878b77aee28e06d050cf567e3dbfafa38e15f42b4ac
-Description: Plugin cho Cracktool,Crack các Tweaks của iKarwan
-Name: iKarwan Cracked All Tweaks
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: fahlnbg
-
 Package: com.BIENVANNHAT.iosgodsiapcracker
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -4675,14 +4658,14 @@ Version: 3.2.5-1
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 2736
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis,  com.supportjailbreak.cracktool4ios1214, com.BIENVANNHAT.ikghdCr
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis,  com.supportjailbreak.cracktool4ios1214, com.fahlnbg.ikghdCr
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.twickd.sarahh12099.youtube-reborn, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Filename: ./debfiles/com.bvnsupport-ytbkill.youtubekiller_3.2.5-1_iphoneos-arm.deb
-Size: 1096972
-MD5sum: 8bc73488b4310a9c976719f62325fa32
-SHA1: 46132028ca2c2113a1cdb240b22c7ff1d2ad267a
-SHA256: 9157d164a9d21949fb6ef4017daab1a3c98f17c464630a0e1e9dab9f60c814b7
-SHA512: 3e759cd5d82b544c08ff83b64d23e127ee83d96400160ad009df2d627ff013cfad773133724e7d162cc3eec2f7df60f0b630058f9738af8b6bb6606f5101aec4
+Size: 1096970
+MD5sum: 575c3d7fe46cfb40fdda06b21f0351b8
+SHA1: 30b3ce81858d9ee62ea5738bcfd5aff903df80fe
+SHA256: 89b1cc975941f5de69ad10530df736f17849768658409e911bd1d821d8b2a921
+SHA512: 9e468b029e154008fb220ba156847e0607d9bcbd1031368d7ffb8a8255945221de6fe48ddd1e271ce7942fe6ae08aceb3252ed412100cad521572fd9b8b9fce1
 Description: Ứng dụng Youtube phát lại không có quảng cáo theo phong cách giao diện người dùng iPad và hơn thế nữa!
 Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios14.6
 Name: YouTubeKiller Việt Hoá
@@ -4965,6 +4948,23 @@ SHA512: f105af654c725e8bacb07dce159a90970cd37fdf3acb952bfaf1fc89564a89e8179e4b96
 Description: Substrate substitute for code substitution
 Author: comex <comexk+da@gmail.com>
 Name: Substitute
+
+Package: com.fahlnbg.ikghdCr
+Architecture: iphoneos-arm
+Version: 0.1R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.fahlnbg.ikghdCr_0.1R_iphoneos-arm.deb
+Size: 1256
+MD5sum: 527d3de877c56cc2a8711190e44e9f3e
+SHA1: b54d58c5dfdb8a99ca23bb90486b4fdaa3a22432
+SHA256: 5377732a9c53aee3637b78ea052e0517471411d183883a3d9a1531b17fb4ef5b
+SHA512: bedd6b3b222ddc70b3438c24b8be8a75bb8fbe9dda684a05cf0bb56332ee29557a436648520759233e8b1d360853f360a59de429917c5280d659fef581454c81
+Description: Plugin cho Cracktool,Crack các Tweaks của iKarwan
+Name: iKarwan Cracked All Tweaks
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: fahlnbg
 
 Package: com.haoict.libhdev
 Architecture: iphoneos-arm

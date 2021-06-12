@@ -1,3 +1,21 @@
+Package: co.azozzalfiras.azflibrary
+Architecture: iphoneos-arm
+Version: 3.2R
+Section: Addons
+Maintainer: Biện Văn Nhật
+Installed-Size: 1652
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/co.azozzalfiras.azflibrary_3.deb
+Size: 540774
+MD5sum: 236ec13b1616f194d4da6775d18e0a5e
+SHA1: 8e25a8b32aa7bf6d2faf3811c78339460bbf4481
+SHA256: a1a500a0de8175b98de5831d12159181a65cc57db973abcdea4323aa2e3b4e72
+SHA512: ca7cdd01a2a7eb468b3c43e8ece1c091b7681663ee2f05a8cb2cc11a202ca6a445ab8bed0ccbf3f2aae7ac44aeb8bbc93e0d7bde02ccf239087f20a21856b183
+Description: Azozz ALFiras
+Name: azfLibrary
+Author: Azozz ALFiras
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1
+
 Package: com.BIENVANNHAT.1one
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -6889,6 +6907,24 @@ Name: AFSocial Việt Hoá
 Author: Azozz ALFiras
 Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/ru.rj.afsocial
 Depiction: Thêm nhiều tính năng cho các ứng dụng mạng xã hội.
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: ru.rj.afsocial
+Architecture: iphoneos-arm
+Version: 2.5.4.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 6264
+Depends: mobilesubstrate, co.azozzalfiras.azflibrary (>= 3.0)
+Filename: ./debfiles/ru.rj.afsocial_2.5.4.2_iphoneos-arm.deb
+Size: 2789340
+MD5sum: 699e5a1f0fc0e76dabc127e09095c264
+SHA1: cf02f89367e9bb501f37fa2e4e609af9b1d3ceeb
+SHA256: 7c0fd6eed5c5eed1bf7bad42ec67084b1f778433a51e4b54d98b13f240b40a03
+SHA512: 6ae1e0e7f91a4ae0588ee97e2582b0bdaa8ab78fa94894ece2a9dc43813d328cb16e55a9b158079dbddf50a23054c198f633de53b0d33baa79999cb563e03dad
+Description: Thêm nhiều tính năng cho các ứng dụng mạng xã hội.
+Name: AFSocial Việt Hoá
+Author: Azozz ALFiras
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: ru.rj.youtubelite

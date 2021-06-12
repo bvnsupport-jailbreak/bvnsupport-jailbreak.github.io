@@ -1893,12 +1893,12 @@ Maintainer: Biện Văn Nhật
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debfiles/com.BIENVANNHAT.ikghdCr_0.1_iphoneos-arm.deb
 Size: 1270
-MD5sum: 63e88fb055c0fb3943b68db8e7cecce4
-SHA1: 8f89a11871b96f08e590947e2075e4be807782f2
-SHA256: a21b41066aea4d3ee2254d06a3ae6994016add809a1632fd5bba61eb61d64209
-SHA512: a64e1de3fc09d73e3e16ac7cfe737a8922c9e52bc93a0affeab69c52c070136648b0d2b8edab5c68a59d2ed322f8f8c57b98f1b4ef1abec1a05db2a289bb0247
+MD5sum: c188301635ec2d5f6124c3c00314c6c1
+SHA1: 96df77b76c9837b4d94cc6d09f7e993effe15686
+SHA256: 7e3e5d8edd843428182e1c744e3fdc3ea2418fb1e723406f37602dd3886109a0
+SHA512: 199e1856ab9acab96c467e44f4b491c289f50ae18a5498d7513d1a127896d8ce39d48b953520eb86dfe4526859cd0e6127a32086c7e738424234ba7dae7a62ff
 Description: Plugin cho Cracktool,Crack các Tweaks của iKarwan
-Name: iKarwan Cracked All Tweals
+Name: iKarwan Cracked All Tweaks
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: fahlnbg
 

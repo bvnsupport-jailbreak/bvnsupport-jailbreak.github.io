@@ -1,3 +1,22 @@
+Package: com.BIENVANNBAT.ol3dtube
+Architecture: iphoneos-arm
+Version: 1.1.5-4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.BIENVANNHAT.ikghdCr, com.supportjailbreak.cracktool4ios1214
+Filename: ./debfiles/com.BIENVANNBAT.ol3dtube_1.1.5-4_iphoneos-arm.deb
+Size: 105484
+MD5sum: e5d5e068cb854b62c2e827d28e3b7d05
+SHA1: e8f1e2c8f009e30914d0348e5f6daafd5cea41f4
+SHA256: 720652f1f7542fde0b5c8944a4c7bed59e36851182c87b6f164eb267147adae9
+SHA512: 322b74591c4f019b57f366b4d514eb7d1186c1b1fdc8ec8c6a76b815dd94b6a1f28d793d715ec896108716c118427c5341f85fea144c529fa267d786be87c552
+Description: Chế độ tối Ol3d dành cho YouTube!Khi cài Tweaks này sẽ đi kèm theo Tweaks:Cracktool,sau khi cài đặt xong bạn vào Cracktool chọn phần(repo.ikghd.com)nếu nó báo lỗi thì kệ nó,sau đó chọn phần "Respring" ở trên Góc trái của CrackTool và Respring lại.
+Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios14.6
+Name: OL3DTube Việt Hoá
+Author: iKarwan <ikg_hd@bk.ru>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.1one
 Architecture: iphoneos-arm
 Version: 1.0.3

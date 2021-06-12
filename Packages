@@ -4,13 +4,13 @@ Version: 1.1.5-4
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 536
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.BIENVANNHAT.ikghdCr, com.supportjailbreak.cracktool4ios1214
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.supportjailbreak.cracktool4ios1214
 Filename: ./debfiles/com.BIENVANNBAT.ol3dtube_1.1.5-4_iphoneos-arm.deb
-Size: 105484
-MD5sum: e5d5e068cb854b62c2e827d28e3b7d05
-SHA1: e8f1e2c8f009e30914d0348e5f6daafd5cea41f4
-SHA256: 720652f1f7542fde0b5c8944a4c7bed59e36851182c87b6f164eb267147adae9
-SHA512: 322b74591c4f019b57f366b4d514eb7d1186c1b1fdc8ec8c6a76b815dd94b6a1f28d793d715ec896108716c118427c5341f85fea144c529fa267d786be87c552
+Size: 105914
+MD5sum: 4bd88e497174a8366f8775bcff8b1e2e
+SHA1: 24860ecf92ca3d3cc18971ee5f99776661413a5f
+SHA256: 2a9ab09a11920fb749363801c7bf16bc2bd34002a8c378dccc7d7fdd287f0e80
+SHA512: 811917560245b5f7b73549ba874bd0a17bea1043a62f44956cdf2189e33dab97452ca4d2246f5e2cf30c80680828dcb66af8a7d005a2dfe0ab732375066128ec
 Description: Chế độ tối Ol3d dành cho YouTube!Khi cài Tweaks này sẽ đi kèm theo Tweaks:Cracktool,sau khi cài đặt xong bạn vào Cracktool chọn phần(repo.ikghd.com)nếu nó báo lỗi thì kệ nó,sau đó chọn phần "Respring" ở trên Góc trái của CrackTool và Respring lại.
 Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios14.6
 Name: OL3DTube Việt Hoá
@@ -1884,23 +1884,6 @@ Description: Hiển thị thời gian chứng chỉ còn lại trên biểu tư�
 Name: IconCert14 Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
-
-Package: com.BIENVANNHAT.ikghdCr
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debfiles/com.BIENVANNHAT.ikghdCr_0.1_iphoneos-arm.deb
-Size: 1270
-MD5sum: c188301635ec2d5f6124c3c00314c6c1
-SHA1: 96df77b76c9837b4d94cc6d09f7e993effe15686
-SHA256: 7e3e5d8edd843428182e1c744e3fdc3ea2418fb1e723406f37602dd3886109a0
-SHA512: 199e1856ab9acab96c467e44f4b491c289f50ae18a5498d7513d1a127896d8ce39d48b953520eb86dfe4526859cd0e6127a32086c7e738424234ba7dae7a62ff
-Description: Plugin cho Cracktool,Crack các Tweaks của iKarwan
-Name: iKarwan Cracked All Tweaks
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: fahlnbg
 
 Package: com.BIENVANNHAT.iosgodsiapcracker
 Architecture: iphoneos-arm
@@ -4694,14 +4677,14 @@ Version: 3.2.5-1
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 2736
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis, com.BIENVANNHAT.ikghdCr, com.supportjailbreak.cracktool4ios1214
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis,  com.supportjailbreak.cracktool4ios1214
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.twickd.sarahh12099.youtube-reborn, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Filename: ./debfiles/com.bvnsupport-ytbkill.youtubekiller_3.2.5-1_iphoneos-arm.deb
-Size: 1096974
-MD5sum: ae2b21c45f25a3cef374f9d0ac2352a5
-SHA1: fd5084ca847e48d108a775fe96d25ea5f2ddd7c5
-SHA256: b15548cb428fd298c5b7f008fbe59c71cf6a889f8b4ef5e0dbc17fba3dd31056
-SHA512: 52767d272cfbe179f66e0e46a5b31654e7ded96e5d73237ddbc4bf318e3c6cae6848acb792bf942c610691808e433e171c1ea7693629ba5abd22622a9b377271
+Size: 1097402
+MD5sum: 7d3847bf85fd8b913bcd908f401934c9
+SHA1: ba4f36561a8330c9b2c1c9646dbe414b9b254aaa
+SHA256: 455b0b82c5cec291162f389c3a8523901cb53cabd2a2c6183c30619965278bc1
+SHA512: 414652aceaa373543be64dced670e7f904381b9f2b55f3f2c7160cc12a3256638d8b00351c55146def9314b864a0605e22e22b3301cdb118264d7eb466c7ec24
 Description: Ứng dụng Youtube phát lại không có quảng cáo theo phong cách giao diện người dùng iPad và hơn thế nữa!
 Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios14.6
 Name: YouTubeKiller Việt Hoá

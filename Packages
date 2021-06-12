@@ -140,11 +140,11 @@ Installed-Size: 5480
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.BIENVANNHAT.libgcuniversal, com.peterdev.libpddokdo
 Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, com.BIENVANNHAT.diary
 Filename: ./debfiles/com.BIENVANNHAT.Diarywallpaper_0.1_iphoneos-arm.deb
-Size: 10019066
-MD5sum: 3ea046d5ee6abf4d0d645fe0e6e18f3e
-SHA1: f5ba9b319f4633878317734be35b1bc2691fbc8b
-SHA256: cc6caeb4ca85ed43d6dbfdab8c43c18b76574458d529d31f9608f0cc05941f98
-SHA512: 065139d49df1b15cf8894868450e9d7313eba39b86b7705de6f8a5ac4d74762696283694abbe404312390aa01a1d09920b83b399a21b2cf80a3fcd11c3e8a4ce
+Size: 10019050
+MD5sum: 07fb8d9d67ed0351856087cac039928c
+SHA1: 1cec89a1a4719f05b843bda1d7009d473cfdf561
+SHA256: 7d3b7acda5aff9df978523aee366353db835d531ebd5dc52213ff0a973926475
+SHA512: 682b9fecb70f4cdc261c98e08e2cfc114492e917aeaf77fe0511adf841ae5d673b8cb3c12ae17612648098df6f39431ac534798030897fe78353f3b5af71f57d
 Description: Thay đổi hình nền ngẫu nhiên,sau khi cài xong các bạn theo đường dẫn sau:Library/Diary/Wallpapers để thêm hình ảnh mình muốn.
 Name: Diary wallpaper
 Author: Litten/BVN

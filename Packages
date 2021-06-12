@@ -6917,11 +6917,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 6264
 Depends: mobilesubstrate, co.azozzalfiras.azflibrary (>= 3.0)
 Filename: ./debfiles/ru.rj.afsocial_2.5.4.2_iphoneos-arm.deb
-Size: 2789340
-MD5sum: 699e5a1f0fc0e76dabc127e09095c264
-SHA1: cf02f89367e9bb501f37fa2e4e609af9b1d3ceeb
-SHA256: 7c0fd6eed5c5eed1bf7bad42ec67084b1f778433a51e4b54d98b13f240b40a03
-SHA512: 6ae1e0e7f91a4ae0588ee97e2582b0bdaa8ab78fa94894ece2a9dc43813d328cb16e55a9b158079dbddf50a23054c198f633de53b0d33baa79999cb563e03dad
+Size: 2882836
+MD5sum: 7124555009518c9b680544694a8190b3
+SHA1: 67b320e0d84f1c8e901cdfa9ac06bbfee0e52afd
+SHA256: b8865245c6fb62902a46ab644ac92d1d3d827a23f1340c5c345fb33fc1795714
+SHA512: d45bbc9b44757fc5fa58728c479c8fc25028c67d88ff18d865ba680108165a20d7b35643083053852a5985658572d8bfee9160e75b8f307dc8c719cc4dbe78d6
 Description: Thêm nhiều tính năng cho các ứng dụng mạng xã hội.
 Name: AFSocial Việt Hoá
 Author: Azozz ALFiras

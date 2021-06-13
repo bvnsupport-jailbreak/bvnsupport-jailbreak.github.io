@@ -1260,6 +1260,24 @@ Name: Dodo Việt Hoá
 Author: Ginsu
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.dodo
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1808
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.dodo_1.0.3_iphoneos-arm.deb
+Size: 1318154
+MD5sum: 1f40cd1e554caa0c49e43dff3a977f6a
+SHA1: 8935d5a4e5893bd941aa8c691c85f48f3d4ab2cc
+SHA256: ec7030193d59f4d82dd7fcb2544b7d5ca2e91386e547c36f966ea2441fcf1f03
+SHA512: 803f1fcaac1a7810156436a9cd0ca1c547bcba0c732e5f34669ed4f57c78fff60e903c4e9eb06231ff097fac884848a16dd733de16813c857e088da2c08d2101
+Description: Thiết kế hoàn toàn mới cho màn hình khoá.Hỗ trợ ios 13-149
+Name: Dodo Việt Hoá
+Author: Ginsu
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.doixungcamera
 Architecture: iphoneos-arm
 Version: 1.2.3

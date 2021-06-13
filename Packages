@@ -6045,6 +6045,23 @@ Name: Fake 2 Sim
 Author: CydiaGeek <lucaluca86@aol.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
+Package: com.supportjailbreak.fake2sim
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate
+Filename: ./debfiles/com.supportjailbreak.fake2sim_1.0.1_iphoneos-arm.deb
+Size: 10388
+MD5sum: 061e626cb2d73db7c303819f6ae8a9e4
+SHA1: cfa22fda763cab2ecb2e5da57f1cf5639bc68745
+SHA256: 7d17af7c079805f216cd77ce9c1ca6002551398ab84021737eab3b35e8c6c23e
+SHA512: e8d1a6679f5f05879f1f07cbf365ad58e06d5d40ac81ca99626ae07845fa527f31fc6fd60877ed41d8fbdc3dbd6f789c4c60e98cfd9bd1d81c160af772b90267
+Description: Fake 2 cột sóng như các máy đời cao dành cho Iphone 6-Iphone 8plus.Hỗ trợ ios 12 tới ios 14.7
+Name: Fake 2 Sim
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
 Package: com.supportjailbreak.filza64bit
 Architecture: iphoneos-arm
 Version: 3.8.0-24

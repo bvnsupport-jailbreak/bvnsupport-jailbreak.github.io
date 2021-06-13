@@ -322,12 +322,12 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 5480
 Depends: mobilesubstrate, com.supportjailbreak.flex3beta
 Filename: ./debfiles/com.BIENVANNHAT.Patchv6.4_v6.4_iphoneos-arm.deb
-Size: 213236
-MD5sum: d276190fe390a2f20408b57c98a78d2c
-SHA1: 9e5ff49065a56fae3fda2183e30a7bf861e8db9f
-SHA256: f001037a03bab6ce8c5661f3751bec1242e9bd3cbe23c8b76bb7974277ffc0eb
-SHA512: 87089e6bbfc0d3e4ae642c80a4d139234a641ed49531993bdd22563127efe826374cc5c8b78ba16197d2b2b88177ec8c684d17927c47a723a0ee3567d3a653ad
-Description: Patch V6.4 Việt Hoá của Team Flex 3 Việt Nam,khi cài Patch này nó sẽ cài luôn Tweaks Flex 3~beta bên nguồn mình,vậy Ae đang xài Flex ở nguồn khác vui lòng xoá trước khi cài đặt
+Size: 213248
+MD5sum: 6d22bb873067d26d1d0a8bb8521fa5ff
+SHA1: 29fc5c5a5eba942a298de49510f67385f94d4bea
+SHA256: c673957ec9296c5067b3a6e15a76154a1c37b4c95a1f4bcf9a00293c33846dba
+SHA512: 42d5c00e07996a54e8f046be91b00c627d7fb5a94b23d6b144f3ce44f90a73e30622479cff84723defaff8a99fcb29459b22471406ea2daaee6f9b0a312ad522
+Description: Patch V6.4 Việt Hoá của Team Flex 3 Việt Nam,khi cài Patch này nó sẽ cài luôn Tweaks Flex 3~beta bên nguồn mình,vậy Ae đang xài Flex ở nguồn khác vui lòng xoá trước khi cài đặt❤️
 Name: Patch V6.4 Flex3 VN
 Author: Flex3 Việt Nam
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

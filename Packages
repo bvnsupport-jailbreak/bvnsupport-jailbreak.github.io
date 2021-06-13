@@ -85,14 +85,14 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 18
 Depends: mobilesubstrate
+Conflicts: com.BIENVANNHAT.AsistiveTouchapple, com.BIENVANNHAT.AssistiveTouchXnonplus
 Filename: ./debfiles/com.BIENVANNHAT.AsistiveTouchXplus_1.0_iphoneos-arm.deb
-Size: 730712
-MD5sum: 37f7447ce79c29e01bd6ebce4588f743
-SHA1: 6e07a8c04246feb57124707feca747a9223c512b
-SHA256: e6f64899598e831a80bb850aea82bbfb33183d88de2464760953a70f1c747fa8
-SHA512: 50362096e4f287d7cd9c930b5998ce5e9826e9062c518f1d00f14011ee4e34ffa43a6dc2f0cb8b1b77158dd10b8c013c3ea702d12227d480aaefdd29a3140386
+Size: 730722
+MD5sum: 66a38aacc6fd0f18818c7dc7e04bd8ad
+SHA1: 9157002bfa91924b31806a543a92ad7b516df0a7
+SHA256: 8dc206fc9e55dd389682be67d1e75ba4d03a1e0d261a2888bbe56a93fd20304e
+SHA512: a27cf19c0f82c08e6acd7439a2978ee26fa20150abaca2e6307231bb8ab70c503176338b9cd13b229c05e7859ea7075ca01a2c74c9553de2aa96025544da4f02
 Description: Nút Home của Iphone X dành cho các máy đời cũ,phiên bản này hỗ trợ dòng máy Plus ,ví dụ như 6sPlus=>8Plus.Hỗ trợ Ios 10-14.7
-Conflict: com.BIENVANNHAT.AsistiveTouchapple
 Name: AssistiveTouchX Plus
 Author: Biện Văn Nhật
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
@@ -122,14 +122,14 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 180
 Depends: mobilesubstrate
+Conflicts:  com.BIENVANNHAT.AsistiveTouchapple, com.BIENVANNHAT.AsistiveTouchXplus
 Filename: ./debfiles/com.BIENVANNHAT.AssistiveTouchXnonplus_1.0.1_iphoneos-arm.deb
 Size: 474810
-MD5sum: b5b7bc1a2a68f797448b32636f1be9a8
-SHA1: 6b823b5e7f5a9f9f19fedbd3ec038ece33080772
-SHA256: d3c16479252967db02f9ff6ad601c5c9769189e34842265f76e49a394ec5b79c
-SHA512: 4ba80228b9611f46807dd9257e967139fa33222af2b1ea38be0690eb4df58a83d0cf0615d8493cc0772ea24a813f5f274d8c6178e0f2cfe846e623f9a813078e
+MD5sum: 55aac0599264ab51fa9d997b962f3f34
+SHA1: c49ddf3bda1e73899df571dd5708582e1a1b28ba
+SHA256: eeba34ef7641a33f537080e2666203aadc3bd4f59d9dc19ceaeb837d960ba510
+SHA512: caf3bbdba3116ffad1074555b7acfc71a1b1902277d83e1fabdbee88256a05e9b569ba359e4ff81ff0e54cc274b7017efa8b09246145a135d79013b5d12c42eb
 Description: Nút Home của Iphone X dành cho các máy đời cũ,phiên bản này hỗ trợ các dòng máy nhỏ như:Iphone 6-6s-7-8.
-Conflict:  com.BIENVANNHAT.AsistiveTouchapple, com.BIENVANNHAT.AsistiveTouchXplus
 Name: AssistiveTouchX
 Author: Biện Văn Nhật
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

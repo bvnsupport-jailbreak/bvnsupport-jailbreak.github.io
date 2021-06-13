@@ -314,6 +314,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.Or
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.Orion
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Patchv6.4
+Architecture: iphoneos-arm
+Version: v6.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 5480
+Depends: mobilesubstrate, com.supportjailbreak.flex3beta
+Filename: ./debfiles/com.BIENVANNHAT.Patchv6.4_v6.4_iphoneos-arm.deb
+Size: 213170
+MD5sum: d577fc75cd116c3f25664452a094e209
+SHA1: 28956a488b19f597b1c5f7d8c1c3540b146d7b06
+SHA256: 625f7d754e918efa619075a9ece57a7da25fbac26f80b61bd868e0ec372a11b5
+SHA512: 92a15acabcdae5c18353087c73dc8681142a7a21b3a9e030024184cab3d0d3c13a0725077a22ffcfadccfe73aa436585d3bb43e8871ec8e611514f2effc161fd
+Description: Patch V6.4 Việt Hoá của Team Flex 3 Việt Nam,anh em cần cài Tweaks:Flex3  rồi sau đó cài Patch này nhé
+Name: Patch V6.4 Flex3 VN
+Author: Flex3 Việt Nam
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.3

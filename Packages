@@ -1224,6 +1224,24 @@ Name: dimentio
 Author: 0x7ff
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.BIENVANNHAT.dodo
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1792
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.dodo_1.0.1_iphoneos-arm.deb
+Size: 1315974
+MD5sum: 875ba266eb5dd57656b5f3364213ced4
+SHA1: 19e1dff7df8ecccbdd12d5bb48aa7c90ae3baca9
+SHA256: 57ecf6b1463f83e3100fe0765901556dfe2dc946276ee670eec99a4d64fa2c3c
+SHA512: db37284478a725cd732191ec7f86f6b2d2792cb467cc16405ba289bd55390e22fbcee509627dc01282dad586f8932e51da7f7076f7adc2eb7401725fb242de2b
+Description: Hỗ trợ iOS 13/14. Giao diện màn hình khóa sạch sẽ định vị thời gian về phía cuối màn hình, với trình phát đa phương tiện ở trên cùng.  Tinh chỉnh này cũng có tích hợp với một số tinh chỉnh khác của tôi như DualClock và QuickANC.  Tôi hy vọng những người sử dụng nó sẽ thích nó!
+Name: Dodo Việt Hoá
+Author: Ginsu
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.doixungcamera
 Architecture: iphoneos-arm
 Version: 1.2.3

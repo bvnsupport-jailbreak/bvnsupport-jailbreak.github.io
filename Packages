@@ -6801,11 +6801,11 @@ Maintainer: Biện Văn Nhật
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Filename: ./debfiles/com.supportjailbrrak.appstore_0.9.16-2_iphoneos-arm.deb
-Size: 3015908
-MD5sum: e39b17a31d239ad733059208506a4adb
-SHA1: 77eb8206c05e9bc916ab53ae670ebe88aaac586c
-SHA256: 3e3ad4e9cc0faf6c664b9c5a9d54c4dce53099ca1debf88320e08ecfa0e85d49
-SHA512: 575ae6251c9f8bafbb17d299b1e8ae7a69a9a317e71dac6bdcf63f1523ff0cf08787fdcd556d695f640abfeb764c0cdca3238e563740370b72768d852de83d28
+Size: 3010396
+MD5sum: 0545503233f96156eac452fd834ca259
+SHA1: 0b6e13038accf25cfc251bde8eaf07ae646d9a41
+SHA256: bc6103a2b0d2ced00591da7020a62383ef0cc72ba2069015fb15a46faf0244d2
+SHA512: 711bba67df745b3b930878a98e61b9c545ba699c5a5bbd9a711fddd016171e49de6bb74b1bfe568bff2f6ac3be9a0f23c4309c9a09f0fc84b72b051d91c2a44a
 Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore.Cho phép bạn hạ cấp & nâng cấp ứng dụng trong AppStore, chặn cập nhật, vượt qua giới hạn tải xuống 200 MB, tắt quảng cáo tìm kiếm và vô hiệu hóa ứng dụng. Cách sử dụng: Sau khi cài đặt, bạn chỉ cần nhấn giữ vào mục tải về trong các ứng dụng sẽ hiển thị danh sách phiên bản của ứng dụng đó.Hỗ trợ Ios 11-14.9
 Name: AppStore+++
 Author: CokePokes

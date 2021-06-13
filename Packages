@@ -1906,6 +1906,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.iGameGuardian8.3
 Architecture: iphoneos-arm
+Version: 8.3-1
+Priority: optional
+Section: Utilities_
+Maintainer: Biện Văn Nhật
+Installed-Size: 15000
+Filename: ./debfiles/com.BIENVANNHAT.iGameGuardian8.3_8.3-1_iphoneos-arm.deb
+Size: 447130
+MD5sum: 6c9a24869b5722043406f06cd5ba9f35
+SHA1: 5026ed587740761d72cb26e1287de01ebad2942f
+SHA256: 31358403a3debf7e80e36e122a926ea3b6a89ee5f0336e752655159d09632d8e
+SHA512: 41dabb257636f7cc327b78c814dfd464a1a72af27cb8b52e45702887d7957870a1407f3b9ebed0b635151d4f0a93b3ea1670667d5d3ce2b2715f202062031716
+Description: iGameGuardian là một công cụ gian lận trò chơi dành cho iOS 8.x/14.9
+Name: iGameGuardian VH
+Author: Aqua Wu <igameguardian@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.iGameGuardian8.3
+Architecture: iphoneos-arm
 Version: 8.3
 Priority: optional
 Section: Tweaks

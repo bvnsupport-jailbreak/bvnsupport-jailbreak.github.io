@@ -78,6 +78,24 @@ Author: BIỆN VĂN NHẬT <BIENVANNHAT97@GMAIL.COM>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 dev: BVN
 
+Package: com.BIENVANNHAT.AsistiveTouchapple
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 18
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.AsistiveTouchapple_0.1_iphoneos-arm.deb
+Size: 382906
+MD5sum: 38b7e95a96fd3312f5c96d4ccd46ebcb
+SHA1: bf5aabdafe82fd1a4aeb383ac53e08dd43a74f48
+SHA256: 7a8fa5d42d332b4589da729b2092d58c8f383df8ab67b203e90e7bac1c0c61da
+SHA512: 11f7206a39d5fc04d5a57f71ddb733a27f5ec0a4a9eaff25b5e459ea0b6c4b4d0cc4a1fae8d0e3927356814fd676989b1661940b6a87784568586fa1cdd906f2
+Description: Làm đẹp cho Nút Home ảo của bạn.Hỗ trợ ios 10-14.7
+Name: AssistiveTouch Apple
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.Atria
 Architecture: iphoneos-arm
 Version: 1.0.0

@@ -84,16 +84,15 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 18
-Depends: mobilesubstrate
 Conflicts: com.BIENVANNHAT.AsistiveTouchapple, com.BIENVANNHAT.AssistiveTouchXnonplus
 Filename: ./debfiles/com.BIENVANNHAT.AsistiveTouchXplus_1.0_iphoneos-arm.deb
-Size: 730900
-MD5sum: 2b3203fc1ad7664507f05fa3094dd1c7
-SHA1: 7e9eda9b021d9a67f08cfe1ff3f7f2929c08f3a1
-SHA256: 5c3d21f2c462c9b390118801ffa9b6cef7902277d3f2d9039799a1985969770e
-SHA512: c102b6268bdde76a8d9f4c42cf5eb0e742006849f447c4407cfebf03805964e111a27431d2bfd5938cbe38a66ba802caa5e0b8c4d77062023f573ec3c8b831d9
-Description: Nút Home của Iphone X dành cho các máy đời cũ,phiên bản này hỗ trợ dòng máy Plus ,ví dụ như 6sPlus=>8Plus.Hỗ trợ Ios 10-14.7,trước khi cài Tweaks các bạn vào Filza theo đường dẫn sau để lưu lại file Gốc:system/library/coreservice/asistivetouch.app/Assets.car,lưu lại hoặc đổi tên nó đi là oki,nếu sau khi xoá Tweak trên bạn chỉ cần vào đổi lại tên gốc của nó là ok
-Name: AssistiveTouchX Plus
+Size: 474912
+MD5sum: 38a24de5d32e3f48b5258facc6d93ac1
+SHA1: cd2fc6212b816f5574c906eeae6510a3b30c0ee5
+SHA256: 05cb0eeb21959c920ebcf74b86ad06e53b70af833cf0ce98c1ec14aa2c18dff7
+SHA512: 963bf33fb2c822ec1a3617644626a148fbb00b380e627a4b381627569a58bbdb9bc6994b58671cef2a54b2d442327ece6c2d7562fc6e22e493e29946499e9e8d
+Description: Nút Home của Iphone X dành cho các máy đời cũ,hoox trợ ios 10-14.7
+Name: AssistiveTouchX
 Author: Biện Văn Nhật
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
@@ -103,34 +102,14 @@ Version: 0.1
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 18
-Depends: mobilesubstrate
 Filename: ./debfiles/com.BIENVANNHAT.AsistiveTouchapple_0.1_iphoneos-arm.deb
-Size: 383096
-MD5sum: acbcd8567f3e76d71e80f5d535307a4c
-SHA1: b9aae7321de81c9a97c9cc5ad85d8071366318ec
-SHA256: 52720357c777efa1d458b6319a9d8c1788dec7967d60e47a3755b105f549223e
-SHA512: 01557e1e33a99743c58eb0e5c0536919d377cd3405918db3572d2a1ee2ce3028d6ba554948ed89995b36b3824c3d35a1707648fa71a5d196d8982deb3bb24c2e
-Description: Làm đẹp cho Nút Home ảo của bạn.Hỗ trợ ios 10-14.7.trước khi cài Tweaks các bạn vào Filza theo đường dẫn sau để lưu lại file Gốc:system/library/coreservice/asistivetouch.app/Assets.car,lưu lại hoặc đổi tên nó đi là oki,nếu sau khi xoá Tweak trên bạn chỉ cần vào đổi lại tên gốc của nó là ok
+Size: 383086
+MD5sum: 2a315e87024eb1829e8eaa1cc31ea0db
+SHA1: 31636328ebc83f21746dd04b3a1db82e4170324d
+SHA256: c0deebc0b96a630fcdac2a022f97abf2204d0cb606dffad3f6ce089659f14902
+SHA512: 2853be5db20ab4bee88cae87e2f6a38f049b48506f27512b20bdf06c2b844c194ea741e3f90055adcaa0c3b78ccf1166d359b1054dc9c552ebae70202fd10b3d
+Description: Làm đẹp cho Nút Home ảo của bạn.Hỗ trợ ios 10-14.7.
 Name: AssistiveTouch Apple
-Author: Biện Văn Nhật
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.AssistiveTouchXnonplus
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 180
-Depends: mobilesubstrate
-Conflicts:  com.BIENVANNHAT.AsistiveTouchapple, com.BIENVANNHAT.AsistiveTouchXplus
-Filename: ./debfiles/com.BIENVANNHAT.AssistiveTouchXnonplus_1.0.1_iphoneos-arm.deb
-Size: 474990
-MD5sum: 7661ed61b02b473aba7743084e04aefa
-SHA1: a7a4ec9874093c23b750db4e41d62ab88ed4f045
-SHA256: 641f316cf2913d40431b4e18f70145cd83b5a50c74857019ab841b10ecdd4c60
-SHA512: 540790bb220a6c6aef73ffa6c9aa88837a191985f41dc2dca0c16ead532b04e03de675ab3782e49aca597971404ee5b92a991f4a5162b29da4884f983f5cc3fe
-Description: Nút Home của Iphone X dành cho các máy đời cũ,phiên bản này hỗ trợ các dòng máy nhỏ như:Iphone 6-6s-7-8.trước khi cài Tweaks các bạn vào Filza theo đường dẫn sau để lưu lại file Gốc:System/library/coreservice/asistivetouch.app/Assets.car,lưu lại hoặc đổi tên nó đi là oki,nếu sau khi xoá Tweak trên bạn chỉ cần vào đổi lại tên gốc của nó là ok
-Name: AssistiveTouchX
 Author: Biện Văn Nhật
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

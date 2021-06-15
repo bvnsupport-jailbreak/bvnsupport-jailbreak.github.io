@@ -2147,6 +2147,25 @@ Name: Kill All Apps
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.kinehack
+Architecture: iphoneos-arm
+Version: 5.0.7-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 780
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.kinehack_5.0.7-1_iphoneos-arm.deb
+Size: 327058
+MD5sum: cd5c07cd5eb85535a7a9557f45faca61
+SHA1: 3869a5b989a7e2c8f4b6adcff684e380bf473e68
+SHA256: 39da833a6817d952f2e372e90e9e6af8901109bcb37e0529ffcd60d2e13a6e24
+SHA512: 4fe6c56b1d4d89b13c4bce5a81636937c2fc731fd763f9ba5bdf439a5ee7d42eb9c059d16f854265a19fad1348411b5d1115d43a1d46a1d71ccc6faef47a762a
+Homepage: ipalibrary.info
+Description: KineMaster Cao cấp hỗ trợ phiên bản mới nhất
+Name: KineMaster Premium
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: IPALibrary
+
 Package: com.BIENVANNHAT.letmeknow
 Architecture: iphoneos-arm
 Version: 1.4.3

@@ -6004,23 +6004,6 @@ Name: CrackTool4 (iOS 12/14)
 Author: julioverne <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienich1.png
 
-Package: com.supportjailbreak.cracktool4ios1214
-Architecture: iphoneos-arm
-Version: 4.1
-Section: Utilities
-Maintainer: BvnSupport <nhatbien97@gmail.com>
-Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./debfiles/com.supportjailbreak.cracktool4ios1214_4.1_iphoneos-arm.deb
-Size: 729414
-MD5sum: 4f22570066b58e9e0629534cc33889fb
-SHA1: 2a2b5a5851d51e712f1b4942c8afe5d57ae175f8
-SHA256: 38c187082aae1e7979bbec602130dd387b5a93fa6270169323762da0fb586c2d
-SHA512: eac83e892aba01502e4a8efafc1f5a129873df9d8111bd14a4e0ea83390f3749b64250d8a4bf3bb0209b5afd60c7ce135bda9c968423d22539de11bf3b515d2a
-Description: Crack Tweaks on one click
-Name: CrackTool4 (iOS 12/14)
-Author: julioverne <nhatbien97@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tienich1.png
-
 Package: com.supportjailbreak.appsyncunified
 Architecture: iphoneos-arm
 Version: 84.0

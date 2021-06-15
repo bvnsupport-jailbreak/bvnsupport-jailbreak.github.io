@@ -2507,6 +2507,24 @@ Name: HideJB MBBANK
 Author: IPALibrary
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.mbbank
+Architecture: iphoneos-arm
+Version: 9.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 10112
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.mbbank_9.4_iphoneos-arm.deb
+Size: 2420166
+MD5sum: 549f75b4a7c38cb231c71e19778dee96
+SHA1: 97bafcda1f1baa9cd4cd548f38c157d9780f755f
+SHA256: e40d3180a83707d0a896a343261f24057f6017cca4d096e453e4ee2a252fa41e
+SHA512: 9ef64057d5933ae13ec3fbacafb4d6092324c85077b09130f221db1a2e8555d6c0db04d3d44055716873e53bf3f74c9c212c4609a455886eea89ca0ebbc5aaf4
+Description: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank,Hỗ trợ phiên bản 9.4
+Name: HideJB MBBANK
+Author: Laxus
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.merriam
 Architecture: iphoneos-arm
 Version: 2.0.0

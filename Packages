@@ -16,6 +16,23 @@ Name: azfLibrary
 Author: Azozz ALFiras
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1
 
+Package: com.BIENVANNBAG.libat
+Architecture: iphoneos-arm
+Version: 3.0
+Section: System
+Maintainer: Biện Văn Nhật
+Conflicts: net.kenhtao.libat
+Filename: ./debfiles/com.BIENVANNBAG.libat_3.0_iphoneos-arm.deb
+Size: 43516
+MD5sum: 628b57c5e9d9bf5e314b4b7985c4f591
+SHA1: eac0ad11a8b1f43ad74e3a9580bbb252aec1d2a3
+SHA256: d72eecf2787ba100062bc7251b3cdb8987cce32c9cef57b4a801114ef80d201b
+SHA512: fee4874fb8a1f70bca3d92f013cc3cfe86931f24089ee576dbe4cbb8dbf548c368cb63d3c24368a203ae105fedf7fa1d786de5c859daddbe4a9e5591130f422a
+Description: Kích hoạt AutoTouch!
+Name: LibAT
+Author: ReJail
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BIENVANNHAT.1one
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -834,6 +851,26 @@ SHA512: c9038edd8b55e9f819738b370e41fdaff3186ef07d6f18ab61c4927e32efa0b8188e1f96
 Description: Sau khi cài đặt, bạn cần mở AutoTouch trên màn hình chính và chọn Cài đặt > Giấy phép và nhấn vào tải xuống giấy phép đế kích hoạt AutoTouch. Ghi lại, phát lại, mô phỏng chạm/nhấn trên mọi nơi của thiết bị, chạy tập lệnh Lua. Phiên bản hiện tại được hỗ trợ cho iOS 9 - 14
 Name: AutoTouch VH
 Author: Kent Krantz
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.autotouch
+Architecture: iphoneos-arm
+Version: 10.3
+Priority: optional
+Section: Hack Game
+Maintainer: Biện Văn Nhật
+Installed-Size: 107052
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9), com.BIENVANNHAT.libat
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, net.kenhtao.autotouch, net.kenhtao.autotouch.inputtext
+Filename: ./debfiles/com.BIENVANNHAT.autotouch_10.3_iphoneos-arm.deb
+Size: 47834572
+MD5sum: 1d5b83039e2dfb35e67b058ab3560068
+SHA1: 78ffad149c84426cfce5a1df7b58a146a69d21b3
+SHA256: a428f55610b18905f9f2b30f696191adb3eb37119f99fb4ed46879323d7be51f
+SHA512: 107a047d35c2a020011498fadc99bb6dcdefd539a4cf54c889018b2aa990ed73a0d90d35a7637efca8f93acac0732006755f2424f32ab6961a5ce08c63ee2eb5
+Description: AutoClick cho iOS.Sau khi cài đặt, bạn cần mở AutoTouch trên màn hình chính và chọn Cài đặt > Giấy phép và nhấn vào tải xuống giấy phép đế kích hoạt AutoTouch. Ghi lại, phát lại, mô phỏng chạm/nhấn trên mọi nơi của thiết bị, chạy tập lệnh Lua. Phiên bản hiện tại được hỗ trợ cho iOS 9 - 14
+Name: AutoTouch VH
+Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.autotouch

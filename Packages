@@ -16,23 +16,6 @@ Name: azfLibrary
 Author: Azozz ALFiras
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1
 
-Package: com.BIENVANNBAG.libat
-Architecture: iphoneos-arm
-Version: 3.0
-Section: System
-Maintainer: Biện Văn Nhật
-Conflicts: net.kenhtao.libat
-Filename: ./debfiles/com.BIENVANNBAG.libat_3.0_iphoneos-arm.deb
-Size: 43516
-MD5sum: 628b57c5e9d9bf5e314b4b7985c4f591
-SHA1: eac0ad11a8b1f43ad74e3a9580bbb252aec1d2a3
-SHA256: d72eecf2787ba100062bc7251b3cdb8987cce32c9cef57b4a801114ef80d201b
-SHA512: fee4874fb8a1f70bca3d92f013cc3cfe86931f24089ee576dbe4cbb8dbf548c368cb63d3c24368a203ae105fedf7fa1d786de5c859daddbe4a9e5591130f422a
-Description: Kích hoạt AutoTouch!
-Name: LibAT
-Author: ReJail
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
 Package: com.BIENVANNHAT.1one
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -2165,6 +2148,23 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.letmeknow
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.letmeknow
+
+Package: com.BIENVANNHAT.libat
+Architecture: iphoneos-arm
+Version: 3.0
+Section: System
+Maintainer: Biện Văn Nhật
+Conflicts: net.kenhtao.libat
+Filename: ./debfiles/com.BIENVANNHAT.libat_3.0_iphoneos-arm.deb
+Size: 43516
+MD5sum: 6362a8967533d89e53bcc7131144fe7d
+SHA1: 13f3ac0148ade26fda26671b341dd47fc7202b0d
+SHA256: 7a4183a4000b284acc51eabce73d318e9292d6a4f41ead6a6258d13be3a131cc
+SHA512: 151e525d32a63ad1656a836526bda82e9b487488c0496b0e01e6ddc136b6ec3679d9256ff430b6c97aefb33f06c9991761fb5f0c0e663f7c383a451a82c70289
+Description: Kích hoạt AutoTouch!
+Name: LibAT
+Author: ReJail
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.libfah
 Architecture: iphoneos-arm

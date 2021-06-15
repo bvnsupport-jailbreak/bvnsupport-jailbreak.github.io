@@ -4418,6 +4418,24 @@ Name: Hack LOL Mobi
 Author: Samsiu
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn-supportjailbreak.hacklolmobi
+Architecture: iphoneos-arm
+Version: 2.3.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 448
+Depends: mobilesubstrate, com.ps.letmeblock, co.azozzalfiras.azflibrary
+Filename: ./debfiles/com.bvn-supportjailbreak.hacklolmobi_2.3.0_iphoneos-arm.deb
+Size: 200396
+MD5sum: 8e7e42c19860a89012b2fbe2adf85730
+SHA1: 7ee82eb4f12fde04c7e38675572a649a954184e2
+SHA256: 647338b6bdab28b8bf48c17fc0bd9c84b49de931eafa7f348fe74f05271885b8
+SHA512: e1e9970f3947c8cd16863870726b8695cf09e0ffe35acc0bdd2f1767ef24d9d4197fc87a5e487ac711d611b0b1096f29bf487f97d6b39b93501f159b196bbf7d
+Description: Hack LOL mobi Việt Nam
+Name: Hack LOL Mobi
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: IPALibrary
+
 Package: com.bvn-supportjailbreak.little11viethoa
 Architecture: iphoneos-arm
 Version: 3.4.5
@@ -5473,6 +5491,24 @@ Description: An awesome library to get current weather which provides by iOS Wea
 Tag: role::developer
 Name: libPDDokdo
 Author: Soongyu Kwon
+
+Package: com.ps.letmeblock
+Architecture: iphoneos-arm
+Version: 0.0.7.5R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debfiles/com.ps.letmeblock_0.0.7.5R_iphoneos-arm.deb
+Size: 8200
+MD5sum: 74bab0495cd48b0ac0e57d8586efef6f
+SHA1: f9ffa697108681a075054a3dd0fa53e478b112ab
+SHA256: 256294b81bbed46a8a357ed28169cb4742b858a6a7da67d95c7e47e9c825d429
+SHA512: d0468d48f64d118c1b3a4ffc36089123b8b605f4c0548bc9a82b6f8b74d7359ee2385801271cd1abb74a530698843d1366b86a106db9bd1bba69b893906abbfb
+Description: Make mDNSResponder care more about /etc/hosts
+Name: LetMeBlock
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: PoomSmart
 
 Package: com.rpgfarm.libapappview
 Architecture: iphoneos-arm

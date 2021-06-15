@@ -6004,6 +6004,23 @@ Name: CrackTool4 (iOS 12/14)
 Author: julioverne <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienich1.png
 
+Package: com.supportjailbreak.cracktool4ios1214
+Architecture: iphoneos-arm
+Version: 4.1
+Section: Utilities
+Maintainer: BvnSupport <nhatbien97@gmail.com>
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debfiles/com.supportjailbreak.cracktool4ios1214_4.1_iphoneos-arm.deb
+Size: 729576
+MD5sum: 839ea707d9d0313eb1e86ce8e8177a98
+SHA1: 95249ea3b5d9eeae010dc9b6d93ef004c6a16042
+SHA256: ce6b00ff0983ca1fe91677021a3019989b7b99fa873868e35ac086feabd0b970
+SHA512: ce69c20576ef037e0a574dce04d83e0dd38663cddf55841b192f43045d85a2f1966eb95acf616636871a08be4bd0c864564771dc112eb3d40308d465fc4ae48b
+Description: Crack Tweaks chỉ với một cú nhấp chuột,Phiên bản 4.1 hỗ trợ Crack All Tweaks Của IKARWAN,Ví dự như Tưeaks Youtubekiller và 1 số Tweaks trong nguồn:repo.ikghd.com
+Name: CrackTool4 (iOS 12/14)
+Author: fahlnbg/julioverne <nhatbien97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tienich1.png
+
 Package: com.supportjailbreak.appsyncunified
 Architecture: iphoneos-arm
 Version: 84.0

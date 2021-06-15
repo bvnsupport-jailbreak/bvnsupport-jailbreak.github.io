@@ -2708,6 +2708,26 @@ Name: NeonBoard Việt Hoá
 Author: ArtikusHG
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.neptune
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 378
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.neptune_1.2_iphoneos-arm.deb
+Size: 161028
+MD5sum: d8892f3b533db9ee3e51be7075e2be52
+SHA1: 197e0917f94b4b9a0c7e88c88144bd313cc96e3c
+SHA256: 27266799eb8c5705d44c96142a4694ab63f5b73cfdf4c76d7aaa10ba96358eee
+SHA512: 0398a8ce66ab4518c46fa51b03becc1d0f63ac1101aab85de536238d43c200526d6de4376c242d5ec6e767bb42895447a734842a92d62c33068c878d6338673e
+Description: Fake cử chỉ Iphone X trên Ios 12,Bật giao diện cử chỉ linh hoạt hiện đại của Apple trên tất cả các thiết bị.
+Tag: purpose::extension, compatible::ios12
+Name: Neptune for iPhone VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Duraid Abdul <feedback.100@icloud.com>
+dev: duraidabdul
+
 Package: com.BIENVANNHAT.no2theft4
 Architecture: iphoneos-arm
 Version: 1.3

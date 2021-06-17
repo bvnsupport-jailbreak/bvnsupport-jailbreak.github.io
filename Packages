@@ -16,6 +16,28 @@ Name: azfLibrary
 Author: Azozz ALFiras
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1
 
+Package: com.BIENVANNHAT.1notify
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 3623
+Depends: firmware (>= 12.0), mobilesubstrate, ws.hbang.common, preferenceloader, ws.hbang.alderis (>= 1.0)
+Filename: ./debfiles/com.BIENVANNHAT.1notify_1.0_iphoneos-arm.deb
+Size: 2928162
+MD5sum: 6fc90c2e44cc5d1151bc02e7bec6ffe6
+SHA1: 3f1ed5f6fd8d402b21474740061aebd489a39332
+SHA256: 4d12d4fe71d6635d316924c15aaf53809a2415788ac67af516a3d81a41fc41bf
+SHA512: 7433e23a2b3c0eb7acd35d854ad048f0e7a17fa687eba898498bca61fc00b9a7d60f6ad785c29a31b4f096a743cc4048c300d2c9f6224121ac50609aa78ad581
+Description: Notification Your Way!
+Tag: purpose::extension
+Author: Mostafa89 <M_r19891989@yahoo.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: NotifyMe Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1notify
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1notify
+dev: mostafa89
+
 Package: com.BIENVANNHAT.1one
 Architecture: iphoneos-arm
 Version: 1.0.3

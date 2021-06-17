@@ -1,0 +1,42 @@
+<package>
+	<id>com.BIENVANNHAT.1notify</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thông báo NotifyMe Theo cách của bạn!  Giao diện mới cho Thông báo của bạn Hỗ trợ Checkra1n, Taurine, Odyssey và Uncover!  ARCHS = arm64 arm64e iOS 12 -13 - 14 </description>
+		<description>Tính năng: Bán kính góc tùy chỉnh cho các thông báo và biểu ngữ của bạn, do đó nó sẽ cung cấp cho bạn một giao diện mới.  Thêm Viền cho các thông báo và biểu ngữ với chiều rộng tùy chỉnh để hoàn thiện giao diện mới</description>
+		<description>Thêm Tiêu đề cho thông báo và biểu ngữ của bạn.  Màu tiêu đề thích ứng cho thông báo và biểu ngữ ((màu thông báo và biểu ngữ giống như màu ứng dụng biểu tượng)) Màu tiêu đề ngẫu nhiên cho thông báo và biểu ngữ.  Phát sáng Màu tiêu đề ngẫu nhiên cho thông báo và biểu ngữ thay đổi sau mỗi 3 giây Màu nền cho thông báo và biểu ngữ ((màu thông báo và biểu ngữ giống như màu ứng dụng biểu tượng)).</description>
+		<description>Màu nền ngẫu nhiên cho thông báo và biểu ngữ Màu nền tùy chỉnh cho thông báo và biểu ngữ Màu nền của thông báo và biểu ngữ thích ứng với hình nền.  Nội dung tùy chỉnh Màu văn bản trắng hoặc đen cho các thông báo và biểu ngữ.  Nội dung thích ứng Màu văn bản cho thông báo và biểu ngữ
+Vuốt sang trái để xóa tùy chọn thông báo Hiển thị hoặc ẩn biểu tượng ứng dụng trong thông báo và biểu ngữ.  Hiển thị hoặc ẩn ngày thông báo và biểu ngữ.  Hiển thị hoặc ẩn Tiêu đề của thông báo và biểu ngữ Tôi khuyên bạn nên sử dụng Màu phát sáng cho tiêu đề và Màu ngẫu nhiên cho nền rất đẹp. Nó Hỗ trợ Axon và Grupi và Dayn và notifll pro Hỗ trợ Chế độ tối và chế độ ánh sáng Bạn có thể xem thêm trong ảnh</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>1notify1.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>1notify2.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>1notify3.PNG</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>1notify4.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Lần đầu Phát hành</change>
+	</changelog>
+	<links></links>
+</package>

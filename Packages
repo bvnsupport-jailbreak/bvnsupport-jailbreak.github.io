@@ -7410,11 +7410,11 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/ru.rj.youtubelite_0.9.5_iphoneos-arm.deb
-Size: 89558
-MD5sum: 073c3af4b232f7cedb03d0e76dbe4584
-SHA1: df229312aafa6c745b6b5e241bcbabcab39a8a28
-SHA256: e85a4984c6469a9c3ad6701010bac9f1d13e7ba03d8263dd5438d967dbaf1f4b
-SHA512: 51d171d69d79650d4ae3d32d233a3ab7be83146489dfd790572817f602457b862ca3406bb8227439ffec55de96e65e5c7b296449a996c66d12b8e8f70ac76830
+Size: 89556
+MD5sum: 66b017fd1f38603df90a28861ddb9698
+SHA1: c35f04c0189f8b935d50628f4a34db24cc349788
+SHA256: f295b4d59837a7ca3da8c3b6a8301c2f07c0551dc5613e67cb69259fb745671e
+SHA512: 476bffa862f4958979cf9fd7f6d5efe7693d218452268c4ccbb5fa0a61632762069d0799e87b3b3a0733187496c382dce4cd55c2138bcff1c1c2fe3beaad201a
 Description: 
  - Tính năng:
  * Chặn quảng cáo 

@@ -2492,6 +2492,24 @@ Name: libundirect
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 dev: opa334
 
+Package: com.BIENVANNHAT.localiapstore
+Architecture: iphoneos-arm
+Version: 1.4.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Conflicts: net.kenhtao.localiapstore
+Filename: ./debfiles/com.BIENVANNHAT.localiapstore_1.4.5_iphoneos-arm.deb
+Size: 70924
+MD5sum: 8f6516912825bf7bb7d3b61305504f3e
+SHA1: baa6a5bceaa123233b8a1a83e765e5a81a9f2b5c
+SHA256: a1259a79360c876037919bd3da4488c7cb223d3a9dc897e95cddf9e4952ea802
+SHA512: e5001b18a7f35a70e42e46665552b6a0f37d645fc07cde644260ae815e7017c884a6d62a2483cc0cdfb58e2f590acd8e107a6340240abac707935b1e58261402
+Description: Bỏ qua thanh toán trong các ứng dụng App Store.Hỗ trợ ios 8-14.9
+Name: LocaliAPStore VH
+Author: Anondev
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.lottielockscreen
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -3998,16 +4016,16 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: com.BIENVANNHAT.tuanhanhquanhcao
 Architecture: iphoneos-arm
 Version: 2.4
-Section: Tiện ích cho Ứng Dụng
+Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Depends: mobilesubstrate(>= 0.9.5015), preferenceloader(>= 2.2.2), applist
 Conflicts: com.yourepo.lenglengyu.adsspeed
 Filename: ./debfiles/com.BIENVANNHAT.tuanhanhquanhcao_2.4_iphoneos-arm.deb
-Size: 205748
-MD5sum: 70bb59836841a6a355def59382634d24
-SHA1: c96f2e31936a0bf47c2402d8a42e8fcd217d58dc
-SHA256: 734e8e59f4076b03469b705307d0a33b14a2f59c1fd681c39c221314d7137db5
-SHA512: 0addbff56655d226147a4b1898bd7d51a72946f43dc9c45780ee5af95f002dd42cc8529850b800172b4b784395b1c3c9bd9b46ee4c17080bf1c1a12fecc3cb9b
+Size: 205730
+MD5sum: 2bea730d9a772899cb47d159a06a17c0
+SHA1: c79c1a01c4fd2cd0253afbf1ed1e7e526ba0d4b6
+SHA256: 4efc3150a86b05062a346c44c2f9f6693d960f27cca5c3c46e5727ffe61ecd98
+SHA512: a217128d153234bfd14f62eecae50ffffc09e86fd26b501d55d4ae3fdac128b4ed93e128c42c0c96f8187c283242748cfc4467500f3278509ae8d5f27a7b6cb2
 Description: Tua nhanh video quảng cáo trong ứng dụng và trò chơi.Hỗ trợ từ Ios 12=>14.5
 Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
 Author: lenglengyu <lenglengyu@126.com>
@@ -7041,21 +7059,21 @@ dev: Biện Văn Nhật
 Package: com.supportjailbreak.videoBG
 Architecture: iphoneos-arm
 Version: 0.6
-Section: Addons (Tweaks)
+Section: Tweaks
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 596
 Depends: mobilesubstrate
 Conflicts:
 Filename: ./debfiles/com.supportjailbreak.videoBG_0.6_iphoneos-arm.deb
-Size: 273706
-MD5sum: 19e5a9a62c9518d4584c5e8c44d85ab3
-SHA1: b097e1a124484c1f6f561b8afab9a8886d8d3c0a
-SHA256: 1b3e87095ea88ca747ecb3f05ce9911c0305d2013dc73db6032d2b7730c59dab
-SHA512: 28c9f46738f439198d29241bbaf0c8f332a9bcda04f52c8bd1763fc59d7c6ba80cd7b2619f424fbc8efad529e5f5e068ec83ba1abb804ac388acdf881c4d9d1f
+Size: 273692
+MD5sum: 558e7bdaf6436afd41ab1a7e11e441db
+SHA1: 60b208598310e7a14349a6ffa11a434f12a9052e
+SHA256: fa98239652c1df75a9f79c72d13796d230e9721c64af7793ee60c020538abb73
+SHA512: 51041ab7b276e7dc60330e2ce81be5ff9eae591abdb8351c6a4a55ded2ea3d74c54e54ed8025859b2d5bca254a614bc15049663fdff42a9a2dc6c8955b21948d
 Description: Thêm video quay màn hình của bạn vào khung Iphone
 Tag: cydia::paid
-Name: VideoBG VN
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Name: VideoBG VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: http://bvnsupport-jailbreak.githib.io/supersecret/depiction.php?iframe=depiction/videobg
 

@@ -1038,18 +1038,18 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 1440
 Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist, com.udevs.vexillarius
 Filename: ./debfiles/com.BIENVANNHAT.bakgrunnur_1.6.6_iphoneos-arm.deb
-Size: 396324
-MD5sum: 2f6b4c3c2bf4369db3d65917168709a2
-SHA1: adb6084eb9a690a2b6c81df988ddfc7b00a70405
-SHA256: 3173ad6660c433ef68b757ddbd123a23dfe5e63fae35eaa7a572796f25e8d63e
-SHA512: b5afe2e3a05929c5e3082f08cd9eb9c4f8e43bb4b6ac98991e530c765fa27d438fa1ee0407670c0d007be7ea97c0f1a2dd21b42bde20f1d4116e10004951cb65
+Size: 396326
+MD5sum: 37229611a8f3ad580189ead5b802bfe3
+SHA1: b6831eae2c293352e04beeed90f2ce94b96daf2d
+SHA256: 280a805ca38a92c90da13486cd073d4e3c535d859974d6b01a9a7227680c5831
+SHA512: c9b0463c812dc67f75d8737425ed3e5fb0b4c394cd6dad033288209597ac3efb2e18fc6ea5d5fd0846500fc4247e1f2bd3afdc2d9ee51760260151b9055b74d9
 Description: 
  - Tính năng:
  - Bakgrunnnur là một tinh chỉnh sẽ làm cho ứng dụng của bạn chạy vô hạn trong nền. Nó thậm chí hoạt động khi thiết bị của bạn bị khóa! Điều tốt về Bakgrunnur là bạn có toàn quyền kiểm soát cách các ứng dụng của bạn sẽ chạy. Khi mọi người nói rằng họ muốn các ứng dụng chạy mãi mãi trong nền, họ không thực sự có nghĩa là những gì họ có ý nghĩa. Hầu hết thời gian họ muốn các ứng dụng chạy trong nền trong một thời gian nhất định trước khi nó bị iOS chấm dứt.
  - Hỗ trợ ios 13 tới 14.5
 Name: Bakgrunnur VH
 Author: udevs
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.batteryflow-reborn
 Architecture: iphoneos-arm

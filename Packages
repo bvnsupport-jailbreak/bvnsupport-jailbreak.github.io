@@ -3215,16 +3215,16 @@ Section: Tweaks
 Maintainer: BvnSupport <nhatbien97@gmail.com>
 Depends: firmware (>= 14.0),  mobilesubstrate, com.rpetrich.rocketbootstrap, com.ex.substitute, applist, com.rpgfarm.libapappview
 Filename: ./debfiles/com.BIENVANNHAT.pulloverprofixios14_2.5~Beta_iphoneos-arm.deb
-Size: 1568934
-MD5sum: 498277ee7920f5b5674cb33da486337b
-SHA1: ee83c4f016eddb084815e4f43a13147232af61f5
-SHA256: bc257a9f8bb460c5fa46af913904340562ab1a667af969c92513d711db00ebd6
-SHA512: 5debbe05045bca8d39822ec153aa02dcffb8e2a1c0c87c872e2b69abeb76a4b8fea965750faad367f0b3731cc3b750e0b8dbc68687dfa8eb05b8ece0a2404fcb
+Size: 1568936
+MD5sum: ff2c1ffd64b5ff26274c28a2094f07b9
+SHA1: d1f528176704c12b623f2166f8251c36e0b2bca0
+SHA256: 3b62f63b9138acd2a802ef9a4ad70246fd0c2e46ffdf8ed62f4ce76c1b44fb79
+SHA512: 0106a51a8e7638e55b185d31edab7fcb17bbba0800700e25eb6e9d68f454cf58f9fa33352eaed1580726751e93d5f7029fd24b7d3da4ffd7c2fe882dcbc6e2e4
 Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!hỗ trợ ios 14.4-14.7.Phiên bản hỗ trợ Jailbreak bằng Checkra.
 Name: PullOver Pro 14 (Checkra1n)
 Conflict: com.supportjailbreak.pulloverprovitho
 Author: c1d3r <c1d3rdev@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.pulloverprofixios
 Architecture: iphoneos-arm
@@ -6775,15 +6775,15 @@ Section: Tweaks
 Maintainer: BvnSupport <nhatbien97@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
 Filename: ./debfiles/com.supportjailbreak.pulloverprovitho_2.1.1_iphoneos-arm.deb
-Size: 1562714
-MD5sum: 49adc5074566b83809cc5bfee45a891d
-SHA1: 6ef127b6abf16ebea97d385c275a88413adb1cbc
-SHA256: a6a0e8cfd091ea5861127055d9e192122a0d31fb7212080c27fb24d917aaf660
-SHA512: c8f8e73a6fe791aa3640da5b1f7d53a1a834c8881128f2e4717cd0ff38519404f74c98b766bd78080655619bb92de2cd63f5105232fbdb383dd8afc35ef0ec6c
+Size: 1562728
+MD5sum: b6a6c93909110ccd64b22afab9a60709
+SHA1: 946ecca4561d89f76c48b1e71a1f24c3d02121c0
+SHA256: 9edcbfe2d3e50a7348120cb365ec2833c0dfbde01dd39a2c47df62a1ca5e17e9
+SHA512: 85b712c7dba25d5feb3c35587524c8c70f457d456a82357322d504ab33b70000f370d1329a448317fb666892f7ad21e57d914c5284ea90d744779504ce2aca77
 Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!
 Name: PullOver Pro Việt Hoá
 Author: c1d3r <c1d3rdev@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.safariplusVN
 Architecture: iphoneos-arm

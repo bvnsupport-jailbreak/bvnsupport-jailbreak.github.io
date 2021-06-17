@@ -1679,10 +1679,10 @@ Installed-Size: 584
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
 Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.4.1_iphoneos-arm.deb
 Size: 270694
-MD5sum: 9bc46a241789e916c00eaeeaa9333269
-SHA1: 7b7ccda51dbd2774161b7e95b1cf866ef8affd16
-SHA256: 1589163dd935148b5a738b7b50ea2388f4e0c5e60bbd2f6c81386c1ee2778783
-SHA512: 6923196340e4d961951b1464b3c61b1e4ca0409487bece5d49ada8f82bbe18f0598694cd9771b1649c6287a1155f20286130921f1bf0a6f40157832b568946e1
+MD5sum: 8d566982c96b3af44ee951d0de683af2
+SHA1: fcedfc2bd0904038a1a24cdb0eb9615412bf2134
+SHA256: 660a4dbf16e5a63790dc539971f4f8a6761a627ea231a816330b8bfdd31d3254
+SHA512: 8fa7c3cf341d80ec64ff8cc1705d9d7403ffca529c46489e72325b72980c86593726a4d69d39eac52b74f0b7fa4cb3f28038d8e583665ceba76b42e622668e94
 Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
  Tính Năng:
  - Loại bỏ các quảng cáo
@@ -1818,11 +1818,11 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: mobilesubstrate
 Filename: ./debfiles/com.BIENVANNHAT.fbads_1.0.0_iphoneos-arm.deb
-Size: 11950
-MD5sum: bf36c2eaf696a31c90ea0cfd8f577ab8
-SHA1: 496058641f7246165dd68fe93a2696a3144e712a
-SHA256: 118bcc4c8290bd00db2ee7da304b0ece41e8b84a414284d46139313f7fb1f812
-SHA512: 27ef4ae798d4b3ce52ae7c44bc33eaddd37eb2f0be2a87a5b325e4a1db88c2be8c8fd6eece1374183aec1ac7cd90d6a3818267434c3f2310bb89301c7e6384e6
+Size: 11954
+MD5sum: b703b5b0d4b075c679bfb6229b5a3ee1
+SHA1: d5bed9eae1a3059b2ec1461b722ec502a7c8d8b1
+SHA256: e7baf64d53d47cd4fa469e6279e69f85935d61ca16c6ddb89fa4e31f0dcfc726
+SHA512: 179511879d9c48f2f5b626dc98120c3f64647184ea4c6b658e576043b51c90002fe2da5c491bad2f8d7a05fbc634417663fa673e5b96efeb3b2b565737d9e6d3
 Description: Xoá tất cả mọi quảng cáo Facebook
 Name: Chặn Quảng Cáo Facebook
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fbads

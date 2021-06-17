@@ -5145,17 +5145,18 @@ Installed-Size: 15576
 Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
 Filename: ./debfiles/com.bvnsupport-yt.cercube_5.2.25_iphoneos-arm.deb
-Size: 5460114
-MD5sum: d6165cbd945f4e1fda1511cd2dcb4b04
-SHA1: 95e04d058b250c5a460dbb53dcc783e062f95879
-SHA256: 4c38f375953bb29628589983255edf0de308aadd6bdc56328168b2fdf4f00a57
-SHA512: 391fa4fb31127e4b2e56599b7eabc4bde7f57f72a0124d3ed6311f9a8234d7e75b1246dcda0b6a3111a04faef9f45e2ae8bfadaeca136184468aedaa927433fa
+Size: 5460104
+MD5sum: 2d40af3fc170c72f6ab0775afb93edf5
+SHA1: cf6d99179b213803c2fcc79794eab66efe2db066
+SHA256: 632e84c2e6ff179d1fea92455108dabf21f4699aa7dcc3de49f3ae52012b50bf
+SHA512: 3bf3f82894da27942d2c6e6e9d98ef84ce66318eb1a03e4f6a9f4b69ea3fe284d1df5a068fd9a0b8e114f34fc401575dbab0831d2858fe4ff4df16eb6f289df1
 Description: Bổ sung tính năng hữu ích cho Youtube!
  Tính năng:
- - Bồ sung tính năng hữu ích cho Youtube * Không có quảng cáo trong ứng dụng Youtube 
+ * Bồ sung tính năng hữu ích cho Youtube 
+ * Không có quảng cáo trong ứng dụng Youtube 
  * Tải Video không giới hạn
  * Phát lại nền
- * Lưu ý,bạn cần đăng nhập & xác minh tài khoản Cercube để sử dụng các tính náng trên
+ * Lưu ý,bạn cần đăng nhập & xác minh tài khoản Cercube để sử dụng các tính năng trên
  * Hỗ trợ Ios 10->14.9
 Name: Cercube cho YouTube
 Author: Majd Alfhaily

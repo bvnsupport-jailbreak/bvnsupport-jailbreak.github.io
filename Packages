@@ -4229,12 +4229,12 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Filename: ./debfiles/com.BVNsupport-ytbhd.ytuhd_0.0.3.6_iphoneos-arm.deb
-Size: 6414
-MD5sum: 22c3f491c2c2c6a14696571e4f76f134
-SHA1: 1e3d22d5f53e7fccb279b8a139b837e6501a3b4d
-SHA256: 1628c4c835b5142125a1b6076a82a9f87295c26e635c2f386daff676c6c80c48
-SHA512: 07203d153ca59bc1bbc8a1838dfa06dcb68abcdf57ee6629b32dda85fa2ae2b8eb62a21bb31a0c9f7e6ef691c13bc9a24cf584caf8ab87dcc99007e2248b9f9d
-Description: Mở khóa độ phân giải 1440p và 2160p trong ứng dụng YouTube dành cho iOS.
+Size: 6436
+MD5sum: 148b5f549b5aeba7bd58fd84a7f02630
+SHA1: 6aa455c9450fa11f7ecc287633fd0ad6f2e802c6
+SHA256: 0c57b63317c03b10394def87c55db647fa4974fc8c2c3471e9919d49ba55a46b
+SHA512: 262e3794e1573a9cfbab584692677135035c7a3a515625fdf1fde406c0870693082162115882413e05834d9ec36496550fac14884f77dbc18381a136b330c572
+Description: Mở khóa độ phân giải 1440p và 2160p trong ứng dụng YouTube dành cho iOS.Hỗ trợ Ios 12 trở lên
 Name: YTUHD SW
 Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

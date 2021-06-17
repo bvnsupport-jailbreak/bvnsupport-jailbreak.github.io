@@ -2147,6 +2147,35 @@ Name: IconCert14 Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.instanoads
+Architecture: iphoneos-arm
+Version: 2.9.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 724
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), firmware(>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ./debfiles/com.BIENVANNHAT.instanoads_2.9.1_iphoneos-arm.deb
+Size: 418140
+MD5sum: 5a877ac6577d88a07f738227292989b2
+SHA1: 8be52ee420bcab12f3b1bff82f576b943dafc74b
+SHA256: 95b694516d7f30a56f1adffba485f05c4f0e98d7e54cd8c6984afa9107b82a36
+SHA512: f286d48195c21265e79a96b591a7f6a2ed2da072c1fbd91fddcb675ee0e2e28a025a2b68991dceaba0a551191d5723b5a37ccaea169f13baa2095c50d159adc8
+Description: Tinh chỉnh mã nguồn mở và miễn phí cho Instagram
+ Tính năng:
+ - Chặn quảng cáo (Nguồn cấp dữ liệu và Câu chuyện mới)
+ - Có thể lưu phương tiện (Ảnh, Video, IGTV, Câu chuyện, Câu chuyện, nhấn và giữ để hiển thị tùy chọn tải xuống)
+ - Có thể lưu ảnh hồ sơ HD (Nhấn và giữ để hiển thị tùy chọn tải xuống)
+ - Hiển thị số lượt thích
+ - Xác định xem người dùng có đang theo dõi bạn không
+ - Tắt đã xem tin nhắn & Tắt đã xem Story
+ - Tin nhắn trực tiếp phát lại không giới hạn
+ - Xác nhận trước khi Like
+ - Thêm khóa ứng dụng (sử dụng faceid / touchhid để mở khóa)
+ - Hỗ trợ iOS 12 - 14 và phiên bản Instagram mới nhất (> = 178.0)
+Name: Instagram No Ads
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
 Package: com.BIENVANNHAT.iosgodsiapcracker
 Architecture: iphoneos-arm
 Version: 1.0.3

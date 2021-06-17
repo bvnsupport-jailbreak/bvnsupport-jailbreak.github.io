@@ -1,0 +1,23 @@
+<package>
+	<id> com.BIENVANNHAT.enchant</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.2.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Nâng cao thông báo của bạn! Enchant thay đối giao diện của thông báo (Màn hình khóa cũng như Biểu ngữ) do đó mang lại cho chúng một giao diện tinh tế. </description>
+		<description>Các tính năng hiện tại: Giảm kích thước nội dung của thông báo, do đó giúp bạn nhận được nhiều thông báo hơn trên màn hình khóa Hiển thị nổi bật biểu tượng ứng dụng để bạn có thế nhanh chóng tìm ra ứng dụng mà từ đó thông báo đã xuất hiện. </description>
+		<description> Trong trường hợp hình thu nhỏ xuất hiện trong thông báo, hình thu nhỏ sẽ được ưu tiên hơn biểu tượng ứng dụng Thay đổi độ trong suốt đế bạn nhìn thấy rõ nội dung trên mọi nền hình nền phía sau Thay đổi giao diện bằng cách tùy chỉnh bán kính góc Tôi sẽ sớm nhận các yêu cầu về tính năng và thêm các tùy chọn khác!</description>
+		<description>Hỗ trợ Ios 13-15.0</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1575,6 +1575,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.ed
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.edge
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.enchant
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 460
+Depends: mobilesubstrate
+Conflicts: com.laughingquoll.quart
+Filename: ./debfiles/com.BIENVANNHAT.enchant_1.2.3_iphoneos-arm.deb
+Size: 78232
+MD5sum: e6776d5d1378c2927aa57d6d715eb74f
+SHA1: a82614a0b61083d2b0433987278638c101463a14
+SHA256: e6134b4438697bb09e41264b9a208f3cc1e9cc2af6316eb6fdd1dfa51c824569
+SHA512: d554929ee881e5a8ae9a0148b24f6e1e87a00ad2340d1229da125e71933c22a2944fd9f4ec6400316bd8b9f96626bd646669959b55e9d53691c19f31e6deeb61
+Description: Nâng cao thông báo của bạn!
+Name: Enchant Việt Hoá
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.enchant
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.enchant
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.eneko
 Architecture: iphoneos-arm
 Version: 1.3

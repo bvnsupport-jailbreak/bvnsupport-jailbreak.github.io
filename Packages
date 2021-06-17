@@ -1673,16 +1673,16 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm
 Version: 1.4.1
-Section: Block Ads Facebook
+Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 584
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
 Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.4.1_iphoneos-arm.deb
-Size: 270700
-MD5sum: 23c78a32d05e8e9426b79cfb0d05692d
-SHA1: 7c22bb1fd314a83c03b4409ac2c5cb3047506f24
-SHA256: 5b2074cfb531c0b3003efb6474665efdbe85684b590953f9acf957b480dd1b98
-SHA512: cc50d0ab1e0e25c70240fd88dea375e8cade027f4654decd90a8fb785899450535d4b9f28ecfabddfcd37725fbac4c63272544eb6c4c41bb7948a7dd7f45b304
+Size: 270694
+MD5sum: 9bc46a241789e916c00eaeeaa9333269
+SHA1: 7b7ccda51dbd2774161b7e95b1cf866ef8affd16
+SHA256: 1589163dd935148b5a738b7b50ea2388f4e0c5e60bbd2f6c81386c1ee2778783
+SHA512: 6923196340e4d961951b1464b3c61b1e4ca0409487bece5d49ada8f82bbe18f0598694cd9771b1649c6287a1155f20286130921f1bf0a6f40157832b568946e1
 Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
  Tính Năng:
  - Loại bỏ các quảng cáo
@@ -1814,15 +1814,15 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: com.BIENVANNHAT.fbads
 Architecture: iphoneos-arm
 Version: 1.0.0
-Section: Block Ads Facebook
+Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: mobilesubstrate
 Filename: ./debfiles/com.BIENVANNHAT.fbads_1.0.0_iphoneos-arm.deb
 Size: 11950
-MD5sum: bfcb4ad9887041a9bbe1e5d8ae3924bd
-SHA1: 8bcb6e43ef6b6e66301538b67f2108e2ed0545b8
-SHA256: 10d5085a32e6fe0144b98d258154c115c1272174846fe276181e33d201cd8525
-SHA512: e18fd31f8f97fb9714190204a2af8c2adebefe6dab00876005419d2a19f2b13d1dba29e7970dffdbe5777153b5052aac50bac7dd789ed2d5b2a79df477d730c9
+MD5sum: bf36c2eaf696a31c90ea0cfd8f577ab8
+SHA1: 496058641f7246165dd68fe93a2696a3144e712a
+SHA256: 118bcc4c8290bd00db2ee7da304b0ece41e8b84a414284d46139313f7fb1f812
+SHA512: 27ef4ae798d4b3ce52ae7c44bc33eaddd37eb2f0be2a87a5b325e4a1db88c2be8c8fd6eece1374183aec1ac7cd90d6a3818267434c3f2310bb89301c7e6384e6
 Description: Xoá tất cả mọi quảng cáo Facebook
 Name: Chặn Quảng Cáo Facebook
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fbads
@@ -4224,16 +4224,16 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: com.BVNsupport-ytbhd.ytuhd
 Architecture: iphoneos-arm
 Version: 0.0.3.6
-Section: Tinh chỉnh cho YouTube
+Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Filename: ./debfiles/com.BVNsupport-ytbhd.ytuhd_0.0.3.6_iphoneos-arm.deb
-Size: 6418
-MD5sum: 8893141a217b797fa55106d661d17ca5
-SHA1: 6262c2a89c5e7c17684fd7c11f89d9bfe6a4405e
-SHA256: 0488730f08b5c3afd19f29f658ffab6e982bf0604438e08dad3411fcd13197d6
-SHA512: 59a4caae5f44c5aa410a47524a78d7bd0aa3b04686d184d1c11a7cd04fa989bbbcd49e3640c4d6b332cd50fe11efa0d1fe6ca9423bb325e7595d686f790c958a
+Size: 6414
+MD5sum: 22c3f491c2c2c6a14696571e4f76f134
+SHA1: 1e3d22d5f53e7fccb279b8a139b837e6501a3b4d
+SHA256: 1628c4c835b5142125a1b6076a82a9f87295c26e635c2f386daff676c6c80c48
+SHA512: 07203d153ca59bc1bbc8a1838dfa06dcb68abcdf57ee6629b32dda85fa2ae2b8eb62a21bb31a0c9f7e6ef691c13bc9a24cf584caf8ab87dcc99007e2248b9f9d
 Description: Mở khóa độ phân giải 1440p và 2160p trong ứng dụng YouTube dành cho iOS.
 Name: YTUHD SW
 Author: PoomSmart
@@ -7405,16 +7405,16 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: ru.rj.youtubelite
 Architecture: iphoneos-arm
 Version: 0.9.5
-Section: Tinh chỉnh cho YouTube
+Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/ru.rj.youtubelite_0.9.5_iphoneos-arm.deb
-Size: 89566
-MD5sum: d961ac50eef3912f99536027fbb1aaf7
-SHA1: aba00f2e89b96cd2757e130838e85a1aa1c0c9ea
-SHA256: 6247d01607d46251d4a6f9b2a78d6c76f8d5c49135df69fc5280579c23c335a8
-SHA512: 516f81d280584bdab89a1bf497e2861bc231e9338f611ff18d96c2a3c114b416c0096e0d594cc7492c9798f9f4262c28e553f852bae0e23690e548e5e25e1292
+Size: 89558
+MD5sum: 073c3af4b232f7cedb03d0e76dbe4584
+SHA1: df229312aafa6c745b6b5e241bcbabcab39a8a28
+SHA256: e85a4984c6469a9c3ad6701010bac9f1d13e7ba03d8263dd5438d967dbaf1f4b
+SHA512: 51d171d69d79650d4ae3d32d233a3ab7be83146489dfd790572817f602457b862ca3406bb8227439ffec55de96e65e5c7b296449a996c66d12b8e8f70ac76830
 Description: 
  - Tính năng:
  * Chặn quảng cáo 

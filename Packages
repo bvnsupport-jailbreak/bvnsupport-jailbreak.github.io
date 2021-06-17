@@ -901,17 +901,17 @@ Package: com.BIENVANNHAT.autotouch
 Architecture: iphoneos-arm
 Version: 10.3
 Priority: optional
-Section: Hack Game
+Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 107052
 Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9), com.BIENVANNHAT.libat
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, net.kenhtao.autotouch, net.kenhtao.autotouch.inputtext
 Filename: ./debfiles/com.BIENVANNHAT.autotouch_10.3_iphoneos-arm.deb
-Size: 47834572
-MD5sum: 1d5b83039e2dfb35e67b058ab3560068
-SHA1: 78ffad149c84426cfce5a1df7b58a146a69d21b3
-SHA256: a428f55610b18905f9f2b30f696191adb3eb37119f99fb4ed46879323d7be51f
-SHA512: 107a047d35c2a020011498fadc99bb6dcdefd539a4cf54c889018b2aa990ed73a0d90d35a7637efca8f93acac0732006755f2424f32ab6961a5ce08c63ee2eb5
+Size: 47834562
+MD5sum: 0e488cd69d97fa32bc35554fa5b908ce
+SHA1: d8e8a1b573c03422ef7cc3031517996441852b18
+SHA256: 6a83c301daa48279aa3f2a4f3ab22f299b9c2aaca7696e855c914da7a42df6f5
+SHA512: 4305704346b6207fafdbe17973768f867f1bb15d1b4973336c571a14ac0fd0bf289e9f100c2422c1c3b8121c7b4a5666296f219d162741f77d0b7296e8150d26
 Description: AutoClick cho iOS.Sau khi cài đặt, bạn cần mở AutoTouch trên màn hình chính và chọn Cài đặt > Giấy phép và nhấn vào tải xuống giấy phép đế kích hoạt AutoTouch. Ghi lại, phát lại, mô phỏng chạm/nhấn trên mọi nơi của thiết bị, chạy tập lệnh Lua. Phiên bản hiện tại được hỗ trợ cho iOS 9 - 14
 Name: AutoTouch VH
 Author: Kent Krantz <kentkrantz@gmail.com>

@@ -659,6 +659,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.altstore
 Architecture: iphoneos-arm
+Version: 1.4.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 12.2), com.rileytestut.altdaemon
+Conflicts: com.rileytestut.altstore.alpha.jailbroken, com.rileytestut.AltStore
+Replaces: com.ichitaso.altstore
+Filename: ./debfiles/com.BIENVANNHAT.altstore_1.4.5_iphoneos-arm.deb
+Size: 4583890
+MD5sum: b1c4d1f1dd9f43d6b824626b69fba724
+SHA1: a85d0f639aa40ec90827ced35c2d75fe163f3b2e
+SHA256: f20dfb1fa263be2166ab8d311e46dfab6401621f7c1f9c172de39d5291ba5e6b
+SHA512: 6d4c1d87dbe37b3fe0da61bc73068d21354e95891ef2b0ca6b7e5f8c9c2650c0cc0ce698662e92b380cb81158feea6f4182ace1296524ab453c1dd50ab6ca530
+Description: Gia hạn và đăng ký chứng chỉ cho các ứng dụng.
+Name: AltStore
+Author: Riley Testut
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.altstore
+Architecture: iphoneos-arm
 Version: 1.4
 Section: Gia hạn chứng chỉ
 Maintainer: Biện Văn Nhật
@@ -1888,17 +1907,17 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: com.BIENVANNHAT.frontpage
 Architecture: iphoneos-arm
 Version: 1.6.4
-Section: Addons (Tweaks)
+Section: Tweaks
 Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
 Installed-Size: 2700
 Depends: mobilesubstrate, preferenceloader
 Conflicts:
 Filename: ./debfiles/com.BIENVANNHAT.frontpage_1.6.4_iphoneos-arm.deb
-Size: 982156
-MD5sum: 19acb7ff7478089ee5a51e245e578ace
-SHA1: 63214f5ee39556806da1c0054d0591b161f4bd3c
-SHA256: b4fb7bd51ab8a585cd86838062d38f76c30cb93dcb7dd62febf2a3083f41dee2
-SHA512: ea39ded33ff252e61c34fb775c6b3ff688ef13912a9f53fc51276b8cacf695f0e5c326f0bcc016a3df502180d2a2b3301e77eb461bc9922c2bc8c565fe627fe5
+Size: 982150
+MD5sum: 0f3e6503850622cf96d8b6a73ed1136c
+SHA1: 023256d9c7571d4319daa496d570d3acd52e3039
+SHA256: a2a3c13b045c38be92d6c10b1a99f672bfdb27ff6ad1641d1704d11ffbecfda8
+SHA512: 688d7a36015ef6cf47ee20f672f91776b337133ef4f8d493a82fd3527b2cde3ae6673f645fc9e2d7bb085f10987026f1dd135f5f21034e0d6153568fd5141a57
 Description: Powerful html for the springboard.
 Name: FrontPage Việt Hoá
 Author: JunesiPhone <junesgraphics@gmail.com>
@@ -2062,15 +2081,15 @@ Package: com.BIENVANNHAT.iGameGuardian8.3
 Architecture: iphoneos-arm
 Version: 8.3-1
 Priority: optional
-Section: Utilities_
+Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 15000
 Filename: ./debfiles/com.BIENVANNHAT.iGameGuardian8.3_8.3-1_iphoneos-arm.deb
-Size: 447130
-MD5sum: 6c9a24869b5722043406f06cd5ba9f35
-SHA1: 5026ed587740761d72cb26e1287de01ebad2942f
-SHA256: 31358403a3debf7e80e36e122a926ea3b6a89ee5f0336e752655159d09632d8e
-SHA512: 41dabb257636f7cc327b78c814dfd464a1a72af27cb8b52e45702887d7957870a1407f3b9ebed0b635151d4f0a93b3ea1670667d5d3ce2b2715f202062031716
+Size: 447132
+MD5sum: 9334d16a5d81106cd2fa0c260757ca77
+SHA1: 1fa74f79fe5b7bbd13a6e5721391a686782adb46
+SHA256: 1a3cd4d1785d929a8705479967bbe6ae1a17385cadaf76ff3756a1745f614539
+SHA512: fb5298203dc5cac67d16c65726650085f8e9a9c6666a6438f9a31bfc626a56d90218bd1fc8bb37c9b422580dd917cdab0fcb1dec368aa0a47b31faa825eb4bad
 Description: iGameGuardian là một công cụ gian lận trò chơi dành cho iOS 8.x/14.9
 Name: iGameGuardian VH
 Author: Aqua Wu <igameguardian@gmail.com>
@@ -3740,15 +3759,15 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: com.BIENVANNHAT.spotilife
 Architecture: iphoneos-arm
 Version: 1.2.3
-Section: Crack App
+Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Depends: mobilesubstrate
 Filename: ./debfiles/com.BIENVANNHAT.spotilife_1.2.3_iphoneos-arm.deb
-Size: 200434
-MD5sum: 901dab48b41e88682c45cc8ec980bd9b
-SHA1: 05d089858956bab9f4b92747a5039a7e8912eb2c
-SHA256: 665cddbd943334686fed7d1472e9420e58044d00e010de7b1b5f0a8c3ead9d94
-SHA512: 59810b34485959801bf439971ca9f7315ba1a4ec69cf7dc7ff8d486ae132353e35f9be27ae4ddf771251a4f21c3386b5e73f0ca263633597c529053a7b9f1156
+Size: 200430
+MD5sum: 9f125e6e12aced3989a7cba4f54d7006
+SHA1: 6f7374a1dfc20e0707295d3c446829caf44c4a83
+SHA256: 3f633dee830a417959b07795178b18cf03be0992041f43143138c5c74022b28f
+SHA512: a760680905b9d3ce087079dea458d268ed9c7598e3dd2090a50808b404b40c4ae50a04e062e059fa535a4c768d528a5917f90e4459f497447028fc9911361f47
 Description: Mở khóa tính năng cao hơn cho Spotify,loại bỏ quảng cáo,mở khoá luồn chất lượng cao.Hỗ trợ từ ios 8 tới 14.9
 Name: Spotify Premium
 Author: julioverne

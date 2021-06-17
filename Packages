@@ -1225,6 +1225,32 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNH
 dev: lucaluca86
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.cercube
+Architecture: iphoneos-arm
+Version: 5.2.25
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 15576
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debfiles/com.BIENVANNHAT.cercube_5.2.25_iphoneos-arm.deb
+Size: 5460110
+MD5sum: 52469629215ec7dcb51cf0f6869e249e
+SHA1: aa9e7d84a76327a0872249fd13a965307810a02c
+SHA256: 2bc050df4377fd48e42749acd0fe959312e2ed33024f44510411c59f7dfa2758
+SHA512: 3d243f5b9ba3cd51ed9a8cdf1b0e724b39f20909e3f8329a6c81b025b1ff2df73b4fa16cc0f7f929760fa3faa6a39ee60d7658896a47092cc431d51a6aad5083
+Description: Bổ sung tính năng hữu ích cho Youtube!
+ Tính năng:
+ - Bồ sung tính năng hữu ích cho Youtube * Không có quảng cáo trong ứng dụng Youtube 
+ * Tải Video không giới hạn
+ * Phát lại nền
+ * Lưu ý,bạn cần đăng nhập & xác minh tài khoản Cercube để sử dụng các tính náng trên
+ * Hỗ trợ Ios 10->14.9
+Name: Cercube cho YouTube
+Author: Majd Alfhaily
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.coolccVN
 Architecture: iphoneos-arm
 Version: 4.0

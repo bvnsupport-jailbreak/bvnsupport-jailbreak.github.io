@@ -6076,14 +6076,14 @@ Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.bvnsupportjailbreak.runroot
 Filename: ./debfiles/com.supportjailbreak.battsafevithoa_1.1.2.4_iphoneos-arm.deb
 Size: 121084
-MD5sum: 49af2695ca2e926657f57435328a8f53
-SHA1: 800025b9860682582738461af9a0d77c439be039
-SHA256: 23a61ffb15d196505ce119c35252134ee646da2a7592a296bef8ff5bc332668f
-SHA512: b8ca2359c34a3271f923293c51531bcdd562ab2c43cd74bdb453cdb57541da41768027c11ce0720279f782b0970e9a91afeb2450ab6c1e25afd0bc2cc79af84b
+MD5sum: c2a1f4ba747da233132124ea45276875
+SHA1: 89485a412576ffd3de8311e05ffec0924a47f93d
+SHA256: 82104f7ce1500772f5f2d2b3eb51bc5875ceea7bb37879dfa7d22e0c7965e7f2
+SHA512: c6f47bb3d9c97be5199cac4132a367dd7abc515b29612f4a736cab659240f4adbab9ae3fe221088e8b12f0bb2de08fd3b65b9634190a169d1d4edb8b22fa2f96
 Description: Kiểm soát mức sạc pin của bạn!
 Name: BattSafe Việt Hoá
 Author: udevs <nhatbien97@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.boxy4vn
 Architecture: iphoneos-arm
@@ -6250,15 +6250,15 @@ Maintainer: Bvnsupport
 Installed-Size: 3196
 Depends: mobilesubstrate
 Filename: ./debfiles/com.supportjailbreak.complications_3.4.5_iphoneos-arm.deb
-Size: 863984
-MD5sum: 343bbf7aef758d7f678473080299f312
-SHA1: a0387941edf7a05c8852b1b5efd41024c39fde95
-SHA256: cf8ca556533e3c9b0dd440239a8be2c7d3b9ad7cc01cc91e1ffc4e487af9a11c
-SHA512: 97a72db9a8b822d4453a96102b72f954afb229868b572e658ae2be8539be24a544b7f4994087c37f4b1bf36715696de60490d543bb67179916ac6f1c9d1b70e2
+Size: 863988
+MD5sum: 335d8fc430cf78353dac9b0540a4d6e0
+SHA1: ee6092fbe5f0960b6ea8a67ace5b1a318342bfc3
+SHA256: a1c295a78ec898bab6f7e90cd98a78edf86ee31b37748fe5b1e237b1fa8a9a4a
+SHA512: 340f0b5fcb00d036ec3a055d6af22baaddb0f1b4ccd55d2f5174e962a6ce703ae684d2494f3ca46f279893e49442aa312e89757a82139edf938f1502607c0a16
 Description: Tiện ích watchOS trên màn hình khóa của bạn
 Name: Complications Việt Hoá
 Author: Ben Giannis
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.copylogvietho
 Architecture: iphoneos-arm

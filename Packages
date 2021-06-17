@@ -16,26 +16,6 @@ Name: azfLibrary
 Author: Azozz ALFiras
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1
 
-Package: com.BIENVANNHAG.bakgrunnur
-Architecture: iphoneos-arm
-Version: 1.7.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 1448
-Depends: mobilesubstrate (>= 0.9.5000), firmware(>=13.0), com.opa334.ccsupport, com.opa334.altlist, com.udevs.vexillarius
-Filename: ./debfiles/com.BIENVANNHAG.bakgrunnur_1.7.1_iphoneos-arm.deb
-Size: 389810
-MD5sum: 3ac387839f07ba869b8c6c2f9f987cd0
-SHA1: e016b3c629648c963bb09bf5141f047e5318de67
-SHA256: bdb6e72a33b7b4e6531fda1f0e3ede224cba0a6229897bdd9bd711b27c7e4b26
-SHA512: 139524dbd184e9b270a499d3318b68cbbd5ec3bd7af3cc6082d4be260396f3ee889b6a0080db974813154d1ae7797c126b2da8c8fd39930783972c27c0c7e9f4
-Description: Làm cho ứng dụng của bạn chạy vô hạn trong nền.
- Tính năng:
- - Bakgrunnnur là một tinh chỉnh sẽ làm cho ứng dụng của bạn chạy vô hạn trong nền . Nó thậm chí hoạt động khi thiết bị của bạn bị khóa ! Điều tốt về Bakgrunnur là bạn có toàn quyền kiểm soát cách các ứng dụng của bạn sẽ chạy . Khi mọi người nói rằng họ muốn các ứng dụng chạy mãi mãi trong nền , họ không thực sự có nghĩa là những gì họ có ý nghĩa . Hầu hết thời gian họ muốn các ứng dụng chạy trong nền trong một thời gian nhất định trước khi nó bị iOS chấm dứt . - Hỗ trợ ios 13 tới 14.7
-Name: Bakgrunnur VH
-Author: udevs
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.1notify
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1084,6 +1064,26 @@ Description:
  - Tính năng:
  - Bakgrunnnur là một tinh chỉnh sẽ làm cho ứng dụng của bạn chạy vô hạn trong nền. Nó thậm chí hoạt động khi thiết bị của bạn bị khóa! Điều tốt về Bakgrunnur là bạn có toàn quyền kiểm soát cách các ứng dụng của bạn sẽ chạy. Khi mọi người nói rằng họ muốn các ứng dụng chạy mãi mãi trong nền, họ không thực sự có nghĩa là những gì họ có ý nghĩa. Hầu hết thời gian họ muốn các ứng dụng chạy trong nền trong một thời gian nhất định trước khi nó bị iOS chấm dứt.
  - Hỗ trợ ios 13 tới 14.5
+Name: Bakgrunnur VH
+Author: udevs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.bakgrunnur
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1448
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=13.0), com.opa334.ccsupport, com.opa334.altlist, com.udevs.vexillarius
+Filename: ./debfiles/com.BIENVANNHAT.bakgrunnur_1.7.1_iphoneos-arm.deb
+Size: 389818
+MD5sum: 37ca2a1c04fe80ee74c5cfe212edee5b
+SHA1: 0355042960b4d5a4407e787f5676f83ef281f3fb
+SHA256: a1d85a8631b26bc455b185d350db0b9629e466380b09d2430cc8c1f941aed3a1
+SHA512: cea62e5a77cf58c48dee5cfc813aef085424078dcfee220780cb33bab83813c8428c9a19816001c8b46e27806ce5fac3127df009d8bb9c9fbb557b99ebd56f4a
+Description: Làm cho ứng dụng của bạn chạy vô hạn trong nền.
+ Tính năng:
+ - Bakgrunnnur là một tinh chỉnh sẽ làm cho ứng dụng của bạn chạy vô hạn trong nền . Nó thậm chí hoạt động khi thiết bị của bạn bị khóa ! Điều tốt về Bakgrunnur là bạn có toàn quyền kiểm soát cách các ứng dụng của bạn sẽ chạy . Khi mọi người nói rằng họ muốn các ứng dụng chạy mãi mãi trong nền , họ không thực sự có nghĩa là những gì họ có ý nghĩa . Hầu hết thời gian họ muốn các ứng dụng chạy trong nền trong một thời gian nhất định trước khi nó bị iOS chấm dứt . - Hỗ trợ ios 13 tới 14.7
 Name: Bakgrunnur VH
 Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png

@@ -7065,17 +7065,16 @@ Installed-Size: 596
 Depends: mobilesubstrate
 Conflicts:
 Filename: ./debfiles/com.supportjailbreak.videoBG_0.6_iphoneos-arm.deb
-Size: 273692
-MD5sum: 558e7bdaf6436afd41ab1a7e11e441db
-SHA1: 60b208598310e7a14349a6ffa11a434f12a9052e
-SHA256: fa98239652c1df75a9f79c72d13796d230e9721c64af7793ee60c020538abb73
-SHA512: 51041ab7b276e7dc60330e2ce81be5ff9eae591abdb8351c6a4a55ded2ea3d74c54e54ed8025859b2d5bca254a614bc15049663fdff42a9a2dc6c8955b21948d
+Size: 273644
+MD5sum: 1c1bc3cc030d28ae4afb14f96a0ba2dd
+SHA1: 7e1e8349bd32aa921d0db09c47d14d72213aefd9
+SHA256: 6f3b2a210244c79836f3596a2329bb4688f6ed87f9d351dd23ccbddd1f35ae14
+SHA512: 8d64d628132661787331bb04f435d88d22c51a2d125b198ddfb1dd158bd1db7e0f37e5369b7a4a6e969cf180af2603c2e3e1b0323d3cb4cd83341859130a17a3
 Description: Thêm video quay màn hình của bạn vào khung Iphone
 Tag: cydia::paid
 Name: VideoBG VH
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JunesiPhone <junesgraphics@gmail.com>
-Depiction: http://bvnsupport-jailbreak.githib.io/supersecret/depiction.php?iframe=depiction/videobg
 
 Package: com.supportjailbreak.yobunprovietho
 Architecture: iphoneos-arm

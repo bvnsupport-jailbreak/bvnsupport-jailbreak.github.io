@@ -16,6 +16,26 @@ Name: azfLibrary
 Author: Azozz ALFiras
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1
 
+Package: com.BIENVANNHAG.bakgrunnur
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1448
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=13.0), com.opa334.ccsupport, com.opa334.altlist, com.udevs.vexillarius
+Filename: ./debfiles/com.BIENVANNHAG.bakgrunnur_1.7.1_iphoneos-arm.deb
+Size: 389810
+MD5sum: 3ac387839f07ba869b8c6c2f9f987cd0
+SHA1: e016b3c629648c963bb09bf5141f047e5318de67
+SHA256: bdb6e72a33b7b4e6531fda1f0e3ede224cba0a6229897bdd9bd711b27c7e4b26
+SHA512: 139524dbd184e9b270a499d3318b68cbbd5ec3bd7af3cc6082d4be260396f3ee889b6a0080db974813154d1ae7797c126b2da8c8fd39930783972c27c0c7e9f4
+Description: Làm cho ứng dụng của bạn chạy vô hạn trong nền.
+ Tính năng:
+ - Bakgrunnnur là một tinh chỉnh sẽ làm cho ứng dụng của bạn chạy vô hạn trong nền . Nó thậm chí hoạt động khi thiết bị của bạn bị khóa ! Điều tốt về Bakgrunnur là bạn có toàn quyền kiểm soát cách các ứng dụng của bạn sẽ chạy . Khi mọi người nói rằng họ muốn các ứng dụng chạy mãi mãi trong nền , họ không thực sự có nghĩa là những gì họ có ý nghĩa . Hầu hết thời gian họ muốn các ứng dụng chạy trong nền trong một thời gian nhất định trước khi nó bị iOS chấm dứt . - Hỗ trợ ios 13 tới 14.7
+Name: Bakgrunnur VH
+Author: udevs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.1notify
 Architecture: iphoneos-arm
 Version: 1.0
@@ -546,6 +566,24 @@ Name: A-Font Việt Hoá
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.a-font
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.a-font
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.adblockplus
+Architecture: iphoneos-arm
+Version: 1.5.7-1
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 184
+Filename: ./debfiles/com.BIENVANNHAT.adblockplus_1.5.7-1_iphoneos-arm.deb
+Size: 47144
+MD5sum: 391c9fcafa66132ecb26c20a6b095b97
+SHA1: 5253c59e86f4a761ccc66fa36ac196736c836228
+SHA256: 58edeefb85eb04e280210299306f6215b13b15b5de72fb64ab2e184851ccb452
+SHA512: 95ebbbfae643426e311d2f377672a5fd0308d89d7c447a8d6e36107feb33f32d3b3e7ba115b2c221c93614bf7421cfe620ffbd7b11f8d2111d715dbf7f57e7ce
+Description: Chặn quảng cáo trong các ứng dụng ++
+Name: AdBlock++
+Author: ReJail
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.adgpro

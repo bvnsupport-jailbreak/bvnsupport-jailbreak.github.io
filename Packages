@@ -3296,6 +3296,28 @@ Name: ProKeys Việt Hoá
 Author: Justin Proulx <justinproulxapps@outlook.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.prokeys
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: xyz.royalapps.realkeys
+Filename: ./debfiles/com.BIENVANNHAT.prokeys_1.1_iphoneos-arm.deb
+Size: 134712
+MD5sum: a3f1fd723ed4121ab74c935390db96d8
+SHA1: a49244254dc62a1a5fbcdf8d9052355942b50b8c
+SHA256: 84d2c748066725710fb6feb1bbc573422575e01bad1eb7edda9011f420fb63a0
+SHA512: 10e6e0b3cda2a1cda1482fef6492607fa762d3e9f91a87e42f066e63c4cb784cf21fffa1a1c39dcfe71924a98fc53dbd7c01b785984342ea63fd7290e23b21b3
+Description: Cải thiện bàn phím trên iOS của bạn.Hỗ trợ Ios 13->14.9
+ Tính năng:
+ - ProKeys là bàn phím RGB cho iPhone của bạn Bàn phím iOS không thay đổi nhiều kể từ iOS 7 . Đó là một bàn phím phẳng , nhàm chán . Nó có hai màu , tối và sáng . Không còn nữa ! ProKeys sẽ cải thiện bàn phím iOS của bạn . Bạn hoàn toàn có thể cảm nhận được mọi lần gõ phím , bạn có thể tùy chỉnh giao diện của bàn phím của mình , đồng thời bạn có thể thêm các hình ảnh động đẹp mắt để mọi chữ cái bạn nhập đều bật lên với màu sắc rực rỡ . Và để làm cho nó tốt hơn nữa , bạn có thể tinh chỉnh mọi tính năng để bàn phím của bạn hoàn hảo cho bạn ! Cách duy nhất để thực sự thấy những gì ProKeys có thể cung cấp là thực sự dùng thử , vì vậy bạn còn chờ gì nữa !
+Tag: compatible_min::ios13.0
+Name: ProKeys Việt Hoá
+Author: Justin Proulx <justinproulxapps@outlook.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.pulloverprofixios14
 Architecture: iphoneos-arm
 Version: 2.5~Beta

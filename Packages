@@ -566,6 +566,24 @@ Name: AdBlock++
 Author: ReJail
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.adblockplus
+Architecture: iphoneos-arm
+Version: 1.5.8
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 184
+Filename: ./debfiles/com.BIENVANNHAT.adblockplus_1.5.8_iphoneos-arm.deb
+Size: 46912
+MD5sum: 682a85144f6777c127f9935b83a5275b
+SHA1: d9c7f55b4fb79624cbb1f5f7086afc8582a6fcd6
+SHA256: 5e2d0cbd3b2935d788988d866dd9815d1abcb75daaad8f7d8bafa2b4abdd320b
+SHA512: 9dc9679b48b3ab3ae3729bcee34d1bd87e8c1a6ec9749125b561098368ad19673d3bf169ed9a6abd80b4bb9bc8ae578f6d26b6547e756fb220e5eb4aaaf87ad3
+Description: Chặn quảng cáo trong các ứng dụng ++
+Name: AdBlock++
+Author: ReJail
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.adgpro
 Architecture: iphoneos-arm
 Version: 0.0.1-3R
@@ -5210,6 +5228,33 @@ MD5sum: 2d40af3fc170c72f6ab0775afb93edf5
 SHA1: cf6d99179b213803c2fcc79794eab66efe2db066
 SHA256: 632e84c2e6ff179d1fea92455108dabf21f4699aa7dcc3de49f3ae52012b50bf
 SHA512: 3bf3f82894da27942d2c6e6e9d98ef84ce66318eb1a03e4f6a9f4b69ea3fe284d1df5a068fd9a0b8e114f34fc401575dbab0831d2858fe4ff4df16eb6f289df1
+Description: Bổ sung tính năng hữu ích cho Youtube!
+ Tính năng:
+ * Bồ sung tính năng hữu ích cho Youtube 
+ * Không có quảng cáo trong ứng dụng Youtube 
+ * Tải Video không giới hạn
+ * Phát lại nền
+ * Lưu ý,bạn cần đăng nhập & xác minh tài khoản Cercube để sử dụng các tính năng trên
+ * Hỗ trợ Ios 10->14.9
+Name: Cercube cho YouTube
+Author: Majd Alfhaily
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-yt.cercube
+Architecture: iphoneos-arm
+Version: 5.2.26
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 15576
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debfiles/com.bvnsupport-yt.cercube_5.2.26_iphoneos-arm.deb
+Size: 5461856
+MD5sum: fdde02a0d59aa282c0ab9a29100d985a
+SHA1: 66528b2cb613cfe63031598bc0f04c05418be162
+SHA256: de231719d0144397a7c2b8aea62011ea6a7f4f136fd15f9d93567d64c127802e
+SHA512: bd5058ba41d6e165883e824809314691f961ad397f2cc3b2522e0aa0ba1ea61a0dbf03ca9980f3c1a07a8afffb79b1e591de66944575e97fa40badb245fe94b0
 Description: Bổ sung tính năng hữu ích cho Youtube!
  Tính năng:
  * Bồ sung tính năng hữu ích cho Youtube 

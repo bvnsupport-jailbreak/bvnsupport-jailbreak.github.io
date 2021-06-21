@@ -5584,6 +5584,25 @@ Name: Fast-LS Việt Hoá
 Author: Plat-Ykor <plat-ykor@libero.it>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm
+Version: 1.5.6R
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 5420
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./debfiles/com.creaturecoding.libcspreferences_1.5.6R_iphoneos-arm.deb
+Size: 1733170
+MD5sum: 52a3032d53e584a1c713e986f268b2be
+SHA1: 27d2dad988a054f87bf80753bda2251c22e34c6a
+SHA256: 274560da3a9ad7e8229efcae01f3ad8d3a4d4893776cb715ec4c0b13ee5d518c
+SHA512: a4ca73649c9b4d0e6930b95bc813dd31d861a926ad11104220b71d1b663c6d5ab87b2cd6190707e2e48b944da49c4f59ec1ee25129c5a524c2e52597a00f3c0e
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iOS9
+Name: libCSPreferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -7579,6 +7598,26 @@ Name: plutil
 Author: Samuel Bingner
 Icon: file:///Applications/Cydia.app/Sections/hethong1.png
 Depiction: https://bvnsupport-jailbreak.github.io/index.php?pid=439
+
+Package: preferenceloader
+Architecture: iphoneos-arm
+Version: 2.2.7
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 526
+Depends: mobilesubstrate
+Conflicts: ru.rj.meredith, org.mr.meredith, org.mr.smartvolumemixer2, org.mr.smartvolumecontrol3, ru.rj.smartvolumemixer2, ru.rj.smartvolumecontrol3, ru.rj.appdatamanager, org.mr.multipla, org.mr.autotouch, github.io.gfp.veloxreloaded, github.io.gfp.veza, github.io.gfp.indy, github.io.gfp.aperio, org.mr.dra1n, org.mr.fabric2, ru.rj.fabric2, org.mr.filza, ru.rj.veloxreloaded, org.mr.veloxreloaded, org.mr.veza, ru.rj.veza, org.mr.indy, ru.rj.indy, org.mr.safeshutdownn
+Filename: ./debfiles/preferenceloader_2.2.7_iphoneos-arm.deb
+Size: 67834
+MD5sum: 77c69799a275e38902efffe9a511ff3d
+SHA1: cadf831cd8c8daad8dfecba8a0cf5cf8771b6622
+SHA256: 717ceda00b4e60257f114bf68b99140f26d631e4f73ed22c82f985e018dd4a5e
+SHA512: 24abf98721fe330d431b751411d895a8b842ab737f7e5a93434f54623b62378fd8b391d8637cd47f516622726a1ae559e3c80c1ffd63cc639259672091bae062
+Description: load preferences in style
+Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: PreferenceLoader
+Author: Sam Bingner <maintainer@sbdhi.com>
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: pro.ikghd.libkdev
 Architecture: iphoneos-arm

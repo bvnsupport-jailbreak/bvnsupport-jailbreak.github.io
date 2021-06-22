@@ -1201,6 +1201,33 @@ Name: CallBlocker Việt Hoá
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.calllogpro
+Architecture: iphoneos-arm
+Version: 14.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 6530
+Depends: mobilesubstrate, com.BIENVANNHAT.libiarrays (>= 1.0.13), com.rpetrich.rocketbootstrap
+Conflicts: com.iarrays.CallLogPro10, com.iarrays.CallLogPro81
+Filename: ./debfiles/com.BIENVANNHAT.calllogpro_14.1_iphoneos-arm.deb
+Size: 5965226
+MD5sum: afd11492d772ed159feb8b95b8b16994
+SHA1: 735277de44bd9d24a88f31e27c77f74ca31201a4
+SHA256: 97213b6c2706c3f11709590dcb978c42ffec080a1739eafe1853e03051be0c8c
+SHA512: 2f64329c56d8311687d976958766cb721e38a2ba1ff0d947b9f8141cfd0e4327055d4e467122b2f8822c2408aa862059e7c1d6432afc0bb5f5a40c870304b3df
+Description: Lưu lại nhật ký cuộc gọi của bạn trong 30 ngày qua.
+ Tính năng:
+ * Lưu lại nhật ký cuộc gọi của bạn trong 30 ngày qua 
+ * Sau khi cài đặt , bạn chỉ cần mở CallLog Pro từ màn hình chính và chọn Kích hoạt để kích hoạt 
+ * Mặc định Apple sẽ chỉ lưu lại nhật ký cuộc gọi của bạn trong một giới hạn và nó sẽ đè các số liên hệ mới lên 
+ * CallLogPro có thể lưu lại nhật ký cuộc gọi của bạn trong vòng 30 ngày 
+ * Nó tách biệt với ứng dụng điện thoại mặc định bằng một ứng dụng có tên CallLogPro trên màn hình chính của bạn 
+ * Còn nhiều hơn nữa mà bạn có thể tự khám phá .
+ * Hỗ trợ Ios 8 tới Ios 14.9
+Name: CallLogPro (iOS 8 - 14)VH
+Author: IArrays
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.cameramobile
 Architecture: iphoneos-arm
 Version: 0.0.4
@@ -2545,6 +2572,24 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Name: LibGcUniversal
 Author: MrGcGamer
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.BIENVANNHAT.libiarrays
+Architecture: iphoneos-arm
+Version: 1.0.15-beta-2
+Section: System
+Maintainer: Biện Văn Nhật
+Pre-Depends: firmware (>=7.0)
+Conflicts: com.iarrays.libiarrays
+Filename: ./debfiles/com.BIENVANNHAT.libiarrays_1.0.15-beta-2_iphoneos-arm.deb
+Size: 409418
+MD5sum: f9cfa7fb3472e95e4b85a61a2ab8f429
+SHA1: af5126f0fdf944e252ac4574646f27bf1aa2c1db
+SHA256: 836acdeff7a7a6f326245434e8b7554c9f191afd6b72a3c8e75920e300fcc5fb
+SHA512: c7ed610d5aabc2a77a6a3ba02a613fb61b25e756da84eba6146dd2be54342125d2a526a423a58463235101b08c4c6a479e7375c5a9b155588e7a2b58e73a3f7e
+Description: Crack tinh chỉnh của nhà phát triển IArrays!
+Name: libiarrays
+Author: IArrays
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.libjcx

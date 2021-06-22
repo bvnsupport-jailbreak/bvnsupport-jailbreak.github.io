@@ -7667,6 +7667,27 @@ Name: CopyLog Crack
 Author: TomT000
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: jp.soh.reprovision
+Architecture: iphoneos-arm
+Version: 0.6.2R
+Priority: optional
+Section: System
+Maintainer: Biện Văn Nhật
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: ./debfiles/jp.soh.reprovision_0.6.2R_iphoneos-arm.deb
+Size: 15957240
+MD5sum: 9cb6fe7095e8e64bc5196f884b6fca09
+SHA1: fb94c3c41d00e233f5ea03d9d4503c6f9858f7b7
+SHA256: f3b1a5f7ad93b3adb9e09e93b00df179edf6dab51d551409a3c2f4ce2c1792d0
+SHA512: c8eb67628ef94fbaef75aa3d0a558431cc41f80696bb0a20dc255476ba9cd3d239ebc76812b12c84afa67fdb05385cce65a2fbabf44b1c01380c762b7cc17e43
+Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
+Name: ReProvision Reborn VH
+Author: Soh Satoh, Matt Clarke
+dev: Matt Clarke
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: plutil
 Architecture: iphoneos-arm
 Version: 0.1.0

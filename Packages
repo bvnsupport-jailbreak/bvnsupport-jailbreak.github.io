@@ -1201,6 +1201,30 @@ Name: CallBlocker Việt Hoá
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.cameramobile
+Architecture: iphoneos-arm
+Version: 0.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 801
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.cameramobile_0.0.4_iphoneos-arm.deb
+Size: 188144
+MD5sum: 261481cb42d49c114e936485d3f966e2
+SHA1: e13605aafbb21b21b24064503c25ac556e248919
+SHA256: fd0f281a9605648d44d62da44a5a1542f48100bcc26c15ead277cd60200e72e8
+SHA512: da0d6d3e4b414cf1b6cc1de10cd3c1c3cbfb7c057389a22f2dbba25613af4daa7be764a20e4f2f3afb536ce417a0c346981e23041046ff6a239dc75d98aa515b
+Description: Ẩn Camera Bar,không có cấu hình tinh chỉnh trong cài đặt
+ Tính năng:
+ * Ẩn Camera Bar,không có cấu hình tinh chỉnh trong cài đặt
+ * Hỗ trợ Ios 12 tới Ios 14.9
+Tag: purpose::extension
+Name: CameraMobile VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: mohammed alshehri
+dev: moshehri83
+
 Package: com.BIENVANNHAT.carplayenable
 Architecture: iphoneos-arm
 Version: 0.0.2

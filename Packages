@@ -1144,6 +1144,33 @@ Author: ItzNebbs
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.batteryflow-reborn
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.batteryflow-reborn
 
+Package: com.BIENVANNHAT.betteralarm
+Architecture: iphoneos-arm
+Version: 1.2.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 388
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debfiles/com.BIENVANNHAT.betteralarm_1.2.6_iphoneos-arm.deb
+Size: 76756
+MD5sum: 4b1f0a3ef4b364cb2a3775157f42e4a0
+SHA1: e1fe80c48b59a3751bb298db13a60c42aacfcaa2
+SHA256: 68b2abd908e181ba7e78ad13d8ed14c76c4ce726382a4b1ea87c6f8b3ccc7e71
+SHA512: 0fa38a6fd7486bcf0492860d2884a2a5ed470f8036f1ffb55876e3ea980f15c61f63b0b9ca8119bd53c348c6895b9a0c04f5a510849379e799379c2e4112d5e2
+Description: Cải tiến cho báo thức và đếm giờ trên iOS của bạn!
+ Tính năng:
+ * Một bộ đếm thời gian và màn hình báo thức hoàn hảo BetterAlarm là một đại tu hoàn chỉnh của bộ đếm thời gian và màn hình báo thức iOS . 
+ * Thay vì hai nút dừng / báo lại nhỏ , khó phân biệt , giờ đây bạn có hai nút chiếm toàn bộ màn hình
+ * Màu nền sáng sẽ giúp bạn tìm nút bên phải trong vòng một giây , ngay cả khi bạn vẫn còn nửa ngủ 
+ * Không còn cố gắng xác định những gì được viết trên các nút nhỏ đó , hoặc - thậm chí tệ hơn - vô tình nhấn nhầm nút 
+ * Tính năng Báo lại thông minh cho phép bạn xác định số lần báo lại tối đa cố định . Mỗi lần bạn nhấn nút báo lại , lần báo thức tiếp theo tắt nút báo lại sẽ nhỏ hơn một chút so với trước
+ * Khi bạn đã sử dụng lần báo lại cuối cùng của mình , sẽ không còn nút báo lại nữa , buộc bạn phải nhấn nút dừng và chỉ cần đứng dậy .
+ * Hỗ trợ Ios 13=>14.9
+Tag: compatible_min::ios13.0
+Name: BetterAlarm Việt Hoá
+Author: NoisyFlake
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.bioprotectxs
 Architecture: iphoneos-arm
 Version: 4.6

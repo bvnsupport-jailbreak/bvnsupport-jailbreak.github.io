@@ -3650,6 +3650,23 @@ Name: SafariTabs14
 Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.satella
+Architecture: iphoneos-arm
+Version: 2.2-1
+Maintainer: Biện Văn Nhật
+Installed-Size: 344
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debfiles/com.BIENVANNHAT.satella_2.2-1_iphoneos-arm.deb
+Size: 71102
+MD5sum: add2a0ac3f8130a94eb6dd0baa9aee31
+SHA1: 527a052db72e232a5bc17303e357f20966a3bd1b
+SHA256: 4ff565115333f1e0f54ca88f55b4d39bf77d8f6b7452e575dc89b354715a4c39
+SHA512: fda926464d92cb4efd00eb08f2c4a3b3aff78d23998ac923f414fe756ad71b02288986d883797f891c536acbfdb7885aa862b131de5b8fb0073609b1c557254e
+Description: * Mua inapp tựa như LocaliAppstore. Dành cho 1 số game ofline ( không phải tất cả nhé ) Hỗ trợ ios 12=>14.9
+Name: Satella Việt Hoá
+Author: paisseon
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.scribble
 Architecture: iphoneos-arm
 Version: 2.0.2

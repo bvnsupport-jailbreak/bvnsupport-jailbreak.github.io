@@ -1050,6 +1050,40 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.backupaz4
 Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 13.0), coreutils-bin, dpkg, shell-cmds
+Filename: ./debfiles/com.BIENVANNHAT.backupaz4_1.2.1_iphoneos-arm.deb
+Size: 12955854
+MD5sum: 17032fd454f6fb40d52fa525244a2776
+SHA1: 934e3362c50f046896d84a8c1e750bb1f8fd573f
+SHA256: e09feff89693530b8984a0280d66eed1a11f027b0deac07d419f56bfa71c1d62
+SHA512: 9138cd47582378e16c4350e8a1299d93e38ec0f0d543122d89435cc2eb9853e68c956fdbcaab5a6e2ac918cc744beedfd218c5f18f4d3cd8eba1ed20a93b60eb
+Description: Trình sao lưu dữ liệu tốt nhất cho thiết bị của bạn.
+ Tính năng:
+ * BackupAZ quay trở lại vào lần khác với phiên bản mới bao gồm nhiều tính năng hơn , khả năng tương thích tốt hơn với các phiên bản hệ điều hành mới hơn , giao diện được làm mới và tất nhiên là độ ổn định tốt nhất . Tại sao phải sử dụng iTunes để sao lưu thiết bị khi bạn có BackupAZ ? Ứng dụng này có thể lưu tất cả các dữ liệu này ( tại thời điểm này)
+ * Gói Cydia đã cài đặt 
+ * Deb của các chỉnh sửa được cài đặt của bạn trong phiên bản mà chúng hiện đang được cài đặt !
+ * Nguồn Cydia Tùy chọn Tweaks và Ứng dụng Apple 
+ * Tài khoản 
+ * Lịch sự kiện Lịch sử cuộc gọi Sổ địa chỉ 
+ * Dữ liệu sức khỏe 
+ * Thư viện iBooks 
+ * Thư 
+ * Tin nhắn và iMessages 
+ * Ghi chú Ảnh và video Dấu trang Safari 
+ * Cài đặt SpringBoard 
+ * Ghi nhớ giọng nói 
+ * Thư thoại 
+ * Để khôi phục ! BackupAZ sao lưu dữ liệu trong vị trí Safeguard iTunes nhưng để bảo mật thì tôi khuyên bạn nên sao lưu những dữ liệu này trên máy tính từ đường dẫn sau : 1. Các bản sao lưu của bạn sẽ được lưu và khôi phục bằng bảo vệ iTunes tại var / mobile / Library / Preferences / BackupAZ
+ * Các bản sao lưu của bạn sẽ không bị xóa khi khôi phục rootFS , cho phép bạn khôi phục các gói sau khi đã thay đổi bản bẻ khóa của mình bằng cách khôi phục bản sao lưu rootFS ban đầu của bạn tại / var / mobile / Documents / BackupAZ Nếu bạn muốn khôi phục bản sao lưu của mình sau khi bạn đã lưu nó vào máy tính thì hãy thay thế thư mục BackupAZ trong đường dẫn trên . Bạn cũng có thể tải các bản sao lưu của mình lên Dropbox từ ứng dụng ! Cảnh báo : Một số ứng dụng yêu cầu khởi động lại ( chẳng hạn như ứng Hôm nay)
+Name: BackupAZ 4 (Ios 13 - 14)VH
+Author: SynnyG
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.backupaz4
+Architecture: iphoneos-arm
 Version: 1.2R
 Section: Tweaks
 Maintainer: Biện Văn Nhật

@@ -5990,6 +5990,26 @@ Name: libMiRO
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.miro.libmiro
+Architecture: iphoneos-arm
+Version: 1.0.18R
+Section: Development
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 1676
+Depends: firmware (>=12.0), com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.miro.libmiro_1.0.18R_iphoneos-arm.deb
+Size: 461088
+MD5sum: ac80028f85a08fe2e2b3f63e3d26e022
+SHA1: 6dd027067a90e34452de3d5f744384b5fb38f812
+SHA256: 00900918ab142aa8f2db269fa0fdd9111df00556860aa26f27fed63d2c6e043b
+SHA512: ac8906e4df38ed88defb6616d0f32de13b5003501a12e61719189dbda9f2915add932cf6ca287e2904ce897b4a5a6c66fe44afdece008177ae1c35e6db2b4921
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios12, compatible_max::ios14
+Name: libMiRO
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.miro.libmiroprefs
 Architecture: iphoneos-arm
 Version: 1.0.4
@@ -6065,6 +6085,25 @@ Description: Một tinh chỉnh dịch thuật hiện đại nhất hiện tại
 Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Name: Tranzlo (13-14)VH
 Cònlict: com.bvnsupport.tranzlovh
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.miro.tranzlo
+Architecture: iphoneos-arm
+Version: 3.2.1R
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 5340
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debfiles/com.miro.tranzlo_3.2.1R_iphoneos-arm.deb
+Size: 2659174
+MD5sum: c45be7c8337e354c7dbb9b4cd8b73349
+SHA1: d1762878e8c1f2ff38cd6f3a6fdf0e72f9ef56c2
+SHA256: 65d89f95f4532c740dbbc178e33dd65459ca05b4a944a0335aae08b28822a37f
+SHA512: f28cd57ef8a81e40fd0104b67ad6b15e360eb9c4f992f75d0a4a686bed4c0edbd26ccf687093d80e8ceafe2d634ca96c3d7321dcc711f6f99666718f3f44673c
+Description: Một tinh chỉnh dịch thuật hiện đại nhất hiện tại,hỗ trợ ios 13-14,các bạn ios 12 nên sử dụng Tranzlo Việt Hoá phiên bản: 3.0.5
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo (13-14)VH
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 

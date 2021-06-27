@@ -1,0 +1,28 @@
+<package>
+	<id>com.BIENVANNHAT.shortmoji2</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.1.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>* Shortmoji là một tinh chỉnh tất cả trong một cho bàn phím ios Các tính năng chính</description>
+		<description>* Dịch : Một tính năng rất lớn và hữu ích cho phép bạn dịch mọi thứ một cách nhanh chóng mà không cần phải rời khỏi ứng dụng hiện tại hoặc nhấn vào nhiều nút </description>
+		<description> * Giao diện bàn phím theo sở thích ( Kích thước chữ , Màu bàn phím , Chiều cao bàn phím , vv . ) . Thêm 3 loại màu tự chọn , Razer / Chroma / RGB và màu biểu tượng dựa trên ứng dụng với 2 cài đặt cho Chế độ sáng và Chế độ tối </description>
+		<description>* Phím tắt : ( ví dụ : giữ chữ V để dán hoặc giữ chữ C để sao chép ) . - Cài đặt thanh Home ( Đặt chiều rộng , chiều cao , .. .. vv ) . Bố cục bàn phím iPhone X cho các thiết bị không có cạnh</description>
+      <description>* Hỗ trợ Activator Actions và Filpswitch bật tắt ( yêu cầu phải cài đặt Activator và Filpswitch ) - Khả năng thay đổi bất kỳ biểu tượng phím tắt nào bằng cách chọn hơn 1600 biểu tượng từ các biểu tượng hệ thống iOS</description>
+      <description>** Hỗ trợ các hành động Nhấn một lần , Nhấn đúp và Nhấn lâu tùy chỉnh cho tất cả các phím tắt , nút Toàn cục / Biểu tượng cảm xúc và Nút chính tả
+ * Khả năng nhập , xuất và chia sẻ cài đặt của bạn với bạn bè một cách rất dễ dàng </description>
+      <description>* Tôi không thể liệt kê tất cả mọi thứ nhưng đó là một số tính năng đáng để làm nổi bật , chỉ cần cài đặt nó và dùng thử
+* ^^Hỗ trợ Ios 13-14.9</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

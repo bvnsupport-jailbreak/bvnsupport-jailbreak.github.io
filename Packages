@@ -3686,6 +3686,28 @@ Tags: compatible_min::ios13.0, compatible_max::ios14.3
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.BIENVANNHAT.shortmoji2
+Architecture: iphoneos-arm
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2700
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.miro.libmiro (>= 1.0.16), com.miro.libmiroprefs (>= 1.0.4)
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.ya7yajb.shortmoji, com.miro.shortmoji
+Filename: ./debfiles/com.BIENVANNHAT.shortmoji2_1.1.5_iphoneos-arm.deb
+Size: 953596
+MD5sum: dd213c295f621f6a842d7541c22b0290
+SHA1: d7eaea18e6551bcdce941bdd681aab699ac9b0ca
+SHA256: c8e6d5acc00cc514b875d18c6eb43f81fe1a50bf655ff458188366c64ace2544
+SHA512: 7d1b0d65a6f4c049001363f1fe26d353f49b96877c8e3b9c18042f2b8a114d3ca62f068342b3e8f8f64b79d262cc00da644047bc0f1ff5c680cf96e0247a855e
+Description: Một tinh chỉnh tuyệt vời cho bàn phím của bạn.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Shortmoji 2 VH
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.shortmoji2
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.shortmoji2
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.shuffle
 Architecture: iphoneos-arm
 Version: 1.3.5

@@ -658,6 +658,27 @@ Name: AgentCamera VH
 Author: Adolfoi_
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.airaw
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 7352
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, firmware (>= 13.0), org.thebigboss.libcolorpicker, com.peterdev.libpddokdo
+Filename: ./debfiles/com.BIENVANNHAT.airaw_1.2_iphoneos-arm.deb
+Size: 6763042
+MD5sum: fbfd98d2a2bb0b7637651b0948148892
+SHA1: 18889ef74bcbfc030ed95a0f200d0cf2b5297f5a
+SHA256: 62930711971ddc54021f8bde55929af3e84fe5578d1353b8cf6dfbbb3b9d74ed
+SHA512: 05e6910b6a32ea3980eccfa6ccd33395bce3db51e51680971eb41b3bc3f9b7475c7d5683bef8f6b4f6fff2f60da068cae3a81b150ce40c5513aab654f9cf8090
+Description: Bổ sung các tính năng cho CarPlay.
+Tag: compatible_min::ios13.0
+Name: Airaw Việt Hoá
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.airaw
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.airaw
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.allowplaybackwhilerecordingscreensound
 Architecture: iphoneos-arm
 Version: 1.0.0

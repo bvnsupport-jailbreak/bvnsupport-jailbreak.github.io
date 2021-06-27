@@ -1,0 +1,23 @@
+<package>
+	<id>com.BIENVANNHAT.airaw</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Bố sung các tính năng cho CarPlay. Tinh chỉnh này cung cấp cho bạn các tiện ích mở rộng bố sung cho CarPlay. CarPlay thường hỗ trợ lưới biểu tượng 2 x 4 với tổng số 8 biểu tượng trên màn hình chính. Đối với một số người, điều này có thể là không đủ và đó là nơi Airaw có ích.</description>
+		<description>Bao gồm các tính năng sau</description>
+		<description> Chọn giữa 2 đến 4 hàng biểu tượng ứng dụng trên màn hình chính CarPlay Chọn giữa 4 đến 6 cột biểu tượng ứng dụng trên màn hình chính CarPlay Chọn kích thước biểu tượng. Ấn các tên biểu tượng trên màn hình chính CarPlay</description>
+		<description>Ấn hình nền tên biểu tượng ứng dụng trên màn hình chính CarPlay Chọn màu nền tên biếu tượng CarPlay .Ẩn các dấu chấm Chọn giữa Chỉ hình nền hoặc Trình chiếu hình nền Chọn một hình ảnh để sử dụng làm hình nền của màn hình chính CarPlay Chọn giữa chia tỷ lệ mặc định cho "vừa vặn" Ảnh bài hát làm hình nền Định dạng ngày và giờ trên thanh trạng thái</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

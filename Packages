@@ -8045,3 +8045,22 @@ Name: Zebra VH
 Author: Wilson Styres <wilson@styres.me>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: xyz.willy.zebra
+Architecture: iphoneos-arm
+Version: 1.1.20
+Section: Packaging
+Maintainer: Biện Văn Nhật
+Installed-Size: 16324
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debfiles/xyz.willy.zebra_1.1.20_iphoneos-arm.deb
+Size: 9839624
+MD5sum: f878fff1912b208503b1e90342cd868e
+SHA1: 889bdd83c1b75d57855b78731ded5666b0e82d70
+SHA256: 944d1c1c66857f0a5b39bab0aa7b6393ee600edb6245731587e04a927c134daa
+SHA512: 8fba0fa77caee823366f042caca403e933785e00f0cd6bc29c57cba57616d31bc6bf3792bbd5375abcdf0c2f7a56c1740cff7660d5ba04c08446a2610669068f
+Description: Trình quản lý gói hữu ích cho bạn.Có thể dùng chung nó với Cydia và Sileo.Hỗ trợ từ ios 10-14.9
+Tag: compatible::9.0-14.9
+Name: Zebra VH
+Author: Wilson Styres <wilson@styres.me>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+

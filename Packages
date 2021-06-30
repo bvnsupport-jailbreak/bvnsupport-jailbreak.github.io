@@ -3279,6 +3279,25 @@ Name: NtSpeed VH
 Author: Julioverne
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.onesettings
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate (>= 0.9.5000), com.BIENVANNHAT.libgcuniversal, ws.hbang.common, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.onesettings_1.0.2_iphoneos-arm.deb
+Size: 992214
+MD5sum: 701333c6feb422ff81a572e7750f17ab
+SHA1: 8c55f49e1706f1ea75e6bdc3eaeb255a525b06ff
+SHA256: d9d330c5a06d666267d1a55b30e3378b91b481d8d64f13575c4f6d41d664e515
+SHA512: e778102cf77db2b0cfc5cc20d2ffd9e20f4ce749a50bd8402d0278a883b4e3db2fa519f81c73ec0977411e5cc1133472291ebdce62cd730f076a7ed687554050
+Description: Cấu hình cho ứng dụng Cài đặt của bạn!
+Name: OneSettings Việt Hoá
+Author: Nightwind
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.onesettings
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.onesettings
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.orionappstoreapps
 Architecture: iphoneos-arm
 Version: 1.0.0

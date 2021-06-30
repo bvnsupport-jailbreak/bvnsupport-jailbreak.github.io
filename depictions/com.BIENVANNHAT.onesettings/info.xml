@@ -1,0 +1,23 @@
+<package>
+	<id>com.BIENVANNHAT.onesettings</id>
+	<name>Biện Văn Nhật</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>OneSettings là một tinh chỉnh cho ứng dụng Cài đặt.</description>
+		<description>Nó bắt chước ứng dụng Cài đặt từ OneUl của Samsung sang iOS! Bạn đã bao giờ muốn ẩn thanh tìm kiếm và ô tài khoản iCloud?</description>
+		<description>Với OneSettings, bạn có thể làm được điều đó! Có rất nhiều tính năng và khả năng tùy chỉnh trong gói ưu tiên cho sở thích của bất kỳ người nào. </description>
+		<description>Phụ đề cho các ô trong bảng? Chắc chắn rồi! Nền cài đặt tùy chỉnh? Tại sao không? Nội tiếp bảng xem và bán kính góc? Tất nhiên! Số lượng lưu trữ giả mạo? Vâng! Có rất nhiều, nhiều tính năng và hơn thế nữa sẽ có trong các bản cập nhật!</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

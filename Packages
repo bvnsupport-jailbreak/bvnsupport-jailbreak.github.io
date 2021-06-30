@@ -2918,6 +2918,27 @@ Name: Destra Việt Hoá
 Author: Jax Roth
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.macpass
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, ws.hbang.common
+Filename: ./debfiles/com.BIENVANNHAT.macpass_1.1_iphoneos-arm.deb
+Size: 248820
+MD5sum: f3100e4a675508d553bbd91809c5f342
+SHA1: 81e6798da8b050ea7a0d22e6c6d9d66a3c426a2c
+SHA256: 00f9fc04f05dca2d04ce9c79b2d1c063a54662d68da5ce345322744189e2d128
+SHA512: 9b47adc18ec8a67b00a9b2ca9851ae586b48927b30e52a7d449250141ac44fadf84f139544994a803111b5953ef084950153c78c1636d767304629280a753351
+Homepage: https://Bvnsupport-jailbreak.github.io
+Description: Màn hình đăng nhập MacOS cho iOS!Hỗ trợ Ios 13->14.9
+Tag: role::enduser
+Name: MacPass Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Tags: compatible_min::ios13.0, compatible_max::ios14.6
+Author: ETHN <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
+
 Package: com.BIENVANNHAT.mbbank
 Architecture: iphoneos-arm
 Version: 1.2.3R
@@ -6150,6 +6171,24 @@ Name: Tranzlo (13-14)VH
 Cònlict: com.bvnsupport.tranzlovh
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.muirey03.libimagepicker
+Architecture: iphoneos-arm
+Version: 1.0.4R
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 324
+Filename: ./debfiles/com.muirey03.libimagepicker_1.0.4R_iphoneos-arm.deb
+Size: 33492
+MD5sum: 4c81e014fb32773cd8ba732ed7cf96c2
+SHA1: 79ec82159b2eabf504177ba7e65598bfb851f718
+SHA256: d1e5832bcca6e69e1bfc2028dd0cd87d243dca0d19e54768592b89e339f2483f
+SHA512: 9a7cd030240f6a2faacc63947194872fa99d141b38671357372d5104037daaee7a226cf36c71e4e9da33126a73055b591687e1122b1a9a74dfac7b4e6c453ef2
+Description: A simple library for choosing images in preference bundles.
+Tag: role::developer
+Name: libimagepicker
+Author: Muirey03
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.peterdev.libpddokdo
 Architecture: iphoneos-arm

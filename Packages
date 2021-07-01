@@ -3015,6 +3015,24 @@ Name: HideJB MBBANK
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.mediawidget
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn nhật
+Installed-Size: 1704
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.BIENVANNHAT.mediawidget_1.0.1_iphoneos-arm.deb
+Size: 1120216
+MD5sum: e83d01e81c71cc8022577498267271d1
+SHA1: 8d15e46b87647d8300d75a904451003300471eea
+SHA256: 7a39aafc9363a9c4929be4f45ede5108e971fc3aa937c40e34acb9675237f3ab
+SHA512: c74e16820ed10321d172ba30b531308985cdfa9b327a91e0d8088aace7689711002695f98d18fd1fa0e284bb3b868b4cb55ccaa39722051012d50d0c8feaea45
+Description: Hiển thị điều khiển nhạc trên màn hình chính.
+Name: MediaWidget VH
+Author: Ginsu
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.merriam
 Architecture: iphoneos-arm
 Version: 2.0.0

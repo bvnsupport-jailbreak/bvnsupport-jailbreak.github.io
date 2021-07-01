@@ -2646,16 +2646,16 @@ Installed-Size: 300
 Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
 Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
 Filename: ./debfiles/com.BIENVANNHAT.libgcuniversal_1.3.2_iphoneos-arm.deb
-Size: 78000
-MD5sum: c7765a62a247670886deba63242b5627
-SHA1: d91f751c3731133ab353b58f67598436ce5526e8
-SHA256: b909895071f4909160100c5d6c8e79138ef9bdd3f6bb72390626aa7c532df29d
-SHA512: 8390f92132a10e5072893978ee129819024582d34323ca194b6adf7a7b4892664456a719818c16f8933e0d74695398fe3e55f33cf41fc1875c4ba96c4add5e83
+Size: 77998
+MD5sum: 6d974cb5c9000aecfc0edbf47fff5215
+SHA1: 4e83fb0bbf3238b5fccbaefc7f28b4a7ba45448e
+SHA256: 5d32f881a2257ea48f97475ac4706b48b74c6802ab0de689281dfb6d1d81fe31
+SHA512: a2cc7ed3eab60fa63aa6afd17217ab6885423f4bca0250b03f99260a58edfe8a6132085e3d334386b230b7d49239b981e28334cde12c129fbf17d5ca42dfbb65
 Description: An awesome library of some sort!!
 Tag: role::developer
 Name: LibGcUniversal
 Author: MrGcGamer
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.libiarrays
 Architecture: iphoneos-arm

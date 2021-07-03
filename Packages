@@ -4529,6 +4529,24 @@ Name:  Cleaner PRO VH
 Author: Önder Azazi <onderazazi@hotmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.tweakcount
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.tweakcount_1.0.1_iphoneos-arm.deb
+Size: 12668
+MD5sum: 5e99828749ba56ce2d59a560d5fb28a8
+SHA1: 2c6d8788a3ec0f61c5555dfa0920a1f78dce366a
+SHA256: 9e7cc2e569afbbeee41f5fa0faf3e2ceb6b7050efdda5edf51effebc3f948538
+SHA512: fac658a362370da707cfee70f2438fea6754e8a37e12b1b459afca924511564754ddad77cc2bffb4861b0eef3b8ec484e7a41980cd907e66fea00d7be13343bb
+Description: Xem bạn đã cài đặt bao nhiêu tinh chỉnh trong tùy chọn của mình ...
+Name: TweakCount VH
+Author: LacertosusDeus <LacertosusThemes@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.tweaksettings
 Architecture: iphoneos-arm
 Version: 1.0.4

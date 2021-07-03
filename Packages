@@ -4270,6 +4270,24 @@ Name: Spotify Premium
 Author: julioverne
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.spotilife
+Architecture: iphoneos-arm
+Version: 1.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate
+Conflicts: com.julioverne.spotilife, net.kenhtao.spotilife
+Filename: ./debfiles/com.BIENVANNHAT.spotilife_1.6_iphoneos-arm.deb
+Size: 220034
+MD5sum: 5ffd651a8f45f59fb30afbb866e69156
+SHA1: cc608529ab1f25a10c8623cbc04e4b8a7cd91fa5
+SHA256: 1c0121722486ba192d2d5bba3b37b5ab2c24997309917c0b7a67c70a50ada7e3
+SHA512: 8843f7d92dcd52339e51ae8fa56a11eda1d65d3619b0832cfe9bb610f8d63c00d9dc9d71b4cdd0bed1da8dfc162b2c07290289f597fff92d3e93e011808f95ec
+Description: Mở khóa tính năng cao hơn cho Spotify
+Name: Spotify Premium
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.strangerwp
 Architecture: iphoneos-arm
 Version: 1.0

@@ -3244,14 +3244,16 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 872
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), org.thebigboss.libcolorpicker
 Filename: ./debfiles/com.BIENVANNHAT.nineunlock_1.0.3_iphoneos-arm.deb
-Size: 524442
-MD5sum: 361d1fbb03702e2d06630518e95f7a36
-SHA1: d6ebb9997ac7e5724b9186650e1de316a7c74ed2
-SHA256: c18961d7bb8922e74eb05b1ea131ae1905668294d0041e5bc66c876ca193ab73
-SHA512: 10524ab99440fe3dfdccf4c1999843442a105b744f5a48fda7613de118ed9b404ad0c0d873748cb0677f38b05b33a4869153313a26ca848d7ba7fbd12856e24e
+Size: 524498
+MD5sum: 6befc8fa62ec962d857edaf486bee537
+SHA1: 437f61cb20728cb587cb33c3de76f0b8fdf3bdbe
+SHA256: 2f1606fc760e06abf284a0d2c771283551bd800a24250ac3fe21cd837a9ee49a
+SHA512: 8fa07641cbee4d86bd8dd0b66d7857f61d197a847e388ac4dcbddab6eb8241bf655c3796dcb0c11d32c06482ea5d6543030104e4cbb781eb7b1b062a9a41828e
 Description: Mang phong cách "Trượt để mở khóa" của iOS 9 lên iOS 13&14!
 Name: NineUnlock VH
 Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/info/NineUnlock VH/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/info/NineUnlock VH/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.no2theft4

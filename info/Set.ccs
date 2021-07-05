@@ -9,7 +9,7 @@ html {
 
 @font-face{
   font-family: 'Gineso';
-  src: url(Win10Clock/Boss/Gineso.ttf);
+  src: url(AssistiveTouchX/Bvn/Gineso.ttf);
 }
 
 body{

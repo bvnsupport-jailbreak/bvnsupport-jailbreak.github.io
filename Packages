@@ -16,6 +16,24 @@ Name: azfLibrary
 Author: Azozz ALFiras
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1
 
+Package: com.BIENVANNBAT.runaway
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debfiles/com.BIENVANNBAT.runaway_0.0.6_iphoneos-arm.deb
+Size: 31638
+MD5sum: a49a4a10c89b93b60143cd34e0fa4ed6
+SHA1: fd106943884777ed14d50930fc2d57881d05caa3
+SHA256: 28c99c9545e255227d1ffd405df000402efc983d4eeeb5447bd072af2e2bce73
+SHA512: dfc78c68a5a5ff8f572038c305adc0f8e3e1acdf83784f4d363161fddd2968145e72cbb21841d62ce478eb859c18b781f81d08d7da958b5e13cd59e00d283b7b
+Description: Hiển thị tốc độ mạng trên thanh trạng thái của bạn.
+Name: Runaway Việt Hoá
+Author: ned
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.1notify
 Architecture: iphoneos-arm
 Version: 1.0

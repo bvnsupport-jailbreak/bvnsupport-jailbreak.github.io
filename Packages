@@ -5754,28 +5754,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytb
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bvnsupport-ytbkill.youtubekiller
-Architecture: iphoneos-arm
-Version: 3.2.6
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 2356
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.supportjailbreak.cracktool4ios1214
-Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
-Filename: ./debfiles/com.bvnsupport-ytbkill.youtubekiller_3.2.6_iphoneos-arm.deb
-Size: 936422
-MD5sum: 432b5c96d5450e0ff891ac84fa27ea26
-SHA1: 36085ba254a3f35e06055769bed4889d820111ea
-SHA256: 3cca220f43f41c6c9f46c35c0b1c04c3cbbcd49b50c7ecbbbe4358ea103974a5
-SHA512: 3dec36534e7f75edd21e99e9103f07ca8f6ba1797ba983704f922f9b7b74874d80866021d14f4037ff0ab7b3b550cfbcadde7d2f557353079d5733cfdfee0d03
-Description: Youtube app no ad’s background playback iPad UI style and much more !
-Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios14.6
-Name: YouTubeKiller Việt Hoá
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
-Author: iKarwan <ikg_hd@bk.ru>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.0

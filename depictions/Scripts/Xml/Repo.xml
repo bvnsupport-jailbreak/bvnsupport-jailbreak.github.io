@@ -1,8 +1,19 @@
 <repo>
 	<footerlinks>
 		<link>
+			<name>Ủng hộ tôi qua PayPal</name>
+			<url>https://www.paypal.com/paypalme/repocydiaBVN/</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>Tham gia Group Thủ thuật Jailbreak</name>
+			<url>https://m.facebook.com/groups/3752444134882121/?ref=group_browse</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+		<link>
 			<name>Theo dõi tôi trên Facebook</name>
-			<url>https://www.facebook.com/SUPPORT.BVN.VN</url>
-			<iconclass>fa fa-facebook</
+			<url>https://www.facebook.com/SUPPORT.BVN.VN/</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
 	</footerlinks>
 </repo>

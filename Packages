@@ -899,6 +899,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.arenaofvalor
 Architecture: iphoneos-arm
+Version: 19-1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 9728
+Depends: mobilesubstrate, com.thuthuatjb.hidejb
+Filename: ./debfiles/com.BIENVANNHAT.arenaofvalor_19-1_iphoneos-arm.deb
+Size: 2419662
+MD5sum: a06f812659d112f79c53c68e6dabd78a
+SHA1: e5ca8c80833f9c2779377e50ca1f74ceb7d3abab
+SHA256: d8364098a8adb4dea055237413ece61257a4860520f2ed93e08cb6bf1603d92c
+SHA512: 515f7c2f6717a4e25e70ac284969a244b2c40841a9bfb36219f5198cff019b533d08e0d4ecea4a189ddb4e1649613d45eaf6889febc2accbeb58bf36c32f7deb
+Description: Hack map liên quân .Sử dụng tk IosGod hoặc facebook để sử dụng,khi cài Tweak này sẽ kèm theo Tweak"Hidejb" sau khi cài xong bạn vào cài đặt bật Ứng dụng Liên quân lên tránh bị Band Acc nhé.
+Name: Hack Map Liên Quân
+Author: Laxus
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.arenaofvalor
+Architecture: iphoneos-arm
 Version: 19
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
@@ -7962,6 +7980,27 @@ Homepage: http://twitter.com/ijulioverne
 Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục các nguồn và tinh chỉnh trực tuyến,chặn quảng cáo và nhiều chức năng khác!
 Name: CyDown
 Author: julioverne <julioverne@me.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.thuthuatjb.hidejb
+Architecture: iphoneos-arm
+Version: 2.1.1R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1929
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 7.0), ws.hbang.common (>= 1.13.1), applist, preferenceloader
+Filename: ./debfiles/com.thuthuatjb.hidejb_2.1.1R_iphoneos-arm.deb
+Size: 425962
+MD5sum: 0773b341c12e8e120cf1ac5520a06ab4
+SHA1: 6e1a4c202a21f2db272f61259711dc796f52ea03
+SHA256: 150050221fae9a527bdfec19011e7dfe3a306dbdcd4ac45f049567125f5c3dfe
+SHA512: b4f191866ca394be84d24f03ea0a5a59d4e1b1ffc7af59d47c1f66b0a19d62dca4c2c7f5faf1358466f3e4a2c6c7831c87757c9704c2b7a324a5e28de7197759
+Description: Chặn phát hiện Jailbreak
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidejbDp
+Author: TTJB Team <admin@thuthuatjb.com>
+Name: HideJB
+dev: thuthuatjb
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.udevs.vexillarius

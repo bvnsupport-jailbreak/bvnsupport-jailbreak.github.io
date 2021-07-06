@@ -8258,6 +8258,22 @@ Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
 
+Package: xyz.coolstar.wzrypj
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/xyz.coolstar.wzrypj_1.0.1_iphoneos-arm.deb
+Size: 932108
+MD5sum: 8cdb32858ed0951d8d249a0b9a8fcc0c
+SHA1: 8a9407676cfa001b06d24222c2c8914068768667
+SHA256: 65a897b2673baef5a217f3c4e6b15d599b2d9ac46ddfaf90a9284822d528e93a
+SHA512: 86b19e85017c3cf0decb8ac89051ad24d80927bc8eb448a03793be1a37f537374e113e213f70d763964ea3b80f43e5164a5544c6bfdee98954fefdf1cc2aeb7d
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Hack Cam Xa Liên Quân
+Author: 1
+
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
 Version: 1.1.15

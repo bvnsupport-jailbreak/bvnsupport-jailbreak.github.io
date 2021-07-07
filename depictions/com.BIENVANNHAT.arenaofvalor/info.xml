@@ -1,0 +1,23 @@
+<package>
+	<id>com.BIENVANNHAT.arenaofvalor</id>
+	<name>Biện Văn Nhật</name>
+	<version>19</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Hack map liên quân mùa 19</description>
+		<description>Sử dụng tk IosGod hoặc facebook để sử dụng</description>
+		<description> Khi cài Tweaks Hack Map Liên quân sẽ kèm theo Tweaks"Hidejb"dùng để ẩn Jailbreak cho Ứng dụng Game Liên quân,sau khi cài xong các bạn vào cài đặt của Tweaks "Hidejb" bật ứng dụng Liên quân lên để ẩn Jailbreak</description>
+		<description>Mình đã test và sử dụng Tweak này ,nên anh em khỏi lo về vụ Band Acc nhé😁</description>
+	</descriptionlist>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>

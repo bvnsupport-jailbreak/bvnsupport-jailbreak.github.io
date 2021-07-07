@@ -905,14 +905,16 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 9728
 Depends: mobilesubstrate, com.thuthuatjb.hidejb
 Filename: ./debfiles/com.BIENVANNHAT.arenaofvalor_19-1_iphoneos-arm.deb
-Size: 2419662
-MD5sum: a06f812659d112f79c53c68e6dabd78a
-SHA1: e5ca8c80833f9c2779377e50ca1f74ceb7d3abab
-SHA256: d8364098a8adb4dea055237413ece61257a4860520f2ed93e08cb6bf1603d92c
-SHA512: 515f7c2f6717a4e25e70ac284969a244b2c40841a9bfb36219f5198cff019b533d08e0d4ecea4a189ddb4e1649613d45eaf6889febc2accbeb58bf36c32f7deb
+Size: 2419712
+MD5sum: 543e40eccfc90c5d6391319c93b82d63
+SHA1: 1a32bf08af177de616c38ab4a5714ccc962ed153
+SHA256: ba1af4b5c27bd38e8271a11c5bbf6f625f096cdf39a0100b8f7dbcdb5f6ef8b5
+SHA512: c79a5e474acd2933cfd751ea6205ab68d0e48727d42598ee1f0054c27d0446b16df4c5bf9bfd08e350f26252d1b7f09a12c5cf9188ce8f9c15afb93d614e590e
 Description: Hack map liên quân .Sử dụng tk IosGod hoặc facebook để sử dụng,khi cài Tweak này sẽ kèm theo Tweak"Hidejb" sau khi cài xong bạn vào cài đặt bật Ứng dụng Liên quân lên tránh bị Band Acc nhé.
 Name: Hack Map Liên Quân
 Author: Laxus
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.arenaofvalor
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.arenaofvalor
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.arenaofvalor

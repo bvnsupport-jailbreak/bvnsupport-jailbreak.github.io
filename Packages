@@ -5815,6 +5815,28 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytb
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-ytbkill.youtubekiller
+Architecture: iphoneos-arm
+Version: 3.2.5-2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2480
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis, com.supportjailbreak.cracktool4ios1214
+Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
+Filename: ./debfiles/com.bvnsupport-ytbkill.youtubekiller_3.2.5-2_iphoneos-arm.deb
+Size: 986692
+MD5sum: 9ecc452466a6ec1c6b50e236479dfdbf
+SHA1: e95ee6c8e9956f68482aa50712c54806fc64ad7f
+SHA256: 1c1b7fe38c486bc6264d93bd81f088e101640452cc1c152a47c1e9b702363a41
+SHA512: 30ba2c4bdab084aa26b2ec398bc11955bdf23931ded3bd808f409754fbd95cd61722733ce4f556fa5d4a0a88dc03a83b6f0cfa49c053ac34eb47d37c5fada7bd
+Description: Ứng dụng Youtube phát lại không có quảng cáo theo phong cách giao diện người dùng iPad và hơn thế nữa!
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios15.0
+Name: YouTubeKiller Việt Hoá
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.0

@@ -4740,6 +4740,27 @@ Name: Fix OTP SMS
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.uyou
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 3308
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.uyou_1.0_iphoneos-arm.deb
+Size: 1264704
+MD5sum: e588685a2cfefa4301fe97c40eaeab8b
+SHA1: 46f10dbc5182ae0615686fafa60328456f2052e3
+SHA256: ecdea84ebeab4a4a68a6924b5eabce32bd2e15537d797d7bf3723722697c6589
+SHA512: fe71b3d174b0d24df50d53972d718603c487453c5f009db5ce9157527f6c255710ddbf23ea0695d1fd6046c6a808c90e92c8216467547d586d84dad3129d545d
+Description: Trình quản lý tải xuống cho YouTube.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: uYou VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uyou
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uyou
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.BIENVANNHAT.wallpaperloader
 Architecture: iphoneos-arm
 Version: 1.1.1

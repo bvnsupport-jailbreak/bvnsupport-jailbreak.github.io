@@ -4742,6 +4742,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.uyou
 Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 3308
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.uyou_1.0.2_iphoneos-arm.deb
+Size: 1265974
+MD5sum: a49a5b2569eca9df2af0ca503a747261
+SHA1: 07a0220823d942efac344dc0c3ebb398d089d771
+SHA256: 3107db42728015e60a9afe29a5fc74174af79c1ca29363545cff6fcdfe164429
+SHA512: f811e8a3ac7856d998e049166fa4d0850e715828496a456ba88054d5bf357ddd18ad89f5754044948123a7b1f3c033d93f196f3d088027d1595598562d5478a1
+Description: Trình quản lý tải xuống cho YouTube.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: uYou VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uyou
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uyou
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.BIENVANNHAT.uyou
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Biện Văn Nhật

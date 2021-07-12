@@ -4740,6 +4740,27 @@ Name: Fix OTP SMS
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.uaupdatetools
+Architecture: iphoneos-arm
+Version: 1.2.0
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: ./debfiles/com.BIENVANNHAT.uaupdatetools_1.2.0_iphoneos-arm.deb
+Size: 850392
+MD5sum: d906f43884c0fc0568e2c734f4ed7e99
+SHA1: 7bf6dca3cdd2b2bc262ff8b52af8baf0c1bda3cb
+SHA256: ddafd5e3192b74f03c3dd693c61004957d918d57a1759f739f1a823e721c6e5e
+SHA512: fbe043489506be264305f3b536da5f7980e64e8e11011d082920d0906d4b71a3eb221377ce98af8e74e2e9a1ed8d1353ebdf819abdba22d1563d079860d50093
+Description: Hạ cấp ứng dụng iOS xuống bất kỳ phiên bản nào trước đó! Không cần AppSync !!!
+Name: App Admin VH
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uaupdatetools
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uaupdatetools
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: UnlimApps Inc.
+
 Package: com.BIENVANNHAT.uyou
 Architecture: iphoneos-arm
 Version: 1.0.2

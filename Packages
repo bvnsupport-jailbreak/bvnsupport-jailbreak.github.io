@@ -4749,11 +4749,11 @@ Maintainer: Biện Văn Nhật
 Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: it.marcocristalli.asupdatehider
 Filename: ./debfiles/com.BIENVANNHAT.uaupdatetools_1.2.0_iphoneos-arm.deb
-Size: 850392
-MD5sum: d906f43884c0fc0568e2c734f4ed7e99
-SHA1: 7bf6dca3cdd2b2bc262ff8b52af8baf0c1bda3cb
-SHA256: ddafd5e3192b74f03c3dd693c61004957d918d57a1759f739f1a823e721c6e5e
-SHA512: fbe043489506be264305f3b536da5f7980e64e8e11011d082920d0906d4b71a3eb221377ce98af8e74e2e9a1ed8d1353ebdf819abdba22d1563d079860d50093
+Size: 860634
+MD5sum: 702b14a4050c11db863152aca716429f
+SHA1: 16c78fa8c50bd029feac2f955b131d1ebd29e31a
+SHA256: e1c302202e42d72d29cd2c4d87e708089695bfed8adc28855577a315883dfd3e
+SHA512: 68bfc9a4bdbdc860f97bdb88ec3fed79fdc62d435e2c133f6add21a8313c25b843882968c85ed29e6794b426e4b219dab15f8889e58bdc2a1e8228d026d8524a
 Description: Hạ cấp ứng dụng iOS xuống bất kỳ phiên bản nào trước đó! Không cần AppSync !!!
 Name: App Admin VH
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uaupdatetools

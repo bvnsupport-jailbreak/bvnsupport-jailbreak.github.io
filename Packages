@@ -4763,6 +4763,27 @@ Author: MiRO <tweaks_support@miro92.com>
 
 Package: com.BIENVANNHAT.uyou
 Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 3444
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.uyou_1.0.4_iphoneos-arm.deb
+Size: 1295556
+MD5sum: ad541cff0201b06c73c1ed293e961c12
+SHA1: 576d7d080a332855f7106a3aca4a57118135fe7c
+SHA256: 7d328140e8a621042032f92fedcf9ac88618cdcdaa6762c22ad40b4112b51751
+SHA512: ec8134ec0e3d89dbc92c961e1403ab15188011a80a2de64dfae104509e2ca40918a36bc2dec46f8517f5a0f4f44831caa82ec806cb2f99d2000cdcc66eb8ae37
+Description: Download Manager for YouTube.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: uYou VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uyou
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.BIENVANNHAT.uyou
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Biện Văn Nhật

@@ -1755,6 +1755,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.dra1n
 Architecture: iphoneos-arm
+Version: 4.5.6R
+Section: Tweaks
+Maintainer: MegaDev & Amy While
+Installed-Size: 4000
+Depends: mobilesubstrate, firmware(>=12.2) | org.swift.libswift (>=5.0), ws.hbang.common,preferenceloader, com.cokepokes.libnotifications (>= 0.2-2)
+Conflicts: com.megadev.dra1n, com.amywhile.dra1n
+Filename: ./debfiles/com.BIENVANNHAT.dra1n_4.5.6R_iphoneos-arm.deb
+Size: 2158424
+MD5sum: 669c722ce0354d4d13dae52462220529
+SHA1: 0b986b9c4aaaa69d4f9a757e4a15e46d48e2b7d1
+SHA256: 30799524e446e5769f384475140156dbb9a29f465c42de8827199f6dd86d587e
+SHA512: 78293b83d652ac4dae0af16afa9c7ca599c9a27f14dbf58122bc36800b25432a6fe6b130553c6e56596f3e6c6ca50989b113b53020cd64c6d5ab7b4739d90467
+Description: Tìm xem gói nào đang làm hao pin của bạn!
+Name: Dra1n Việt Hoá
+Author: MegaDev & Amy While
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.dra1n
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.dra1n
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.dra1n
+Architecture: iphoneos-arm
 Version: 4.5.6
 Section: Tweaks
 Maintainer: MegaDev & Amy While

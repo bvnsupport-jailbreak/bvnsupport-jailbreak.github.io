@@ -41,7 +41,15 @@ Hỗ trợ trình phát mini để điều hướng dễ dàng hơn.
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Phiên bản mới nhất hiện tại</change>
+		<change>• Đã thêm hoạt hình vào Media Player. 
+• Đã thêm nút uYou trong hành động video chính. 
+Đã thay thế nút Tải về YT bằng nút uYou. 
+Đã thêm “Xóa quảng cáo trên YouTube". 
+• Đã thêm “Đổi tên" để đổi tên mọi video đã tải về. 
+• Đã thêm “Mở trong Filza" để mở video đã tải về trong ứng dụng Filza. 
+Sửa lỗi iPad bị treo. 
+• Định hướng trình phát cố định. 
+• Sửa lỗi và hơn nữa! </change>
 	</changelog>
 	<links></links>
 </package>

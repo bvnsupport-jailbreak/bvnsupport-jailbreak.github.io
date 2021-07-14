@@ -1601,6 +1601,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.diary
 Architecture: iphoneos-arm
+Version: 1.2R
+Section: Tweaks
+Maintainer: Kênh Táo
+Installed-Size: 5796
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.BIENVANNHAT.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures, net.kenhtao.diary, org.mr.diary
+Filename: ./debfiles/com.BIENVANNHAT.diary_1.2R_iphoneos-arm.deb
+Size: 3018080
+MD5sum: db3cb59b923d1b168661ea60df36260b
+SHA1: 20d1ea1e6cfbcdc2aed2879ce96aee8f76e17fd2
+SHA256: de6037b31e9ec1e30f9253313df174771a4766a4dece6094398a04fabb130712
+SHA512: b3fb0add867329664275c7703d4fb8a33318407149f179224b6e0d3cb26c5ef2c589a4f44c4c6492f806fe8e41974c8dfc408d05b5a2a1ab968a6c3deea8d19a
+Description: Màn hình khoá theo kiểu Windows 10 cho iOS.Hỗ trợ Ios 13->14.9
+Name: Diary Việt Hoá
+Author: Litten
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.diary
+Architecture: iphoneos-arm
 Version: 1.2
 Section: Tweaks
 Maintainer: Biện Văn Nhật
@@ -2809,25 +2828,6 @@ SHA512: 2e4b783d1c4e0c8d24886f89f611af0e88bc3c9e25e5f16896748b871906253a8c766904
 Description: Một thư viện được sử dụng bởi JacobCXDev.
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
-Package: com.BIENVANNHAT.libkitten
-Architecture: iphoneos-arm
-Version: 1.2.1
-Section: System
-Maintainer: Biện Văn Nhật
-Installed-Size: 172
-Depends: firmware (>= 12.0)
-Filename: ./debfiles/com.BIENVANNHAT.libkitten_1.2.1_iphoneos-arm.deb
-Size: 17042
-MD5sum: 6ea2d02f6b7dfaa24a80d53b85149013
-SHA1: ede86ae63352a95f230139e0e64e1ae1d8ac67d6
-SHA256: 86616d0f1f66d258139f72ae0e6934dc3c40eadb7a809985fcfc474db708ec73
-SHA512: 16d9476d0da1a273d7c62317df8a858f0435912edbe2812c3926361ac38f4b0c7271db8ea43ab417adc189ea8a4cb2e9d7933ed0e3003ed5b2d55f87c03d35b7
-Description: Thư viện để lấy ba màu khác nhau từ một hình ảnh và phát hiện xem một màu sáng hay tối
-Tag: role::developer
-Name: libKitten 🥰
-Author: Litten
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.liblottie
@@ -8264,6 +8264,25 @@ Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
 Name: ReProvision Reborn VH
 Author: Soh Satoh, Matt Clarke
 dev: Matt Clarke
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: love.litten.libkitten
+Architecture: iphoneos-arm
+Version: 1.3.1R
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Filename: ./debfiles/love.litten.libkitten_1.3.1R_iphoneos-arm.deb
+Size: 15512
+MD5sum: c9290caf58219c0a228cb3aef5261f0f
+SHA1: 1d1d88fd0050c8007f385d1299fd4eed53b9cc86
+SHA256: f49ae9db1f8e06ff4c0be938b3364ade4e034f7a89b6e75b646259939c9884df
+SHA512: a2b0d9de3db8d5591ba543a7478e4731c761ef0d4153b696fa6893b322f54dcd1fe7866bbb0334ec6eda6584601f096b91d6d9a448c559b9cd373633ab92e597
+Description: Library to get three different colors from an image and detect if one is light or dark
+Tag: role::developer
+Name: libKitten
+Author: Litten
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: plutil

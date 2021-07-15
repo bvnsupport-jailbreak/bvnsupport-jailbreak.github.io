@@ -5879,6 +5879,33 @@ Name: Cercube cho YouTube
 Author: Majd Alfhaily
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport-yt.cercube
+Architecture: iphoneos-arm
+Version: 5.2.27
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 15576
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debfiles/com.bvnsupport-yt.cercube_5.2.27_iphoneos-arm.deb
+Size: 5461292
+MD5sum: 9a947629b0d2982b9cfd1ba0855452ad
+SHA1: 6c3b81140a742f5613831a51c8033e3060f92abf
+SHA256: a61b40a5cde754f023779f1ef5fafb1ec6f708dd33f981a69d1bb0752901c0fd
+SHA512: 80c31fa56206b3fb22c6a14cc5b6a9d9c9cabfe7783921252c98fe98c5c487e127380e534da0e71af4101f6aa38fb56d2c1b1a8496e7e7f4f44726457ada1bd2
+Description: Bổ sung tính năng hữu ích cho Youtube!
+ Tính năng:
+ * Bồ sung tính năng hữu ích cho Youtube 
+ * Không có quảng cáo trong ứng dụng Youtube 
+ * Tải Video không giới hạn
+ * Phát lại nền
+ * Lưu ý,bạn cần đăng nhập & xác minh tài khoản Cercube để sử dụng các tính năng trên
+ * Hỗ trợ Ios 10->14.9
+Name: Cercube cho YouTube
+Author: Majd Alfhaily
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvnsupport-ytbkill.youtubekiller
 Architecture: iphoneos-arm
 Version: 3.2.4-1

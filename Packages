@@ -2794,6 +2794,27 @@ Name: LibGcUniversal
 Author: MrGcGamer
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.BIENVANNHAT.libgcuniversal
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 336
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Conflicts: com.mrgcgamer.libgcuniversal
+Filename: ./debfiles/com.BIENVANNHAT.libgcuniversal_1.4.0_iphoneos-arm.deb
+Size: 90908
+MD5sum: a4548ebae77cb20624919ea79b1a2f03
+SHA1: bc98c80874d25136f71108185ee97503c59910a2
+SHA256: 5b0aae5055e71db512332a1ba79864af3c3a09453f1c752405701322afae952b
+SHA512: e9e0fb2a907dc41decaf2772541875b908568aaf7556119c480875b4ee72b536d80f55c12e1f90de9a54071335a9427a9d1b74c0ff735197b944ce1c452920c6
+Description: An awesome library of some sort!!
+Tag: role::developer
+Name: LibGcUniversal
+Author: MrGcGamer
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.BIENVANNHAT.libiarrays
 Architecture: iphoneos-arm
 Version: 1.0.15-beta-2

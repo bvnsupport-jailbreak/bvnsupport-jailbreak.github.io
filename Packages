@@ -2309,6 +2309,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.fr
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.frontpage
+Architecture: iphoneos-arm
+Version: 1.6.7
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 2700
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debfiles/com.BIENVANNHAT.frontpage_1.6.7_iphoneos-arm.deb
+Size: 991706
+MD5sum: 1dfb35e973b8bd1d12604dc30bb0f730
+SHA1: ec388a1dd212dfcfceb979c17ed2eca75630fa95
+SHA256: 75b7635218dfbc6cc1766f5d975a82db00ba0272e0f8c7728f537c1dbccf8f60
+SHA512: 1e5bbc007cb04ab66bb81e962e9cc6c545bcce28a41c522b56073e6d32e95cc1725239e8fce7a0e4a4a4157d7bd0d11d0ba1856b71735d334314d68e042f6f0c
+Description: Html mạnh mẽ
+Name: FrontPage Việt Hoá
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.frontpage
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.gravitation
 Architecture: iphoneos-arm
 Version: 0.1.1

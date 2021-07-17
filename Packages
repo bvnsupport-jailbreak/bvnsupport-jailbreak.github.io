@@ -1601,6 +1601,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.diary
 Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 5796
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.BIENVANNHAT.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures, net.kenhtao.diary, org.mr.diary
+Filename: ./debfiles/com.BIENVANNHAT.diary_1.2.1_iphoneos-arm.deb
+Size: 4893174
+MD5sum: ac0b173ac77806f3fd1201075c3f392e
+SHA1: f3dd43097fefb898b7a2cba2a4e7a1db153c153f
+SHA256: 1aec0edaa0018fcbd2ff08f9ca930a8930652d333f3dfb9b26128b7f0366fe4c
+SHA512: f4e89e6dfc35746b2c6ad6dae6d5bd821ddcb63d601f3b77775fe2a6ab8319f4c553168a3833b13817bfb37a9f0fb0f6be512c8552b08947ed425c6b927a166a
+Description: Màn hình khoá theo kiểu Windows 10 cho iOS.Hỗ trợ Ios 13->14
+Name: Diary Việt Hoá
+Author: Litten
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.diary
+Architecture: iphoneos-arm
 Version: 1.2R
 Section: Tweaks
 Maintainer: Kênh Táo

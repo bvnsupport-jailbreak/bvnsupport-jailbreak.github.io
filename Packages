@@ -4906,6 +4906,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uy
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uyou
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.BIENVANNHAT.uyou
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 3936
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.uyou_1.1_iphoneos-arm.deb
+Size: 1454602
+MD5sum: ac7d6a49c9c0c266f1c6964252397f5c
+SHA1: a099d330e9131eb908c1f0f877cf573c2919eac1
+SHA256: 0034736cfd9efe53441b54018d669897b3f96f6a62465e44f41fc69a08cb1e8c
+SHA512: ed70f50c4cbea39b4f9852b8c6786bb87a1b9454baaa99883b111fbb0f39a3a7518ad49eb72c3cd1e345783cf04d5724fe467c30a1a858b1d6da853ab7500233
+Description: Bổ sung các tính năng hữu ích cho YouTube.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: uYou VH
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.uyou
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?
+
 Package: com.BIENVANNHAT.wallpaperloader
 Architecture: iphoneos-arm
 Version: 1.1.1

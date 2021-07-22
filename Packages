@@ -2184,11 +2184,11 @@ Section: System
 Maintainer: BIỆN VĂN NHẬT
 Depends: mobilesubstrate, firmware (>=10.0)
 Filename: ./debfiles/com.BIENVANNHAT.fakeios14_15.0~beta_iphoneos-arm.deb
-Size: 1814
-MD5sum: 6f87467922198c574a2a606814a2e354
-SHA1: d0aeb9585ac719a2b5e33c268d602494160d36d2
-SHA256: f0bf9fbfcfadcd75d87df69b221819b4516aa20cd117c46f250035a71d67d4d7
-SHA512: 759734827963916ff9cfd8674901f855ac240a03fd3b290aec97b5cbd5dd9e8ee7bee9d3bbfc74db0007b7fce164e64f55ecfd7ac8f2b16a8aa71ac009d14aba
+Size: 1798
+MD5sum: 2c9c3f8f91b98e23891f40d1bfb48c42
+SHA1: 097aa73a9f40ded1c5b36d5a2f30230ea531c22d
+SHA256: 4edf0ab43ea756d825c139a60ca83ec842de5ca53e00733c2c98737c2e64a97d
+SHA512: 4c1339a2105ac1d7780b5cdff208459e7085e37908b5dab0ba12d3080598011988b0da4aa461c0f446f9b9100a62da485ea7d3c54a9cb38d549ec9cd4de6716d
 Description: Fake Ios 15.0(beta) cho anh ghép sim,sau khi cài xong bạn tiến hành ghép sim và Active ICCID,sau khi làm xong bạn bạn vào lại Cydia và xoá Tweak Fake Ios.Done
 Name: Fake Ios 15.0(Beta)
 Author: BIỆN VĂN NHẬT
